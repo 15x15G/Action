@@ -8,10 +8,7 @@ on:
 
 jobs:
   build:
-    runs-on: ${{ matrix.os }}
-    strategy:
-      matrix:
-        os: [ubuntu-latest, windows-latest, macos-latest]
+    runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
       - name: Setup Node 16.x
@@ -21,7 +18,7 @@ jobs:
           cache: npm
       - name: Install
         run: |
-          curl -O https://github.com/EhTagTranslation/Database/releases/latest/download/db.text.json -s -S --connect-timeout 20 --retry 10 --retry-delay 10
+          curl -O -L https://github.com/EhTagTranslation/Database/releases/latest/download/db.text.json -s -S --connect-timeout 20 --retry 10 --retry-delay 10
           npm ci
           node index.js
       - name: git
