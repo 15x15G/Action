@@ -20,14 +20,14 @@ jobs:
           node-version: 16.x
           cache: npm
       - name: Install
-        run: curl -O https://github.com/EhTagTranslation/Database/releases/latest/download/db.text.json -s -S --connect-timeout 20 --retry 10 --retry-delay 10
-        run: npm ci
-      - name: Build
-        run: node index.js
+        run: |
+          curl -O https://github.com/EhTagTranslation/Database/releases/latest/download/db.text.json -s -S --connect-timeout 20 --retry 10 --retry-delay 10
+          npm ci
+          node index.js
       - name: git
         run: |
-            git config --global user.email "github-actions[bot]@users.noreply.github.com"
-            git config --global user.name "github-actions[bot]"
-            git add -A
-            git diff-index --quiet HEAD && echo "no update" || (echo "update!" && git commit -m "Auto Updated: `date +'%Y-%m-%d %H:%M:%S'`" && git push origin work)
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+          git add -A
+          git diff-index --quiet HEAD && echo "no update" || (echo "update!" && git commit -m "Auto Updated: `date +'%Y-%m-%d %H:%M:%S'`" && git push origin work)
 
