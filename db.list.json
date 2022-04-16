@@ -10188,6 +10188,12 @@
     "intro": "ハーレム天国だと思ったらヤンデレ地獄だった(原本以为是后宫天国谁知道竟是病娇地狱)是由Nippon Ichi Software于2014年4 月 24日发行的PlayStation 3冒险游戏，缩写是“はんもっく”。\n\n主角如月悠也是当地高中历史研究社的副社长，学生会已经发话了：下次文化节展示点什么，否则就和你的社团说再见。\n\n因此，悠也和他的三个俱乐部成员试图创造一个吉祥物角色伊左卫门，以积累俱乐部的吸引力。\n\n然而接下来发生的事情却是任何人都无法预料的……"
   },
   {
+    "namespace": "parody",
+    "name_en": "akebi-chan no sailor fuku",
+    "name_zh": "明日同学的水手服",
+    "intro": ""
+  },
+  {
     "namespace": "character",
     "name_en": "alice",
     "name_zh": "爱丽丝",
@@ -64792,6 +64798,18 @@
     "name_en": "doji ro",
     "name_zh": "どじろー",
     "intro": ""
+  },
+  {
+    "namespace": "artist",
+    "name_en": "hiro",
+    "name_zh": "博",
+    "intro": "博是日本的漫画家、插画家。\n\n漫画：\n水族馆（日语：アクアリウム，芳文社『Manga Time Kirara Carat』，2009年12月号－2011年10月号，全2卷）\nYUMEKURI（日语：ゆめくり，Media Factory『月刊Comic Alive』，2012年3月号－2017年2月号，全五卷）\n明日同学的水手服（日语：明日ちゃんのセーラー服，集英社『隔壁的YOUNG JUMP』网络连载，2016年8月2日起每月一回，目前共9卷）\n\n小说插画：\n复制的脸与反向少女系列（日语：コピーフェイスとカウンターガールシリーズ，著：仮名堂アレ，GAGAGA文库，2008年8月－2009年9月，全3卷）\n本田小狼与我（日语：スーパーカブ，著：トネ・コーケン，角川Sneaker文库，2017年5月至今，目前共7+1卷）"
+  },
+  {
+    "namespace": "artist",
+    "name_en": "inokuma shinobu",
+    "name_zh": "猪熊忍",
+    "intro": "代表作有《恋爱季节》"
   },
   {
     "namespace": "cosplayer",
