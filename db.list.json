@@ -10194,6 +10194,24 @@
     "intro": ""
   },
   {
+    "namespace": "parody",
+    "name_en": "mahou shoujo celesphonia",
+    "name_zh": "魔法少女天穹法妮雅",
+    "intro": ""
+  },
+  {
+    "namespace": "parody",
+    "name_en": "noel",
+    "name_zh": "NOeL: NOT DiGITAL",
+    "intro": "Noël Not Digital / NOeL: NOT DiGITAL Special Edition / ノエル・ノット・デジタル / 恋爱热线：并非数码"
+  },
+  {
+    "namespace": "parody",
+    "name_en": "tsumamigui",
+    "name_zh": "妻中蜜",
+    "intro": "妻みぐい"
+  },
+  {
     "namespace": "character",
     "name_en": "alice",
     "name_zh": "爱丽丝",
@@ -43377,6 +43395,18 @@
     "namespace": "group",
     "name_en": "ikameshi shokudou",
     "name_zh": "乌贼饭食堂",
+    "intro": ""
+  },
+  {
+    "namespace": "group",
+    "name_en": "tairikukan dandoudan dan",
+    "name_zh": "大陆间弹道弹团",
+    "intro": ""
+  },
+  {
+    "namespace": "group",
+    "name_en": "shimobashira koubou",
+    "name_zh": "しもばしら工房",
     "intro": ""
   },
   {
