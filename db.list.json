@@ -10212,6 +10212,12 @@
     "intro": "妻みぐい"
   },
   {
+    "namespace": "parody",
+    "name_en": "senpai ga uzai kouhai no hanashi",
+    "name_zh": "关于前辈很烦人的事",
+    "intro": ""
+  },
+  {
     "namespace": "character",
     "name_en": "alice",
     "name_zh": "爱丽丝",
@@ -30144,6 +30150,12 @@
     "intro": ""
   },
   {
+    "namespace": "character",
+    "name_en": "violet evergarden",
+    "name_zh": "薇奥莱特·艾佛加登",
+    "intro": "C·H邮递公司所属的自动手记人偶（Auto Memories Doll）少女。\n幼年时被吉尔伯特捡到，有过从军的过去。\n拥有着与那份美貌不相称的罕见战斗力。\n由于只知道战斗，而不会理解别人的心情以及表达自己的心情。\n被交给莱顿的伊芙加登家监护，但是由于种种原因，现实质上由C·H邮递公司的社长霍金斯监护。\n在战斗中失去双手，后接入机械义手。"
+  },
+  {
     "namespace": "group",
     "name_en": "clockup",
     "name_zh": "CLOCKUP",
@@ -43407,6 +43419,18 @@
     "namespace": "group",
     "name_en": "shimobashira koubou",
     "name_zh": "しもばしら工房",
+    "intro": ""
+  },
+  {
+    "namespace": "group",
+    "name_en": "muriyari egao",
+    "name_zh": "无理矢理笑颜",
+    "intro": ""
+  },
+  {
+    "namespace": "group",
+    "name_en": "southbamboo",
+    "name_zh": "南方山竹笋",
     "intro": ""
   },
   {
@@ -64840,6 +64864,24 @@
     "name_en": "inokuma shinobu",
     "name_zh": "猪熊忍",
     "intro": "代表作有《恋爱季节》"
+  },
+  {
+    "namespace": "artist",
+    "name_en": "kusayarou",
+    "name_zh": "草野郎",
+    "intro": ""
+  },
+  {
+    "namespace": "artist",
+    "name_en": "eufoniuz",
+    "name_zh": "Eufoniuz",
+    "intro": ""
+  },
+  {
+    "namespace": "artist",
+    "name_en": "chaoroushi",
+    "name_zh": "炒肉师",
+    "intro": ""
   },
   {
     "namespace": "cosplayer",
