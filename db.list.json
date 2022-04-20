@@ -30156,6 +30156,54 @@
     "intro": "C·H邮递公司所属的自动手记人偶（Auto Memories Doll）少女。\n幼年时被吉尔伯特捡到，有过从军的过去。\n拥有着与那份美貌不相称的罕见战斗力。\n由于只知道战斗，而不会理解别人的心情以及表达自己的心情。\n被交给莱顿的伊芙加登家监护，但是由于种种原因，现实质上由C·H邮递公司的社长霍金斯监护。\n在战斗中失去双手，后接入机械义手。"
   },
   {
+    "namespace": "character",
+    "name_en": "lelei la lelena",
+    "name_zh": "蕾莱·拉·列娜",
+    "intro": ""
+  },
+  {
+    "namespace": "character",
+    "name_en": "youji itami",
+    "name_zh": "伊丹耀司",
+    "intro": ""
+  },
+  {
+    "namespace": "character",
+    "name_en": "pina co lada",
+    "name_zh": "平娜·戈·兰达",
+    "intro": ""
+  },
+  {
+    "namespace": "character",
+    "name_en": "rory mercury",
+    "name_zh": "萝莉·麦丘利",
+    "intro": ""
+  },
+  {
+    "namespace": "character",
+    "name_en": "yao haa dushi",
+    "name_zh": "姚·汉·蒂修",
+    "intro": ""
+  },
+  {
+    "namespace": "character",
+    "name_en": "tuka luna marceau",
+    "name_zh": "杜嘉·露娜·马尔席",
+    "intro": ""
+  },
+  {
+    "namespace": "character",
+    "name_en": "jeanne",
+    "name_zh": "贞德",
+    "intro": ""
+  },
+  {
+    "namespace": "character",
+    "name_en": "bayonetta",
+    "name_zh": "贝优妮塔",
+    "intro": ""
+  },
+  {
     "namespace": "group",
     "name_en": "clockup",
     "name_zh": "CLOCKUP",
@@ -64881,6 +64929,18 @@
     "namespace": "artist",
     "name_en": "chaoroushi",
     "name_zh": "炒肉师",
+    "intro": ""
+  },
+  {
+    "namespace": "artist",
+    "name_en": "nikujiruc",
+    "name_zh": "肉汁uc",
+    "intro": ""
+  },
+  {
+    "namespace": "artist",
+    "name_en": "nakadera akira",
+    "name_zh": "中寺明良",
     "intro": ""
   },
   {
