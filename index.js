@@ -52,10 +52,10 @@ function outputlist() {
         const item2list = Object.keys(item1.data).map((key) => {
             const item2 = item1.data[key];
             return {
-                'namespace': item1.namespace,
-                'name_en': key,
-                'name_zh': item2.name,
-                'intro': item2.intro,
+                'sp': item1.namespace,
+                'en': key,
+                'zh': item2.name,
+                'in': item2.intro,
                 // 'links': item2.links,
             };
         });
