@@ -30240,6 +30240,12 @@
     "in": ""
   },
   {
+    "sp": "character",
+    "en": "alisa southerncross",
+    "zh": "爱莉莎·南十字星",
+    "in": ""
+  },
+  {
     "sp": "group",
     "en": "clockup",
     "zh": "CLOCKUP",
@@ -65007,6 +65013,12 @@
     "sp": "artist",
     "en": "gotoh akira",
     "zh": "後藤晶",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "niko",
+    "zh": "ニコ",
     "in": ""
   },
   {
