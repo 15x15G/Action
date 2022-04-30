@@ -10242,6 +10242,24 @@
     "in": ""
   },
   {
+    "sp": "parody",
+    "en": "bokura wa minna kawaisou",
+    "zh": "我们大家的河合庄",
+    "in": "en: The Kawai Complex Guide to Manors and Hostel Behavior"
+  },
+  {
+    "sp": "parody",
+    "en": "game of thrones",
+    "zh": "权力的游戏",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "red pride of eden",
+    "zh": "伊甸园的骄傲",
+    "in": "伊甸园的骄傲是一款以异世界和动物娘为主题，由游族网络旗下 C.L 工作室企划，联合 Lorenz 工作室、日本剧作团队 Mikagami、 博物杂志共同参与制作的「新感觉」（LSP）动物娘卡牌 RPG 手游。\n\n游戏中玩家将扮演由被称为[RED]的动物娘组成的冒险团[Pride]的团长，与动物娘们展开在这片名为[伊甸（Eden）]的大陆上的冒险。"
+  },
+  {
     "sp": "character",
     "en": "alice",
     "zh": "爱丽丝",
@@ -30270,6 +30288,12 @@
     "in": ""
   },
   {
+    "sp": "character",
+    "en": "ruri hoshino",
+    "zh": "星野·琉璃",
+    "in": ""
+  },
+  {
     "sp": "group",
     "en": "clockup",
     "zh": "CLOCKUP",
@@ -43563,6 +43587,12 @@
     "sp": "group",
     "en": "ameiro",
     "zh": "あめいろ",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "alpharalpha alley",
+    "zh": "アルファラルファ裏通り",
     "in": ""
   },
   {
@@ -65067,6 +65097,24 @@
     "sp": "artist",
     "en": "okyou",
     "zh": "おきょう",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "testame",
+    "zh": "ツリサス",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "jj",
+    "zh": "jj",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "sesena yau",
+    "zh": "せせなやう",
     "in": ""
   },
   {
