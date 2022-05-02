@@ -30300,6 +30300,18 @@
     "in": "TYPE-MOON旗下游戏《Fate/Grand Order》及其衍生作品的登场角色。"
   },
   {
+    "sp": "character",
+    "en": "andrew gilbert mills",
+    "zh": "安德鲁·基尔巴特·米尔斯",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "shizuku kuroe",
+    "zh": "黑江雫",
+    "in": ""
+  },
+  {
     "sp": "group",
     "en": "clockup",
     "zh": "CLOCKUP",
@@ -43599,6 +43611,30 @@
     "sp": "group",
     "en": "alpharalpha alley",
     "zh": "アルファラルファ裏通り",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "thirty saver street 2d shooting",
+    "zh": "サーティセイバーストリート",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "ruri ruri kikaku",
+    "zh": "瑠璃瑠璃企画",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "amanedou",
+    "zh": "あまね堂",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "esperanza",
+    "zh": "真田成",
     "in": ""
   },
   {
@@ -64677,7 +64713,7 @@
     "sp": "artist",
     "en": "ruki",
     "zh": "琉希",
-    "in": ""
+    "in": "瑠璃 / 琉希"
   },
   {
     "sp": "artist",
@@ -65133,6 +65169,30 @@
     "sp": "artist",
     "en": "hara",
     "zh": "へら",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "nenobi",
+    "zh": "子野日",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "maki hideto",
+    "zh": "牧秀人",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "sahara ikkou",
+    "zh": "佐原一光",
+    "in": "Sawara Kazumitsu 或 sahara ikkou"
+  },
+  {
+    "sp": "artist",
+    "en": "izumi mahiru",
+    "zh": "泉まひる",
     "in": ""
   },
   {
