@@ -43650,6 +43650,12 @@
     "in": ""
   },
   {
+    "sp": "group",
+    "en": "shadan katsudoh",
+    "zh": "遮断活動",
+    "in": ""
+  },
+  {
     "sp": "artist",
     "en": "13",
     "zh": "13",
@@ -65211,6 +65217,18 @@
     "sp": "artist",
     "en": "ranou",
     "zh": "卵の黄身",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "abso lu",
+    "zh": "あぶそる",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "kyuusuikei",
+    "zh": "給水係",
     "in": ""
   },
   {
