@@ -10266,6 +10266,12 @@
     "in": ""
   },
   {
+    "sp": "parody",
+    "en": "kawaii dake ja nai shikimori-san",
+    "zh": "式守同学不只可爱而已",
+    "in": ""
+  },
+  {
     "sp": "character",
     "en": "alice",
     "zh": "爱丽丝",
@@ -30318,6 +30324,30 @@
     "in": ""
   },
   {
+    "sp": "character",
+    "en": "ellen baker",
+    "zh": "艾伦·贝可",
+    "in": "Ellen Baker（エレン・ベーカー）是东京书籍株式会社出版的中学用新版英语教科书《NEW HORIZON》2016年版中的登场角色。2016年四月初于网络突然爆红，通称艾伦老师。"
+  },
+  {
+    "sp": "character",
+    "en": "shizune",
+    "zh": "静音",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "kurenai yuhi",
+    "zh": "夕日红",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "mei terumi",
+    "zh": "照美冥",
+    "in": ""
+  },
+  {
     "sp": "group",
     "en": "clockup",
     "zh": "CLOCKUP",
@@ -43653,6 +43683,12 @@
     "sp": "group",
     "en": "shadan katsudoh",
     "zh": "遮断活動",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "tougen shokken",
+    "zh": "桃幻食研",
     "in": ""
   },
   {
@@ -65229,6 +65265,12 @@
     "sp": "artist",
     "en": "kyuusuikei",
     "zh": "給水係",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "sr",
+    "zh": "SR",
     "in": ""
   },
   {
