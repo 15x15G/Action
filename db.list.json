@@ -30348,6 +30348,12 @@
     "in": ""
   },
   {
+    "sp": "character",
+    "en": "ai ohto",
+    "zh": "大户爱",
+    "in": "大户爱（日语：大戸（おおと） アイ）是由野岛伸司原案及剧本、若林信担任监督，并由CloverWorks制作的原创动画《奇蛋物语／WONDER EGG PRIORITY》及其衍生作品中的登场角色。\n\n14岁。患有虹彩异色症的少女。\n\n现在因为某种原因没能去学校。时常穿着有向日葵图样的黄色连帽衫。\n\n决胜词是「我已经……怒不可遏了！」\n\n家中的门牌号是4-303。"
+  },
+  {
     "sp": "group",
     "en": "clockup",
     "zh": "CLOCKUP",
@@ -43689,6 +43695,24 @@
     "sp": "group",
     "en": "tougen shokken",
     "zh": "桃幻食研",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "ciel-arc",
+    "zh": "しえるあーく",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "meshi shinja",
+    "zh": "饭信者",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "ishimuraya",
+    "zh": "石村屋",
     "in": ""
   },
   {
@@ -65274,6 +65298,18 @@
     "in": ""
   },
   {
+    "sp": "artist",
+    "en": "azure",
+    "zh": "あずーる",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "ishimura",
+    "zh": "石村",
+    "in": ""
+  },
+  {
     "sp": "cosplayer",
     "en": "otohara an",
     "zh": "乙原あん",
@@ -66494,8 +66530,8 @@
   {
     "sp": "male",
     "en": "mind control",
-    "zh": "精神控制",
-    "in": "迫使某人自己做某事。"
+    "zh": "催眠",
+    "in": "强迫参与者做某事，但违背自己的意愿。"
   },
   {
     "sp": "male",
@@ -66519,7 +66555,7 @@
     "sp": "male",
     "en": "possession",
     "zh": "附身",
-    "in": "参与者的身体被外部的思想所占据，实际上被剥夺了自己的意志。\n不应与精神控制(mind control)或换身(body swap)混淆。"
+    "in": "参与者的身体被外部的思想所占据，实际上被剥夺了自己的意志。\n不应与催眠(mind control)或换身(body swap)混淆。"
   },
   {
     "sp": "male",
@@ -68283,7 +68319,7 @@
     "sp": "male",
     "en": "feminization",
     "zh": "女性化",
-    "in": "一个男人将他的生活习惯变为一个异装癖（例如通过训练或精神控制(mind control)）或将他的身体改变为人妖♂(shemale)/扶她(futanari)。在任何一种情况下，该人必须采取表现出或被视为更女性化。"
+    "in": "一个男人将他的生活习惯变为一个异装癖（例如通过训练或催眠(mind control)）或将他的身体改变为人妖♂(shemale)/扶她(futanari)。在任何一种情况下，该人必须采取表现出或被视为更女性化。"
   },
   {
     "sp": "male",
@@ -69662,8 +69698,8 @@
   {
     "sp": "female",
     "en": "mind control",
-    "zh": "精神控制",
-    "in": "迫使某人自己做某事。"
+    "zh": "催眠",
+    "in": "强迫参与者做某事，但违背自己的意愿。"
   },
   {
     "sp": "female",
@@ -69687,7 +69723,7 @@
     "sp": "female",
     "en": "possession",
     "zh": "附身",
-    "in": "参与者的身体被外部的思想所占据，实际上被剥夺了自己的意志。\n不应与精神控制(mind control)或换身(body swap)混淆。"
+    "in": "参与者的身体被外部的思想所占据，实际上被剥夺了自己的意志。\n不应与催眠(mind control)或换身(body swap)混淆。"
   },
   {
     "sp": "female",
