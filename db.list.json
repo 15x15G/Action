@@ -43716,6 +43716,12 @@
     "in": ""
   },
   {
+    "sp": "group",
+    "en": "seika kairaku shoten",
+    "zh": "聖華快楽書店",
+    "in": ""
+  },
+  {
     "sp": "artist",
     "en": "13",
     "zh": "13",
@@ -65338,6 +65344,36 @@
     "en": "haneru",
     "zh": "HaneRu",
     "in": "『R-18絵師，18歳未満の方やそういった要素が苦手な方はフォローしたり不適切設定を外して閲覧したりしないで下さ』\n『R-18画师，未满18岁及不擅长此类元素者，请勿关注或浏览无不当设置』"
+  },
+  {
+    "sp": "artist",
+    "en": "manbou",
+    "zh": "マンボー",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "mokuseirokku",
+    "zh": "木星ろっく",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "ment",
+    "zh": "ment",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "nardack",
+    "zh": "Nardack",
+    "in": "Nardack(ナルダク)"
+  },
+  {
+    "sp": "artist",
+    "en": "borisu",
+    "zh": "ボリス",
+    "in": ""
   },
   {
     "sp": "cosplayer",
