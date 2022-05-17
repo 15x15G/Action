@@ -10308,6 +10308,12 @@
     "in": ""
   },
   {
+    "sp": "parody",
+    "en": "drakengard",
+    "zh": "龙背上的骑兵",
+    "in": ""
+  },
+  {
     "sp": "character",
     "en": "alice",
     "zh": "爱丽丝",
@@ -30400,6 +30406,12 @@
     "en": "rita rossweisse",
     "zh": "丽塔·洛丝薇瑟",
     "in": "丽塔·洛丝薇瑟（日语：リタ・ロスヴァイセ）是miHoYo旗下游戏《崩坏3》及其衍生作品的登场角色。"
+  },
+  {
+    "sp": "character",
+    "en": "yor forger",
+    "zh": "约尔·福杰",
+    "in": ""
   },
   {
     "sp": "group",
@@ -65667,6 +65679,12 @@
     "sp": "cosplayer",
     "en": "coser",
     "zh": "coser",
+    "in": ""
+  },
+  {
+    "sp": "cosplayer",
+    "en": "senluo caituan",
+    "zh": "森萝财团",
     "in": ""
   },
   {
