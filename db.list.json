@@ -10314,6 +10314,18 @@
     "in": ""
   },
   {
+    "sp": "parody",
+    "en": "bobobo-bo bo-bobo",
+    "zh": "鼻毛真拳",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "majuu senshi luna varga",
+    "zh": "魔兽战士",
+    "in": ""
+  },
+  {
     "sp": "character",
     "en": "alice",
     "zh": "爱丽丝",
@@ -30836,7 +30848,7 @@
   {
     "sp": "group",
     "en": "yuzu soft",
-    "zh": "Yuzu-Soft",
+    "zh": "柚子社",
     "in": "柚子社\n\n萌萌的画风！"
   },
   {
@@ -43791,6 +43803,12 @@
     "sp": "group",
     "en": "ringo no naru ki",
     "zh": "林檎のなる木",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "traya",
+    "zh": "TraYA",
     "in": ""
   },
   {
@@ -65556,6 +65574,30 @@
     "in": ""
   },
   {
+    "sp": "artist",
+    "en": "posuimianju",
+    "zh": "破碎面具",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "suzuki hinomi",
+    "zh": "鈴木ひのみ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "minamo",
+    "zh": "みなも",
+    "in": "Minamo 和 minamo_rm 使用同一个标签"
+  },
+  {
+    "sp": "artist",
+    "en": "ka-9",
+    "zh": "ないん",
+    "in": ""
+  },
+  {
     "sp": "cosplayer",
     "en": "otohara an",
     "zh": "乙原あん",
@@ -65686,6 +65728,12 @@
     "en": "senluo caituan",
     "zh": "森萝财团",
     "in": ""
+  },
+  {
+    "sp": "cosplayer",
+    "en": "pigma",
+    "zh": "Pigman",
+    "in": "male:tomgirl"
   },
   {
     "sp": "male",
