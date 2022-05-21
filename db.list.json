@@ -10362,6 +10362,12 @@
     "in": "《海腹川背》（umihara kawase）是一款1994年发布于SFC平台的横板过关游戏，女主角名字也叫海腹川背。该游戏后来移植到了DS、PS、NS平台。"
   },
   {
+    "sp": "parody",
+    "en": "owari no seraph",
+    "zh": "终结的炽天使",
+    "in": "《终结的炽天使》（日语：終わりのセラフ;英语：Seraph of the End）是一部由日本作家镜贵也及漫画家山本大和所合作的漫画作品。自2012年起于《JUMP SQUARE》开始连载[1]；电视动画则于2015年播出。作品分别有小说及漫画。"
+  },
+  {
     "sp": "character",
     "en": "alice",
     "zh": "爱丽丝",
@@ -30516,6 +30522,12 @@
     "in": ""
   },
   {
+    "sp": "character",
+    "en": "krul tepes",
+    "zh": "克鲁鲁·采佩西",
+    "in": "克鲁鲁·采佩西是由镜贵也所创作的漫画《终结的炽天使》及其衍生作品的登场角色。"
+  },
+  {
     "sp": "group",
     "en": "clockup",
     "zh": "CLOCKUP",
@@ -43914,6 +43926,12 @@
     "in": ""
   },
   {
+    "sp": "group",
+    "en": "tamatamasanmyaku",
+    "zh": "たまたま山脈",
+    "in": ""
+  },
+  {
     "sp": "artist",
     "en": "13",
     "zh": "13",
@@ -50486,7 +50504,7 @@
   {
     "sp": "artist",
     "en": "kyockcho",
-    "zh": "きょくちょ",
+    "zh": "きょくちょ(局长)",
     "in": ""
   },
   {
@@ -65742,6 +65760,24 @@
     "in": ""
   },
   {
+    "sp": "artist",
+    "en": "umiyamasoze",
+    "zh": "海山そぜ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "cailin020",
+    "zh": "Cailin020",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "yuzhou",
+    "zh": "宇宙",
+    "in": ""
+  },
+  {
     "sp": "cosplayer",
     "en": "otohara an",
     "zh": "乙原あん",
@@ -65889,6 +65925,12 @@
     "sp": "cosplayer",
     "en": "kimmie mi",
     "zh": "蜜蜜子",
+    "in": ""
+  },
+  {
+    "sp": "cosplayer",
+    "en": "aqua area",
+    "zh": "水淼Aqua",
     "in": ""
   },
   {
