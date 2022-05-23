@@ -3849,7 +3849,7 @@
     "sp": "parody",
     "en": "shimoneta to iu gainen ga sonzai shinai taikutsu na sekai",
     "zh": "下流梗不存在的灰暗世界",
-    "in": ""
+    "in": "《下流梗不存在的灰暗世界》（日语：下ネタという概念が存在しない退屈な世界）又称没有黄段子存在的无聊世界被戒色吧控制的可怕世界世界的错。世界：怪我咯？是由日本轻小说家赤城大空著作、霜月八日插画的轻小说作品，曾荣获第六届小学馆轻小说大赏优秀赏。改编漫画作者为柚木N’。由节操社改编的动画于2015年7月开始放送。"
   },
   {
     "sp": "parody",
@@ -5565,7 +5565,7 @@
     "sp": "parody",
     "en": ".hackg.u.",
     "zh": ".hack//G.U.",
-    "in": ""
+    "in": "《.hack//G.U.》，是.hack系列第二部游戏，是由万代南梦宫从2005年开始的跨媒体计划。"
   },
   {
     "sp": "parody",
@@ -10366,6 +10366,12 @@
     "en": "owari no seraph",
     "zh": "终结的炽天使",
     "in": "《终结的炽天使》（日语：終わりのセラフ;英语：Seraph of the End）是一部由日本作家镜贵也及漫画家山本大和所合作的漫画作品。自2012年起于《JUMP SQUARE》开始连载[1]；电视动画则于2015年播出。作品分别有小说及漫画。"
+  },
+  {
+    "sp": "parody",
+    "en": "starless",
+    "zh": "STARLESS",
+    "in": "《STARLESS》是由日本成人游戏制作公司WillPlus旗下的Empress制作的成人游戏，在2011年5月27日发售。"
   },
   {
     "sp": "character",
@@ -30564,6 +30570,42 @@
     "in": "《密特罗德》（《银河战士》）系列的主角。初登场于1986年的FC游戏《密特罗德》（METROID），是电子游戏史上首个可由玩家操控的女性角色。"
   },
   {
+    "sp": "character",
+    "en": "otome saotome",
+    "zh": "早乙女乙女",
+    "in": "早乙女乙女是赤城大空所创作的轻小说《下流梗不存在的灰暗世界(shimoneta to iu gainen ga sonzai shinai taikutsu na sekai)》及其衍生作品的登场角色。"
+  },
+  {
+    "sp": "character",
+    "en": "melusine",
+    "zh": "妖精骑士兰斯洛特（美露莘）",
+    "in": "FGO 2.6中，妖精国不列颠中圆桌骑士的一位。使用了泛人类史中的圆桌骑士·兰斯洛特的灵基之名的妖精骑士。作为妖精的名字是美露莘。"
+  },
+  {
+    "sp": "character",
+    "en": "baobhan sith",
+    "zh": "妖精骑士崔斯坦（芭万·希）",
+    "in": "FGO 2.6中，妖精国不列颠中圆桌骑士的一位。使用了泛人类史中的圆桌骑士·崔斯坦的灵基之名的妖精骑士。作为妖精的名字是芭万·希。"
+  },
+  {
+    "sp": "character",
+    "en": "suomi",
+    "zh": "索米",
+    "in": "索米M/31，又称索米KP/-31（KP即Konepistooli，芬兰语中“自动手枪”之意），索米KP31或索米M/31，是芬兰在1930-1931年间设计的冲锋枪。她是在M/22原型枪与KP/-26的基础上改进而成并于1931年左右问世。由于“索米”（Suomi）在芬兰语中意为“芬兰”，因此有时M1931也被称为芬兰冲锋枪。"
+  },
+  {
+    "sp": "character",
+    "en": "guilmon",
+    "zh": "基尔兽",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "impmon",
+    "zh": "小妖兽",
+    "in": ""
+  },
+  {
     "sp": "group",
     "en": "clockup",
     "zh": "CLOCKUP",
@@ -43965,6 +44007,18 @@
     "sp": "group",
     "en": "tamatamasanmyaku",
     "zh": "たまたま山脈",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "harthnir",
+    "zh": "HarthNir (ハースニール)",
+    "in": "御樱软骨(misakura nankotsu)"
+  },
+  {
+    "sp": "group",
+    "en": "yoru no hitsuji",
+    "zh": "夜のひつじ",
     "in": ""
   },
   {
@@ -65818,6 +65872,36 @@
     "en": "tantan",
     "zh": "たん旦",
     "in": "《【朗报】成为我未婚妻的土妹子，在家里却可爱无比。》插画作者"
+  },
+  {
+    "sp": "artist",
+    "en": "sssss",
+    "zh": "ssssss",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "rana yume",
+    "zh": "らな夢",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "sen",
+    "zh": "Sen",
+    "in": "『我画插图和漫画。\n我喜欢人物角色、命运、高达、电影等等。\n\n谢谢你！\n\n我在一个叫做“未踏リミット”的圈子里做同人活动。』"
+  },
+  {
+    "sp": "artist",
+    "en": "oumikun",
+    "zh": "近江训",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "fukai ryousuke",
+    "zh": "深井涼介",
+    "in": ""
   },
   {
     "sp": "cosplayer",
