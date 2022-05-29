@@ -10368,6 +10368,24 @@
     "in": ""
   },
   {
+    "sp": "parody",
+    "en": "senyoku no sigrdrifa",
+    "zh": "战翼的希格德莉法",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "densetsu no yuusha da garn",
+    "zh": "勇者传说",
+    "in": "jp：伝说の勇者ダ・ガーン"
+  },
+  {
+    "sp": "parody",
+    "en": "video girl ai",
+    "zh": "电影少女",
+    "in": ""
+  },
+  {
     "sp": "character",
     "en": "alice",
     "zh": "爱丽丝",
@@ -30678,6 +30696,18 @@
     "in": "所属作品：福星小子(urusei yatsura)"
   },
   {
+    "sp": "character",
+    "en": "raiden",
+    "zh": "雷电",
+    "in": "所属作品：合金装备(metal gear solid)\n《Metal Gear Solid2: Sons of Liberty》“Plant篇”主角。Raiden（雷电）是其行动代号。"
+  },
+  {
+    "sp": "character",
+    "en": "tien shinhan",
+    "zh": "天津饭",
+    "in": ""
+  },
+  {
     "sp": "group",
     "en": "clockup",
     "zh": "CLOCKUP",
@@ -49405,12 +49435,6 @@
   },
   {
     "sp": "artist",
-    "en": "uraho an",
-    "zh": "浦歩あん",
-    "in": ""
-  },
-  {
-    "sp": "artist",
     "en": "nakamura kumarin",
     "zh": "中村くまりん",
     "in": ""
@@ -49821,12 +49845,6 @@
     "sp": "artist",
     "en": "samidare setsuna",
     "zh": "五月雨せつな",
-    "in": ""
-  },
-  {
-    "sp": "artist",
-    "en": "flo",
-    "zh": "FLO",
     "in": ""
   },
   {
@@ -53887,8 +53905,8 @@
   },
   {
     "sp": "artist",
-    "en": "tam",
-    "zh": "TAM",
+    "en": "tamposa",
+    "zh": "たむポ～サ（TAM）",
     "in": ""
   },
   {
@@ -56821,12 +56839,6 @@
   },
   {
     "sp": "artist",
-    "en": "maa-kun",
-    "zh": "まーくん",
-    "in": ""
-  },
-  {
-    "sp": "artist",
     "en": "chuuka naruto",
     "zh": "中華なると",
     "in": ""
@@ -59127,7 +59139,7 @@
     "sp": "artist",
     "en": "suga hideo",
     "zh": "スガヒデオ",
-    "in": ""
+    "in": "スガヒデオ（まーくん）"
   },
   {
     "sp": "artist",
@@ -60369,7 +60381,7 @@
     "sp": "artist",
     "en": "naoharu",
     "zh": "直晴",
-    "in": ""
+    "in": "直晴（浦歩あん）"
   },
   {
     "sp": "artist",
@@ -65803,7 +65815,7 @@
   },
   {
     "sp": "artist",
-    "en": "shirahama kouta",
+    "en": "shiranami kouki",
     "zh": "白波航希",
     "in": "白波航希（白浜コータ）\nZ-Less"
   },
@@ -66105,6 +66117,12 @@
     "sp": "artist",
     "en": "takaman",
     "zh": "高饅",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "xiaoxi",
+    "zh": "小西0619",
     "in": ""
   },
   {
