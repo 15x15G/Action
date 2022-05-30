@@ -6991,9 +6991,21 @@
   },
   {
     "sp": "parody",
-    "en": "pia carrot",
-    "zh": "欢迎来到Pia♥Carrot!!",
-    "in": "《欢迎来到Pia Carrot!!》系列（Pia♥キャロットへようこそ!! シリーズ）（简称：Pia、Piaキャロ）是以在餐厅“Pia Carrot”工作的过程中，和一起工作的女性店员或者客人搞好关系目的的日本成人游戏系列。PC版的发售只有“3”是F&C FC02发行，“3”以外是Cocktail Soft发行。"
+    "en": "pia carrot e youkoso",
+    "zh": "欢迎来到Pia Carrot!!",
+    "in": "《欢迎来到Pia Carrot!!》（日语：Pia♥キャロットへようこそ!!）是Cocktail Soft（F&C）在1996年7月26日发售的PC-9801平台成人游戏，欢迎来到Pia Carrot!!系列的第1作。后来移植到PC-FX、Sega Saturn，并且改编成OVA共三集。"
+  },
+  {
+    "sp": "parody",
+    "en": "pia carrot e youkoso 2",
+    "zh": "欢迎来到Pia Carrot!!2",
+    "in": "《欢迎来到Pia Carrot!!2》（日语：Piaキャロットへようこそ!!2）是Cocktail Soft（F&C）在1997年10月31日发售的日本成人游戏，欢迎来到Pia Carrot!!系列第2作、“1”的4年后的故事。第二期OVA动画(1999年)‘Pia♥キャロットへようこそ!!2 DX’，台湾群英社译为《快餐店之恋2》，台湾中视于2012年8月6日至8日以《女仆咖啡厅》为名称于深夜播出。"
+  },
+  {
+    "sp": "parody",
+    "en": "pia carrot e youkoso 3",
+    "zh": "欢迎来到Pia Carrot!!3",
+    "in": "2001年11月30日发售，“2”的1年后的故事，Interchannel于2003年3月27日发售Dreamcast版和PlayStation 2版，2004年4月23日发售外传《欢迎来到Pia Carrot!!3.3》。后来改编成动画电影《欢迎来到Pia Carrot!! 〜沙耶香的恋爱物语〜》（Pia♥キャロットへようこそ!! 劇場版 〜さやかの恋物語〜）于2002年10月19日上映。"
   },
   {
     "sp": "parody",
@@ -10386,6 +10398,24 @@
     "in": ""
   },
   {
+    "sp": "parody",
+    "en": "last origin",
+    "zh": "Last Origin",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "seven mortal sins",
+    "zh": "sin 七大罪",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "jibaku shounen hanako-kun",
+    "zh": "地缚少年花子君",
+    "in": ""
+  },
+  {
     "sp": "character",
     "en": "alice",
     "zh": "爱丽丝",
@@ -10555,8 +10585,20 @@
   },
   {
     "sp": "character",
-    "en": "gengetu",
+    "en": "gengetsu",
     "zh": "幻月",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "mugetsu",
+    "zh": "梦月",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "kurumi",
+    "zh": "胡桃",
     "in": ""
   },
   {
@@ -24261,12 +24303,6 @@
     "sp": "character",
     "en": "nena trinity",
     "zh": "妮娜·崔尼帝",
-    "in": ""
-  },
-  {
-    "sp": "character",
-    "en": "sadako",
-    "zh": "贞子",
     "in": ""
   },
   {
@@ -44145,6 +44181,12 @@
     "sp": "group",
     "en": "tokachibare",
     "zh": "十勝晴レ",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "bomubomuburin",
+    "zh": "ボムボムブリン",
     "in": ""
   },
   {
@@ -66126,6 +66168,24 @@
     "in": ""
   },
   {
+    "sp": "artist",
+    "en": "arimura daikon",
+    "zh": "有村大根",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "tooyama burin",
+    "zh": "遠山ブリン",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "tsukai you",
+    "zh": "塚井ヨウ",
+    "in": "似乎已封笔"
+  },
+  {
     "sp": "cosplayer",
     "en": "otohara an",
     "zh": "乙原あん",
@@ -66286,6 +66346,12 @@
     "en": "sola",
     "zh": "Sola",
     "in": "Sola酱也要成为双马尾"
+  },
+  {
+    "sp": "cosplayer",
+    "en": "tsuki desu",
+    "zh": "Tsuki Desu | Dosya Gasai",
+    "in": ""
   },
   {
     "sp": "male",
