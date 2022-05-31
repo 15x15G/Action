@@ -661,6 +661,12 @@
   },
   {
     "sp": "parody",
+    "en": "300",
+    "zh": "300",
+    "in": ""
+  },
+  {
+    "sp": "parody",
     "en": "original",
     "zh": "原创",
     "in": "用于不包含来自任何已知 IP 的角色或系列的原创作品。仅用于同人志(doujinshi)分类。"
@@ -10413,6 +10419,780 @@
     "sp": "parody",
     "en": "jibaku shounen hanako-kun",
     "zh": "地缚少年花子君",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "shinkansen henkei robo shinkalion",
+    "zh": "新干线战士",
+    "in": "新干线战士 / 新干线变形机器人"
+  },
+  {
+    "sp": "parody",
+    "en": "07-ghost",
+    "zh": "07-GHOST",
+    "in": "《07-GHOST》是由雨宫由树和市原雪乃创作的日本漫画作品。于一迅社漫画杂志《Comic ZERO-SUM》2005年4月28日开始至2013年8月28日结束连载。单行本全17卷。\n\n电视动画于2009年4月起于日本深夜播出。台湾在2011年5月起于Animax播出。\n\n于2006年12月及2007年1月份推出过广播剧。"
+  },
+  {
+    "sp": "parody",
+    "en": "10 carat torte",
+    "zh": "天降托蒂！",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "11eyes",
+    "zh": "11eyes -罪与罚与赎的少女-",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "12-sai.",
+    "zh": "12岁。",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "13 reasons why",
+    "zh": "十三个理由",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "21 emon",
+    "zh": "21卫门",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "22 slash 7",
+    "zh": "22/7",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "3-gatsu no lion",
+    "zh": "3月的狮子",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "81diver",
+    "zh": "81diver",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "91 days",
+    "zh": "91Days",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "a dog of flanders",
+    "zh": "弗兰德斯的狗",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "a little snow fairy sugar",
+    "zh": "小小雪精灵",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "a nightmare on elm street",
+    "zh": "猛鬼街",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "a town where you live",
+    "zh": "有你的小镇",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "a.d.police",
+    "zh": "A.D.POLICE",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "abenobashi mahou shoutengai",
+    "zh": "阿倍野桥魔法商店街",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "acca 13-ku kansatsu-ka",
+    "zh": "ACCA13区监察课",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "acchi kocchi",
+    "zh": "一起一起这里那里",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "adachi to shimamura",
+    "zh": "安达与岛村",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "adventures of the gummi bears",
+    "zh": "妙妙熊历险记",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "agarest senki",
+    "zh": "亚迦雷斯特战记",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "ai no senshi rainbowman",
+    "zh": "彩虹化身侠",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "ai shimai",
+    "zh": "爱姐妹",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "ai yori aoshi",
+    "zh": "青出于蓝",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "aim for the ace",
+    "zh": "网球甜心",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "air master",
+    "zh": "Air Master",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "akatsuki blitzkampf",
+    "zh": "葬晓电光战记",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "akira",
+    "zh": "阿基拉",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "aku no onna kanbu",
+    "zh": "恶之女干部",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "akuyaku reijou nanode last boss o kattemimashita",
+    "zh": "作为恶役大小姐就该养魔王",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "alice tantei kyoku",
+    "zh": "爱丽丝侦探局",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "alien 9",
+    "zh": "校园外星人",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "alien vs predator",
+    "zh": "异形大战铁血战士",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "allison to lillia",
+    "zh": "艾莉森与莉莉亚",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "a.i. ga tomaranai",
+    "zh": "电脑情人梦",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "akihabara dennou gumi",
+    "zh": "秋叶原电脑组",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "alpen rose",
+    "zh": "阿尔卑斯杜鹃",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "alvin and the chipmunks",
+    "zh": "アルビンとチップマンクス",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "am driver",
+    "zh": "Get Ride! アムドライバー",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "amaenaideyo",
+    "zh": "极乐天师",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "amaizo dango",
+    "zh": "あまいぞ!男吾",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "amazing nurse nanako",
+    "zh": "菜菜子解体诊书",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "american dad",
+    "zh": "特工老爹",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "american mcgees alice",
+    "zh": "爱丽丝梦游魔境",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "amnesia",
+    "zh": "失忆症 (游戏)",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "an american tail",
+    "zh": "美国鼠谭",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "ane doki",
+    "zh": "御姐百分百",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "ane haramix",
+    "zh": "姉☆孕みっくす",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "angel blade",
+    "zh": "エンジェルブレイド",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "angie girl",
+    "zh": "女王陛下のプティアンジェ",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "animal yokochou",
+    "zh": "动物横町",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "animaniacs",
+    "zh": "狂欢三宝",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "anna millers",
+    "zh": "アンナミラーズ",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "anne happy",
+    "zh": "Anne Happy♪",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "anpanman",
+    "zh": "面包超人",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "ao no flag",
+    "zh": "青旗",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "aoharu x kikanjuu",
+    "zh": "青春生存游戏",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "aoi shiro",
+    "zh": "アオイシロ",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "aoi umi no tristia",
+    "zh": "发明工坊",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "ape escape",
+    "zh": "捉猴啦",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "ar nosurge",
+    "zh": "アルノサージュ〜生まれいずる星へ祈る詩〜",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "ar tonelico",
+    "zh": "魔塔大陆系列",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "ar tonelico qoga",
+    "zh": "魔塔大陆3 终结世界的少女诗歌",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "araiguma rascal",
+    "zh": "世界名作剧场",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "arcana famiglia",
+    "zh": "アルカナ・ファミリア －La storia della Arcana Famiglia－",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "area no kishi",
+    "zh": "足球骑士",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "ares no tsubasa",
+    "zh": "アレスの翼",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "arete hime",
+    "zh": "アリーテ姫",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "armored trooper votoms",
+    "zh": "装甲骑兵波德姆兹",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "arrow emblem hawk of the grand prix",
+    "zh": "神威赛车手",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "asa made jugyou chu",
+    "zh": "授业到天亮Chu!",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "ashita e free kick",
+    "zh": "あしたへフリーキック",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "ashita no joe",
+    "zh": "明日之丈",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "ashitaba-san chi no mukogurashi",
+    "zh": "明日葉産地のムコ暮らし",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "ask dr. rin",
+    "zh": "恋爱占卜师",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "asoko de hataraku musubu-san",
+    "zh": "あそこではたらくムスブさん",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "astro fighter sunred",
+    "zh": "天体战士桑雷德",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "astro plan",
+    "zh": "星原戦記アストロプラン",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "asura cryin",
+    "zh": "魔神相克者",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "atsumare fushigi kenkyuubu",
+    "zh": "あつまれ! ふしぎ研究部",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "aura battler dunbine",
+    "zh": "圣战士丹拜因",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "avalon no kagi",
+    "zh": "アヴァロンの鍵",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "ayashi no ceres",
+    "zh": "(妖しのセレス",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "azfareo no sobayounin",
+    "zh": "蒼竜の側用人",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "azuki-chan",
+    "zh": "小红豆 (漫画)",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "b gata h kei",
+    "zh": "B型H系",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "b-daman",
+    "zh": "B传说！战斗弹珠人",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "back to the future",
+    "zh": "回到未来",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "backbeard-sama ga miteru",
+    "zh": "バックベアード様がみてる",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "bagi the monster of mighty nature",
+    "zh": "大自然の魔獣 バギ",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "bakuen campus guardress",
+    "zh": "爆炎CAMPUSガードレス",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "bakugan",
+    "zh": "爆丸",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "bakunyuu maid kari",
+    "zh": "爆乳メイド狩り",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "bakutou sengen daigunder",
+    "zh": "爆斗宣言大钢弹",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "baldr force",
+    "zh": "BALDR FORCE",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "ballroom e youkoso",
+    "zh": "舞动青春 (漫画)",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "band yarouze",
+    "zh": "バンドやろうぜ!",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "banished from the heros party i decided to live a quiet life in the countryside",
+    "zh": "因为不是真正的伙伴而被逐出勇者队伍，流落到边境展开慢活人生",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "banjo-kazooie",
+    "zh": "班卓熊大冒险",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "banner of the stars",
+    "zh": "星界的战旗",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "baribari densetsu",
+    "zh": "バリバリ伝説",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "battery",
+    "zh": "巴特里",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "battle angel alita",
+    "zh": "铳梦",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "battle arena toshinden",
+    "zh": "闘神伝",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "battle royal high school",
+    "zh": "魔人伝",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "beck",
+    "zh": "Beck",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "beelzebub-jou no okinimesu mama.",
+    "zh": "只要贝尔哲布布大小姐喜欢就好",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "beet the vandel buster",
+    "zh": "冒险王比特",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "beetlejuice",
+    "zh": "阴间大法师",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "bemubemu hunter kotengu tenmaru",
+    "zh": "べムべムハンター・こてんぐテン丸",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "benten-sama ni wa iwanaide",
+    "zh": "弁天様には言わないで",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "bernard-jou iwaku.",
+    "zh": "伯纳德小姐说",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "beyond oasis",
+    "zh": "ストーリー オブ トア 〜光を継ぐ者〜",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "big wars",
+    "zh": "ビッグ・ウォーズ 神撃つ朱き荒野に",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "bikkuriman",
+    "zh": "ビックリマン",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "binchou-tan",
+    "zh": "备长炭 (漫画)",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "binzume yousei",
+    "zh": "瓶詰妖精",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "birdy the mighty",
+    "zh": "铁腕女警",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "bishounen tanteidan",
+    "zh": "美少年系列",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "black butler",
+    "zh": "黑执事",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "black desert online",
+    "zh": "黒い砂漠",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "black jack",
+    "zh": "怪医黑杰克",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "black magic m-66",
+    "zh": "ブラックマジック M-66",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "blade runner",
+    "zh": "银翼杀手",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "blast of tempest",
+    "zh": "绝园的暴风雨",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "blood plus",
+    "zh": "血战",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "blood royale",
+    "zh": "ブラッド ロイヤル",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "blood-c",
+    "zh": "BLOOD-C",
     "in": ""
   },
   {
@@ -30744,6 +31524,36 @@
     "in": ""
   },
   {
+    "sp": "character",
+    "en": "soujiro izumi",
+    "zh": "泉宗次郎",
+    "in": "所属作品：幸运☆星(lucky star)\n泉此方(konata izumi)的父亲，泉彼方的丈夫。职业是小说家。\n喜欢美少女游戏，和泉此方一样的宅，还将女儿养成了彻头彻尾的御宅族。"
+  },
+  {
+    "sp": "character",
+    "en": "theresa apocalypse",
+    "zh": "德丽莎·阿波卡利斯",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "rozaliya olenyeva",
+    "zh": "萝莎莉娅·阿琳",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "liliya olenyeva",
+    "zh": "莉莉娅·阿琳",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "torte",
+    "zh": "托蒂",
+    "in": ""
+  },
+  {
     "sp": "group",
     "en": "clockup",
     "zh": "CLOCKUP",
@@ -44187,6 +44997,12 @@
     "sp": "group",
     "en": "bomubomuburin",
     "zh": "ボムボムブリン",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "nisiarea",
+    "zh": "にしえりあ",
     "in": ""
   },
   {
@@ -66186,6 +67002,18 @@
     "in": "似乎已封笔"
   },
   {
+    "sp": "artist",
+    "en": "botan m",
+    "zh": "牡丹M",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "syouwaru",
+    "zh": "性悪",
+    "in": ""
+  },
+  {
     "sp": "cosplayer",
     "en": "otohara an",
     "zh": "乙原あん",
@@ -66351,6 +67179,18 @@
     "sp": "cosplayer",
     "en": "tsuki desu",
     "zh": "Tsuki Desu | Dosya Gasai",
+    "in": ""
+  },
+  {
+    "sp": "cosplayer",
+    "en": "kokura chiyo",
+    "zh": "小倉ちよ",
+    "in": "常称为小仓千代w，Twitter 是高仿号。"
+  },
+  {
+    "sp": "cosplayer",
+    "en": "g44 wa kizutsukanai",
+    "zh": "G44不会受伤",
     "in": ""
   },
   {
@@ -66710,8 +67550,8 @@
   {
     "sp": "male",
     "en": "orc",
-    "zh": "兽人",
-    "in": "幻想的生物，与人一样高或比人高一点。 通常有倾斜的额头，突出的下巴，突出的牙齿和粗糙的头发。"
+    "zh": "半兽人",
+    "in": "幻想的生物，与人一样高或比人高一点。 通常有倾斜的额头，突出的下巴，突出的牙齿和粗糙的头发。不应与猪男(pig man)或猪女(pig girl)混淆。"
   },
   {
     "sp": "male",
@@ -67353,7 +68193,7 @@
     "sp": "male",
     "en": "bald",
     "zh": "秃顶",
-    "in": "头上没有或几乎没有头发。不用于哥布林(goblin)、兽人(orc)或其他不应有头发的非人生物。不应与光头(shaved head)混淆。"
+    "in": "头上没有或几乎没有头发。不用于哥布林(goblin)、半兽人(orc)或其他不应有头发的非人生物。不应与光头(shaved head)混淆。"
   },
   {
     "sp": "male",
@@ -69391,6 +70231,12 @@
   },
   {
     "sp": "male",
+    "en": "pussyboys only",
+    "zh": "纯扶他",
+    "in": "在画廊中的所有性行为、迷恋或亲密的性交互之间都严格限定为人妖♀(cuntboy)或扶他(otokofutanari)。要求至少两个扶他进行交互。"
+  },
+  {
+    "sp": "male",
     "en": "sole male",
     "zh": "单男主",
     "in": "只有一个男性参与了整个画廊的所有性爱或恋物癖活动。人妖♀(cuntboy)不算在内。"
@@ -69902,8 +70748,8 @@
   {
     "sp": "female",
     "en": "orc",
-    "zh": "兽人",
-    "in": "幻想的生物，与人一样高或比人高一点。 通常有倾斜的额头，突出的下巴，突出的牙齿和粗糙的头发。"
+    "zh": "半兽人",
+    "in": "幻想的生物，与人一样高或比人高一点。 通常有倾斜的额头，突出的下巴，突出的牙齿和粗糙的头发。不应与猪男(pig man)或猪女(pig girl)混淆。"
   },
   {
     "sp": "female",
@@ -69964,6 +70810,12 @@
     "en": "slime girl",
     "zh": "史莱姆女孩",
     "in": "身体由粘性物体组成的女性。不得与史莱姆(slime)混淆。"
+  },
+  {
+    "sp": "female",
+    "en": "snail girl",
+    "zh": "蜗牛女孩",
+    "in": "头部有一组或多组触手状触角和蛞蝓状躯干。不应与昆虫女孩(insect girl)混淆。 需要魔物娘(monster girl)标签。"
   },
   {
     "sp": "female",
@@ -70551,7 +71403,7 @@
     "sp": "female",
     "en": "bald",
     "zh": "秃顶",
-    "in": "头上没有或几乎没有头发。不用于哥布林(goblin)、兽人(orc)或其他不应有头发的非人生物。不应与光头(shaved head)混淆。"
+    "in": "头上没有或几乎没有头发。不用于哥布林(goblin)、半兽人(orc)或其他不应有头发的非人生物。不应与光头(shaved head)混淆。"
   },
   {
     "sp": "female",
@@ -72967,9 +73819,33 @@
   },
   {
     "sp": "mixed",
+    "en": "multimouth blowjob",
+    "zh": "多口口交",
+    "in": "涉及一个阴茎和两个或多个嘴的性行为。需要口交(blowjob)标签。不应与一口二鸟(double blowjob)混淆。"
+  },
+  {
+    "sp": "mixed",
+    "en": "multiple handjob",
+    "zh": "多重打手枪",
+    "in": "多人为另一人人手淫。需要打手枪(handjob)标签。"
+  },
+  {
+    "sp": "mixed",
     "en": "frottage",
     "zh": "阴茎摩擦🤺",
     "in": "两根及以上的阴茎相互摩擦。"
+  },
+  {
+    "sp": "mixed",
+    "en": "multiple assjob",
+    "zh": "多重尻交",
+    "in": "多个阴茎参与的尻交。需要尻交(assjob)标签。"
+  },
+  {
+    "sp": "mixed",
+    "en": "multiple footjob",
+    "zh": "多重足交",
+    "in": "一个以上的人同时用脚对同一个参与者进行性刺激。需要足交(footjob)标签。"
   },
   {
     "sp": "mixed",
