@@ -127,15 +127,15 @@
   },
   {
     "sp": "reclass",
-    "en": "private",
-    "zh": "私有",
-    "in": "私有画廊是一个非正式的类别，允许用户不与 E-Hentai 社区其他成员分享他们的内容。他们往往是想要将其作为自己的个人用户画廊，或只是希望自己的朋友前来参观。从私有画廊获得的 GP 数量减少到上传者通常会收到的金额的 10%。要创建私有画廊，用户必须拥有铜星或更高星级。"
-  },
-  {
-    "sp": "reclass",
     "en": "asianporn",
     "zh": "亚洲色情",
     "in": "将被淘汰的老分类，2012-02-15 开始禁止使用，会逐渐删除。"
+  },
+  {
+    "sp": "reclass",
+    "en": "private",
+    "zh": "私有",
+    "in": "私有画廊是一个非正式的类别，允许用户不与 E-Hentai 社区其他成员分享他们的内容。他们往往是想要将其作为自己的个人用户画廊，或只是希望自己的朋友前来参观。从私有画廊获得的 GP 数量减少到上传者通常会收到的金额的 10%。要创建私有画廊，用户必须拥有铜星或更高星级。"
   },
   {
     "sp": "language",
@@ -8443,12 +8443,6 @@
   },
   {
     "sp": "parody",
-    "en": "breath of fire",
-    "zh": "龙息之焰",
-    "in": ""
-  },
-  {
-    "sp": "parody",
     "en": "kuzu no honkai",
     "zh": "人渣的本愿",
     "in": "《人渣的本愿》（日语：クズの本懐）是由日本漫画家横枪萌果（横槍メンゴ）创作的漫画。 于2012年起在杂志《月刊BIG GANGAN》上连载。截至2016年5月，单行本累计销量超过了100万本。番外篇《人渣的本愿 décor》于2017年11月25日起在《月刊BIG GANGAN》上连载。 由同名作品所改编的电视剧、电视动画于2017年1月播放。"
@@ -10652,25 +10646,19 @@
   {
     "sp": "parody",
     "en": "alvin and the chipmunks",
-    "zh": "アルビンとチップマンクス",
+    "zh": "鼠来宝",
     "in": ""
   },
   {
     "sp": "parody",
     "en": "am driver",
-    "zh": "Get Ride! アムドライバー",
+    "zh": "滑板战士",
     "in": ""
   },
   {
     "sp": "parody",
     "en": "amaenaideyo",
     "zh": "极乐天师",
-    "in": ""
-  },
-  {
-    "sp": "parody",
-    "en": "amaizo dango",
-    "zh": "あまいぞ!男吾",
     "in": ""
   },
   {
@@ -10694,7 +10682,7 @@
   {
     "sp": "parody",
     "en": "amnesia",
-    "zh": "失忆症 (游戏)",
+    "zh": "失忆症",
     "in": ""
   },
   {
@@ -10712,19 +10700,13 @@
   {
     "sp": "parody",
     "en": "ane haramix",
-    "zh": "姉☆孕みっくす",
+    "zh": "姐姐☆懷孕",
     "in": ""
   },
   {
     "sp": "parody",
     "en": "angel blade",
-    "zh": "エンジェルブレイド",
-    "in": ""
-  },
-  {
-    "sp": "parody",
-    "en": "angie girl",
-    "zh": "女王陛下のプティアンジェ",
+    "zh": "Angel Blade",
     "in": ""
   },
   {
@@ -10742,7 +10724,7 @@
   {
     "sp": "parody",
     "en": "anna millers",
-    "zh": "アンナミラーズ",
+    "zh": "安娜·米勒",
     "in": ""
   },
   {
@@ -10766,13 +10748,13 @@
   {
     "sp": "parody",
     "en": "aoharu x kikanjuu",
-    "zh": "青春生存游戏",
+    "zh": "青春×机关枪",
     "in": ""
   },
   {
     "sp": "parody",
     "en": "aoi shiro",
-    "zh": "アオイシロ",
+    "zh": "青城",
     "in": ""
   },
   {
@@ -10790,31 +10772,31 @@
   {
     "sp": "parody",
     "en": "ar nosurge",
-    "zh": "アルノサージュ〜生まれいずる星へ祈る詩〜",
+    "zh": "Ar nosurge ～献给诞生之星的祈祷诗～",
     "in": ""
   },
   {
     "sp": "parody",
     "en": "ar tonelico",
-    "zh": "魔塔大陆系列",
+    "zh": "魔塔大陆",
     "in": ""
   },
   {
     "sp": "parody",
     "en": "ar tonelico qoga",
-    "zh": "魔塔大陆3 终结世界的少女诗歌",
+    "zh": "魔塔大陆3",
     "in": ""
   },
   {
     "sp": "parody",
     "en": "araiguma rascal",
-    "zh": "世界名作剧场",
+    "zh": "小浣熊",
     "in": ""
   },
   {
     "sp": "parody",
     "en": "arcana famiglia",
-    "zh": "アルカナ・ファミリア －La storia della Arcana Famiglia－",
+    "zh": "魔力家族",
     "in": ""
   },
   {
@@ -10826,13 +10808,13 @@
   {
     "sp": "parody",
     "en": "ares no tsubasa",
-    "zh": "アレスの翼",
+    "zh": "传奇之翼",
     "in": ""
   },
   {
     "sp": "parody",
     "en": "arete hime",
-    "zh": "アリーテ姫",
+    "zh": "阿莱蒂公主",
     "in": ""
   },
   {
@@ -10850,25 +10832,19 @@
   {
     "sp": "parody",
     "en": "asa made jugyou chu",
-    "zh": "授业到天亮Chu!",
+    "zh": "授课到天亮Chu!",
     "in": ""
   },
   {
     "sp": "parody",
     "en": "ashita e free kick",
-    "zh": "あしたへフリーキック",
+    "zh": "踢向明天",
     "in": ""
   },
   {
     "sp": "parody",
     "en": "ashita no joe",
     "zh": "明日之丈",
-    "in": ""
-  },
-  {
-    "sp": "parody",
-    "en": "ashitaba-san chi no mukogurashi",
-    "zh": "明日葉産地のムコ暮らし",
     "in": ""
   },
   {
@@ -10880,7 +10856,7 @@
   {
     "sp": "parody",
     "en": "asoko de hataraku musubu-san",
-    "zh": "あそこではたらくムスブさん",
+    "zh": "在那里工作的结小姐",
     "in": ""
   },
   {
@@ -10892,7 +10868,7 @@
   {
     "sp": "parody",
     "en": "astro plan",
-    "zh": "星原戦記アストロプラン",
+    "zh": "太空历险记",
     "in": ""
   },
   {
@@ -10904,7 +10880,7 @@
   {
     "sp": "parody",
     "en": "atsumare fushigi kenkyuubu",
-    "zh": "あつまれ! ふしぎ研究部",
+    "zh": "集合！不可思议研究社",
     "in": ""
   },
   {
@@ -10915,26 +10891,20 @@
   },
   {
     "sp": "parody",
-    "en": "avalon no kagi",
-    "zh": "アヴァロンの鍵",
-    "in": ""
-  },
-  {
-    "sp": "parody",
     "en": "ayashi no ceres",
-    "zh": "(妖しのセレス",
+    "zh": "梦幻妖子",
     "in": ""
   },
   {
     "sp": "parody",
     "en": "azfareo no sobayounin",
-    "zh": "蒼竜の側用人",
+    "zh": "苍龙的仆人",
     "in": ""
   },
   {
     "sp": "parody",
     "en": "azuki-chan",
-    "zh": "小红豆 (漫画)",
+    "zh": "小红豆",
     "in": ""
   },
   {
@@ -10957,20 +10927,14 @@
   },
   {
     "sp": "parody",
-    "en": "backbeard-sama ga miteru",
-    "zh": "バックベアード様がみてる",
-    "in": ""
-  },
-  {
-    "sp": "parody",
     "en": "bagi the monster of mighty nature",
-    "zh": "大自然の魔獣 バギ",
+    "zh": "大自然的魔兽巴奇",
     "in": ""
   },
   {
     "sp": "parody",
     "en": "bakuen campus guardress",
-    "zh": "爆炎CAMPUSガードレス",
+    "zh": "爆炎学院",
     "in": ""
   },
   {
@@ -10982,7 +10946,7 @@
   {
     "sp": "parody",
     "en": "bakunyuu maid kari",
-    "zh": "爆乳メイド狩り",
+    "zh": "爆乳女仆狩猎",
     "in": ""
   },
   {
@@ -11000,13 +10964,13 @@
   {
     "sp": "parody",
     "en": "ballroom e youkoso",
-    "zh": "舞动青春 (漫画)",
+    "zh": "舞动青春",
     "in": ""
   },
   {
     "sp": "parody",
     "en": "band yarouze",
-    "zh": "バンドやろうぜ!",
+    "zh": "来组乐队吧!",
     "in": ""
   },
   {
@@ -11030,13 +10994,13 @@
   {
     "sp": "parody",
     "en": "baribari densetsu",
-    "zh": "バリバリ伝説",
-    "in": ""
+    "zh": "极速狂飙",
+    "in": "バリバリ伝説（極速狂飆 港譯：疾風传说）是日本漫画家しげの 秀一所創作的機車競速漫画"
   },
   {
     "sp": "parody",
     "en": "battery",
-    "zh": "巴特里",
+    "zh": "野球少年",
     "in": ""
   },
   {
@@ -11048,19 +11012,19 @@
   {
     "sp": "parody",
     "en": "battle arena toshinden",
-    "zh": "闘神伝",
+    "zh": "斗神传",
     "in": ""
   },
   {
     "sp": "parody",
     "en": "battle royal high school",
-    "zh": "魔人伝",
+    "zh": "真魔神传",
     "in": ""
   },
   {
     "sp": "parody",
     "en": "beck",
-    "zh": "Beck",
+    "zh": "BECK",
     "in": ""
   },
   {
@@ -11084,13 +11048,7 @@
   {
     "sp": "parody",
     "en": "bemubemu hunter kotengu tenmaru",
-    "zh": "べムべムハンター・こてんぐテン丸",
-    "in": ""
-  },
-  {
-    "sp": "parody",
-    "en": "benten-sama ni wa iwanaide",
-    "zh": "弁天様には言わないで",
+    "zh": "伏魔小旋风",
     "in": ""
   },
   {
@@ -11102,31 +11060,25 @@
   {
     "sp": "parody",
     "en": "beyond oasis",
-    "zh": "ストーリー オブ トア 〜光を継ぐ者〜",
-    "in": ""
+    "zh": "托尔的传说",
+    "in": "Beyond Oasis，在欧洲和日本被称为托尔的传说，是由 Ancient 开发并由 Sega 为 Sega Genesis 发行的动作冒险游戏。"
   },
   {
     "sp": "parody",
     "en": "big wars",
-    "zh": "ビッグ・ウォーズ 神撃つ朱き荒野に",
-    "in": ""
-  },
-  {
-    "sp": "parody",
-    "en": "bikkuriman",
-    "zh": "ビックリマン",
+    "zh": "Big Wars",
     "in": ""
   },
   {
     "sp": "parody",
     "en": "binchou-tan",
-    "zh": "备长炭 (漫画)",
+    "zh": "备长炭",
     "in": ""
   },
   {
     "sp": "parody",
     "en": "binzume yousei",
-    "zh": "瓶詰妖精",
+    "zh": "瓶诘妖精",
     "in": ""
   },
   {
@@ -11138,7 +11090,7 @@
   {
     "sp": "parody",
     "en": "bishounen tanteidan",
-    "zh": "美少年系列",
+    "zh": "美少年侦探团",
     "in": ""
   },
   {
@@ -11150,7 +11102,7 @@
   {
     "sp": "parody",
     "en": "black desert online",
-    "zh": "黒い砂漠",
+    "zh": "黑色沙漠",
     "in": ""
   },
   {
@@ -11162,7 +11114,7 @@
   {
     "sp": "parody",
     "en": "black magic m-66",
-    "zh": "ブラックマジック M-66",
+    "zh": "黑魔术玛丽奥M-66",
     "in": ""
   },
   {
@@ -11186,13 +11138,313 @@
   {
     "sp": "parody",
     "en": "blood royale",
-    "zh": "ブラッド ロイヤル",
+    "zh": "BLOOD ROYAL",
     "in": ""
   },
   {
     "sp": "parody",
     "en": "blood-c",
     "zh": "BLOOD-C",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "bloodstained",
+    "zh": "血污",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "bloody roar",
+    "zh": "血腥咆哮",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "blue dragon",
+    "zh": "蓝龙",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "blue spring ride",
+    "zh": "青春之旅",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "bna brand new animal",
+    "zh": "动物新世代 BNA",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "boku dake ga inai machi",
+    "zh": "只有我不存在的城市",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "boku no kanojo ga majimesugiru shobitch na ken",
+    "zh": "关于我女友是个一本正经的碧池这件事",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "boku to misaki-sensei",
+    "zh": "我和美咲老师",
+    "in": "ボクとみさき先生"
+  },
+  {
+    "sp": "parody",
+    "en": "boku to roboko",
+    "zh": "我与机器子",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "bokura no taiyou",
+    "zh": "我们的太阳",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "bokutachi no remake",
+    "zh": "我们的重制人生",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "bomberman jetters",
+    "zh": "轰炸超人",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "boogiepop",
+    "zh": "不吉波普",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "bounen no xamdou",
+    "zh": "亡念之扎姆德",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "braceface",
+    "zh": "Braceface",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "brandy and mr. whiskers",
+    "zh": "小布与伟仔",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "bratz",
+    "zh": "Bratz",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "brave 10",
+    "zh": "BRAVE10",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "brave express might gaine",
+    "zh": "勇者特急队",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "brave fencer musashi",
+    "zh": "勇敢的剑士 武藏传",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "brave nine",
+    "zh": "Brave Nine",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "brave story",
+    "zh": "勇者物语",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "bravestarr",
+    "zh": "布雷斯塔警长",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "breakers",
+    "zh": "BREAKERS",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "breath of fire",
+    "zh": "龙息之焰",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "breath of fire ii",
+    "zh": "龙息之焰II",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "breath of fire iii",
+    "zh": "龙息之焰III",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "breath of fire iv",
+    "zh": "龙息之焰IV",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "breath of fire v",
+    "zh": "龙息之焰V",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "breath of fire 6",
+    "zh": "龙息之焰6",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "broken blade",
+    "zh": "破刃之剑",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "bubuki buranki",
+    "zh": "舞武器·舞乱伎",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "bucky ohare",
+    "zh": "Bucky O'Hare",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "buffy the vampire slayer",
+    "zh": "吸血鬼猎人巴菲",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "bully",
+    "zh": "恶霸鲁尼",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "bungou to alchemist",
+    "zh": "文豪与炼金术师",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "burn up",
+    "zh": "杀人科",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "burn up w",
+    "zh": "杀人科 W",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "burn up scramble",
+    "zh": "杀人科 SCRAMBLE",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "busou shoujo machiavellianism",
+    "zh": "武装少女Machiavellianism",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "buzz lightyear of star command",
+    "zh": "巴斯光年的星际使命",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "c the money of soul and possibility control",
+    "zh": "C钱‧未来式",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "cage of eden",
+    "zh": "逃离伊甸园",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "caligula",
+    "zh": "卡里古拉",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "call me by your name",
+    "zh": "请以你的名字呼唤我",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "call of duty",
+    "zh": "使命召唤",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "can can bunny",
+    "zh": "Can Can Bunny",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "carole and tuesday",
+    "zh": "卡罗尔与星期二",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "casshan",
+    "zh": "再造人卡辛",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "fantasy bishoujo juniku ojisan to",
+    "zh": "与变成了异世界美少女的大叔一起冒险",
     "in": ""
   },
   {
@@ -45006,6 +45258,12 @@
     "in": ""
   },
   {
+    "sp": "group",
+    "en": "mentsukidou",
+    "zh": "眼ん月堂",
+    "in": ""
+  },
+  {
     "sp": "artist",
     "en": "13",
     "zh": "13",
@@ -67014,6 +67272,24 @@
     "in": ""
   },
   {
+    "sp": "artist",
+    "en": "indo curry",
+    "zh": "印度カリー",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "hirasawa zen",
+    "zh": "平沢Zen",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "shimuro itaru",
+    "zh": "至室",
+    "in": ""
+  },
+  {
     "sp": "cosplayer",
     "en": "otohara an",
     "zh": "乙原あん",
@@ -68289,7 +68565,7 @@
     "sp": "male",
     "en": "mind break",
     "zh": "洗脑",
-    "in": "将一个人从精神上变成性奴隶。"
+    "in": "通常通过长时间或严酷的性刺激，训练或扭转人的意志，使其成为性奴。"
   },
   {
     "sp": "male",
@@ -71505,7 +71781,7 @@
     "sp": "female",
     "en": "mind break",
     "zh": "洗脑",
-    "in": "将一个人从精神上变成性奴隶。"
+    "in": "通常通过长时间或严酷的性刺激，训练或扭转人的意志，使其成为性奴。"
   },
   {
     "sp": "female",
