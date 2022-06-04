@@ -11454,6 +11454,18 @@
     "in": ""
   },
   {
+    "sp": "parody",
+    "en": "alchemy stars",
+    "zh": "白夜极光",
+    "in": "《白夜极光》是一款由永航科技研发 、腾讯公司发行的一款二次元架空魔幻策略风的战棋手游，连线策略RPG+卡牌养成的创新玩法，全剧情live2D立绘演绎。"
+  },
+  {
+    "sp": "parody",
+    "en": "genkai tokki monster monpiece",
+    "zh": "限界凸骑 Monster Monpiece",
+    "in": ""
+  },
+  {
     "sp": "character",
     "en": "alice",
     "zh": "爱丽丝",
@@ -28652,8 +28664,8 @@
   {
     "sp": "character",
     "en": "hina sorasaki",
-    "zh": "空崎ヒナ",
-    "in": ""
+    "zh": "空崎日奈",
+    "in": "所属作品：碧蓝档案(blue archive)"
   },
   {
     "sp": "character",
@@ -31810,6 +31822,24 @@
     "en": "torte",
     "zh": "托蒂",
     "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "nausicaa",
+    "zh": "娜乌西卡",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "belle",
+    "zh": "贝儿",
+    "in": "出处：美女与野兽(beauty and the beast)"
+  },
+  {
+    "sp": "character",
+    "en": "shun sunohara",
+    "zh": "春原瞬",
+    "in": "春原シュン\n所属作品：碧蓝档案(blue archive)"
   },
   {
     "sp": "group",
@@ -45267,6 +45297,18 @@
     "sp": "group",
     "en": "mentsukidou",
     "zh": "眼ん月堂",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "izumo gingatei",
+    "zh": "出雲銀河亭",
+    "in": "イズモギンガテイ"
+  },
+  {
+    "sp": "group",
+    "en": "gedoudan",
+    "zh": "外道团",
     "in": ""
   },
   {
@@ -67293,6 +67335,30 @@
     "sp": "artist",
     "en": "shimuro itaru",
     "zh": "至室",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "mishiro shizuku",
+    "zh": "水白しずく",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "gedou danshaku",
+    "zh": "外道男爵",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "nero augustus",
+    "zh": "尼禄奥古斯都",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "sarena",
+    "zh": "百花星彩メメちゃん",
     "in": ""
   },
   {
