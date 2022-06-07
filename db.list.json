@@ -11922,6 +11922,12 @@
     "in": ""
   },
   {
+    "sp": "parody",
+    "en": "the idolmaster sidem",
+    "zh": "偶像大師SideM",
+    "in": "偶像大師SideM(the idolmaster sidem)是MOBAGE上运营的一款一般向手机社交游戏，也是偶像大师系列第一款以培养男性偶像为主题的游戏。虽然主要目标受众是女性，并不是女性向作品。设计游戏内容时虽然会考虑不同性别玩家的游戏习惯，大前提是把玩家都作为制作人来考虑。"
+  },
+  {
     "sp": "character",
     "en": "alice",
     "zh": "爱丽丝",
@@ -32298,6 +32304,18 @@
     "in": "春原シュン\n所属作品：碧蓝档案(blue archive)"
   },
   {
+    "sp": "character",
+    "en": "surtr",
+    "zh": "史尔特尔",
+    "in": "明日方舟角色"
+  },
+  {
+    "sp": "character",
+    "en": "mostima",
+    "zh": "莫斯提马",
+    "in": "明日方舟角色"
+  },
+  {
     "sp": "group",
     "en": "clockup",
     "zh": "CLOCKUP",
@@ -50667,7 +50685,7 @@
     "sp": "artist",
     "en": "shindol",
     "zh": "新堂エル",
-    "in": "新堂エル（新堂L），美国漫画家，现居于东京都千代田区。日裔美国人，父亲是日本人，母亲是美国人。\n\n被誉为“里界白求恩”\n代表作：TSF物語、变身-emergence-"
+    "in": "新堂エル（新堂L），美国漫画家，日裔美国人，现居于东京都千代田区。\n\n被誉为“里界白求恩”\n\n代表作：TSF物語、变身-emergence-"
   },
   {
     "sp": "artist",
@@ -67821,6 +67839,12 @@
     "sp": "artist",
     "en": "sarena",
     "zh": "百花星彩メメちゃん",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "makari tohru",
+    "zh": "魔狩十织",
     "in": ""
   },
   {
