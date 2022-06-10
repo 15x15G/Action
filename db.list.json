@@ -11940,6 +11940,12 @@
     "in": ""
   },
   {
+    "sp": "parody",
+    "en": "grappler baki",
+    "zh": "刃牙",
+    "in": "刃牙系列为日本漫画家板垣恵介创作的经典格斗漫画。"
+  },
+  {
     "sp": "character",
     "en": "alice",
     "zh": "爱丽丝",
@@ -32358,6 +32364,18 @@
     "in": "所属作品：Kanon❄(kanon)"
   },
   {
+    "sp": "character",
+    "en": "yelan",
+    "zh": "夜兰",
+    "in": "所属作品 原神(genshin impact)"
+  },
+  {
+    "sp": "character",
+    "en": "baki hanma",
+    "zh": "范马刃牙",
+    "in": "所属作品 刃牙(grappler baki)"
+  },
+  {
     "sp": "group",
     "en": "clockup",
     "zh": "CLOCKUP",
@@ -45832,6 +45850,18 @@
     "en": "garyuh-chitai",
     "zh": "我流痴带",
     "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "tsf mousou chikusekijo",
+    "zh": "TSF妄想蓄积所",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "ntype",
+    "zh": "NtyPe",
+    "in": "沟口凯吉(mizoguchi keiji)从事同人活动的别名。"
   },
   {
     "sp": "artist",
@@ -67887,6 +67917,18 @@
     "sp": "artist",
     "en": "makari tohru",
     "zh": "魔狩十织",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "mizoguchi keiji",
+    "zh": "沟口凯吉",
+    "in": "代表作：樱花庄的宠物女孩(sakurasou no pet na kanojo) 青春猪头少年不会梦到兔女郎学姐(seishun buta yarou wa bunny girl senpai no yume o minai)"
+  },
+  {
+    "sp": "artist",
+    "en": "bing gong asylum",
+    "zh": "冰宫Asylum",
     "in": ""
   },
   {
