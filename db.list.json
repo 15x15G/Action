@@ -19508,8 +19508,8 @@
   {
     "sp": "character",
     "en": "azumi",
-    "zh": "安昙",
-    "in": ""
+    "zh": "杏美",
+    "in": "杏美（日语：アズミ），也译安昙，安住，《少女与战车(girls und panzer)》及其衍生作品的登场角色。"
   },
   {
     "sp": "character",
@@ -26012,7 +26012,7 @@
   {
     "sp": "character",
     "en": "yu miaoyi",
-    "zh": "虞姬",
+    "zh": "虞美人",
     "in": "在型月推出的安卓&iOS游戏《Fate/Grand Order》中登场的从者，职阶为Assassin。"
   },
   {
@@ -26384,7 +26384,7 @@
   {
     "sp": "character",
     "en": "maple",
-    "zh": "梅普露|枫",
+    "zh": "梅普露 | 枫",
     "in": "梅普露／本条枫，《因为太怕痛就全点防御力了》主角。在好友的推荐下开始玩游戏，因为怕痛而把防御力点满了，并选用了人气不高的大盾。由于全点防御力的关系，导致角色动作缓慢，而且不能使用魔法。结果令角色所施展的攻击完全打不中，反而因为防御力太高而令攻击方受伤，因此获得技能“绝对防御”。\n在游戏开放公会系统后，与莎莉组成公会“大枫树”并担任会长一职。\n\n枫是NEKO WORKs所创作的游戏《猫娘乐园》及其衍生作品的登场角色"
   },
   {
@@ -29306,8 +29306,8 @@
   {
     "sp": "character",
     "en": "renne bright",
-    "zh": "玲·布莱特|玲·海瓦斯",
-    "in": ""
+    "zh": "玲·布莱特",
+    "in": "玲（日语：レン；英语：Renne）是Falcom旗下游戏《英雄传说 轨迹系列》及其衍生作品的登场角色。"
   },
   {
     "sp": "character",
@@ -32374,6 +32374,30 @@
     "en": "baki hanma",
     "zh": "范马刃牙",
     "in": "所属作品 刃牙(grappler baki)"
+  },
+  {
+    "sp": "character",
+    "en": "mana inuyama",
+    "zh": "犬山真名",
+    "in": "所属作品 怪怪怪的鬼太郎(gegege no kitarou)"
+  },
+  {
+    "sp": "character",
+    "en": "megumi",
+    "zh": "惠美",
+    "in": "惠美（日语：メグミ），也译惠，《少女与战车(girls und panzer)》及其衍生作品的登场角色。"
+  },
+  {
+    "sp": "character",
+    "en": "rumi",
+    "zh": "留美",
+    "in": "留美（日语：ルミ），也译琉美，瑠美，瑠海，《少女与战车(girls und panzer)》及其衍生作品的登场角色。"
+  },
+  {
+    "sp": "character",
+    "en": "mare s. ephemeral",
+    "zh": "梅娅·S·艾菲梅拉尔",
+    "in": "梅娅·S·艾菲梅拉尔是Favorite制作的R18恋爱文字冒险类游戏《星空的记忆(hoshizora no memoria)》及其衍生作品的登场角色。"
   },
   {
     "sp": "group",
@@ -43699,7 +43723,7 @@
   },
   {
     "sp": "group",
-    "en": "nori5rou",
+    "en": "nori gorou",
     "zh": "のり伍郎",
     "in": ""
   },
@@ -45862,6 +45886,30 @@
     "en": "ntype",
     "zh": "NtyPe",
     "in": "沟口凯吉(mizoguchi keiji)从事同人活动的别名。"
+  },
+  {
+    "sp": "group",
+    "en": "h.b",
+    "zh": "H・B",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "star track",
+    "zh": "★track",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "o.s",
+    "zh": "O.S",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "wakame no oyatsu",
+    "zh": "Wakame no Oyatsu",
+    "in": ""
   },
   {
     "sp": "artist",
@@ -67932,6 +67980,54 @@
     "in": ""
   },
   {
+    "sp": "artist",
+    "en": "mikimoto haruhiko",
+    "zh": "美树本晴彦",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "asakura ryosuke",
+    "zh": "朝仓亮介",
+    "in": "代表作\n战×恋\n魔法的禁书目录：恩底弥翁的奇迹"
+  },
+  {
+    "sp": "artist",
+    "en": "b-river",
+    "zh": "B-RIVER",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "katakura mikki",
+    "zh": "片倉みっき",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "chichan54",
+    "zh": "ちーちゃん54",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "midori niku",
+    "zh": "绿肉",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "oko yomiko",
+    "zh": "小神よみ子",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "umemotsuzou",
+    "zh": "梅モツ蔵",
+    "in": ""
+  },
+  {
     "sp": "cosplayer",
     "en": "otohara an",
     "zh": "乙原あん",
@@ -68096,7 +68192,7 @@
   {
     "sp": "cosplayer",
     "en": "tsuki desu",
-    "zh": "Tsuki Desu | Dosya Gasai",
+    "zh": "Tsuki Desu",
     "in": ""
   },
   {
@@ -68115,6 +68211,42 @@
     "sp": "cosplayer",
     "en": "okita rinka",
     "zh": "冲田凛花",
+    "in": ""
+  },
+  {
+    "sp": "cosplayer",
+    "en": "nekokoyoshi",
+    "zh": "爆机少女喵小吉",
+    "in": ""
+  },
+  {
+    "sp": "cosplayer",
+    "en": "akemi101xoxo",
+    "zh": "Akemi101xoxo",
+    "in": ""
+  },
+  {
+    "sp": "cosplayer",
+    "en": "hoshilily",
+    "zh": "星之迟迟",
+    "in": ""
+  },
+  {
+    "sp": "cosplayer",
+    "en": "yurikodxd",
+    "zh": "YurikoDxD",
+    "in": ""
+  },
+  {
+    "sp": "cosplayer",
+    "en": "yuuforia",
+    "zh": "Yuuforia",
+    "in": ""
+  },
+  {
+    "sp": "cosplayer",
+    "en": "lovelyspacekitten",
+    "zh": "LovelySpaceKitten",
     "in": ""
   },
   {
@@ -74770,6 +74902,12 @@
     "en": "multiple footjob",
     "zh": "多重足交",
     "in": "一个以上的人同时用脚对同一个参与者进行性刺激。需要足交(footjob)标签。"
+  },
+  {
+    "sp": "mixed",
+    "en": "nudism",
+    "zh": "裸体主义",
+    "in": "两个或多个角色的生殖器完全暴露在彼此面前，同时没有进行性活动。不要与露阴癖(exhibitionism)相混淆。"
   },
   {
     "sp": "mixed",
