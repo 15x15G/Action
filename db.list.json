@@ -32478,6 +32478,60 @@
     "in": "所属作品 终结的炽天使(owari no seraph)"
   },
   {
+    "sp": "character",
+    "en": "kiryu coco",
+    "zh": "桐生可可",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "laplus darknesss",
+    "zh": "拉普拉斯·达克尼斯(ラプラス・ダークネス)",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "mori calliope",
+    "zh": "森美声",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "ninomae inanis",
+    "zh": "一伊那尔栖(Ninomae Ina’nis)",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "sakamata chloe",
+    "zh": "沙花叉库洛艾(沙花叉クロヱ)",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "tsunomaki watame",
+    "zh": "角卷绵芽",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "kazama iroha",
+    "zh": "风真伊吕波(風真いろは)",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "weedy",
+    "zh": "温蒂",
+    "in": "所属作品 明日方舟(arknights)"
+  },
+  {
+    "sp": "character",
+    "en": "makino yagami",
+    "zh": "八神牧野",
+    "in": "所属作品 偶像大师(the idolmaster)"
+  },
+  {
     "sp": "group",
     "en": "1",
     "zh": "1",
@@ -122624,8 +122678,8 @@
   {
     "sp": "artist",
     "en": "korie riko",
-    "zh": "梱枝莉子",
-    "in": ""
+    "zh": "梱枝りこ(梱枝莉子)",
+    "in": "梱枝，梱妈，梱枝Riko，画风颇具特色。"
   },
   {
     "sp": "artist",
@@ -178923,6 +178977,18 @@
     "sp": "artist",
     "en": "ryokuchamichi",
     "zh": "緑茶みち",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "mamimi",
+    "zh": "Mamimi",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "kana note",
+    "zh": "無人",
     "in": ""
   },
   {
