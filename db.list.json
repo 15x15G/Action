@@ -11982,6 +11982,12 @@
     "in": ""
   },
   {
+    "sp": "parody",
+    "en": "summertime render",
+    "zh": "夏日重现",
+    "in": "《夏日重现》（日语：サマータイムレンダ，英语：Summer Time Rendering）是田中靖规连载的漫画。"
+  },
+  {
     "sp": "character",
     "en": "alice",
     "zh": "爱丽丝",
@@ -32571,6 +32577,24 @@
     "sp": "character",
     "en": "himiko",
     "zh": "卑弥呼",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "zenobia",
+    "zh": "芝诺比娅",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "paris",
+    "zh": "帕里斯",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "captain nemo",
+    "zh": "尼莫船长",
     "in": ""
   },
   {
@@ -106902,6 +106926,12 @@
     "in": ""
   },
   {
+    "sp": "group",
+    "en": "mitsume no mitsumame",
+    "zh": "みつ目のみつ豆",
+    "in": ""
+  },
+  {
     "sp": "artist",
     "en": "2",
     "zh": "2",
@@ -179055,6 +179085,48 @@
     "sp": "artist",
     "en": "shengtian",
     "zh": "升天",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "tezuka osamu",
+    "zh": "手冢治虫",
+    "in": "手冢治虫（日语：手塚（てづか） 治虫（おさむ）），本名手冢治，是日本国民级漫画家、著名动画制作人，日本现代电视动画及其制作制度的鼻祖与奠基人。"
+  },
+  {
+    "sp": "artist",
+    "en": "oyuyu",
+    "zh": "おゆゆ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "mo oku",
+    "zh": "MO:OKU",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "rounds chen",
+    "zh": "RoundsChen",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "tsubame",
+    "zh": "つばめ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "ushinomiya",
+    "zh": "うしのみや",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "yoikorogashi",
+    "zh": "よいころがし",
     "in": ""
   },
   {
