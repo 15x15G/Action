@@ -75,13 +75,13 @@
     "sp": "reclass",
     "en": "doujinshi",
     "zh": "同人志",
-    "in": "任何自费出版或自行发布（例如通过 pixiv）的 H 漫画或色情西方漫画(comic)，通常包含格子和文本。经常涉及到模仿现有的动画、漫画、游戏和其他可识别的角色或吉祥物 (例如 VOCALOID(vocaloid))。"
+    "in": "任何自费出版或自行发布（例如通过 pixiv）的 H 漫画或色情西方漫画(comic)，通常包含格子和文本。经常涉及到模仿现有的动画、漫画、游戏和其他可识别的角色或吉祥物（例如 VOCALOID(vocaloid)）。"
   },
   {
     "sp": "reclass",
     "en": "manga",
     "zh": "漫画",
-    "in": "H 漫画（或在本网站使用的上下文中简称为“Manga”）是由亚洲艺术家作画并由第三方出版色情漫画。通常只包含原创内容。这一类多数是单行本(tankoubon)和选集(anthology)。"
+    "in": "由第三方出版色情漫画。通常只包含原创内容。大多数的单行本(tankoubon)和选集(anthology)属于此分类。分类名称是 H 漫画（Hentai Manga）的简写。"
   },
   {
     "sp": "reclass",
@@ -93,25 +93,25 @@
     "sp": "reclass",
     "en": "gamecg",
     "zh": "游戏CG",
-    "in": "计算机生成的作品，往往从色情游戏（エロゲー）提取。一般有大量图像。不适用于游戏中的角色图像或游戏截图。"
-  },
-  {
-    "sp": "reclass",
-    "en": "western",
-    "zh": "西方",
-    "in": "所有西方色情艺术，包括图像、CG 和漫画。"
+    "in": "计算机生成的作品，往往从色情游戏（エロゲー）提取。一般有大量图像。不适用于游戏截图(screenshots)。"
   },
   {
     "sp": "reclass",
     "en": "non-h",
     "zh": "无H",
-    "in": "亚洲来源的非色情性质的图像（单个具有性内容的图像将使整个画廊失去资格）。允许少量非色情性质的裸体。西方的这类是杂项(misc)类别。不允许任何协议禁止的内容。"
+    "in": "非色情性质的绘制内容。单张具有性内容的图像将使整个画廊失去资格。允许少量非色情性质的裸体（例如露点）。西方的这类是杂项(misc)类别。"
   },
   {
     "sp": "reclass",
     "en": "imageset",
     "zh": "图集",
     "in": "图集是一个通用的画廊。他们大多是日本人绘制的内容，但不属于漫画或同人志。这些画廊内的图像通常具有单个主题（例如特定艺术家，特定系列的人物，或特定恋物癖）。"
+  },
+  {
+    "sp": "reclass",
+    "en": "western",
+    "zh": "西方",
+    "in": "所有西方色情艺术，包括图像、西方CG(western cg)和西方漫画(comic)。"
   },
   {
     "sp": "reclass",
@@ -123,7 +123,7 @@
     "sp": "reclass",
     "en": "misc",
     "zh": "杂项",
-    "in": "不符合任何其他类别的画廊。包含3D(3d)画廊、非色情的西方(western)画廊、手办(figure)画廊、纸片人(paperchild)画廊、充气娃娃(real doll)画廊等。从这些画廊获得的 GP 数量减少到上传者通常会收到的 25%。"
+    "in": "不符合任何其他类别的画廊。包含3D(3d)画廊；非色情的西方(western)画廊；实物（如手办(figure)、纸片人(paperchild)、充气娃娃(real doll)等）画廊；游戏手册(game manual)、指南、攻略和游戏杂志画廊；或者包含大量混合内容以致不符合其他任何分类的要求。从这些画廊获得的 GP 数量减少到上传者通常会收到的 25%。"
   },
   {
     "sp": "reclass",
@@ -135,7 +135,7 @@
     "sp": "reclass",
     "en": "private",
     "zh": "私有",
-    "in": "私有画廊是一个非正式的类别，允许用户不与 E-Hentai 社区其他成员分享他们的内容。他们往往是想要将其作为自己的个人用户画廊，或只是希望自己的朋友前来参观。从私有画廊获得的 GP 数量减少到上传者通常会收到的金额的 10%。要创建私有画廊，用户必须拥有铜星或更高星级。"
+    "in": "私有画廊是一个非正式的类别，允许用户不与 E-Hentai 社区其他成员分享他们的内容。从私有画廊获得的 GP 数量减少到上传者通常会收到的金额的 10%。要创建私有画廊，用户必须拥有铜星或更高星级。"
   },
   {
     "sp": "language",
@@ -23767,9 +23767,51 @@
   },
   {
     "sp": "character",
+    "en": "rokka asahi",
+    "zh": "朝日六花（LOCK）",
+    "in": "RAISE A SUILEN的吉他手"
+  },
+  {
+    "sp": "character",
     "en": "masuki satou",
     "zh": "佐藤益木（MASKING）",
     "in": "RAISE A SUILEN的鼓手\n\n注：台湾地区译名为“佐藤增姬”"
+  },
+  {
+    "sp": "character",
+    "en": "reona nyubara",
+    "zh": "鳰原令王那（PAREO）",
+    "in": "RAISE A SUILEN的键盘手"
+  },
+  {
+    "sp": "character",
+    "en": "chiyu tamade",
+    "zh": "珠手知由（CHU²）",
+    "in": "RAISE A SUILEN的DJ"
+  },
+  {
+    "sp": "character",
+    "en": "mashiro kurata",
+    "zh": "仓田真白",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "nanami hiromachi",
+    "zh": "广町七深",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "tsukushi futaba",
+    "zh": "二叶筑紫",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "marina tsukishima",
+    "zh": "月岛麻里奈",
+    "in": "麻里奈是Live House CiRCLE的一名工作人员。"
   },
   {
     "sp": "character",
@@ -32638,6 +32680,108 @@
     "en": "megumi fushiguro",
     "zh": "伏黑惠",
     "in": "所属作品: 咒术回战(jujutsu kaisen)"
+  },
+  {
+    "sp": "character",
+    "en": "caitlyn",
+    "zh": "凯特琳",
+    "in": "皮城女警·凯特琳，是MOBA竞技网游《英雄联盟》及其衍生作品中的一名英雄角色，英雄定位为射手。"
+  },
+  {
+    "sp": "character",
+    "en": "nikaido",
+    "zh": "二阶堂",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "reno",
+    "zh": "里诺",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "aegir",
+    "zh": "埃吉尔",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "shinano",
+    "zh": "信浓",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "foxhound",
+    "zh": "狐提",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "pamiat merkuria",
+    "zh": "水星纪念",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "nurnberg",
+    "zh": "纽伦堡",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "nicholas",
+    "zh": "尼古拉斯",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "icarus",
+    "zh": "伊卡洛斯",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "palutena",
+    "zh": "帕露蒂娜",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "pit",
+    "zh": "皮特",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "bozes co palesti",
+    "zh": "波赛斯·戈·芭蕾丝蒂",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "noi",
+    "zh": "能井",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "scirocco",
+    "zh": "东南风",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "miyuki kujou",
+    "zh": "九条美雪",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "specter",
+    "zh": "幽灵鲨",
+    "in": ""
   },
   {
     "sp": "group",
@@ -106986,6 +107130,18 @@
     "in": ""
   },
   {
+    "sp": "group",
+    "en": "tsukitate-koubou",
+    "zh": "つきたて工房",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "aramaa",
+    "zh": "あらまあ",
+    "in": ""
+  },
+  {
     "sp": "artist",
     "en": "2",
     "zh": "2",
@@ -179190,6 +179346,24 @@
     "in": ""
   },
   {
+    "sp": "artist",
+    "en": "inui nuinu",
+    "zh": "犬居ぬいぬ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "2no.",
+    "zh": "2no.",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "h.carrrrrrot",
+    "zh": "カロロット",
+    "in": ""
+  },
+  {
     "sp": "cosplayer",
     "en": "otohara an",
     "zh": "乙原あん",
@@ -179445,6 +179619,12 @@
     "sp": "cosplayer",
     "en": "siao ding",
     "zh": "小丁",
+    "in": ""
+  },
+  {
+    "sp": "cosplayer",
+    "en": "franxcos",
+    "zh": "FranXcos",
     "in": ""
   },
   {
@@ -181407,7 +181587,7 @@
     "sp": "male",
     "en": "cosplaying",
     "zh": "Cosplay",
-    "in": "角色打扮成另一个角色。不包括一般的角色扮演，如男生制服(schoolboy uniform)、护士装(nurse)、女仆装(maid)。不用于 Cosplay 画廊。"
+    "in": "角色打扮成另一个角色。不包括一般的角色扮演，如男生制服(schoolboy uniform)、护士装(nurse)、女仆装(maid)。不用于 Cosplay(cosplay) 画廊。"
   },
   {
     "sp": "male",
@@ -184677,7 +184857,7 @@
     "sp": "female",
     "en": "cosplaying",
     "zh": "Cosplay",
-    "in": "角色打扮成另一个角色。不包括一般的角色扮演，如女生制服(schoolgirl uniform)、护士装(nurse)、女仆装(maid)。不用于 Cosplay 画廊。"
+    "in": "角色打扮成另一个角色。不包括一般的角色扮演，如女生制服(schoolgirl uniform)、护士装(nurse)、女仆装(maid)。不用于 Cosplay(cosplay) 画廊。"
   },
   {
     "sp": "female",
