@@ -12012,6 +12012,12 @@
     "in": "《命运之子》是一款由Shift Up开发的角色扮演游戏，于2016年10月27日在Android和iOS平台上发行（韩国版），并于2018年12月6日推出国际版。由韩国插画家兼游戏设计师金亨泰主导和设计，而ESTi则负责配乐。"
   },
   {
+    "sp": "parody",
+    "en": "ousama ranking",
+    "zh": "国王排名",
+    "in": ""
+  },
+  {
     "sp": "character",
     "en": "alice",
     "zh": "爱丽丝",
@@ -32782,6 +32788,18 @@
     "en": "specter",
     "zh": "幽灵鲨",
     "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "aether foundation employee",
+    "zh": "以太基金会员工",
+    "in": "以太基金会职员（日文：エーテル財団 職員 Aether Foundation Staff）是第七世代引入的一种宝可梦训练家。他们是以太基金会的雇员，身着白色的未来派制服。"
+  },
+  {
+    "sp": "character",
+    "en": "hiling",
+    "zh": "希琳",
+    "in": "伯斯王的第二任妻子，戴达的亲生母亲。"
   },
   {
     "sp": "group",
@@ -107142,6 +107160,12 @@
     "in": ""
   },
   {
+    "sp": "group",
+    "en": "kazamidori",
+    "zh": "かざみどり",
+    "in": "辻風太郎(footaro)"
+  },
+  {
     "sp": "artist",
     "en": "2",
     "zh": "2",
@@ -179362,6 +179386,30 @@
     "en": "h.carrrrrrot",
     "zh": "カロロット",
     "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "toriattogununu",
+    "zh": "とりあっとぐぬぬ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "harrishero",
+    "zh": "ハリスヒロ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "potatorinrin",
+    "zh": "孟達",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "hotter daimon",
+    "zh": "掘多大門",
+    "in": "ホッタダイモン"
   },
   {
     "sp": "cosplayer",
