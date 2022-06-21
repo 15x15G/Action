@@ -7118,7 +7118,7 @@
   {
     "sp": "parody",
     "en": "aikatsu",
-    "zh": "Aikatsu！偶像活动！",
+    "zh": "偶活学园！",
     "in": "《Aikatsu！偶像活动！》是BANDAI发售的DATA CARDDASS游戏。2012年10月25日开始推出游戏为先驱，2012年10月8日动画开始播放。宣传口号为“国民的偶像试镜游戏”。"
   },
   {
@@ -30075,7 +30075,7 @@
     "sp": "character",
     "en": "yoko ritona",
     "zh": "优子",
-    "in": ""
+    "in": "所属作品 天元突破(tengen toppa gurren lagann)"
   },
   {
     "sp": "character",
@@ -32800,6 +32800,180 @@
     "en": "hiling",
     "zh": "希琳",
     "in": "伯斯王的第二任妻子，戴达的亲生母亲。"
+  },
+  {
+    "sp": "character",
+    "en": "yoshino kousaka",
+    "zh": "高坂佳乃",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "kuzuha togashi",
+    "zh": "富㭴樟叶",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "ichigo hoshimiya",
+    "zh": "星宫莓",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "aoi kiriya",
+    "zh": "雾矢葵",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "yurika toudou",
+    "zh": "藤堂百合香",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "kirara hanazono",
+    "zh": "花园绮罗",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "orihime mitsuishi",
+    "zh": "光石织姬",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "noeru otoshiro",
+    "zh": "音城诺艾儿",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "raki kiseki",
+    "zh": "姬石来希",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "ringo hoshimiya",
+    "zh": "星宫苹果",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "tsubasa kisaragi",
+    "zh": "如月翼",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "seira otoshiro",
+    "zh": "音城塞拉",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "alicia charlotte",
+    "zh": "艾丽西亚·夏洛特",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "aine yuuki",
+    "zh": "友希爱音",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "asahi kasumi",
+    "zh": "香澄朝阳",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "yozora kasumi",
+    "zh": "香澄夜空",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "sumire hikami",
+    "zh": "冰上堇",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "akari oozora",
+    "zh": "大空明",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "risa shirakaba",
+    "zh": "白桦丽莎",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "nono daichi",
+    "zh": "大地乃野",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "sora kazesawa",
+    "zh": "风泽空",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "kii saegusa",
+    "zh": "冴草纪伊",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "mio minato",
+    "zh": "凑美绪",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "rin kurosawa",
+    "zh": "黑泽凛",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "ran shibuki",
+    "zh": "紫吹兰",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "juri kurebayashi",
+    "zh": "红林珠璃",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "hinaki shinjou",
+    "zh": "新条雏姬",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "madoka amahane",
+    "zh": "天羽圆香",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "hime shiratori",
+    "zh": "白鸟姬",
+    "in": ""
   },
   {
     "sp": "group",
@@ -107166,6 +107340,24 @@
     "in": "辻風太郎(footaro)"
   },
   {
+    "sp": "group",
+    "en": "m3",
+    "zh": "M3",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "hiwa izumo taisha",
+    "zh": "秘話出雲大社",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "caisson",
+    "zh": "CAISSON",
+    "in": ""
+  },
+  {
     "sp": "artist",
     "en": "2",
     "zh": "2",
@@ -179410,6 +179602,36 @@
     "en": "hotter daimon",
     "zh": "掘多大門",
     "in": "ホッタダイモン"
+  },
+  {
+    "sp": "artist",
+    "en": "cirilla",
+    "zh": "CIRILLA",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "tsunakama",
+    "zh": "ツナかま",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "yoshida ninn",
+    "zh": "吉田にん",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "yukimura yukio",
+    "zh": "雪村雪緒",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "akiyoshi amelie",
+    "zh": "秋芳あめり",
+    "in": ""
   },
   {
     "sp": "cosplayer",
