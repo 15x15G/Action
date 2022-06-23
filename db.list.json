@@ -32976,6 +32976,30 @@
     "in": ""
   },
   {
+    "sp": "character",
+    "en": "shiranui flare",
+    "zh": "不知火芙蕾雅",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "sussurro",
+    "zh": "苏苏洛",
+    "in": "《明日方舟》及其衍生作品的登场角色。"
+  },
+  {
+    "sp": "character",
+    "en": "alice tendou",
+    "zh": "天童爱丽丝",
+    "in": "Nexon 发行的游戏《蔚蓝档案》及其衍生作品中的登场角色"
+  },
+  {
+    "sp": "character",
+    "en": "hanabi hyuga",
+    "zh": "日向花火",
+    "in": "日向雏田的妹妹"
+  },
+  {
     "sp": "group",
     "en": "1",
     "zh": "1",
@@ -107358,6 +107382,12 @@
     "in": ""
   },
   {
+    "sp": "group",
+    "en": "tuberose",
+    "zh": "月化香",
+    "in": ""
+  },
+  {
     "sp": "artist",
     "en": "2",
     "zh": "2",
@@ -179631,6 +179661,18 @@
     "sp": "artist",
     "en": "akiyoshi amelie",
     "zh": "秋芳あめり",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "shikibe tsuko",
+    "zh": "色辺つこ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "yusha-m",
+    "zh": "Yusha-M",
     "in": ""
   },
   {
