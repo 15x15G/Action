@@ -12018,6 +12018,54 @@
     "in": ""
   },
   {
+    "sp": "parody",
+    "en": "regular show",
+    "zh": "天兵公园",
+    "in": "《天兵公园》（英语：Regular Show）是一部美国的喜剧电视动画"
+  },
+  {
+    "sp": "parody",
+    "en": "talespin",
+    "zh": "航空小英雄",
+    "in": "《航空小英雄》（英语：TaleSpin）是美国迪士尼公司从1990年9月7日到1991年8月8日播出的动画影集"
+  },
+  {
+    "sp": "parody",
+    "en": "tiny toons",
+    "zh": "迷你乐一通",
+    "in": "《迷你乐一通》（英语：Tiny Toon Adventures）是一套由华纳兄弟制作的系列动画片，属于乐一通系列的分支，由史蒂芬·史匹柏带头制作。"
+  },
+  {
+    "sp": "parody",
+    "en": "recess",
+    "zh": "下课后",
+    "in": "《下课后》（英语：Recess）是一部美国系列动画片，讲述的是六名小学生和他们的同学与老师之间发生的各种事情。"
+  },
+  {
+    "sp": "parody",
+    "en": "garfield",
+    "zh": "加菲猫",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "ok k.o. lets be heroes",
+    "zh": "OK K.O.!英雄赞",
+    "in": "《OK K.O.!英雄赞》（英语：OK K.O.! Let's Be Heroes）是卡通频道旗下，由Ian Jones-Quartey创作的美国超级英雄喜剧动画。该系列于2016年2月4日在卡通频道的YouTube频道上首播。"
+  },
+  {
+    "sp": "parody",
+    "en": "ratchet and clank",
+    "zh": "瑞奇与叮当",
+    "in": "《瑞奇与叮当》（英语：Ratchet & Clank，香港和台湾译作“拉捷特与克拉克”）是由Insomniac Games创造、索尼电脑娱乐发行的动作冒险/第三人称射击系列游戏。"
+  },
+  {
+    "sp": "parody",
+    "en": "kangokutou mary skelter",
+    "zh": "神狱塔：断罪玛丽",
+    "in": "《神狱塔 断罪玛丽》（日语：神獄塔 メアリスケルター，英文：Mary Skelter: Nightmares）是游戏制作公司“Compile Heart”于2016年针对PS Vita平台发布的RPG游戏。"
+  },
+  {
     "sp": "character",
     "en": "alice",
     "zh": "爱丽丝",
@@ -20925,7 +20973,7 @@
     "sp": "character",
     "en": "gudao",
     "zh": "咕哒男",
-    "in": ""
+    "in": "藤丸立香/主人公是TYPE-MOON旗下的游戏《Fate/Grand Order(fate grand order)》及其衍生作品的登场角色，玩家视角的主角。\n咕哒子是FGO官方漫画中使用的昵称。已经成为官方默认的主人公昵称。在另一部型月作品Chibichuki!中，也直接以咕哒子之名出现。"
   },
   {
     "sp": "character",
@@ -25773,7 +25821,7 @@
     "sp": "character",
     "en": "misato katsuragi",
     "zh": "葛城美里",
-    "in": ""
+    "in": "所属作品：新世纪福音战士(neon genesis evangelion)\n\n葛城美里是是NERV的指挥官，碇真嗣与惣流·明日香·兰格雷的监护人。"
   },
   {
     "sp": "character",
@@ -28557,7 +28605,7 @@
     "sp": "character",
     "en": "chocola",
     "zh": "巧克力",
-    "in": ""
+    "in": "所属作品：猫娘乐园(nekopara)"
   },
   {
     "sp": "character",
@@ -33026,7 +33074,7 @@
   {
     "sp": "character",
     "en": "luciela r. sourcream",
-    "zh": "露 希尔",
+    "zh": "露西艾拉·R·索克莉姆",
     "in": "所属作品：艾尔之光(elsword)\n\n露西艾拉·R·索克莉姆/希尔（英语：Luciela R Sourcream / Ciel）是韩国KOG Studios开发的在线ARPG游戏《艾尔之光》及其衍生作品的登场角色，玩家操控角色之一。"
   },
   {
@@ -33034,6 +33082,90 @@
     "en": "eris",
     "zh": "厄里斯",
     "in": "厄里斯是掌管主人公和真所在的异世界的女神，也是当地的国教及货币单位。身材极度内敛。阿库娅的后辈。“厄里斯的胸部塞了胸垫！”"
+  },
+  {
+    "sp": "character",
+    "en": "luna",
+    "zh": "露娜",
+    "in": "所属作品：为美好的世界献上祝福！(kono subarashii sekai ni syukufuku o)\n冒险者公会的接待人员，是一位看起来很温和的成熟女性。支付任务奖金时非常不干脆，手总是拽着奖金不肯放。"
+  },
+  {
+    "sp": "character",
+    "en": "yamato no kami yasusada",
+    "zh": "大和守安定",
+    "in": "所属作品：刀剑乱舞(touken ranbu)"
+  },
+  {
+    "sp": "character",
+    "en": "takane lui",
+    "zh": "鹰岭露依",
+    "in": "鹰岭露依（日语：鷹嶺ルイ／たかね るいTakane Lui），hololive－『秘密结社holoX』的成员。"
+  },
+  {
+    "sp": "character",
+    "en": "charlotte e. yeager",
+    "zh": "夏洛特·E·叶格",
+    "in": "所属作品：强袭魔女(strike witches)"
+  },
+  {
+    "sp": "character",
+    "en": "erica hartmann",
+    "zh": "艾莉卡·哈特曼",
+    "in": "所属作品：强袭魔女(strike witches)"
+  },
+  {
+    "sp": "character",
+    "en": "gertrud barkhorn",
+    "zh": "歌尔特露特·巴克霍隆",
+    "in": "所属作品：强袭魔女(strike witches)"
+  },
+  {
+    "sp": "character",
+    "en": "lynette bishop",
+    "zh": "莉涅特·毕晓普",
+    "in": "所属作品：强袭魔女(strike witches)"
+  },
+  {
+    "sp": "character",
+    "en": "minna-dietlinde wilcke",
+    "zh": "明娜·迪特林德·威尔克",
+    "in": "所属作品：强袭魔女(strike witches)"
+  },
+  {
+    "sp": "character",
+    "en": "sanya v. litvyak",
+    "zh": "萨妮娅·V·利特维亚克",
+    "in": "所属作品：强袭魔女(strike witches)\n\n角色原型是二战时期苏联的女性王牌飞行员莉狄亚·弗拉基米洛夫娜·利特维亚克（Лидия Владимировна Литвяк）。是501中唯一一个原型是女性的角色。"
+  },
+  {
+    "sp": "character",
+    "en": "yoshika miyafuji",
+    "zh": "宫藤芳佳",
+    "in": "所属作品：强袭魔女(strike witches)"
+  },
+  {
+    "sp": "character",
+    "en": "yoruichi shihoin",
+    "zh": "四枫院夜一",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "tia halibel",
+    "zh": "蒂雅·赫丽贝尔",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "muzan kibutsuji",
+    "zh": "鬼舞辻无惨",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "karna",
+    "zh": "迦尔纳(小太阳)",
+    "in": ""
   },
   {
     "sp": "group",
@@ -179712,6 +179844,48 @@
     "in": ""
   },
   {
+    "sp": "artist",
+    "en": "kuroboshi kouhaku",
+    "zh": "黑星红白（饭冢武史）",
+    "in": "黑星红白（1974年11月19日－），日本男性插画家，于神奈川县出生。也有使用另一笔名饭冢武史，主要用于电子游戏人物设定。"
+  },
+  {
+    "sp": "artist",
+    "en": "aji taro",
+    "zh": "AJ/鯵太郎",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "aizen pochi",
+    "zh": "愛染ぽち",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "nagatsuki hatsuka",
+    "zh": "長月はつか",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "kotobuki haruki",
+    "zh": "琴吹はるき",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "kou kou ax",
+    "zh": "口口AX",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "madoka tsukumo",
+    "zh": "円つくも",
+    "in": ""
+  },
+  {
     "sp": "cosplayer",
     "en": "otohara an",
     "zh": "乙原あん",
@@ -179973,6 +180147,12 @@
     "sp": "cosplayer",
     "en": "franxcos",
     "zh": "FranXcos",
+    "in": ""
+  },
+  {
+    "sp": "cosplayer",
+    "en": "junkenstein",
+    "zh": "junkenstein",
     "in": ""
   },
   {
