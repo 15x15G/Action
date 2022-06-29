@@ -12138,6 +12138,12 @@
     "in": "Ef: A Tale of Memories"
   },
   {
+    "sp": "parody",
+    "en": "gaikotsu kishi-sama tadaima isekai e odekakechuu",
+    "zh": "骸骨骑士大人异世界冒险中",
+    "in": ""
+  },
+  {
     "sp": "character",
     "en": "alice",
     "zh": "爱丽丝",
@@ -33292,6 +33298,12 @@
     "en": "edmond dantes",
     "zh": "岩窟王(爱德蒙·唐泰斯)",
     "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "ariane glenys maple",
+    "zh": "阿里安",
+    "in": "所属作品：骸骨骑士大人异世界冒险中(gaikotsu kishi-sama tadaima isekai e odekakechuu)"
   },
   {
     "sp": "group",
@@ -107694,6 +107706,12 @@
     "in": ""
   },
   {
+    "sp": "group",
+    "en": "nikoushikou",
+    "zh": "に向思考",
+    "in": ""
+  },
+  {
     "sp": "artist",
     "en": "2",
     "zh": "2",
@@ -180051,6 +180069,18 @@
     "sp": "artist",
     "en": "redchicken",
     "zh": "붉은닭",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "shirai bebe",
+    "zh": "白井べべ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "nekosaki aoi",
+    "zh": "猫崎葵",
     "in": ""
   },
   {
