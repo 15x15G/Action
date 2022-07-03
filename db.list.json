@@ -3459,7 +3459,7 @@
     "sp": "parody",
     "en": "muv-luv alternative total eclipse",
     "zh": "Muv-Luv Alternative Total eclipse",
-    "in": ""
+    "in": "关联标签：Muv-Luv(muv-luv)"
   },
   {
     "sp": "parody",
@@ -7364,8 +7364,8 @@
   {
     "sp": "parody",
     "en": "freezing",
-    "zh": "结界女王",
-    "in": "《结界女王》（日语：フリージング），是韩国作家林达永原作、韩国漫画家金光铉担任作画的日本漫画，在Kill Time Communication（KTC）的漫画杂志《Comic Valkyrie》上进行连载，并改编成电视动画。"
+    "zh": "零度战姬 | 结界女王",
+    "in": "《零度战姬》，又译《结界女王》（日语：フリージング），是韩国作家林达永原作、韩国漫画家金光铉担任作画的日本漫画，在Kill Time Communication（KTC）的漫画杂志《Comic Valkyrie》上进行连载，并改编成电视动画。"
   },
   {
     "sp": "parody",
@@ -12189,6 +12189,18 @@
     "sp": "parody",
     "en": "waccha primagi",
     "zh": "绫镜魔法",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "sonic soldier borgman",
+    "zh": "超音战士",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "brave girl ravens",
+    "zh": "Brave Girl Ravens",
     "in": ""
   },
   {
@@ -25058,7 +25070,7 @@
   {
     "sp": "character",
     "en": "cynthia",
-    "zh": "辛西娅",
+    "zh": "竹兰 | 辛西娅",
     "in": ""
   },
   {
@@ -33424,6 +33436,42 @@
     "en": "miruki amauri",
     "zh": "甘瓜牛奶",
     "in": "所属作品：绫镜魔法(waccha primagi)"
+  },
+  {
+    "sp": "character",
+    "en": "ouro kronii",
+    "zh": "奥罗·克洛尼",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "katsuki bakugou",
+    "zh": "爆豪胜己",
+    "in": "所属作品：我的英雄学院(my hero academia)"
+  },
+  {
+    "sp": "character",
+    "en": "kyouko takizawa",
+    "zh": "滝沢 京子",
+    "in": "所属作品：美女上司泷泽小姐(bijin onna joushi takizawa-san)"
+  },
+  {
+    "sp": "character",
+    "en": "black prince",
+    "zh": "黑太子",
+    "in": "所属作品：碧蓝航线(azur lane)"
+  },
+  {
+    "sp": "character",
+    "en": "tomoko kuroki",
+    "zh": "黑木智子",
+    "in": "所属作品：我不受欢迎，怎么想都是你们的错！(its not my fault that im not popular)"
+  },
+  {
+    "sp": "character",
+    "en": "yukari miyako",
+    "zh": "都由香里",
+    "in": ""
   },
   {
     "sp": "group",
@@ -107850,6 +107898,12 @@
     "in": ""
   },
   {
+    "sp": "group",
+    "en": "akatsuki works hibiki",
+    "zh": "hibiki works",
+    "in": "AKABEiSOFT2旗下游戏品牌hibiki works（包括原 “暁WORKS響SIDE”）"
+  },
+  {
     "sp": "artist",
     "en": "2",
     "zh": "2",
@@ -180252,6 +180306,24 @@
     "in": ""
   },
   {
+    "sp": "artist",
+    "en": "yan-baru",
+    "zh": "やんBARU",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "hanasaka houcha",
+    "zh": "花咲方茶",
+    "in": "自画像"
+  },
+  {
+    "sp": "artist",
+    "en": "fallen-leaves",
+    "zh": "Fallen落叶",
+    "in": ""
+  },
+  {
     "sp": "cosplayer",
     "en": "otohara an",
     "zh": "乙原あん",
@@ -180531,6 +180603,12 @@
     "sp": "cosplayer",
     "en": "penkarui",
     "zh": "Penkarui",
+    "in": ""
+  },
+  {
+    "sp": "cosplayer",
+    "en": "mizhimaoqiu",
+    "zh": "蜜汁猫裘",
     "in": ""
   },
   {
