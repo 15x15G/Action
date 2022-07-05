@@ -33480,6 +33480,24 @@
     "in": ""
   },
   {
+    "sp": "character",
+    "en": "clare",
+    "zh": "克蕾雅",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "raki",
+    "zh": "拉基",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "teresa",
+    "zh": "泰蕾莎",
+    "in": ""
+  },
+  {
     "sp": "group",
     "en": "1",
     "zh": "1",
@@ -126764,8 +126782,8 @@
   {
     "sp": "artist",
     "en": "mishima kurone",
-    "zh": "三嶋くろね",
-    "in": ""
+    "zh": "三岛黑音",
+    "in": "三嶋くろね\n\n喜欢白发娘，以擅长画白发娘而闻名。"
   },
   {
     "sp": "artist",
@@ -180342,6 +180360,12 @@
     "in": ""
   },
   {
+    "sp": "artist",
+    "en": "kusoniku yokichi",
+    "zh": "糞肉与吉",
+    "in": ""
+  },
+  {
     "sp": "cosplayer",
     "en": "otohara an",
     "zh": "乙原あん",
@@ -180627,6 +180651,12 @@
     "sp": "cosplayer",
     "en": "mizhimaoqiu",
     "zh": "蜜汁猫裘",
+    "in": ""
+  },
+  {
+    "sp": "cosplayer",
+    "en": "refeen",
+    "zh": "Refeen",
     "in": ""
   },
   {
