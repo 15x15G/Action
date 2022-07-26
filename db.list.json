@@ -181719,7 +181719,7 @@
     "sp": "male",
     "en": "skinsuit",
     "zh": "人皮衣",
-    "in": "穿着另一者的皮，其实际上成为穿戴者的皮。一般为用黑魔法将少女杀死变成皮，或高科技生产的能让男性变成女性的皮。不应与连体紧身衣(bodysuit)或头壳(animegao)相混淆。"
+    "in": "穿着另一者的皮，其实际上成为穿戴者的皮。一般为用黑魔法将少女杀死变成皮，或高科技生产的能让男性变成女性的皮。不应与紧身衣裤(bodysuit)或头壳(animegao)相混淆。"
   },
   {
     "sp": "male",
@@ -182763,7 +182763,7 @@
     "sp": "male",
     "en": "animegao",
     "zh": "头壳",
-    "in": "包括描绘角色面具的全身服装。不应与连体紧身衣(bodysuit)和人皮衣(skinsuit)标签混淆。当头壳的性别与其穿戴者的性别不同时，需要异性装(crossdressing)标签。"
+    "in": "包括描绘角色面具的全身服装。不应与紧身衣裤(bodysuit)和人皮衣(skinsuit)标签混淆。当头壳的性别与其穿戴者的性别不同时，需要异性装(crossdressing)标签。"
   },
   {
     "sp": "male",
@@ -182799,13 +182799,13 @@
     "sp": "male",
     "en": "bodystocking",
     "zh": "连身袜",
-    "in": "一种覆盖大部分身体的长筒袜(stockings)的变种，一般为丝袜材质。可以不覆盖手臂但必须覆盖腿足。不应与连体紧身衣(bodysuit)混淆。"
+    "in": "一种覆盖大部分身体的长筒袜(stockings)的变种，一般为丝袜材质。可以不覆盖手臂但必须覆盖腿足。不应与紧身衣裤(bodysuit)混淆。"
   },
   {
     "sp": "male",
     "en": "bodysuit",
-    "zh": "连体紧身衣",
-    "in": "任何贴合的全身服装，必须覆盖胳膊和腿。不应与头壳(animegao)、乳胶紧身衣(latex)、泳装(swimsuit)、人皮衣(skinsuit)混淆。"
+    "zh": "紧身衣裤",
+    "in": "任何贴身的全身套装，必须遮住胳膊和腿。不应与头壳(animegao)、乳胶紧身衣(latex)、泳装(swimsuit)、人皮衣(skinsuit)混淆。"
   },
   {
     "sp": "male",
@@ -182870,8 +182870,8 @@
   {
     "sp": "male",
     "en": "corset",
-    "zh": "紧身内衣",
-    "in": "用于保持和塑造躯干的衣服，通常形成沙漏形状。需要异性装(crossdressing)标签。"
+    "zh": "紧身胸衣",
+    "in": "用于保持和塑造躯干的衣服，通常形成沙漏形状，尤指旧时妇女束腰的紧身内衣。需要异性装(crossdressing)标签。"
   },
   {
     "sp": "male",
@@ -182985,13 +182985,13 @@
     "sp": "male",
     "en": "latex",
     "zh": "乳胶紧身衣",
-    "in": "用橡胶或塑料制作的衣服，一般紧身。不应与紧身服(tights)、 布鲁马(bloomers)或自行车短裤(bike shorts)标签混淆。"
+    "in": "用橡胶或塑料制作的衣服，一般紧身。不应与厚连裤袜(tights)、 布鲁马(bloomers)或自行车短裤(bike shorts)标签混淆。"
   },
   {
     "sp": "male",
     "en": "leotard",
     "zh": "紧身衣",
-    "in": "塑胶服装，常用于体操、兔女郎(bunny girl)和摔角(wrestling)。不应与泳装(swimsuit)或死库水(school swimsuit)混淆。"
+    "in": "舞蹈演员、女性体育锻炼者等穿的紧身连衣裤，常用于体操、兔女郎(bunny girl)和摔角(wrestling)。不应与人皮衣(skinsuit)、紧身衣裤(bodysuit)、乳胶紧身衣(latex)、泳装(swimsuit)或死库水(school swimsuit)混淆。"
   },
   {
     "sp": "male",
@@ -183206,8 +183206,8 @@
   {
     "sp": "male",
     "en": "tights",
-    "zh": "紧身服",
-    "in": "超级英雄穿的紧身服装。不应与连体紧身衣(bodysuit)混淆。"
+    "zh": "厚连裤袜",
+    "in": "西方将各种材质的裤袜都称为厚连裤袜(tights)，40D 以下的薄裤袜才称为连裤袜(pantyhose)。"
   },
   {
     "sp": "male",
@@ -183585,7 +183585,7 @@
     "sp": "male",
     "en": "harness",
     "zh": "挽具",
-    "in": "由佩戴者身体周围的金属环固定在一起的皮带组成的穿着。不应与捆绑(shibari)或紧身内衣(corset)混淆。"
+    "in": "由佩戴者身体周围的金属环固定在一起的皮带组成的穿着。不应与捆绑(shibari)或紧身胸衣(corset)混淆。"
   },
   {
     "sp": "male",
@@ -184839,7 +184839,7 @@
     "sp": "female",
     "en": "skinsuit",
     "zh": "人皮衣",
-    "in": "穿着另一者的皮，其实际上成为穿戴者的皮。一般为用黑魔法将少女杀死变成皮，或高科技生产的能让男性变成女性的皮。不应与连体紧身衣(bodysuit)或头壳(animegao)相混淆。"
+    "in": "穿着另一者的皮，其实际上成为穿戴者的皮。一般为用黑魔法将少女杀死变成皮，或高科技生产的能让男性变成女性的皮。不应与紧身衣裤(bodysuit)或头壳(animegao)相混淆。"
   },
   {
     "sp": "female",
@@ -186021,7 +186021,7 @@
     "sp": "female",
     "en": "animegao",
     "zh": "头壳",
-    "in": "包括描绘角色面具的全身服装。不应与连体紧身衣(bodysuit)和人皮衣(skinsuit)标签混淆。当头壳的性别与其穿戴者的性别不同时，需要异性装(crossdressing)标签。"
+    "in": "包括描绘角色面具的全身服装。不应与紧身衣裤(bodysuit)和人皮衣(skinsuit)标签混淆。当头壳的性别与其穿戴者的性别不同时，需要异性装(crossdressing)标签。"
   },
   {
     "sp": "female",
@@ -186069,13 +186069,13 @@
     "sp": "female",
     "en": "bodystocking",
     "zh": "连身袜",
-    "in": "一种覆盖大部分身体的长筒袜(stockings)的变种，一般为丝袜材质。可以不覆盖手臂但必须覆盖腿足。不应与连体紧身衣(bodysuit)混淆。"
+    "in": "一种覆盖大部分身体的长筒袜(stockings)的变种，一般为丝袜材质。可以不覆盖手臂但必须覆盖腿足。不应与紧身衣裤(bodysuit)混淆。"
   },
   {
     "sp": "female",
     "en": "bodysuit",
-    "zh": "连体紧身衣",
-    "in": "任何贴合的全身服装，必须覆盖胳膊和腿。不应与头壳(animegao)、乳胶紧身衣(latex)、泳装(swimsuit)、人皮衣(skinsuit)混淆。"
+    "zh": "紧身衣裤",
+    "in": "任何贴身的全身套装，必须遮住胳膊和腿。不应与头壳(animegao)、乳胶紧身衣(latex)、泳装(swimsuit)、人皮衣(skinsuit)混淆。"
   },
   {
     "sp": "female",
@@ -186140,8 +186140,8 @@
   {
     "sp": "female",
     "en": "corset",
-    "zh": "紧身内衣",
-    "in": "用于保持和塑造躯干的衣服，通常形成沙漏形状。"
+    "zh": "紧身胸衣",
+    "in": "用于保持和塑造躯干的衣服，通常形成沙漏形状，尤指旧时妇女束腰的紧身内衣。"
   },
   {
     "sp": "female",
@@ -186261,13 +186261,13 @@
     "sp": "female",
     "en": "latex",
     "zh": "乳胶紧身衣",
-    "in": "用橡胶或塑料制作的衣服，一般紧身。不应与紧身服(tights)、 布鲁马(bloomers)或自行车短裤(bike shorts)标签混淆。"
+    "in": "用橡胶或塑料制作的衣服，一般紧身。不应与厚连裤袜(tights)、 布鲁马(bloomers)或自行车短裤(bike shorts)标签混淆。"
   },
   {
     "sp": "female",
     "en": "leotard",
     "zh": "紧身衣",
-    "in": "塑胶服装，常用于体操、兔女郎(bunny girl)和摔角(wrestling)。不应与泳装(swimsuit)或死库水(school swimsuit)混淆。"
+    "in": "舞蹈演员、女性体育锻炼者等穿的紧身连衣裤，常用于体操、兔女郎(bunny girl)和摔角(wrestling)。不应与人皮衣(skinsuit)、紧身衣裤(bodysuit)、乳胶紧身衣(latex)、泳装(swimsuit)或死库水(school swimsuit)混淆。"
   },
   {
     "sp": "female",
@@ -186375,7 +186375,7 @@
     "sp": "female",
     "en": "race queen",
     "zh": "赛车女郎",
-    "in": "一个紧身的，通常是暴露的制服，印有公司标志。可能是连体紧身衣(bodysuit)或乳胶紧身衣(latex)。"
+    "in": "一个紧身的，通常是暴露的制服，印有公司标志。可能是紧身衣裤(bodysuit)或乳胶紧身衣(latex)。"
   },
   {
     "sp": "female",
@@ -186482,8 +186482,8 @@
   {
     "sp": "female",
     "en": "tights",
-    "zh": "紧身服",
-    "in": "超级英雄穿的紧身衣裤。不应与连体紧身衣(bodysuit)混淆。"
+    "zh": "厚连裤袜",
+    "in": "西方将各种材质的裤袜都称为厚连裤袜(tights)，40D 以下的薄裤袜才称为连裤袜(pantyhose)。"
   },
   {
     "sp": "female",
@@ -186927,7 +186927,7 @@
     "sp": "female",
     "en": "harness",
     "zh": "挽具",
-    "in": "由佩戴者身体周围的金属环固定在一起的皮带组成的穿着。不应与捆绑(shibari)或紧身内衣(corset)混淆。"
+    "in": "由佩戴者身体周围的金属环固定在一起的皮带组成的穿着。不应与捆绑(shibari)或紧身胸衣(corset)混淆。"
   },
   {
     "sp": "female",
