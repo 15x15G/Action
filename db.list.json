@@ -108078,6 +108078,18 @@
     "in": ""
   },
   {
+    "sp": "group",
+    "en": "dessert soft",
+    "zh": "DESSERT Soft",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "akatukiya",
+    "zh": "赤月屋",
+    "in": ""
+  },
+  {
     "sp": "artist",
     "en": "2",
     "zh": "2",
@@ -180585,6 +180597,12 @@
     "sp": "artist",
     "en": "aoyama akira",
     "zh": "苍山哲",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "kamitake",
+    "zh": "鱗物",
     "in": ""
   },
   {
