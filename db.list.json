@@ -108390,6 +108390,12 @@
     "in": ""
   },
   {
+    "sp": "group",
+    "en": "metacorapusu",
+    "zh": "めたこらぷす",
+    "in": ""
+  },
+  {
     "sp": "artist",
     "en": "2",
     "zh": "2",
@@ -141014,7 +141020,7 @@
   {
     "sp": "artist",
     "en": "hakai taitei",
-    "zh": "破壊大帝",
+    "zh": "破坏大帝",
     "in": ""
   },
   {
@@ -180916,6 +180922,18 @@
     "en": "sisyamo 2 percent",
     "zh": "sisyamo2%",
     "in": "专注嘴上功夫的画师"
+  },
+  {
+    "sp": "artist",
+    "en": "metacora",
+    "zh": "めたこら",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "kangoku meika",
+    "zh": "監獄銘菓",
+    "in": ""
   },
   {
     "sp": "cosplayer",
