@@ -12246,6 +12246,18 @@
     "in": "橘さん家ノ男性事情"
   },
   {
+    "sp": "parody",
+    "en": "dig delight direct drive dj",
+    "zh": "D4DJ",
+    "in": "D4DJ是日本公司武士道推出的DJ主题多媒体企划，并有动画、游戏等衍生作品。\n\n“D4DJ”的全称为“Dig Delight Direct Drive DJ”。"
+  },
+  {
+    "sp": "parody",
+    "en": "seirei gensouki",
+    "zh": "精灵幻想记",
+    "in": ""
+  },
+  {
     "sp": "character",
     "en": "alice",
     "zh": "爱丽丝",
@@ -12661,7 +12673,7 @@
   },
   {
     "sp": "character",
-    "en": "shikieiki yamaxanadu",
+    "en": "eiki shiki",
     "zh": "四季映姬·亚玛萨那度",
     "in": ""
   },
@@ -26547,7 +26559,7 @@
     "sp": "character",
     "en": "kyouka hikawa",
     "zh": "冰川镜华",
-    "in": ""
+    "in": "冰川镜华（日语：氷川（ひかわ） 鏡華（きょうか））是Cygames开发和发行的游戏《公主连结》及其续作《公主连结Re:Dive》的登场角色。在游戏世界内的ID为镜华（日语：キョウカ）。"
   },
   {
     "sp": "character",
@@ -34162,6 +34174,54 @@
     "en": "natsu yutori",
     "zh": "柚鸟夏",
     "in": "所属作品：碧蓝档案(blue archive)\n\n三一放学后的甜点部的一员。\n这位是放学后甜品部的麻烦制造第一名以及自称浪漫家的夏同学！\n抱着「想和大家一起分享浪漫」的心情、经常说出爆炸性发言并把周围的事物都牵扯进来，「浪漫」的定义也经常变化着的样子..."
+  },
+  {
+    "sp": "character",
+    "en": "kagome higurashi",
+    "zh": "日暮戈薇",
+    "in": "所属作品：犬夜叉(inuyasha)"
+  },
+  {
+    "sp": "character",
+    "en": "inuyasha",
+    "zh": "犬夜叉",
+    "in": "所属作品：犬夜叉(inuyasha)"
+  },
+  {
+    "sp": "character",
+    "en": "hitomi shizuki",
+    "zh": "志筑仁美",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "nakoruru",
+    "zh": "娜可露露",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "tomo yamanobe",
+    "zh": "山边灯",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "calamity jane",
+    "zh": "灾星简",
+    "in": "TYPE-MOON旗下游戏《Fate/Grand Order》及其衍生作品的登场角色。"
+  },
+  {
+    "sp": "character",
+    "en": "charlotte corday",
+    "zh": "夏洛特·科黛",
+    "in": "TYPE-MOON旗下游戏《Fate/Grand Order》及其衍生作品的登场角色。"
+  },
+  {
+    "sp": "character",
+    "en": "ibuki douji",
+    "zh": "伊吹童子",
+    "in": "TYPE-MOON旗下游戏《Fate/Grand Order》及其衍生作品的登场角色。"
   },
   {
     "sp": "group",
@@ -108654,6 +108714,18 @@
     "in": ""
   },
   {
+    "sp": "group",
+    "en": "kana note",
+    "zh": "Kana Note",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "pirio destruction",
+    "zh": "ピリオデストラクション",
+    "in": ""
+  },
+  {
     "sp": "artist",
     "en": "2",
     "zh": "2",
@@ -180775,7 +180847,7 @@
   },
   {
     "sp": "artist",
-    "en": "kana note",
+    "en": "mujin bensin",
     "zh": "無人",
     "in": ""
   },
@@ -181239,6 +181311,18 @@
     "sp": "artist",
     "en": "orukoa",
     "zh": "orukoa",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "karakuri musha",
+    "zh": "からくり武者",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "neisan",
+    "zh": "ねいさん",
     "in": ""
   },
   {
@@ -181828,6 +181912,12 @@
     "en": "human on furry",
     "zh": "人毛",
     "in": "人与毛茸茸(furry)角色间的性行为。"
+  },
+  {
+    "sp": "male",
+    "en": "hyena boy",
+    "zh": "鬣狗男孩",
+    "in": "鬣狗女孩(hyena girl)的男性版本。"
   },
   {
     "sp": "male",
@@ -184984,6 +185074,12 @@
     "en": "human on furry",
     "zh": "人毛",
     "in": "人与毛茸茸(furry)角色间的性行为。"
+  },
+  {
+    "sp": "female",
+    "en": "hyena girl",
+    "zh": "鬣狗女孩",
+    "in": "具有鬣狗特征的女性类人生物，例如大圆/尖耳朵和半厚毛尾巴。通常被描绘为具有条状或点状的皮毛或更深色的四肢。不应与狗女孩(dog girl)混淆。"
   },
   {
     "sp": "female",
