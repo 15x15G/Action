@@ -3764,8 +3764,8 @@
   {
     "sp": "parody",
     "en": "kochikame",
-    "zh": "这里是葛饰区龟有公园前派出所",
-    "in": ""
+    "zh": "乌龙派出所",
+    "in": "乌龙派出所 / 这里是葛饰区龟有公园前派出所"
   },
   {
     "sp": "parody",
@@ -12255,6 +12255,78 @@
     "sp": "parody",
     "en": "seirei gensouki",
     "zh": "精灵幻想记",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "soredemo ayumu wa yosetekuru",
+    "zh": "即使如此依旧步步进逼",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "nikujo no susume",
+    "zh": "肉女的推荐",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "eiyuu senki",
+    "zh": "英雄战姬",
+    "in": "《英雄战姬》是天狐发行的一款18禁TBS游戏。\n原画：大枪苇人"
+  },
+  {
+    "sp": "parody",
+    "en": "shoujo mahou gaku little witch romanesque",
+    "zh": "少女魔法学",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "words worth",
+    "zh": "光与影的传说",
+    "in": "《WORDS WORTH》（日语：ワーズ・ワース）是日本élf公司在1993年7月22日发售的角色扮演类型的成人游戏，1999年3月25日发售重制版。游戏发售后也改编成OVA和小说。"
+  },
+  {
+    "sp": "parody",
+    "en": "drifters",
+    "zh": "漂流武士",
+    "in": "《漂流武士》是平野耕太的青年漫画作品，在少年画报社的月刊漫画《YOUNG KING OURs》上自2009年6月号开始连载。2015年9月18日释出动画预告，电视动画于2016年10月开始播放。"
+  },
+  {
+    "sp": "parody",
+    "en": "counter side",
+    "zh": "Counter:Side",
+    "in": "《COUNTER：SIDE》是由韩国studiobside开发、NEXON推出的手游。"
+  },
+  {
+    "sp": "parody",
+    "en": "kunoichi tsubaki no mune no uchi",
+    "zh": "女忍者椿的心事",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "kanojo mo kanojo",
+    "zh": "女友成双",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "ero trap dungeon",
+    "zh": "エロトラップダンジョン ～女冒険者たちは徹底的に攻略されました～",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "yofukashi no uta",
+    "zh": "彻夜之歌",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "zannen onna kanbu black general-san",
+    "zh": "遗憾女干部黑暗将军小姐",
     "in": ""
   },
   {
@@ -34222,6 +34294,282 @@
     "en": "ibuki douji",
     "zh": "伊吹童子",
     "in": "TYPE-MOON旗下游戏《Fate/Grand Order》及其衍生作品的登场角色。"
+  },
+  {
+    "sp": "character",
+    "en": "ranpha",
+    "zh": "兰法",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "geo stelar",
+    "zh": "星河昴",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "luna platz",
+    "zh": "白金露娜",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "yugito nii",
+    "zh": "二位柚木门",
+    "in": "日本漫画《火影忍者》及其衍生作品中的女性角色，雷之国·云隐村的二尾人柱力\n性格倔强而高傲，很有女王范；但也很为同伴着想，对同伴十分温柔。和又旅一样讲话口气十分温和。"
+  },
+  {
+    "sp": "character",
+    "en": "kanade yoisaki",
+    "zh": "宵崎奏",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "mafuyu asahina",
+    "zh": "朝比奈真冬",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "kanu unchou",
+    "zh": "关羽云长",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "housen ryofu",
+    "zh": "吕布奉先",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "shimei ryomou",
+    "zh": "吕蒙子明",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "hakufu sonsaku",
+    "zh": "孙策伯符",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "gentoku ryuubi",
+    "zh": "刘备玄德",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "ekitoku chouhi",
+    "zh": "张飞益德",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "myousai kakouen",
+    "zh": "夏侯渊妙才",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "yojo bashoku",
+    "zh": "马谡幼常",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "shiryuu chouun",
+    "zh": "赵云子龙",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "chuukou kyocho",
+    "zh": "许诸仲康",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "hakugen rikuson",
+    "zh": "陆逊伯言",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "chuutatsu shibai",
+    "zh": "司马懿仲达",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "shikou soujin",
+    "zh": "曹仁子孝",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "mouyuu",
+    "zh": "孟优",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "takezou shinmen",
+    "zh": "新免武藏",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "chousen",
+    "zh": "貂蝉",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "benkei musashibo",
+    "zh": "武藏坊弁庆",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "genpou saji",
+    "zh": "左慈元放",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "bunwa kaku",
+    "zh": "贾诩文和",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "ukitsu",
+    "zh": "于吉",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "shifu choushou",
+    "zh": "张昭子布",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "koshaji",
+    "zh": "胡车儿",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "moukaku",
+    "zh": "孟获",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "kotetsu",
+    "zh": "虎彻",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "arezu",
+    "zh": "火夏",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "phineas flynn",
+    "zh": "飞哥·福林",
+    "in": "飞哥·福林 (Phineas Flynn)"
+  },
+  {
+    "sp": "character",
+    "en": "ferb fletcher",
+    "zh": "小佛‧富雷察",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "miko kurokawa",
+    "zh": "黒川みこ",
+    "in": "作者是大枪苇人(oyari ashito)"
+  },
+  {
+    "sp": "character",
+    "en": "rimururu",
+    "zh": "莉姆露露",
+    "in": "莉姆露露（日语：リムルル）是SNK旗下的游戏《侍魂》系列及其衍生作品的登场角色。"
+  },
+  {
+    "sp": "character",
+    "en": "yoichi nasu no suketaka",
+    "zh": "那须与一",
+    "in": "所属作品 漂流武士(drifters)"
+  },
+  {
+    "sp": "character",
+    "en": "bridget",
+    "zh": "布里奇特",
+    "in": "所属作品 罪恶装备(guilty gear)\n\n因为成长村子认为同性双胞胎是不吉利之事，所以从小就被当作女性养大。为了证明自己的价值并改变村子的陋习，而决定成为赏金猎人。使用溜溜球做为武器，身边有会说话的玩具熊ROGER陪伴。于STRIVE回归，尽管没抓到当年悬赏通缉犯蒂姬，可做为赏金猎人的才华却开花结果，并成功赚取到大笔财富衣锦还乡。此举让家乡的迷信逐渐消散，同时失去了自己的目标。现在继续从事赏金猎人的工作，边思考自己真正想做的事情。"
+  },
+  {
+    "sp": "character",
+    "en": "princess marie ange",
+    "zh": "マリー・アンジュ 王女",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "sakura kagamihara",
+    "zh": "各务原樱",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "frederica irving",
+    "zh": "フレドリカ・アーヴィング",
+    "in": "所属作品: 世界树的迷宫(etrian odyssey)"
+  },
+  {
+    "sp": "character",
+    "en": "junko enoshima",
+    "zh": "江之岛盾子",
+    "in": "所属作品: 弹丸论破(danganronpa)"
+  },
+  {
+    "sp": "character",
+    "en": "chisato nishikigi",
+    "zh": "锦木千束",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "takina inoue",
+    "zh": "井之上泷奈",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "rihoko amaha",
+    "zh": "天羽梨穂子",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "masane amaha",
+    "zh": "天羽雅音",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "ayaka tachikawa",
+    "zh": "立川绚香",
+    "in": ""
   },
   {
     "sp": "group",
@@ -108726,6 +109074,60 @@
     "in": ""
   },
   {
+    "sp": "group",
+    "en": "mauve",
+    "zh": "mauve",
+    "in": "画师鬼遍かっつぇ(oniben katze)所属同人社团"
+  },
+  {
+    "sp": "group",
+    "en": "tiguhagu metronome",
+    "zh": "ちぐはぐメトロノーム",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "daisan-keitai",
+    "zh": "第3形態",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "ray n maker",
+    "zh": "Ray N' Maker",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "ijou higan sensen",
+    "zh": "异常彼岸战线",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "shinkaihuyu",
+    "zh": "深海浮遊",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "dull zodesadehai",
+    "zh": "ダル・ゾデサデハーイ",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "fetishism pocket",
+    "zh": "フェチズムポケット",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "kantou dougakai",
+    "zh": "关东动画会",
+    "in": ""
+  },
+  {
     "sp": "artist",
     "en": "2",
     "zh": "2",
@@ -125252,8 +125654,8 @@
   {
     "sp": "artist",
     "en": "sakamata nerimono",
-    "zh": "逆又練物",
-    "in": ""
+    "zh": "逆又练物",
+    "in": "作者推特头像\n\n\n\n单行本"
   },
   {
     "sp": "artist",
@@ -162777,7 +163179,7 @@
     "sp": "artist",
     "en": "oniben katze",
     "zh": "鬼遍かっつぇ",
-    "in": ""
+    "in": "同人社团Mauve(mauve)主笔画师"
   },
   {
     "sp": "artist",
@@ -181326,6 +181728,126 @@
     "in": ""
   },
   {
+    "sp": "artist",
+    "en": "takekawa sin",
+    "zh": "武川慎",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "galbany denryuu",
+    "zh": "ガルバニー電流",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "utsunomiya ukatsu",
+    "zh": "郁之宫迂阔",
+    "in": "作者推特头像\n\n\n\n单行本"
+  },
+  {
+    "sp": "artist",
+    "en": "suito",
+    "zh": "すいと",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "kura",
+    "zh": "倉",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "ayasaka",
+    "zh": "綾坂",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "akusema",
+    "zh": "あくせま",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "takumichi",
+    "zh": "taku道",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "ramanda",
+    "zh": "ラマンダ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "suimi",
+    "zh": "水深",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "totoyama keiji",
+    "zh": "魚山ケイジ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "konery",
+    "zh": "ｺﾈﾘｨ＠(ヽ'ω`)",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "cocomachi",
+    "zh": "ここまち",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "mizuse kiseki",
+    "zh": "星の紅茶",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "momomo gasshuukoku",
+    "zh": "ももも合衆国",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "nameless peasant",
+    "zh": "皮三豆",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "minamoto kosada",
+    "zh": "源康定",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "mukatsuku",
+    "zh": "ム菓ツク（むか）",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "akiamare",
+    "zh": "あきあまれ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "sakuragi yomi",
+    "zh": "樱木黄泉",
+    "in": ""
+  },
+  {
     "sp": "cosplayer",
     "en": "otohara an",
     "zh": "乙原あん",
@@ -183244,6 +183766,12 @@
     "en": "big penis",
     "zh": "大根",
     "in": "异常大的阴茎，至少要和其主人的前臂一样大。是巨根(huge penis)的前置标签。"
+  },
+  {
+    "sp": "male",
+    "en": "cloaca insertion",
+    "zh": "泄殖腔插入",
+    "in": "将任何东西插入泄殖腔。可能援引可伸缩阴茎(retractable penis)标签。不用于插入阴道。"
   },
   {
     "sp": "male",
