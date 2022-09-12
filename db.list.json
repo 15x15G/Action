@@ -12330,6 +12330,18 @@
     "in": ""
   },
   {
+    "sp": "parody",
+    "en": "digimon ghost game",
+    "zh": "数码宝贝幽灵游戏",
+    "in": "《数码宝贝幽灵游戏》（日語：デジモンゴーストゲーム，英語：Digimon Ghost Game），于2021年10月3日起，在富士电视台系列播映的电视动画，是数码宝贝电视动画系列的第九作，也是万代「生命手环系列」的联动宣传动画。"
+  },
+  {
+    "sp": "parody",
+    "en": "yuusha to maou",
+    "zh": "魔王勇者",
+    "in": "《魔王勇者》（日语：まおゆう）是由橙乃真希在2channel上即兴创作的一部幻想类轻经济教学小说，并有动画、漫画、广播剧和WEB广播等衍生作品。"
+  },
+  {
     "sp": "character",
     "en": "alice",
     "zh": "爱丽丝",
@@ -34570,6 +34582,42 @@
     "en": "ayaka tachikawa",
     "zh": "立川绚香",
     "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "aomi yanagisako",
+    "zh": "柳迫碧美",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "airi",
+    "zh": "爱莉",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "melona",
+    "zh": "美萝娜",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "merlin prototype",
+    "zh": "梅林prototype",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "shuna",
+    "zh": "朱菜",
+    "in": "所属作品 关于我转生变成史莱姆这档事(tensei shitara slime datta ken)"
+  },
+  {
+    "sp": "character",
+    "en": "lenalee lee",
+    "zh": "利娜莉·李",
+    "in": "李娜丽·李（日语：リナリー‧リー；英语：Lenalee Lee）是星野桂创作的漫画《驱魔少年(d.gray-man)》及其衍生作品的登场角色。"
   },
   {
     "sp": "group",
@@ -109128,6 +109176,24 @@
     "in": ""
   },
   {
+    "sp": "group",
+    "en": "fusuma cafe",
+    "zh": "ふすま喫茶",
+    "in": "水中花火的东方同人社团名称"
+  },
+  {
+    "sp": "group",
+    "en": "platinum kinoko",
+    "zh": "プラチナきのこ",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "lunaberry",
+    "zh": "Lunaberry",
+    "in": ""
+  },
+  {
     "sp": "artist",
     "en": "2",
     "zh": "2",
@@ -181772,8 +181838,8 @@
   {
     "sp": "artist",
     "en": "takumichi",
-    "zh": "taku道",
-    "in": ""
+    "zh": "Taku道",
+    "in": "绘制并使用的Vtuber 猫川多多道。"
   },
   {
     "sp": "artist",
@@ -181845,6 +181911,72 @@
     "sp": "artist",
     "en": "sakuragi yomi",
     "zh": "樱木黄泉",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "suichuu hanabi",
+    "zh": "水中花火",
+    "in": "水崎 弘明または水中花火という名義で活動しております。漫画家。"
+  },
+  {
+    "sp": "artist",
+    "en": "enmanuelart",
+    "zh": "enmanuelart",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "shirosaba",
+    "zh": "白サバ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "cslucaris",
+    "zh": "CSLucaris",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "4riasensei",
+    "zh": "フォリア",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "matsuda",
+    "zh": "ユウスケ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "rasen kyofu kaku",
+    "zh": "ラセン恐怖閣",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "damenahito",
+    "zh": "だめなひと",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "satou teruhito",
+    "zh": "佐藤辉人",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "yamada tahichi",
+    "zh": "山田タヒチ",
+    "in": "原笔名安世夢"
+  },
+  {
+    "sp": "artist",
+    "en": "nijiiro tyahantei",
+    "zh": "虹色チャーハン亭",
     "in": ""
   },
   {
