@@ -1,10 +1,9 @@
-name: build
+name: Eindex
 
 on:
   workflow_dispatch:
   schedule:
-  - cron: "0 0 * * 1"
-
+    - cron: "0 0 * * 1"
 
 jobs:
   build:
@@ -18,6 +17,7 @@ jobs:
           cache: npm
       - name: Install
         run: |
+          cd eindex
           curl -O -L https://github.com/EhTagTranslation/Database/releases/latest/download/db.text.json -s -S --connect-timeout 20 --retry 10 --retry-delay 10
           npm ci
           node index.js
@@ -27,4 +27,3 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git add -A
           git diff-index --quiet HEAD && echo "no update" || (echo "update!" && git commit -m "Auto Updated: `date +'%Y-%m-%d %H:%M:%S'`" && git push origin main)
-
