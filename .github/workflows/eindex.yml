@@ -3,10 +3,12 @@ name: Eindex
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 0 * * 1"
+    - cron: "0 0 * * 1" # each week
 
 jobs:
-  build:
+  Eindex-job:
+    env:
+      TZ: Asia/Shanghai
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3

@@ -3,10 +3,12 @@ name: icalendar
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 1 * * *"
+    - cron: "15 * * * *" # each hour
 
 jobs:
-  build:
+  icalendar-job:
+    env:
+      TZ: Asia/Shanghai
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
