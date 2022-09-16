@@ -10495,7 +10495,7 @@
   },
   {
     "sp": "parody",
-    "en": "a town where you live",
+    "en": "kimi no iru machi",
     "zh": "有你的小镇",
     "in": ""
   },
@@ -12340,6 +12340,18 @@
     "en": "yuusha to maou",
     "zh": "魔王勇者",
     "in": "《魔王勇者》（日语：まおゆう）是由橙乃真希在2channel上即兴创作的一部幻想类轻经济教学小说，并有动画、漫画、广播剧和WEB广播等衍生作品。"
+  },
+  {
+    "sp": "parody",
+    "en": "onegai my melody",
+    "zh": "我爱美乐蒂",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "bikkuriman",
+    "zh": "仙魔大战",
+    "in": ""
   },
   {
     "sp": "character",
@@ -34618,6 +34630,36 @@
     "en": "lenalee lee",
     "zh": "利娜莉·李",
     "in": "李娜丽·李（日语：リナリー‧リー；英语：Lenalee Lee）是星野桂创作的漫画《驱魔少年(d.gray-man)》及其衍生作品的登场角色。"
+  },
+  {
+    "sp": "character",
+    "en": "natsuru senou",
+    "zh": "濑能名津流",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "shizuku sangou",
+    "zh": "三乡雫",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "akane mishima",
+    "zh": "美岛红音",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "minoru mineta",
+    "zh": "峰田实",
+    "in": "所属作品: 我的英雄学院(my hero academia)"
+  },
+  {
+    "sp": "character",
+    "en": "natalia luzu kimlasca-lanvaldear",
+    "zh": "娜塔莉亚·卢慈·基姆拉斯卡·兰帕尔迪亚",
+    "in": "所属作品:深渊传说(tales of the abyss)"
   },
   {
     "sp": "group",
@@ -109194,6 +109236,72 @@
     "in": ""
   },
   {
+    "sp": "group",
+    "en": "sakura no tomoru hie",
+    "zh": "桜の灯る日へ",
+    "in": "熟女画师。"
+  },
+  {
+    "sp": "group",
+    "en": "xx koubou",
+    "zh": "××工房",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "hengen monogatari",
+    "zh": "変幻物語",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "straight lemon kajuu 100",
+    "zh": "ストレートレモン果汁100",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "gekidan 375",
+    "zh": "劇団375",
+    "in": "劇団375是季崎ますた的同人社团名称。"
+  },
+  {
+    "sp": "group",
+    "en": "ryuuka hanten",
+    "zh": "龍華飯店",
+    "in": "龍華飯店是しろすけ的社团名称，原名北極一番星"
+  },
+  {
+    "sp": "group",
+    "en": "hakumaidokoro",
+    "zh": "白米所",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "dandakadan",
+    "zh": "ダンダカダン",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "shikoshiko biyori",
+    "zh": "しこしこ日和",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "ohige no shishimai",
+    "zh": "お髭の獅子舞",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "damenahidou",
+    "zh": "だめなひ堂",
+    "in": ""
+  },
+  {
     "sp": "artist",
     "en": "2",
     "zh": "2",
@@ -181980,6 +182088,66 @@
     "in": ""
   },
   {
+    "sp": "artist",
+    "en": "ikemura hiroichi",
+    "zh": "池村ヒロイチ",
+    "in": "同ヒロイチ(hiroichi)"
+  },
+  {
+    "sp": "artist",
+    "en": "kizaki masuta",
+    "zh": "季崎ますた",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "komera",
+    "zh": "こめら",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "kurotane",
+    "zh": "くろたね",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "toushiki yubune",
+    "zh": "橙織ゆぶね",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "shimada panda",
+    "zh": "しま田ぱんだ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "kakei kei",
+    "zh": "花兄けい",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "kudou hisashi",
+    "zh": "くどうひさし",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "yuuzuki hijiri",
+    "zh": "夕月ひじり",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "koumashiro",
+    "zh": "こうましろ",
+    "in": ""
+  },
+  {
     "sp": "cosplayer",
     "en": "otohara an",
     "zh": "乙原あん",
@@ -185198,7 +185366,7 @@
   {
     "sp": "male",
     "en": "blackmail",
-    "zh": "勒索",
+    "zh": "要挟",
     "in": "通过威胁或披露信息迫使他人提供性爱的行为。"
   },
   {
@@ -185361,7 +185529,7 @@
     "sp": "male",
     "en": "filming",
     "zh": "摄像",
-    "in": "对性行为进行摄像。"
+    "in": "对性行为进行摄像。当且仅当被摄像者全部为男性时归类为男性命名空间，否则归类为女性。"
   },
   {
     "sp": "male",
@@ -188564,7 +188732,7 @@
   {
     "sp": "female",
     "en": "blackmail",
-    "zh": "勒索",
+    "zh": "要挟",
     "in": "通过威胁或披露信息迫使他人提供性爱的行为。"
   },
   {
@@ -188739,7 +188907,7 @@
     "sp": "female",
     "en": "filming",
     "zh": "摄像",
-    "in": "对性行为进行摄像。"
+    "in": "对性行为进行摄像。当且仅当被摄像者全部为男性时归类为男性命名空间，否则归类为女性。"
   },
   {
     "sp": "female",
