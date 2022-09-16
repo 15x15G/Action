@@ -14,8 +14,8 @@ jobs:
       - name: curl
         run: |
           cd icalendar
-          curl https://p66-caldav.icloud.com/published/2/MTAyMTk3MTMxMjExMDIxOXsjasy7WUO0EcKVz7qGEuVjjTlRkgd6WOZM171uxP_u-QM51M24lHzRlAQir-oodDRRTzZeusSLbw0snkZoqI4 -fLo ffxivcn.ics
-          curl https://p66-caldav.icloud.com/published/2/MTAyMTk3MTMxMjExMDIxOXsjasy7WUO0EcKVz7qGEuVzSK8L9ZRQYf1sxUFeH1A1a22GJLf6nfk2-CZNYMv5iOxCNlUR-umbJKFWWAUVRp8 -fLo ffxivin.ics
+          curl https://p66-caldav.icloud.com/published/2/MTAyMTk3MTMxMjExMDIxOXsjasy7WUO0EcKVz7qGEuVjjTlRkgd6WOZM171uxP_u-QM51M24lHzRlAQir-oodDRRTzZeusSLbw0snkZoqI4 -sSfLo ffxivcn.ics
+          curl https://p66-caldav.icloud.com/published/2/MTAyMTk3MTMxMjExMDIxOXsjasy7WUO0EcKVz7qGEuVzSK8L9ZRQYf1sxUFeH1A1a22GJLf6nfk2-CZNYMv5iOxCNlUR-umbJKFWWAUVRp8 -sSfLo ffxivin.ics
 
       - name: git
         run: |
