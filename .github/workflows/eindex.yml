@@ -11,17 +11,17 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - run: |
-          cd eindex
-          curl -O -L https://github.com/EhTagTranslation/Database/releases/latest/download/db.text.json -s -S --connect-timeout 20 --retry 10 --retry-delay 10
-
       - name: Setup Node 16.x
         uses: actions/setup-node@v3
         with:
           node-version: 16.x
+          cache: npm
+          cache-dependency-path: eindex/package-lock.json
 
       - name: Install
         run: |
+          cd eindex
+          curl -O -L https://github.com/EhTagTranslation/Database/releases/latest/download/db.text.json -s -S --connect-timeout 20 --retry 10 --retry-delay 10
           npm ci
           node index.js
 
