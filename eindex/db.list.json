@@ -12354,6 +12354,48 @@
     "in": ""
   },
   {
+    "sp": "parody",
+    "en": "munou na nana",
+    "zh": "无能力者娜娜",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "nurarihyon no mago",
+    "zh": "滑头鬼之孙",
+    "in": "《滑头鬼之孙》（日语：ぬらりひょんの孫，罗马字：Nurarihyon no Mago，英语：Nura: Rise of the Yokai Clan）是椎桥宽创作的以妖怪为题材的少年漫画作品，并有电视动画等衍生作品。\n\n台版的官方译名为《妖怪少爷》。港版的官方译名为《百鬼小当家》。"
+  },
+  {
+    "sp": "parody",
+    "en": "bomber girl",
+    "zh": "轰炸女孩",
+    "in": "《轰炸女孩》是由Konami开发的视频游戏，于2018年8月30日在日本商场发行。它是《炸弹人》系列的衍生产品，游戏形式与以前版本相似，最显着的区别在于角色都是以美少女魔幻风格描绘的兽娘。"
+  },
+  {
+    "sp": "parody",
+    "en": "burn the witch",
+    "zh": "龙与魔女（BURN THE WITCH）",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "hataraku onii-san",
+    "zh": "打工小哥",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "tomica kizuna gattai earth granner",
+    "zh": "极速牵绊 地球先锋队",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "netojuu no susume",
+    "zh": "网络胜利组",
+    "in": "辞掉工作成为尼特族的盛冈森子(moriko morioka)，因原本游玩的线上游戏停止营运，而后在新找到的线上游戏“Fruits de Mer”中遇见了化身为“莉莉(lily)”的樱井优太(yuuta sakurai)，故事从此展开。"
+  },
+  {
     "sp": "character",
     "en": "alice",
     "zh": "爱丽丝",
@@ -34660,6 +34702,120 @@
     "en": "natalia luzu kimlasca-lanvaldear",
     "zh": "娜塔莉亚·卢慈·基姆拉斯卡·兰帕尔迪亚",
     "in": "所属作品:深渊传说(tales of the abyss)"
+  },
+  {
+    "sp": "character",
+    "en": "eleonora viltaria",
+    "zh": "艾蕾欧诺拉·维尔塔利亚",
+    "in": "所属作品: 魔弹之王与战姬(madan no ou to vanadis)"
+  },
+  {
+    "sp": "character",
+    "en": "limalisha",
+    "zh": "莉姆亚莉夏",
+    "in": "所属作品: 魔弹之王与战姬(madan no ou to vanadis)"
+  },
+  {
+    "sp": "character",
+    "en": "ludmila lourie",
+    "zh": "琉德米拉·露利叶",
+    "in": "所属作品: 魔弹之王与战姬(madan no ou to vanadis)"
+  },
+  {
+    "sp": "character",
+    "en": "sofya obertas",
+    "zh": "苏菲亚·欧贝达斯",
+    "in": "所属作品: 魔弹之王与战姬(madan no ou to vanadis)"
+  },
+  {
+    "sp": "character",
+    "en": "tigrevurmud vorn",
+    "zh": "堤格尔维尔穆德·冯伦",
+    "in": "所属作品: 魔弹之王与战姬(madan no ou to vanadis)"
+  },
+  {
+    "sp": "character",
+    "en": "kobeni higashiyama",
+    "zh": "东山小红",
+    "in": "所属作品: 电锯人(chainsaw man)"
+  },
+  {
+    "sp": "character",
+    "en": "hildegarde",
+    "zh": "希尔迪嘉露塔",
+    "in": "所属作品: 魔王奶爸(beelzebub)"
+  },
+  {
+    "sp": "character",
+    "en": "aoi kunieda",
+    "zh": "邦枝葵",
+    "in": "所属作品: 魔王奶爸(beelzebub)"
+  },
+  {
+    "sp": "character",
+    "en": "sajuna inui",
+    "zh": "乾纱寿叶",
+    "in": "所属作品: 更衣人偶坠入爱河(sono bisque doll wa koi o suru)"
+  },
+  {
+    "sp": "character",
+    "en": "toushirou hitsugaya",
+    "zh": "日番谷冬狮郎",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "soi fon",
+    "zh": "碎蜂",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "guan yinping",
+    "zh": "关银屏",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "xing cai",
+    "zh": "星彩",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "zhen ji",
+    "zh": "甄姬",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "moriko morioka",
+    "zh": "盛冈森子",
+    "in": "网络胜利组(netojuu no susume)的女主角，30岁的家里蹲。"
+  },
+  {
+    "sp": "character",
+    "en": "yuuta sakurai",
+    "zh": "樱井优太",
+    "in": "网络胜利组(netojuu no susume)的男主角，金发碧眼的英国混血儿，在梅崎商事工作的精英。"
+  },
+  {
+    "sp": "character",
+    "en": "lily",
+    "zh": "莉莉",
+    "in": "所属作品: 网络胜利组(netojuu no susume)\n盛冈森子(moriko morioka)在游戏中的角色，蓝发蓝瞳的骑士，被戏称「残念系帅哥」，在公会里因紫丁香谣传，被认为是正在找工作的大学生。在公会队伍里担任主坦。"
+  },
+  {
+    "sp": "character",
+    "en": "hinata kuraue",
+    "zh": "仓上日向",
+    "in": "所属作品: 向山进发(yama no susume)"
+  },
+  {
+    "sp": "character",
+    "en": "aoi yukimura",
+    "zh": "雪村葵",
+    "in": "所属作品: 向山进发(yama no susume)"
   },
   {
     "sp": "group",
@@ -104486,7 +104642,7 @@
   {
     "sp": "group",
     "en": "uguisuya",
-    "zh": "鶯屋",
+    "zh": "莺屋",
     "in": ""
   },
   {
@@ -109299,6 +109455,18 @@
     "sp": "group",
     "en": "damenahidou",
     "zh": "だめなひ堂",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "petanko bokujo",
+    "zh": "ぺたんこ牧場",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "chanbara kishidan",
+    "zh": "ちゃんばら騎士団",
     "in": ""
   },
   {
@@ -176396,7 +176564,7 @@
   {
     "sp": "artist",
     "en": "uguisu kagura",
-    "zh": "鶯神楽",
+    "zh": "莺神乐",
     "in": ""
   },
   {
@@ -182145,6 +182313,72 @@
     "sp": "artist",
     "en": "koumashiro",
     "zh": "こうましろ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "denpouya chamaru",
+    "zh": "伝法谷ちゃまる",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "miazi",
+    "zh": "miazi(ミアＰ)",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "namagome negi",
+    "zh": "瑠川ねぎ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "ebi fry teishoku",
+    "zh": "ぐえー/エビフライ定食",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "shishido sakura",
+    "zh": "宍戸沙玖来",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "pontaro",
+    "zh": "ぽんたろ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "ikawa waki",
+    "zh": "わき",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "aizawa marimo",
+    "zh": "愛沢 まりも",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "moyamoya",
+    "zh": "モヤモヤ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "okabe gyoza",
+    "zh": "尾壁餃子",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "shizuhime",
+    "zh": "静姬",
     "in": ""
   },
   {
