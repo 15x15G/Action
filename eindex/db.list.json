@@ -12432,6 +12432,24 @@
     "in": "《恶魔幸存者2》（日语：デビルサバイバー2；英语：Shin Megami Tensei: Devil Survivor 2）是日本会社Atlus为Nintendo DS开发及发行的细规模战棋角色扮演游戏。日文的标题与前作《女神异闻录 恶魔幸存者》不同，不再带有“女神异闻录”一词。"
   },
   {
+    "sp": "parody",
+    "en": "henshin",
+    "zh": "变身-emergence-",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "magika no kenshi to basileus",
+    "zh": "魔技科的剑士与召唤魔王",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "aragami",
+    "zh": "荒神",
+    "in": ""
+  },
+  {
     "sp": "character",
     "en": "alice",
     "zh": "爱丽丝",
@@ -25772,7 +25790,7 @@
   {
     "sp": "character",
     "en": "nel zelpher",
-    "zh": "妮露",
+    "zh": "奈露",
     "in": ""
   },
   {
@@ -34918,6 +34936,54 @@
     "en": "yuzuki seo",
     "zh": "濑尾结月",
     "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "saki yoshida",
+    "zh": "吉田咲",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "nahida",
+    "zh": "纳西妲",
+    "in": "纳西妲是由miHoYo创作的游戏《原神》及其衍生作品的登场角色。"
+  },
+  {
+    "sp": "character",
+    "en": "mitsuru kirijo",
+    "zh": "桐条美鹤",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "kaguya otonashi",
+    "zh": "音无辉夜",
+    "in": "所属作品: 魔技科的剑士与召唤魔王(magika no kenshi to basileus)"
+  },
+  {
+    "sp": "character",
+    "en": "kaoru tanamachi",
+    "zh": "棚町薰",
+    "in": "所属作品: 圣诞之吻(amagami)"
+  },
+  {
+    "sp": "character",
+    "en": "nilou",
+    "zh": "妮露",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "princess elsa",
+    "zh": "艾莎公主",
+    "in": "迪士尼动画电影《冰雪奇缘》及其衍生作品中的女主角。"
+  },
+  {
+    "sp": "character",
+    "en": "kristoff bjorgman",
+    "zh": "克斯托夫",
+    "in": "动画电影《冰雪奇缘》系列中的角色"
   },
   {
     "sp": "group",
@@ -182586,6 +182652,24 @@
     "in": ""
   },
   {
+    "sp": "artist",
+    "en": "kitsune choukan",
+    "zh": "きつね長官",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "kagura kurumi",
+    "zh": "神楽くるみ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "yaemugura",
+    "zh": "八重葎",
+    "in": ""
+  },
+  {
     "sp": "cosplayer",
     "en": "otohara an",
     "zh": "乙原あん",
@@ -182896,6 +182980,12 @@
     "en": "mercurylamp",
     "zh": "水銀燈",
     "in": "18禁🔞伪娘"
+  },
+  {
+    "sp": "cosplayer",
+    "en": "niyeye",
+    "zh": "你烨烨",
+    "in": ""
   },
   {
     "sp": "male",
