@@ -12450,6 +12450,18 @@
     "in": ""
   },
   {
+    "sp": "parody",
+    "en": "owari no chronicle",
+    "zh": "终焉的年代记",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "les miserables",
+    "zh": "悲惨世界",
+    "in": "维克多雨果的著名著作"
+  },
+  {
     "sp": "character",
     "en": "alice",
     "zh": "爱丽丝",
@@ -34984,6 +34996,102 @@
     "en": "kristoff bjorgman",
     "zh": "克斯托夫",
     "in": "动画电影《冰雪奇缘》系列中的角色"
+  },
+  {
+    "sp": "character",
+    "en": "athrun zala",
+    "zh": "阿斯兰·萨拉",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "rey za burrel",
+    "zh": "雷·札·巴雷尔",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "mako hitachi",
+    "zh": "常陆茉子",
+    "in": "常陆茉子（日语：常陸 茉子（ひたち まこ））是柚子社所创作的美少女游戏《千恋＊万花(senren banka)》的登场角色，女主角之一。"
+  },
+  {
+    "sp": "character",
+    "en": "yoshino tomotake",
+    "zh": "朝武芳乃",
+    "in": "朝武芳乃（日语：朝武 芳乃（ともたけ よしの））是柚子社所创作的美少女游戏《千恋＊万花(senren banka)》的登场角色，女主角之一。"
+  },
+  {
+    "sp": "character",
+    "en": "lena liechtenauer",
+    "zh": "蕾娜·列支敦瑙尔",
+    "in": "蕾娜·列支敦瑙尔（日语：レナ・リヒテナウアー；英语/德语：Lena Liechtenauer）是柚子社所创作的美少女游戏《千恋＊万花(senren banka)》的登场角色，女主角之一。"
+  },
+  {
+    "sp": "character",
+    "en": "tamaki tamada",
+    "zh": "玉田环",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "shizuko hosomi",
+    "zh": "细见静子",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "yagen toushirou",
+    "zh": "药研藤四郎",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "shinano toushirou",
+    "zh": "信浓藤四郎",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "gotou toushirou",
+    "zh": "后藤藤四郎",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "atsushi toushirou",
+    "zh": "厚藤四郎",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "saniwa",
+    "zh": "审神者",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "houchou toushirou",
+    "zh": "包丁藤四郎",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "shokudaikiri mitsutada",
+    "zh": "烛台切光忠",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "horikawa kunihiro",
+    "zh": "堀川国广",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "vajra",
+    "zh": "瓦姬拉",
+    "in": "碧蓝幻想中的角色"
   },
   {
     "sp": "group",
@@ -120278,8 +120386,8 @@
   {
     "sp": "artist",
     "en": "tamano kedama",
-    "zh": "玉之けだま",
-    "in": "漫画家，画师。以画萝莉(lolicon) 以及魅魔见长。\n以同人社团毛玉牛乳(kedama gyuunyuu)活动，由于这个社团名对于以汉语(chinese)为母语来的人来说更好记些，国内一般统称毛玉牛乳老师。\n\n作者推特头像\n\n单行本《僕は小さな淫魔のしもべ》"
+    "zh": "毛玉牛乳",
+    "in": "玉之けだま，漫画家，画师。以画萝莉(lolicon) 以及魅魔见长。\n以同人社团毛玉牛乳(kedama gyuunyuu)活动，由于这个社团名对于以汉语(chinese)为母语来的人来说更好记些，国内一般统称毛玉牛乳老师。\n\n作者推特头像\n\n单行本《僕は小さな淫魔のしもべ》"
   },
   {
     "sp": "artist",
@@ -132722,7 +132830,7 @@
   {
     "sp": "artist",
     "en": "aka",
-    "zh": "亜果",
+    "zh": "亚果",
     "in": ""
   },
   {
@@ -182667,6 +182775,60 @@
     "sp": "artist",
     "en": "yaemugura",
     "zh": "八重葎",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "pottsness",
+    "zh": "pottsness",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "kimyou chourui",
+    "zh": "奇妙鸟类",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "kawakami minoru",
+    "zh": "川上稔",
+    "in": "川上稔（1975年1月3日－）是日本轻小说作家和游戏开发者，出身于东京都。主要作品有境界线上的地平线(kyoukai senjou no horizon)和终焉的年代记(owari no chronicle)"
+  },
+  {
+    "sp": "artist",
+    "en": "omulet tomato",
+    "zh": "オムレットマト",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "hyouta",
+    "zh": "俵太",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "asaomi shimura",
+    "zh": "アサオミ志群",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "ooban yaki",
+    "zh": "大伴ヤキ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "yoshida killy",
+    "zh": "吉田Killy",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "tou",
+    "zh": "トウ",
     "in": ""
   },
   {
