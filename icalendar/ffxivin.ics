@@ -712,8 +712,8 @@ DTSTART;TZID=Asia/Tokyo:20210928T110000
 DTEND;TZID=Asia/Tokyo:20210928T190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221012T090253Z
-SUMMARY:J-守护天节2022
+DTSTAMP:20221013T033316Z
+SUMMARY:J-守护天节「キケンな仮装行進、始まる」
 DESCRIPTION:活动奖励：\n医生服一套（5件）-「ウェイクドクター・マスク」、「ウェイクドクター・ホワイトコート」、「ウェイクドクター・
  ラバーグローブ」、「ウェイクドクター・ボトム」、「ウェイクドクター・シューズ」\n新动作（吃南瓜饼干）-「パンプキンクッキーを食べる」\n庭具-
  「ゴースト＆パンプキンセット」\n家具（桌上）-「ウィスプケージランプ」\n\n活动官网：\nhttps://jp.finalfantasyxi
@@ -721,9 +721,9 @@ DESCRIPTION:活动奖励：\n医生服一套（5件）-「ウェイクドクタ�
 TZID:Asia/Tokyo
 SEQUENCE:0
 UID:A33687C4-627F-42A6-85B5-84651A48CA82
-CREATED:20221012T090253Z
+CREATED:20221013T033316Z
 DTSTART;TZID=Asia/Tokyo:20221019T170000
-DTEND;TZID=Asia/Tokyo:20221101T235900
+DTEND;TZID=Asia/Tokyo:20221031T235900
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20211203T072242Z
