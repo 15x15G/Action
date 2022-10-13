@@ -1228,6 +1228,19 @@ SUMMARY:C-调整免费试玩及激活机制
 UID:E225724E-773B-46E4-BE76-4CA88C3849C7
 END:VEVENT
 BEGIN:VEVENT
+CREATED:20221013T031018Z
+DESCRIPTION:活动奖励：\n小丑服一套（5件）-「小丑帽」、「小丑上装」、「小丑短手套」、「小丑打底裤」、「小丑长靴」\n新面部彩妆-「
+ 面妆样式：小丑」\n庭具-「南瓜鬼魂组合」\n家具（桌上）-「南瓜花盆」\n\n活动页面：\nhttps://actff1.web.sdo.co
+ m/project/20221020AllSaintsWake/mindex.html
+DTEND;TZID=Asia/Shanghai:20221103T140000
+DTSTAMP:20221013T031420Z
+DTSTART;TZID=Asia/Shanghai:20221020T140000
+LAST-MODIFIED:20221013T031301Z
+SEQUENCE:0
+SUMMARY:C-守护天节「欢迎来到灵魂盛宴」
+UID:E271DC82-FE6F-4386-8B1F-3F62A13B9929
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20220810T084903Z
 SUMMARY:C-天书奇谈之丝瓜的奇谈书
 DESCRIPTION:操作期限：\n截止到2022年9月30日12:00\n\n活动页面：\nhttps://actff1.web.sdo.co
