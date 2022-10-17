@@ -12462,6 +12462,30 @@
     "in": "维克多雨果的著名著作"
   },
   {
+    "sp": "parody",
+    "en": "isekai ojisan",
+    "zh": "异世界舅舅",
+    "in": "《异世界舅舅》（日语：異世界おじさん，简称“いせおじ”）是殆ど死んでいる创作的日本漫画，\n由2018年6月29日起于KADOKAWA旗下的漫画网站ComicWalker连载至今。\n故事讲述在现实世界昏迷17年的舅舅从异世界归来后，外甥敬文听舅舅口述在异世界的回忆。"
+  },
+  {
+    "sp": "parody",
+    "en": "star ocean",
+    "zh": "星之海洋",
+    "in": "银河游侠系列（日语：スターオーシャン，英语：Star Ocean，香港和台湾译作“银河游侠”，又译“星之海洋”）是由tri-Ace开发、史克威尔艾尼克斯（原艾尼克斯）发售的角色扮演游戏系列。"
+  },
+  {
+    "sp": "parody",
+    "en": "kami no rhapsody",
+    "zh": "神之狂想曲",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "nintama rantarou",
+    "zh": "落第忍者乱太郎",
+    "in": ""
+  },
+  {
     "sp": "character",
     "en": "alice",
     "zh": "爱丽丝",
@@ -35094,6 +35118,30 @@
     "in": "碧蓝幻想中的角色"
   },
   {
+    "sp": "character",
+    "en": "tighnari",
+    "zh": "提纳里",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "hinata wakaba",
+    "zh": "若葉日向",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "chihiro kagami",
+    "zh": "各务千寻",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "perrine h. clostermann",
+    "zh": "佩琳·H·克洛斯特曼",
+    "in": "所属作品: 强袭魔女(strike witches)"
+  },
+  {
     "sp": "group",
     "en": "1",
     "zh": "1",
@@ -37646,7 +37694,7 @@
   {
     "sp": "group",
     "en": "inbou no teikoku",
-    "zh": "陰謀の帝国",
+    "zh": "阴谋的帝国",
     "in": ""
   },
   {
@@ -47643,7 +47691,7 @@
     "sp": "group",
     "en": "konoshiro shinko",
     "zh": "コノシロしんこ",
-    "in": ""
+    "in": "由女性漫画家乌丸弥生(karasuma yayoi)（主笔）和山雀たすく(yamagara tasuku)（原案、分镜）组成的同人社团。"
   },
   {
     "sp": "group",
@@ -109776,6 +109824,30 @@
     "in": ""
   },
   {
+    "sp": "group",
+    "en": "namagaki",
+    "zh": "生牡蛎",
+    "in": "画师ふらつ(furatsu)所属同人社团"
+  },
+  {
+    "sp": "group",
+    "en": "chouzankai",
+    "zh": "超斩开",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "kirin planet",
+    "zh": "キリンプラネット",
+    "in": "満開べえスケ的社团名字。"
+  },
+  {
+    "sp": "group",
+    "en": "sonpuushi",
+    "zh": "村夫子",
+    "in": ""
+  },
+  {
     "sp": "artist",
     "en": "2",
     "zh": "2",
@@ -115322,8 +115394,8 @@
   {
     "sp": "artist",
     "en": "karasuma yayoi",
-    "zh": "烏丸やよい",
-    "in": ""
+    "zh": "乌丸弥生",
+    "in": "作者推特头像\n\n女性同人社团コノシロしんこ(konoshiro shinko)主笔之一，\n小学馆里Sunday《正后方的神威》 HP 连载中。"
   },
   {
     "sp": "artist",
@@ -115389,7 +115461,7 @@
     "sp": "artist",
     "en": "yamagara tasuku",
     "zh": "山雀たすく",
-    "in": ""
+    "in": "同人社团コノシロしんこ(konoshiro shinko)所属画师，负责作品原案、分镜。"
   },
   {
     "sp": "artist",
@@ -115484,8 +115556,8 @@
   {
     "sp": "artist",
     "en": "naruko",
-    "zh": "鳴湖（平間ひろかず）",
-    "in": ""
+    "zh": "鸣湖（平间ひろかず）",
+    "in": "作者推特头像"
   },
   {
     "sp": "artist",
@@ -124142,8 +124214,8 @@
   {
     "sp": "artist",
     "en": "nakamura kuzuyu",
-    "zh": "中村葛湯",
-    "in": ""
+    "zh": "中村葛汤",
+    "in": "作者推特头像"
   },
   {
     "sp": "artist",
@@ -131918,7 +131990,7 @@
   {
     "sp": "artist",
     "en": "indo curry",
-    "zh": "印度カリー",
+    "zh": "印度咖喱",
     "in": ""
   },
   {
@@ -182829,6 +182901,36 @@
     "sp": "artist",
     "en": "tou",
     "zh": "トウ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "natsusaka",
+    "zh": "夏坂",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "tempura dozaemon",
+    "zh": "天妇罗土左卫门",
+    "in": "作者推特头像"
+  },
+  {
+    "sp": "artist",
+    "en": "furatsu",
+    "zh": "ふらつ",
+    "in": "作者推特头像\n\n同人社团生牡蛎(namagaki)主笔"
+  },
+  {
+    "sp": "artist",
+    "en": "matsui yasutsugu",
+    "zh": "郁那和なにろ | 松井康治",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "inari bancha",
+    "zh": "稲荷ばん茶",
     "in": ""
   },
   {
