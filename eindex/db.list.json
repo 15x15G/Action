@@ -8066,8 +8066,8 @@
   {
     "sp": "parody",
     "en": "honkai gakuen",
-    "zh": "崩坏学园",
-    "in": ""
+    "zh": "崩坏学园/崩坏3",
+    "in": "《崩坏3》是中国大陆游戏开发商米哈游开发的的手机3D角色扮演动作游戏。崩坏学园系列的第3作，沿用了前作《崩坏学园2》角色。故事背景、剧情和世界观与《崩坏学园2》有所不同。讲述了女主角琪亚娜·卡斯兰娜和她的朋友们的冒险。为ACT类型游戏。"
   },
   {
     "sp": "parody",
@@ -12483,6 +12483,24 @@
     "sp": "parody",
     "en": "nintama rantarou",
     "zh": "落第忍者乱太郎",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "mahoutsukai no yome",
+    "zh": "魔法使的新娘",
+    "in": "羽鸟智世是个无依无靠、没有求生欲望和方法、一无所有的十五岁少女。却有一名非人类的魔法使艾利亚斯·恩滋华斯以五百万英镑买下智世，并把她当成“徒弟”和“新娘”。智世心中停止已久的时间也开始慢慢地运转……"
+  },
+  {
+    "sp": "parody",
+    "en": "subarashiki hibi",
+    "zh": "美好的每一天～不连续的存在～",
+    "in": "美好的每一天～不连续的存在～（日文：素晴らしき日々～不連続存在～）是由枕社的姐妹游戏公司ケロQ推出的一款电波、狂气类游戏，于2010年3月26日发售。"
+  },
+  {
+    "sp": "parody",
+    "en": "tron",
+    "zh": "创：战纪",
     "in": ""
   },
   {
@@ -35140,6 +35158,66 @@
     "en": "perrine h. clostermann",
     "zh": "佩琳·H·克洛斯特曼",
     "in": "所属作品: 强袭魔女(strike witches)"
+  },
+  {
+    "sp": "character",
+    "en": "bronya zaychik",
+    "zh": "布洛妮娅·扎伊切克",
+    "in": "布洛妮娅·扎伊切克（ブローニャ・ザイチク，Bronya Zaychik，配音：Hanser（普通话）、阿澄佳奈（日语））\n西伯利亚的暗杀兵，被可可利亚收养后参与X-10实验导致失去了表情和双腿活动能力。但是获得了名为“重装小兔”的机甲。\n曾被可可利亚植入芯片控制，后为不再伤害到琪亚娜等朋友而烧毁芯片陷入昏迷，在圣芙蕾雅学院的治疗和符华的帮助下苏醒，现任第一律者。"
+  },
+  {
+    "sp": "character",
+    "en": "danzou katou",
+    "zh": "加藤段藏",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "fubuki nemugaki",
+    "zh": "合欢垣吹雪",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "mamiya hasaki",
+    "zh": "间宫羽咲",
+    "in": "间宫羽咲是枕社的姐妹游戏公司ケロQ旗下游戏《美好的每一天～不连续的存在～》（素晴らしき日々〜不連続存在）的登场角色。"
+  },
+  {
+    "sp": "character",
+    "en": "kushima kamome",
+    "zh": "久岛鸥",
+    "in": "久岛鸥（日语：久島（くしま） 鴎（かもめ））是由Key制作的游戏《Summer Pockets》及其衍生作品的登场角色。"
+  },
+  {
+    "sp": "character",
+    "en": "serika kuromi",
+    "zh": "黑见芹香",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "ayane okusora",
+    "zh": "奥空绫音",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "mikan hinatsuki",
+    "zh": "阳夏木蜜柑",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "sword maiden",
+    "zh": "剑之圣女",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "chigusa kisaragi",
+    "zh": "如月千种",
+    "in": ""
   },
   {
     "sp": "group",
@@ -79418,8 +79496,8 @@
   {
     "sp": "group",
     "en": "makura",
-    "zh": "まくら",
-    "in": ""
+    "zh": "枕/まくら",
+    "in": "枕于2004年由SCA-自出于两线体制发展公司的考虑创立，核心staff与KeroQ基本相同，但相较于KeroQ较为核心向的作品风格，枕的作品相对更符合较多玩家的口味。名称含有“梦的道具”的寓意。"
   },
   {
     "sp": "group",
@@ -109845,6 +109923,24 @@
     "sp": "group",
     "en": "sonpuushi",
     "zh": "村夫子",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "keroq",
+    "zh": "ケロQ",
+    "in": "KeroQ于1998年成立，最初名称为“ケロキュウ”，于2005年改名为现在名称。公司董事长为SCA-自。"
+  },
+  {
+    "sp": "group",
+    "en": "koushoku na reichourui",
+    "zh": "好色な霊長類",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "yukinko okeya",
+    "zh": "雪ん娘おけ屋",
     "in": ""
   },
   {
@@ -182924,13 +183020,61 @@
   {
     "sp": "artist",
     "en": "matsui yasutsugu",
-    "zh": "郁那和なにろ | 松井康治",
+    "zh": "松井康治（郁那和なにろ）",
     "in": ""
   },
   {
     "sp": "artist",
     "en": "inari bancha",
     "zh": "稲荷ばん茶",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "yusano",
+    "zh": "ゆさの",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "pumpkinspicelatte",
+    "zh": "pumpkinspice",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "sca-ji",
+    "zh": "SCA-自",
+    "in": "ムーンフェイズ株式会社代表取缔役\n也管理着ケロQ、枕"
+  },
+  {
+    "sp": "artist",
+    "en": "shichi ouji",
+    "zh": "七王子",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "mankai beesuke",
+    "zh": "満開べえスケ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "hiiragi yuichi",
+    "zh": "柊裕一",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "mukaino kei",
+    "zh": "向野圭衣",
+    "in": "萝莉漫画家"
+  },
+  {
+    "sp": "artist",
+    "en": "sogom",
+    "zh": "裕珍",
     "in": ""
   },
   {
@@ -184945,12 +185089,6 @@
   },
   {
     "sp": "male",
-    "en": "birth",
-    "zh": "出产",
-    "in": "生物诞生的过程，在此之前一般会怀孕(pregnant)。"
-  },
-  {
-    "sp": "male",
     "en": "cervix prolapse",
     "zh": "宫颈脱垂",
     "in": "阴道壁膨胀出阴道。有时是敞口(gaping)的后续。需要脱垂(prolapse)标签。"
@@ -184977,7 +185115,13 @@
     "sp": "male",
     "en": "unbirth",
     "zh": "入阴",
-    "in": "被阴道，肛门或尿道吞噬的人或生物。 本质上与出产(birth)相反，因此不需要出产(birth)或怀孕(pregnant)标签。"
+    "in": "被阴道，肛门或尿道吞噬的人或生物。 本质上与阴道出产(vaginal birth)相反，因此不需要阴道出产(vaginal birth)或怀孕(pregnant)标签。"
+  },
+  {
+    "sp": "male",
+    "en": "vaginal birth",
+    "zh": "阴道出产",
+    "in": "通过阴道分娩的过程，在此之前一般会怀孕(pregnant)。单张图片即可应用此标签，除非它在一组随机的图片中。不应用于产卵(eggs)。"
   },
   {
     "sp": "male",
@@ -185073,7 +185217,7 @@
     "sp": "male",
     "en": "eggs",
     "zh": "产卵",
-    "in": "有蛋或产蛋的行为。常常导致腹部膨胀(inflation)。不应与出产(birth)或怀孕(pregnant)混淆。"
+    "in": "有蛋或产蛋的行为。常常导致腹部膨胀(inflation)。不应与阴道出产(vaginal birth)或怀孕(pregnant)混淆。"
   },
   {
     "sp": "male",
@@ -188173,12 +188317,6 @@
   },
   {
     "sp": "female",
-    "en": "birth",
-    "zh": "出产",
-    "in": "生物诞生的过程，在此之前一般会怀孕(pregnant)。"
-  },
-  {
-    "sp": "female",
     "en": "cervix penetration",
     "zh": "宫颈穿透",
     "in": "明显从女性的宫颈贯穿进子宫。很可能与透视(x-ray)标签结合使用。"
@@ -188235,7 +188373,13 @@
     "sp": "female",
     "en": "unbirth",
     "zh": "入阴",
-    "in": "被阴道，肛门或尿道吞噬的人或生物。 本质上与出产(birth)相反，因此不需要出产(birth)或怀孕(pregnant)标签。"
+    "in": "被阴道，肛门或尿道吞噬的人或生物。 本质上与阴道出产(vaginal birth)相反，因此不需要阴道出产(vaginal birth)或怀孕(pregnant)标签。"
+  },
+  {
+    "sp": "female",
+    "en": "vaginal birth",
+    "zh": "阴道出产",
+    "in": "通过阴道分娩的过程，在此之前一般会怀孕(pregnant)。单张图片即可应用此标签，除非它在一组随机的图片中。不应用于产卵(eggs)。"
   },
   {
     "sp": "female",
@@ -188325,7 +188469,7 @@
     "sp": "female",
     "en": "eggs",
     "zh": "产卵",
-    "in": "有蛋或产蛋的行为。常常导致腹部膨胀(inflation)。不应与出产(birth)或怀孕(pregnant)混淆。"
+    "in": "有蛋或产蛋的行为。常常导致腹部膨胀(inflation)。不应与阴道出产(vaginal birth)或怀孕(pregnant)混淆。"
   },
   {
     "sp": "female",
