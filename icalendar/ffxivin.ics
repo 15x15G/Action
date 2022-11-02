@@ -1199,14 +1199,19 @@ DTSTART;TZID=Asia/Tokyo:20210516T154500
 DTEND;TZID=Asia/Tokyo:20210516T170000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221031T021214Z
-SUMMARY:J-国际服北美服扩张，6.28版本更新维护
+DTSTAMP:20221102T015117Z
+SUMMARY:J-国际服北美服扩张，6.28版本更新维护（技改、皇家骑士团小联动部分装备可染色）
 DESCRIPTION:新大区名字：Dynamis\n新服务器名字（四个）：\nHallcarnassus、Maduin、Marilith、Ser
- aph\n房区将会在2022.11.5（的日本时间0:00）开始抽选
+ aph\n房区将会在2022.11.5（的日本时间0:00）开始抽选\n\n开了一个纪念皇家骑士团发售的截图活动，穿「ヴァレリアン装備」或「ゼノ
+ ビアン装備」的衣服部位截图，推特投稿，详情见官网（到11月14号日本时间23:59为止）：\nhttps://jp.finalfantasyxi
+ v.com/lodestone/topics/detail/5e5c11d151ca689e976aec223c8356595bd78606\n
+ \n官方技改笔记（日）：\nhttps://jp.finalfantasyxiv.com/lodestone/topics/detail/9c0
+ 67c10cca6c1e87151e1c2562eb5d7df5aebb6\n\nnga技改笔记翻译（来源@GBL阿尔塞斯）：\nhttps:/
+ /nga.178.com/read.php?tid=34093189
 TZID:Asia/Tokyo
 SEQUENCE:0
 UID:FAAD5BC0-7245-46D3-9D33-472184787C80
-CREATED:20221031T021214Z
+CREATED:20221102T015117Z
 DTSTART;TZID=Asia/Tokyo:20221101T100000
 DTEND;TZID=Asia/Tokyo:20221101T190000
 END:VEVENT
