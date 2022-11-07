@@ -35274,6 +35274,18 @@
     "in": "所属作品: 战姬绝唱Symphogear(senki zesshou symphogear)"
   },
   {
+    "sp": "character",
+    "en": "dori",
+    "zh": "多莉",
+    "in": "原神角色"
+  },
+  {
+    "sp": "character",
+    "en": "rikka morizono",
+    "zh": "森园立夏",
+    "in": "森园立夏是CIRCUS旗下游戏《初音岛3》及其衍生作品的登场角色。"
+  },
+  {
     "sp": "group",
     "en": "1",
     "zh": "1",
@@ -110010,6 +110022,12 @@
     "in": ""
   },
   {
+    "sp": "group",
+    "en": "chinpan-bu",
+    "zh": "チンパン部",
+    "in": ""
+  },
+  {
     "sp": "artist",
     "en": "2",
     "zh": "2",
@@ -183177,6 +183195,18 @@
     "sp": "artist",
     "en": "sirosoil",
     "zh": "白土",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "chinpan",
+    "zh": "チンパン",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "chocoro",
+    "zh": "チョコロ",
     "in": ""
   },
   {
