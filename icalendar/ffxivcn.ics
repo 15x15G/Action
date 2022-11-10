@@ -355,13 +355,13 @@ DTSTART;TZID=Asia/Shanghai:20220111T100000
 DTEND;TZID=Asia/Shanghai:20220120T140000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221018T012755Z
-SUMMARY:C-（预计）6.2吧大概（新主线、万魔殿炼狱篇、无人岛、幻魔神等
+DTSTAMP:20221110T065821Z
+SUMMARY:C-（预计）6.2吧大概（新主线、万魔殿炼狱篇、无人岛、幻魔神等）
 DESCRIPTION:炼狱篇零式将在一周后（202?.??.??）开放。
 TZID:Asia/Shanghai
 SEQUENCE:0
 UID:311BDAB2-0922-4CD5-92C3-CFFDF3F944C7
-CREATED:20221018T012755Z
+CREATED:20221110T065821Z
 DTSTART;VALUE=DATE:20221220
 DTEND;VALUE=DATE:20221221
 END:VEVENT
@@ -592,20 +592,21 @@ UID:6BB1FEC2-1DD8-4267-86F4-A51F61A4B250
 URL;VALUE=URI:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221018T012537Z
-SUMMARY:C-（预计）莫古莫古大收集
-DESCRIPTION:【持续到6.2更新维护】\n\n对象迷宫概述（获得多少石头）：\n7石头-乐欲之所瓯博讷修道院、天幕魔导城最终决战\n6石
- 头-封闭圣塔黎铎拉纳大灯塔\n5石头-失落之都拉巴纳斯塔\n3~5石头-纷争前线\n4石头-幻龙残骸密约之塔、腐坏遗迹无限城市街古迹、恶灵府邸静
- 语庄园、帝国南方堡外围激战、毒雾洞窟黄金谷\n3石头-究极神兵破坏作战、山中战线泽梅尔要塞\n2石头-所有的欧米茄时空狭缝（普通大型总共12层）
- 、普通红宝石神兵、普通绿宝石神兵、普通钻石神兵\n\n（或许能有用的）奖励：\n恶魔砖块耳坠（复刻）-100\n发型样式：圣翼-50\n幽夜神威
- 魔笛-50\n亚菲提角笛-50\n艾尔凡人偶-50\n演技教材：背靠-30\n\n兑换推荐帖：\n[国际服新闻] [氵一贴] 国际服下次旅行莫古
- 力兑换列表\nhttps://bbs.nga.cn/read.php?tid=32569002
+DTSTAMP:20221110T065734Z
+SUMMARY:C-莫古莫古★大收集 ~回归的真理~
+DESCRIPTION:【持续到6.2更新维护，现在只是个预估时间，等准确时间出来了会改动】\n\n对象迷宫概述（获得多少石头）：\n7石头-乐欲
+ 之所瓯博讷修道院、天幕魔导城最终决战\n6石头-封闭圣塔黎铎拉纳大灯塔\n5石头-失落之都拉巴纳斯塔\n3~5石头-纷争前线\n4石头-幻龙残骸
+ 密约之塔、腐坏遗迹无限城市街古迹、恶灵府邸静语庄园、帝国南方堡外围激战、毒雾洞窟黄金谷\n3石头-究极神兵破坏作战、山中战线泽梅尔要塞\n2石头
+ -所有的欧米茄时空狭缝（普通大型总共12层）、普通红宝石神兵、普通绿宝石神兵、普通钻石神兵\n\n（或许能有用的）奖励：\n恶魔砖块耳坠（复刻）
+ -100\n发型样式：圣翼-50\n幽夜神威魔笛-50\n亚菲提角笛-50\n艾尔凡人偶-50\n演技教材：背靠-30\n\n兑换推荐帖：\n[
+ 国际服新闻] [氵一贴] 国际服下次旅行莫古力兑换列表\nhttps://bbs.nga.cn/read.php?tid=32569002\n\
+ n活动页面：\nhttps://actff1.web.sdo.com/project/20221107ffmogu/index.html
 TZID:Asia/Shanghai
 SEQUENCE:0
 UID:6CF325A9-3207-4244-BA91-6F26E025C94C
-CREATED:20221018T012537Z
-DTSTART;VALUE=DATE:20221122
-DTEND;VALUE=DATE:20221123
+CREATED:20221110T065734Z
+DTSTART;VALUE=DATE:20221115
+DTEND;VALUE=DATE:20230104
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20210607T074514Z
