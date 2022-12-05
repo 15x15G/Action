@@ -12540,6 +12540,24 @@
     "in": "《魔都精兵的奴隶》（日语：魔都精兵のスレイブ）是Takahiro负责原作，竹村洋平负责作画的日本漫画，由2019年1月5日起于少年Jump+连载至今，隔周星期六更新。改编电视动画将于2023年首播。"
   },
   {
+    "sp": "parody",
+    "en": "bocchi the rock",
+    "zh": "孤独摇滚！",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "scp foundation",
+    "zh": "SCP基金会",
+    "in": "SCP基金会是一个虚构的特工组织，作为同名互联网接龙小说创作项目中的主要要素。在该虚构宇宙中，SCP基金会是一个跨国秘密组织，负责搜寻并收容各种具有异常属性的个体、地点或物体（统称为“异常”），其宗旨为“控制”（Secure），“收容”（Contain），“保护”（Protect）。在现实世界中，SCP基金会是一个基于网站社区的协同写作小说项目，其文章包含多种类型的元素和风格，如科学幻想、都市奇幻和恐怖小说。"
+  },
+  {
+    "sp": "parody",
+    "en": "kinnikuman",
+    "zh": "金肉人",
+    "in": ""
+  },
+  {
     "sp": "character",
     "en": "alice",
     "zh": "爱丽丝",
@@ -29498,8 +29516,8 @@
   {
     "sp": "character",
     "en": "roxy migurdia",
-    "zh": "洛琪希·米格路迪亞·格雷拉特",
-    "in": ""
+    "zh": "洛琪希·米格路迪亚",
+    "in": "洛琪希·米格路迪亚（日语：ロキシー・ミグルディア）是由理不尽な孫の手创作的轻小说《无职转生(mushoku tensei)》及其衍生作品的登场角色。"
   },
   {
     "sp": "character",
@@ -31749,7 +31767,7 @@
     "sp": "character",
     "en": "asuna ichinose",
     "zh": "一之濑明日奈",
-    "in": "社团“肃清与扫荡”成员，主要武装为步枪。"
+    "in": "所属作品：蔚蓝档案(blue archive)\n社团“肃清与扫荡”成员，主要武装为步枪。"
   },
   {
     "sp": "character",
@@ -35850,6 +35868,72 @@
     "in": ""
   },
   {
+    "sp": "character",
+    "en": "sophia nishikinomiya",
+    "zh": "苏菲亚·锦之宫",
+    "in": "安娜·锦之宫(anna nishikinomiya)的母亲，时冈学园家长会会长。"
+  },
+  {
+    "sp": "character",
+    "en": "anna nishikinomiya",
+    "zh": "安娜·锦之宫",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "moona hoshinova",
+    "zh": "Moona Hoshinova",
+    "in": "Moona Hoshinova（日语：ムーナ・ホシノヴァ），是Hololive印度尼西亚（Hololive ID）一期生虚拟UP主中的一员，于2020年4月开始活动。"
+  },
+  {
+    "sp": "character",
+    "en": "miya chinen",
+    "zh": "知念实也",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "koushi sugawara",
+    "zh": "菅原孝支",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "shoyo hinata",
+    "zh": "日向翔阳",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "taiga kagami",
+    "zh": "火神大我",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "tetsuya kuroko",
+    "zh": "黑子哲也",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "daiki aomine",
+    "zh": "青峰大辉",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "haruka nanase",
+    "zh": "七濑遥",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "rin matsuoka",
+    "zh": "松冈凛",
+    "in": ""
+  },
+  {
     "sp": "group",
     "en": "1",
     "zh": "1",
@@ -37135,7 +37219,7 @@
   },
   {
     "sp": "group",
-    "en": "kinokonabe hinanjo",
+    "en": "kinokonabe-hinanjo",
     "zh": "きのこなべ避難所",
     "in": ""
   },
@@ -110670,6 +110754,18 @@
     "in": ""
   },
   {
+    "sp": "group",
+    "en": "140km slash h",
+    "zh": "140km/h",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "shirokuma terepasu",
+    "zh": "白熊テレパス",
+    "in": ""
+  },
+  {
     "sp": "artist",
     "en": "2",
     "zh": "2",
@@ -112999,7 +113095,7 @@
   },
   {
     "sp": "artist",
-    "en": "jaku denpa",
+    "en": "jackdempa",
     "zh": "弱电波",
     "in": ""
   },
@@ -121281,7 +121377,7 @@
     "sp": "artist",
     "en": "tamano kedama",
     "zh": "毛玉牛乳",
-    "in": "玉之けだま，漫画家，画师。以画萝莉(lolicon) 以及魅魔见长。\n以同人社团毛玉牛乳(kedama gyuunyuu)活动，由于这个社团名对于以汉语(chinese)为母语来的人来说更好记些，国内一般统称毛玉牛乳老师。\n\n作者推特头像\n\n单行本《僕は小さな淫魔のしもべ》"
+    "in": "玉之けだま，漫画家，画师。以画萝莉(lolicon) 以及魅魔见长。\n以同人社团毛玉牛乳(kedama gyuunyuu)活动，由于这个社团名对于以中文为母语来的人来说更好记些，国内一般统称毛玉牛乳老师。\n\n作者推特头像\n\n单行本《僕は小さな淫魔のしもべ》"
   },
   {
     "sp": "artist",
@@ -126483,7 +126579,7 @@
     "sp": "artist",
     "en": "inugami kira",
     "zh": "狗神煌",
-    "in": ""
+    "in": "枕社元老级画师"
   },
   {
     "sp": "artist",
@@ -183906,6 +184002,60 @@
     "in": ""
   },
   {
+    "sp": "artist",
+    "en": "madana",
+    "zh": "まだな",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "squchan",
+    "zh": "SquChan",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "mikamin",
+    "zh": "みかみん",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "nakamori",
+    "zh": "なかもり",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "gittangittan",
+    "zh": "ギッタンギッタン",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "kuroda kurota",
+    "zh": "黒田くろた",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "inui hana",
+    "zh": "犬居葉菜",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "yukai na factory",
+    "zh": "愉快なFactory",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "otsunosuke",
+    "zh": "乙の助",
+    "in": ""
+  },
+  {
     "sp": "cosplayer",
     "en": "otohara an",
     "zh": "乙原あん",
@@ -185743,6 +185893,12 @@
   },
   {
     "sp": "male",
+    "en": "nipple piercing",
+    "zh": "乳头穿孔",
+    "in": "位于乳头或乳晕上的穿孔。需要穿孔(piercing)，不应与夹具(clamp)混淆。"
+  },
+  {
+    "sp": "male",
     "en": "nipple stimulation",
     "zh": "乳头刺激",
     "in": "刺激乳头（如用手指、性玩具或工具挤压或摩擦乳头）。\n不应标记为哺乳(breast feeding)。"
@@ -185782,6 +185938,12 @@
     "en": "crotch tattoo",
     "zh": "淫纹",
     "in": "下腹部到耻骨区域之间的任何明显的标记。"
+  },
+  {
+    "sp": "male",
+    "en": "genital piercing",
+    "zh": "性器穿孔",
+    "in": "位于生殖器、会阴或肛门的穿孔。需要穿孔(piercing)，不应与锁精环(cock ring)混淆。"
   },
   {
     "sp": "male",
@@ -188959,6 +189121,12 @@
   },
   {
     "sp": "female",
+    "en": "nipple piercing",
+    "zh": "乳头穿孔",
+    "in": "位于乳头或乳晕上的穿孔。需要穿孔(piercing)，不应与夹具(clamp)混淆。"
+  },
+  {
+    "sp": "female",
     "en": "nipple stimulation",
     "zh": "乳头刺激",
     "in": "刺激乳头（如用手指、性玩具或工具挤压或摩擦乳头）。\n不应标记为哺乳(breast feeding)。"
@@ -188998,6 +189166,12 @@
     "en": "crotch tattoo",
     "zh": "淫纹",
     "in": "下腹部到耻骨区域之间的任何明显的标记。"
+  },
+  {
+    "sp": "female",
+    "en": "genital piercing",
+    "zh": "性器穿孔",
+    "in": "位于生殖器、会阴或肛门的穿孔。需要穿孔(piercing)，不应与锁精环(cock ring)混淆。"
   },
   {
     "sp": "female",
