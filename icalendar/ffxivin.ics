@@ -237,6 +237,25 @@ DTSTART;TZID=Asia/Tokyo:20210622T150000
 DTEND;TZID=Asia/Tokyo:20210622T190000
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20221208T055432Z
+SUMMARY:J-「モグモグ★コレクション ～万物の記憶～」
+DESCRIPTION:【持续到6.3更新维护，有6.3的具体时间后会再修改结束时间】\n\n对象迷宫概述（获得多少石头）：\n7石头-影之国、最
+ 终决战天幕魔导城\n5石头-禁忌城邦玛哈\n3~5石头-纷争前线、烈羽争锋\n4石头-剑斗领域日影地修炼所、纷争要地布雷福洛克斯野营地、神兵要塞
+ 帝国南方堡\n3石头-魔航船虚无方舟、究极神兵破坏作战、山中战线泽梅尔要塞、流沙迷宫樵鸣洞、古代遗迹喀恩埋没圣堂\n2石头-保镖歼灭战、无限城的
+ 死斗、大桥上的决斗\n\n（或许能有用的）奖励：\n鲶鱼领巾（复刻）-100\n青君神威魔笛-50\n白化黑羊号角-50\n飞隼号启动钥匙-50
+ \n演技教材·振作精神-50\n演技教材·看书-30\n\n汉化兑换帖：\n[国际服官网新闻][AUTO][生肉]イベント'モグモグコレクション
+  ～万物の記憶～'12月12日(月)スタート！\nhttps://nga.178.com/read.php?tid=34556301\n\n活动
+ 页面：\nhttps://jp.finalfantasyxiv.com/lodestone/special/mogmog-collection/
+ 202212/cx604we391?utm_source=lodestone&utm_medium=pc_banner&utm_campaign
+ =jp_mogmog-collection
+TZID:Asia/Tokyo
+SEQUENCE:0
+UID:30BA8C37-C8CB-4345-9E2C-C108E907FA05
+CREATED:20221208T055432Z
+DTSTART;TZID=Asia/Tokyo:20221212T170000
+DTEND;TZID=Asia/Tokyo:20230117T180000
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20220803T064655Z
 SUMMARY:J-CDK50%折扣！
 DESCRIPTION:コンプリートパック（包含2.0~6.0）：6380日元→3190日元，也就是323rmb→161rmb，还送张月卡，趁现在
