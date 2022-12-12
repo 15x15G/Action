@@ -12558,6 +12558,66 @@
     "in": ""
   },
   {
+    "sp": "parody",
+    "en": "ever 17",
+    "zh": "Ever17（时空轮回）",
+    "in": "《Ever17 —the out of infinity—》是由KID社制作的一部全年龄美少女游戏，是该公司无限轮回（Infinity）系列游戏中的第二部，同系列游戏还有《Never7》、《Remember11》、《Code18》。"
+  },
+  {
+    "sp": "parody",
+    "en": "memories off",
+    "zh": "告别回忆",
+    "in": "秋之回忆系列（日语：メモリーズオフシリーズ， 英语：Memories Off）是日本游戏厂商KID公司和5pb.公司（5代以后）开发的一系列恋爱游戏，以及以此衍伸出来的动画，小说、漫画等系列作品。"
+  },
+  {
+    "sp": "parody",
+    "en": "shiei no sona-nyl -what a beautiful memories-",
+    "zh": "紫影的索纳尼尔 ～何等美好的记忆～",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "katawa shoujo",
+    "zh": "片轮少女",
+    "in": "《片轮少女》（英语：Katawa Shoujo，日语：かたわ少女，字面翻译为“残疾少女”）是一款视觉小说类型的同人美少女游戏，由四叶游戏工作室（Four Leaf Studios）开发制作，内容是一名少年与5名拥有不同残疾的美少女一同生活的故事。游戏采用由文字叙述和平面人物图像所组成的传统视觉小说模式，并借由视觉小说引擎Ren'Py以如同冒险游戏的对话框方式运行。《片轮少女》随着故事的进展包含有一些成人内容，但玩家亦能够选择跳过一切性爱场景。同时游戏是极少能够同时支持Windows、Linux与Mac OS X等平台的美少女游戏，并采用了知识共享版权中的CC BY-NC-ND的授权条款。"
+  },
+  {
+    "sp": "parody",
+    "en": "sound horizon",
+    "zh": "泡沫の恋",
+    "in": "作者：千代(chiyo)"
+  },
+  {
+    "sp": "parody",
+    "en": "king of glory",
+    "zh": "王者荣耀",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "naraka bladepoint",
+    "zh": "永劫无间",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "teletubbies",
+    "zh": "天线宝宝",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "goddess of victory nikke",
+    "zh": "胜利女神：妮姬",
+    "in": "胜利女神：妮姬(The Goddess of Victory:NIKKE)是由ShiftUp Corp制作的一款Android, iOS 双平台手机游戏。于不同地区以不同的发行商发行。\n\n此游戏集合射击，育成，收集角色等元素，并以美少女背后身击作焦点。\n\n此游戏为免费游戏，但提供购买虚拟游戏币，物品等等的付费服务。\n\n于11月4日正式营运。"
+  },
+  {
+    "sp": "parody",
+    "en": "identity v",
+    "zh": "第五人格",
+    "in": "《第五人格》（Identity V）是由网易移动游戏公司制作的一款非对称性对抗竞技类手机游戏。"
+  },
+  {
     "sp": "character",
     "en": "alice",
     "zh": "爱丽丝",
@@ -17871,7 +17931,7 @@
     "sp": "character",
     "en": "mai",
     "zh": "舞",
-    "in": ""
+    "in": "出自TH05-东方怪绮谈"
   },
   {
     "sp": "character",
@@ -35205,7 +35265,7 @@
     "sp": "character",
     "en": "chihiro kagami",
     "zh": "各务千寻",
-    "in": ""
+    "in": "各务千寻（日语：各務チヒロ）是Nexon发行的游戏蔚蓝档案及其衍生作品中的登场角色。"
   },
   {
     "sp": "character",
@@ -35934,6 +35994,96 @@
     "in": ""
   },
   {
+    "sp": "character",
+    "en": "yuki",
+    "zh": "雪",
+    "in": "出自TH05-东方怪绮谈"
+  },
+  {
+    "sp": "character",
+    "en": "louise",
+    "zh": "露易兹",
+    "in": "出自TH05-东方怪绮谈"
+  },
+  {
+    "sp": "character",
+    "en": "ellen",
+    "zh": "爱莲",
+    "in": "出自TH03-东方梦时空\n后面的女仆"
+  },
+  {
+    "sp": "character",
+    "en": "kana anaberal",
+    "zh": "卡娜·安娜贝拉尔",
+    "in": "出自TH03-东方梦时空"
+  },
+  {
+    "sp": "character",
+    "en": "misaki kagome",
+    "zh": "笼目深沙希",
+    "in": "所属作品: 机战少女Alice(alice gear aegis)"
+  },
+  {
+    "sp": "character",
+    "en": "momo hinamori",
+    "zh": "雏森桃",
+    "in": "护廷十三队五番队副队长"
+  },
+  {
+    "sp": "character",
+    "en": "chen hai",
+    "zh": "镇海",
+    "in": "所属作品：碧蓝航线(azur lane)"
+  },
+  {
+    "sp": "character",
+    "en": "leeloo minai lekatariba-lamina-tchai ekbat de sebat",
+    "zh": "Leeloo",
+    "in": "所属作品：第五元素(the fifth element)"
+  },
+  {
+    "sp": "character",
+    "en": "hasshaku-sama",
+    "zh": "八尺大人",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "ushio kofune",
+    "zh": "小舟潮",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "moe kazekura",
+    "zh": "风仓萌绘",
+    "in": "风仓萌绘（日语：風倉モエ）是 Nexon 发行的游戏《蔚蓝档案》及其衍生作品中的登场角色。"
+  },
+  {
+    "sp": "character",
+    "en": "eiko tsukimi",
+    "zh": "月见英子",
+    "in": "月见英子（日语：月見（つきみ） 英子（えいこ））是由四叶夕卜原作及原案、小川亮作画的一部漫画《派对浪客诸葛孔明》及其衍生作品的登场角色。"
+  },
+  {
+    "sp": "character",
+    "en": "hitori gotou",
+    "zh": "后藤一里",
+    "in": "后藤一里（日语：後藤（ごとう）ひとり）是由はまじあき所创作的漫画《孤独摇滚！》的登场角色。"
+  },
+  {
+    "sp": "character",
+    "en": "tsukuyo oono",
+    "zh": "大野筑夜",
+    "in": "大野筑夜（日语：大野ツクヨ）是 Nexon 发行的游戏《蔚蓝档案》及其衍生作品中的登场角色。"
+  },
+  {
+    "sp": "character",
+    "en": "mikoto aketa",
+    "zh": "緋田美琴",
+    "in": ""
+  },
+  {
     "sp": "group",
     "en": "1",
     "zh": "1",
@@ -36481,6 +36631,12 @@
   },
   {
     "sp": "group",
+    "en": "quince soft",
+    "zh": "QUINCE SOFT",
+    "in": "QUINCE SOFT是Lump of Sugar(lump of sugar)所属的一家Galgame公司。社长かわうそP表示成立这个品牌的原因是营造一个更自由的创作环境，于是到现在，三作的创作团队都不一样。官方网站和方糖社共用一个。"
+  },
+  {
+    "sp": "group",
     "en": "aquaplus",
     "zh": "AQUAPLUS",
     "in": "又到了《白色相簿》的季节。\n\n《传颂之物》（好想和艾露露在一起）\n\n《To Heart2》"
@@ -36651,13 +36807,37 @@
     "sp": "group",
     "en": "giga",
     "zh": "戏画",
-    "in": "戏画（戯画）是位于日本大阪的游戏制造商TGL的18禁游戏品牌。关联公司有猫猫软体（ねこねこソフト）、AUGUST（オーガスト）、HOOKSOFT、牛奶软体（みるくそふと）等。"
+    "in": "戏画（戯画）是位于日本大阪的游戏制造商TGL的18禁游戏品牌。关联公司有猫猫软体（ねこねこソフト）、AUGUST（オーガスト）、HOOKSOFT、牛奶软体（みるくそふと）等。\n戏画及其子公司プレカノ于2022年11月22日宣布将于2023年3月31日起停止旗下作品的开发与发行。"
   },
   {
     "sp": "group",
     "en": "milksoft",
     "zh": "牛奶软件",
     "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "cygames",
+    "zh": "Cygames",
+    "in": "株式会社Cygames（在台注册译为赛杰思）是日本的一间游戏开发公司，于2011年成立。以开发社交网络游戏和手机游戏为主。"
+  },
+  {
+    "sp": "group",
+    "en": "keroq",
+    "zh": "ケロQ",
+    "in": "KeroQ于1998年成立，最初名称为“ケロキュウ”，于2005年改名为现在名称。公司董事长为SCA-自。"
+  },
+  {
+    "sp": "group",
+    "en": "akatsuki works hibiki",
+    "zh": "hibiki works",
+    "in": "AKABEiSOFT2旗下游戏品牌hibiki works（包括原 “暁WORKS響SIDE”）"
+  },
+  {
+    "sp": "group",
+    "en": "fairytale",
+    "zh": "fairytale",
+    "in": "FAIRYTALE（フェアリーテール）是F&C的一个十八禁游戏品牌。原本是从JAST独立的キララ公司以及改名后的IDES的品牌。\n\n1987年キララ时代发售了首部作品《ふぇありぃてぃる》，1989年COCKTAIL SOFT发布首作以后，作为组成F&C的两支柱之一的シリアス系品牌而存在\n\n2001年F&C重组后也大致上存在，重组是由两品牌合并分割成三个，改变前后也可认为是不同的品牌。此外，也有改编前的リアル系品牌RED-ZONE（レッドゾーン）以及サスペンス系品牌HARDCOVER（ハードカバー），改编后分成了花月组、月星组。"
   },
   {
     "sp": "group",
@@ -36682,6 +36862,18 @@
     "en": "kadokawa",
     "zh": "KADOKAWA",
     "in": "KADOKAWA公司（日语：株式会社KADOKAWA；英语：KADOKAWA CORPORATION）是一家日本出版公司，为角川多玩国的子公司，也是KADOKAWA集团的核心，拥有包含角川书店在内的诸多品牌。"
+  },
+  {
+    "sp": "group",
+    "en": "winged cloud",
+    "zh": "Winged Cloud",
+    "in": "Winged Cloud是美国的英文视觉小说开发商，以成人作品为主。作品有视觉小说Sakura Spirit系列等。"
+  },
+  {
+    "sp": "group",
+    "en": "tech gian",
+    "zh": "TECH GIAN",
+    "in": "《TECH GIAN》（テックジャイアン）是enterbrain发行的日本成人游戏杂志，1996年9月21日创刊，已于2021年停刊。\n\nenterbrain（日语：エンターブレイン），现是角川集团制作经手娱乐关连杂志、书籍的品牌。之前隶属于角川控股集团中间持股公司MediaLeaves的旗下。"
   },
   {
     "sp": "group",
@@ -49249,18 +49441,6 @@
   },
   {
     "sp": "group",
-    "en": "tech gian",
-    "zh": "TECH GIAN",
-    "in": "《TECH GIAN》（テックジャイアン）是enterbrain发行的日本成人游戏杂志，1996年9月21日创刊，已于2021年停刊。\n\nenterbrain（日语：エンターブレイン），现是角川集团制作经手娱乐关连杂志、书籍的品牌。之前隶属于角川控股集团中间持股公司MediaLeaves的旗下。"
-  },
-  {
-    "sp": "group",
-    "en": "fairytale",
-    "zh": "fairytale",
-    "in": "FAIRYTALE（フェアリーテール）是F&C的一个十八禁游戏品牌。原本是从JAST独立的キララ公司以及改名后的IDES的品牌。\n\n1987年キララ时代发售了首部作品《ふぇありぃてぃる》，1989年COCKTAIL SOFT发布首作以后，作为组成F&C的两支柱之一的シリアス系品牌而存在\n\n2001年F&C重组后也大致上存在，重组是由两品牌合并分割成三个，改变前后也可认为是不同的品牌。此外，也有改编前的リアル系品牌RED-ZONE（レッドゾーン）以及サスペンス系品牌HARDCOVER（ハードカバー），改编后分成了花月组、月星组。"
-  },
-  {
-    "sp": "group",
     "en": "punipuni no hoppe",
     "zh": "ぷにぷにのほっぺ",
     "in": ""
@@ -49402,12 +49582,6 @@
     "en": "seika kairaku shoten",
     "zh": "聖華快楽書店",
     "in": ""
-  },
-  {
-    "sp": "group",
-    "en": "winged cloud",
-    "zh": "Winged Cloud",
-    "in": "Winged Cloud是美国的英文视觉小说开发商，以成人作品为主。作品有视觉小说Sakura Spirit系列等。"
   },
   {
     "sp": "group",
@@ -64411,7 +64585,7 @@
   },
   {
     "sp": "group",
-    "en": "fry dish",
+    "en": "fly dish",
     "zh": "ふらいでぃっしゅ",
     "in": ""
   },
@@ -73465,7 +73639,7 @@
   },
   {
     "sp": "group",
-    "en": "kagi node",
+    "en": "kaginord",
     "zh": "鍵のーど",
     "in": ""
   },
@@ -110359,12 +110533,6 @@
   },
   {
     "sp": "group",
-    "en": "akatsuki works hibiki",
-    "zh": "hibiki works",
-    "in": "AKABEiSOFT2旗下游戏品牌hibiki works（包括原 “暁WORKS響SIDE”）"
-  },
-  {
-    "sp": "group",
     "en": "icchao murasakiimoren new",
     "zh": "いっちゃお♪紫芋れんnew",
     "in": ""
@@ -110641,12 +110809,6 @@
   },
   {
     "sp": "group",
-    "en": "keroq",
-    "zh": "ケロQ",
-    "in": "KeroQ于1998年成立，最初名称为“ケロキュウ”，于2005年改名为现在名称。公司董事长为SCA-自。"
-  },
-  {
-    "sp": "group",
     "en": "koushoku na reichourui",
     "zh": "好色な霊長類",
     "in": ""
@@ -110698,12 +110860,6 @@
     "en": "raise wa futanari bishoujo",
     "zh": "来世是扶她美少女",
     "in": ""
-  },
-  {
-    "sp": "group",
-    "en": "cygames",
-    "zh": "Cygames",
-    "in": "株式会社Cygames（在台注册译为赛杰思）是日本的一间游戏开发公司，于2011年成立。以开发社交网络游戏和手机游戏为主。"
   },
   {
     "sp": "group",
@@ -110763,6 +110919,24 @@
     "sp": "group",
     "en": "shirokuma terepasu",
     "zh": "白熊テレパス",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "nipa nipa company",
+    "zh": "NIPA NIPA COMPANY",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "omochi box",
+    "zh": "OMOCHI BOX",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "kinokko",
+    "zh": "きのっ子",
     "in": ""
   },
   {
@@ -116060,8 +116234,8 @@
   {
     "sp": "artist",
     "en": "tinkle",
-    "zh": "てぃんくる",
-    "in": ""
+    "zh": "Tinkle",
+    "in": "Teinkuru是一个由日本插画师和漫画家组成的团体。 在成立之初，该团体由五名成员组成，然后在2003年 \"咖啡馆小愿望 \"创建时，该团体由Harukazetsuna和Belle组成，但Belle在2010年因病离开 从2010年到2018年，Harukazetsuna一直以个人身份活跃。 在同人活动中，她组织了 \"Tinka Belle \"圈子。 它也属于Yumemei Arisu（Mubi -），他协助并做行政工作。"
   },
   {
     "sp": "artist",
@@ -128937,7 +129111,7 @@
     "sp": "artist",
     "en": "amagappa shoujogun",
     "zh": "雨がっぱ少女群",
-    "in": ""
+    "in": "常年连载于COMIC LO等杂志，画风细腻剧情纯爱居多，lo本后多是对少女进行分尸之类的猎奇项为主，而后又发布女性嫌弃婚姻吃里扒外的现实题材，不知是受到何种打击。"
   },
   {
     "sp": "artist",
@@ -131997,7 +132171,7 @@
     "sp": "artist",
     "en": "yuuki rika",
     "zh": "結城リカ",
-    "in": "pixiv Twitter"
+    "in": ""
   },
   {
     "sp": "artist",
@@ -181093,9 +181267,9 @@
   },
   {
     "sp": "artist",
-    "en": "yoshiwa tomo",
-    "zh": "吉輪智",
-    "in": ""
+    "en": "momomo momo",
+    "zh": "桃萌 百",
+    "in": "吉輪智"
   },
   {
     "sp": "artist",
@@ -184056,6 +184230,72 @@
     "in": ""
   },
   {
+    "sp": "artist",
+    "en": "sada sadao",
+    "zh": "佐田さだお",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "asakura clock",
+    "zh": "朝倉クロック",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "koromotake",
+    "zh": "ころもたけ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "hashina tamaki",
+    "zh": "葉科たまき",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "kusogaki",
+    "zh": "くそガキ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "aestheticc-meme",
+    "zh": "ミームクリーム",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "denkou nyako",
+    "zh": "電光にゃコ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "hamico",
+    "zh": "はみこ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "takeru",
+    "zh": "たける",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "yamoge",
+    "zh": "やもげ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "taguchi monyata",
+    "zh": "田口もにゃ太",
+    "in": ""
+  },
+  {
     "sp": "cosplayer",
     "en": "otohara an",
     "zh": "乙原あん",
@@ -186267,7 +186507,7 @@
     "sp": "male",
     "en": "denki anma",
     "zh": "电气按摩",
-    "in": "一个参与者使用脚强烈地压迫另一个参与者的胯部区域，通常是在抱着他们的腿时。如果这会刺激被按压的人，则涉及足交(footjob)。可能涉及调教(bdsm)，猫斗(catfight)，女性主导(femdom)或摔角(wrestling)。"
+    "in": "一个参与者使用脚强烈地压迫另一个参与者的胯部区域，通常是在抱着他们的腿时。如果这会刺激被按压的人，则涉及足交足交(footjob)。可能涉及调教(bdsm)，猫斗(catfight)，女性主导(femdom)或摔角(wrestling)。"
   },
   {
     "sp": "male",
@@ -186278,14 +186518,14 @@
   {
     "sp": "male",
     "en": "footjob",
-    "zh": "足交",
+    "zh": "足交足交",
     "in": "用脚对另一个人进行性刺激。不要与腿交(legjob)混淆。"
   },
   {
     "sp": "male",
     "en": "multiple footjob",
     "zh": "多重足交",
-    "in": "一个以上的人同时用脚对同一个参与者进行性刺激。需要足交(footjob)标签。"
+    "in": "一个以上的人同时用脚对同一个参与者进行性刺激。需要足交足交(footjob)标签。"
   },
   {
     "sp": "male",
@@ -189387,7 +189627,7 @@
     "sp": "female",
     "en": "tribadism",
     "zh": "贝合",
-    "in": "貝合わせ，磨豆腐。\n妇女相互摩擦外阴的性行为。很有可能涉及百合(yuri)。"
+    "in": "貝合わせ，磨豆腐。\n女性相互摩擦外阴的性行为。很有可能涉及百合(yuri)。"
   },
   {
     "sp": "female",
