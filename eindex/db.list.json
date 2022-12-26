@@ -12642,6 +12642,30 @@
     "in": "《from ARGONAVIS》是以男子乐队为主题，由Bushiroad制作的基于《BanG Dream!》的全新男子乐队跨媒体企划，以电视动画、游戏、漫画、现实演唱会等形式展开，在2022年2月1日由Bushiroad子公司化，成立专门公司「株式会社ARGONAVIS」来负责此品牌的统筹营运。"
   },
   {
+    "sp": "parody",
+    "en": "god of war",
+    "zh": "战神",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "the world ends with you",
+    "zh": "美妙世界",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "scarlet nexus",
+    "zh": "绯红结系",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "dragalia lost",
+    "zh": "Dragalia Lost ～失落的龙约～",
+    "in": ""
+  },
+  {
     "sp": "character",
     "en": "alice",
     "zh": "爱丽丝",
@@ -30555,7 +30579,7 @@
     "sp": "character",
     "en": "denji",
     "zh": "电次",
-    "in": ""
+    "in": "早川秋是由藤本树所创作的漫画《电锯人》及其衍生作品的登场角色。"
   },
   {
     "sp": "character",
@@ -35379,7 +35403,7 @@
     "sp": "character",
     "en": "dori",
     "zh": "多莉",
-    "in": "原神角色"
+    "in": "原神(genshin impact)的登场角色。"
   },
   {
     "sp": "character",
@@ -35451,7 +35475,7 @@
     "sp": "character",
     "en": "shinobu kuki",
     "zh": "久岐忍",
-    "in": ""
+    "in": "久岐忍是由miHoYo研发的游戏《原神》及其衍生作品的登场角色。荒泷派二把手，前「鸣神大社」巫女。"
   },
   {
     "sp": "character",
@@ -36130,6 +36154,24 @@
     "en": "assaultron",
     "zh": "突袭者机器人",
     "in": "突袭者（Assaultron）是单机RPG游戏《辐射系列》中的一种机器人。"
+  },
+  {
+    "sp": "character",
+    "en": "satoru gojo",
+    "zh": "五条悟",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "aki hayakawa",
+    "zh": "早川秋",
+    "in": "早川秋是由藤本树所创作的漫画《电锯人》及其衍生作品的登场角色。"
+  },
+  {
+    "sp": "character",
+    "en": "annie leonhart",
+    "zh": "阿尼·利昂纳德",
+    "in": "阿尼·利昂纳德是谏山创创作的漫画《进击的巨人》及其衍生作品中的登场角色。"
   },
   {
     "sp": "group",
@@ -111012,6 +111054,18 @@
     "in": ""
   },
   {
+    "sp": "group",
+    "en": "suiren no yado",
+    "zh": "水莲之宿",
+    "in": "浅川(asakawa)的同人社团"
+  },
+  {
+    "sp": "group",
+    "en": "tariki honganji",
+    "zh": "他力本愿寺",
+    "in": ""
+  },
+  {
     "sp": "artist",
     "en": "2",
     "zh": "2",
@@ -128108,7 +128162,7 @@
   {
     "sp": "artist",
     "en": "ankoman",
-    "zh": "ankoman",
+    "zh": "あんこまん",
     "in": "一个画很多ntr、rbq的画师，短篇很多，作品中女性迅速母猪化"
   },
   {
@@ -164018,7 +164072,7 @@
   {
     "sp": "artist",
     "en": "nt robo",
-    "zh": "NTラボ",
+    "zh": "NTロボ",
     "in": ""
   },
   {
@@ -184407,6 +184461,36 @@
     "sp": "artist",
     "en": "miso tanuki inka teikoku",
     "zh": "みそたぬきインカ帝国",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "asakawa",
+    "zh": "浅川",
+    "in": "浅川圭司，漫画家，同人名义为浅川，同人社团为水莲之宿(suiren no yado)"
+  },
+  {
+    "sp": "artist",
+    "en": "fellatrix",
+    "zh": "fellatrix",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "bone hiko",
+    "zh": "骨彦",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "yuzuhara moke",
+    "zh": "柚原もけ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "eryu",
+    "zh": "えりゅ",
     "in": ""
   },
   {
