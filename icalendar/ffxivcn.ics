@@ -1501,14 +1501,15 @@ DTSTART;TZID=Asia/Tokyo:20221223T200000
 DTEND;TZID=Asia/Tokyo:20221223T230000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230115T181842Z
+DTSTAMP:20230117T051510Z
 SUMMARY:C-幻想战友召集令
-DESCRIPTION:有点类似于回归者/6.0版本的豆芽招待奖励，详情见活动页面。\n\n活动页面：\nhttps://actff1.web.s
- do.com/project/20230109convene/index.html#/index
+DESCRIPTION:有点类似于回归者/6.0版本的豆芽招待奖励，详情见活动页面。\n*增加了召集者签到15天可以自选演技教材x1或幻想药x1的
+ 福利。\n\n活动页面：\nhttps://actff1.web.sdo.com/project/20230109convene/index.h
+ tml#/index
 TZID:Asia/Shanghai
 SEQUENCE:0
 UID:E1E2A600-2929-4940-A64C-4F31C5C31E34
-CREATED:20230115T181842Z
+CREATED:20230117T051510Z
 DTSTART;TZID=Asia/Shanghai:20230118T140000
 DTEND;TZID=Asia/Shanghai:20230310T140000
 END:VEVENT
