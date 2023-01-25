@@ -794,14 +794,21 @@ DTSTART;TZID=Asia/Tokyo:20210813T170000
 DTEND;TZID=Asia/Tokyo:20210826T235900
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230115T182200Z
-SUMMARY:（占位）J-情人节
-TZID:Asia/Shanghai
+DTSTAMP:20230125T085541Z
+SUMMARY:J-恋人节「自分の『愛』を大切に」
+DESCRIPTION:活动奖励：\n男性专用装备一套（共4件）-「ヴァレンティオンエミセリー・ハット」、「ヴァレンティオンエミセリー・ジャケット
+ 」、「ヴァレンティオンエミセリー・ボトム」、「ヴァレンティオンエミセリー・ブーツ」\n女性专用装备一套（共4件）-「ヴァレンティオンエミセリー・
+ ドレスハット」、「ヴァレンティオンエミセリー・ラッフルドレス」、「ヴァレンティオンエミセリー・キュロット」、「ヴァレンティオンエミセリー・ドレス
+ ブーツ」\n情感动作-「ヴァレンティオンチョコを食べる」（吃恋人节巧克力）\n家具-桌台-可染色-「ヴァレンティオン・ハートデスク」\n\n活动
+ 页面：\nhttps://jp.finalfantasyxiv.com/lodestone/special/2023/Valentiones_D
+ ay/6ahu1ryjqv?utm_source=lodestone&utm_medium=pc_banner&utm_campaign=jp_
+ valentiones
+TZID:Asia/Tokyo
 SEQUENCE:0
 UID:952B7B5A-052D-45FA-9EF8-C9EA4CD7A4E8
-CREATED:20230115T182200Z
-DTSTART;VALUE=DATE:20230214
-DTEND;VALUE=DATE:20230215
+CREATED:20230125T085541Z
+DTSTART;TZID=Asia/Tokyo:20230201T170000
+DTEND;TZID=Asia/Tokyo:20230215T235900
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20220802T153825Z
