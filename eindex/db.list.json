@@ -12936,6 +12936,12 @@
     "in": ""
   },
   {
+    "sp": "parody",
+    "en": "tom clancys rainbow six",
+    "zh": "彩虹六号",
+    "in": ""
+  },
+  {
     "sp": "character",
     "en": "alice",
     "zh": "爱丽丝",
@@ -37038,6 +37044,66 @@
     "in": ""
   },
   {
+    "sp": "character",
+    "en": "fuyutsuki",
+    "zh": "冬月",
+    "in": "舰队collection角色"
+  },
+  {
+    "sp": "character",
+    "en": "tsukasa ayatsuji",
+    "zh": "绚辻词",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "ai nanasaki",
+    "zh": "七咲逢",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "haruka morishima",
+    "zh": "森岛遥",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "miya tachibana",
+    "zh": "橘美也",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "sae nakata",
+    "zh": "中多纱江",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "rihoko sakurai",
+    "zh": "樱井梨穂子",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "yukiko amagi",
+    "zh": "天城雪子",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "ojou",
+    "zh": "オジョウ",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "hatsumi sega",
+    "zh": "濑贺初美",
+    "in": "濑贺初美（Segami，セガミ）是海王星系列外传作品《超次元大战 海王星VS世嘉主机女孩 梦幻合体特别版》（超次元大战 ネプテューヌＶＳセガ·ハード·ガールズ 梦の合体スペシャル）的登场角色。"
+  },
+  {
     "sp": "group",
     "en": "1",
     "zh": "1",
@@ -37850,8 +37916,8 @@
   {
     "sp": "group",
     "en": "afterschool of the 5th year",
-    "zh": "5年目の放課後",
-    "in": "监督(kantoku)的社团名。"
+    "zh": "5年目の放课后",
+    "in": "画师监督(kantoku)所属的同人的社团。"
   },
   {
     "sp": "group",
@@ -45320,8 +45386,8 @@
   {
     "sp": "group",
     "en": "uran no yakata",
-    "zh": "雨蘭の館",
-    "in": ""
+    "zh": "雨兰の馆",
+    "in": "画师URAN | 雨兰(uran)所属同人社团"
   },
   {
     "sp": "group",
@@ -49406,7 +49472,7 @@
   {
     "sp": "group",
     "en": "renai mangaka",
-    "zh": "恋愛漫画家",
+    "zh": "恋爱漫画家",
     "in": ""
   },
   {
@@ -76256,7 +76322,7 @@
   {
     "sp": "group",
     "en": "keumaya",
-    "zh": "希有馬屋",
+    "zh": "希有马屋",
     "in": ""
   },
   {
@@ -109610,7 +109676,7 @@
   {
     "sp": "group",
     "en": "yariiya",
-    "zh": "槍衣屋",
+    "zh": "枪衣屋",
     "in": ""
   },
   {
@@ -112194,6 +112260,24 @@
     "in": "画师柴あや(shiba aya)所属同人社团"
   },
   {
+    "sp": "group",
+    "en": "futsu-no-tapioca-yasan",
+    "zh": "ふつうのタピオカやさん",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "ushinomaruyaki",
+    "zh": "ウシノマルヤキ",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "silver dog",
+    "zh": "シルバードッグ",
+    "in": ""
+  },
+  {
     "sp": "artist",
     "en": "2",
     "zh": "2",
@@ -113721,7 +113805,7 @@
     "sp": "artist",
     "en": "okada kou",
     "zh": "冈田コウ",
-    "in": "日本漫画家。女性。主要创作成人向萝莉(lolicon)系漫画。\n\n作者初期一边从事公司办公室的工作，一边创作男同(yaoi)、正太(shotacon)系的同人漫画进行活动，2006年受正太系漫画合集《少年嗜好》的提名，商业出道。之后，继续经过接收创作请求，刊登正太系或触手系的合集，开始在男性向的合集和成年漫画杂志《COMIC ino》上发表作品，在2008年辞掉了办公室的工作，成为专业漫画家。\n2010年，在2channel上举行的投票中，以作品《チュー学生日記》获得色情漫画大赏第一名。\n\n作者推特头像\n社团：おかだ亭(okadatei)\n荣誉作品：《チュー学生日記》"
+    "in": "女性漫画家。主要创作成人向萝莉(lolicon)系漫画。\n\n初期一边从事公司办公室的工作，一边创作男同(yaoi)、正太(shotacon)系的同人漫画进行活动，\n2006年受正太系漫画合集《少年嗜好》的提名，商业出道。之后，继续经过接收创作请求，刊登正太系或触手系的合集，开始在男性向的合集和成年漫画杂志《COMIC ino》上发表作品，\n2008年辞掉了办公室的工作，成为职业漫画家。\n2010年，在2channel上举行的投票中，以作品《チュー学生日記》获得色情漫画大赏第一名。\n\n\n\n作者推特头像\n\n所属社团：おかだ亭(okadatei)\n\n\n\n代表作：《チュー学生日記》"
   },
   {
     "sp": "artist",
@@ -114308,8 +114392,8 @@
   {
     "sp": "artist",
     "en": "toono suika",
-    "zh": "遠野すいか",
-    "in": ""
+    "zh": "远野西瓜",
+    "in": "遠野すいか\n\n\n\n作者推特头像"
   },
   {
     "sp": "artist",
@@ -115010,7 +115094,7 @@
   {
     "sp": "artist",
     "en": "hana hook",
-    "zh": "華フック",
+    "zh": "华フック",
     "in": ""
   },
   {
@@ -115754,8 +115838,8 @@
   {
     "sp": "artist",
     "en": "coffee-kizoku",
-    "zh": "珈琲貴族",
-    "in": ""
+    "zh": "咖啡贵族",
+    "in": "作者推特头像"
   },
   {
     "sp": "artist",
@@ -116882,8 +116966,8 @@
   {
     "sp": "artist",
     "en": "sabashi renya",
-    "zh": "左橋レンヤ",
-    "in": ""
+    "zh": "左桥レンヤ",
+    "in": "作者推特头像"
   },
   {
     "sp": "artist",
@@ -117212,8 +117296,8 @@
   {
     "sp": "artist",
     "en": "shiwasu no okina",
-    "zh": "師走の翁",
-    "in": "師走の翁（しわすのおきな）是日本成年向漫画家。作品多以大场面的乱交为主。\n代表作品：《シャイニング娘。》系列"
+    "zh": "师走之翁",
+    "in": "作者推特头像"
   },
   {
     "sp": "artist",
@@ -117266,8 +117350,8 @@
   {
     "sp": "artist",
     "en": "midori no rupe",
-    "zh": "緑のルーペ",
-    "in": "緑の ルーペ（みどりの ルーペ）是日本的插画师、漫画家。\n其作品多以父女乱伦(incest)为主。\n代表作品：《ガーデンI 》《ガーデンII 》\n\n\n下图为动画化后片段"
+    "zh": "绿のルーペ",
+    "in": "插画师、漫画家。其作品多以父女乱伦(incest)为主。\n\n\n\n作者推特头像\n\n\n\n代表作品：《ガーデン》"
   },
   {
     "sp": "artist",
@@ -118796,7 +118880,7 @@
   {
     "sp": "artist",
     "en": "pon takahanada",
-    "zh": "ポン貴花田",
+    "zh": "ポン贵花田",
     "in": ""
   },
   {
@@ -120224,7 +120308,7 @@
   {
     "sp": "artist",
     "en": "yakiniku king",
-    "zh": "焼肉キング",
+    "zh": "烧肉キング",
     "in": ""
   },
   {
@@ -126020,8 +126104,8 @@
   {
     "sp": "artist",
     "en": "sekiya asami",
-    "zh": "関谷あさみ",
-    "in": "関谷あさみ是日本漫画家，女性。\n作品主要以少女或萝莉(lolicon)系为主。\n\n作者推特头像\n\n单行本《ラフスケッチ》"
+    "zh": "关谷あさみ",
+    "in": "女性漫画家。\n作品主要以少女或萝莉(lolicon)系为主。\n\n作者推特头像\n\n单行本《ラフスケッチ》"
   },
   {
     "sp": "artist",
@@ -126747,7 +126831,7 @@
     "sp": "artist",
     "en": "bareisho",
     "zh": "马铃薯",
-    "in": ""
+    "in": "作者推特头像"
   },
   {
     "sp": "artist",
@@ -128570,8 +128654,8 @@
   {
     "sp": "artist",
     "en": "arima kouichi",
-    "zh": "有馬紘一",
-    "in": ""
+    "zh": "有马纮一",
+    "in": "作者推特头像"
   },
   {
     "sp": "artist",
@@ -128648,8 +128732,8 @@
   {
     "sp": "artist",
     "en": "makita yoshiharu",
-    "zh": "巻田佳春",
-    "in": ""
+    "zh": "卷田佳春",
+    "in": "作者推特头像"
   },
   {
     "sp": "artist",
@@ -130808,8 +130892,8 @@
   {
     "sp": "artist",
     "en": "naruse hirofumi",
-    "zh": "鳴瀬ひろふみ",
-    "in": ""
+    "zh": "鸣濑ひろふみ",
+    "in": "作者推特头像"
   },
   {
     "sp": "artist",
@@ -131306,7 +131390,7 @@
   {
     "sp": "artist",
     "en": "shimimaru",
-    "zh": "紙魚丸",
+    "zh": "纸鱼丸",
     "in": "作者推特头像"
   },
   {
@@ -131324,7 +131408,7 @@
   {
     "sp": "artist",
     "en": "kurokoshi you",
-    "zh": "黒越陽",
+    "zh": "黑越阳",
     "in": "作者推特头像"
   },
   {
@@ -131504,8 +131588,8 @@
   {
     "sp": "artist",
     "en": "miyazaki maya",
-    "zh": "宮崎摩耶",
-    "in": "宮崎 摩耶（みやざき まや）、日本漫画家。女性。成年向漫画和全年龄向漫画都有创作。"
+    "zh": "宫崎摩耶",
+    "in": "女性漫画家。成年向漫画和全年龄向漫画都有创作。"
   },
   {
     "sp": "artist",
@@ -133251,7 +133335,7 @@
     "sp": "artist",
     "en": "saitom",
     "zh": "斋藤将嗣",
-    "in": "saitom"
+    "in": "saitom\n\n\n\n作者推特头像"
   },
   {
     "sp": "artist",
@@ -133592,8 +133676,8 @@
   {
     "sp": "artist",
     "en": "kuon michiyoshi",
-    "zh": "久遠ミチヨシ",
-    "in": ""
+    "zh": "久远道义",
+    "in": "男女二人的漫画家组合\n\n\n\n作者推特头像"
   },
   {
     "sp": "artist",
@@ -137354,25 +137438,25 @@
   {
     "sp": "artist",
     "en": "arima jun",
-    "zh": "有馬じゅん",
+    "zh": "有马纯",
     "in": ""
   },
   {
     "sp": "artist",
     "en": "arima keitarou",
-    "zh": "有馬啓太郎",
-    "in": ""
+    "zh": "有马启太郎",
+    "in": "作者推特头像"
   },
   {
     "sp": "artist",
     "en": "arima you",
-    "zh": "有馬有",
+    "zh": "有马有",
     "in": ""
   },
   {
     "sp": "artist",
     "en": "arima yutaka",
-    "zh": "有馬ゆたか",
+    "zh": "有马ゆたか",
     "in": ""
   },
   {
@@ -143798,7 +143882,7 @@
   {
     "sp": "artist",
     "en": "gen",
-    "zh": "GEN",
+    "zh": "GEN|源|舷",
     "in": ""
   },
   {
@@ -145496,8 +145580,8 @@
   {
     "sp": "artist",
     "en": "haruki",
-    "zh": "春輝",
-    "in": ""
+    "zh": "春辉",
+    "in": "作者推特头像"
   },
   {
     "sp": "artist",
@@ -150950,8 +151034,8 @@
   {
     "sp": "artist",
     "en": "kamino ryu-ya",
-    "zh": "上乃龍也",
-    "in": ""
+    "zh": "上乃龙也",
+    "in": "作者推特头像"
   },
   {
     "sp": "artist",
@@ -152750,7 +152834,7 @@
   {
     "sp": "artist",
     "en": "keuma",
-    "zh": "希有馬",
+    "zh": "希有马",
     "in": ""
   },
   {
@@ -172178,7 +172262,7 @@
   {
     "sp": "artist",
     "en": "shiki satoshi",
-    "zh": "士貴智志",
+    "zh": "土贵智志",
     "in": ""
   },
   {
@@ -175826,7 +175910,7 @@
   {
     "sp": "artist",
     "en": "takeuchi reona",
-    "zh": "竹内冷於奈",
+    "zh": "竹内玲于奈",
     "in": ""
   },
   {
@@ -176504,8 +176588,8 @@
   {
     "sp": "artist",
     "en": "taropun",
-    "zh": "たるプン",
-    "in": ""
+    "zh": "たろプン",
+    "in": "作者推特头像"
   },
   {
     "sp": "artist",
@@ -181676,8 +181760,8 @@
   {
     "sp": "artist",
     "en": "yarii shimeta",
-    "zh": "槍衣七五三太",
-    "in": ""
+    "zh": "枪衣七五三太",
+    "in": "作者推特头像"
   },
   {
     "sp": "artist",
@@ -186189,6 +186273,90 @@
     "sp": "artist",
     "en": "kitakawa touta",
     "zh": "北河トウタ",
+    "in": "作者推特头像"
+  },
+  {
+    "sp": "artist",
+    "en": "okiha",
+    "zh": "沖葉",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "uekura eku",
+    "zh": "上倉エク",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "dendoro kakariya",
+    "zh": "澱泥カカリヤ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "cucchiore",
+    "zh": "くっきおーれ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "konbu wakame",
+    "zh": "昆布わかめ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "omusubi korori",
+    "zh": "緒結ころり",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "memeyu",
+    "zh": "めめゆ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "onokana",
+    "zh": "斧カナ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "masuda miyaka",
+    "zh": "枠田ちさき",
+    "in": "作者推特头像\n\n枠田ちさき(wakuta chisaki)与増田ミヤカ(masuda miyaka)非同一作者，ehwiki分类有误。"
+  },
+  {
+    "sp": "artist",
+    "en": "arima zin",
+    "zh": "有马侭",
+    "in": "作者推特头像"
+  },
+  {
+    "sp": "artist",
+    "en": "silver dog",
+    "zh": "シルバードッグ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "shihira tatsuya",
+    "zh": "四平龙也",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "aoki seishin",
+    "zh": "碧木诚心",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "tachibana takashi",
+    "zh": "橘孝志",
     "in": ""
   },
   {
