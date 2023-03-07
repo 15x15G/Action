@@ -899,15 +899,16 @@ DTSTART;TZID=Asia/Tokyo:20210928T110000
 DTEND;TZID=Asia/Tokyo:20210928T190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230307T064453Z
-SUMMARY:J-6.35更新维护（深层迷宫旧优雷卡、调查员、曼武、莫雯工具(生产肝武)、新友好部族兔兔族等）
-DESCRIPTION:更新笔记：\nhttps://jp.finalfantasyxiv.com/lodestone/topics/detail
- /b5e0ffcd933669e2b537f66cf8c0f1f7a0128956?continueFlag=760a0cd029f35d2b9
- 38ecae02c3e3b44
+DTSTAMP:20230307T075948Z
+SUMMARY:J-6.35更新维护（深层迷宫真·优雷卡、调查员、曼武、莫雯工具(生产肝武)、新友好部族兔兔族等）
+DESCRIPTION:更新笔记翻译（来源nga@psychosun）：\nhttps://bbs.nga.cn/read.php?tid=355
+ 90734\n\n更新笔记（日）：\nhttps://jp.finalfantasyxiv.com/lodestone/topics/detai
+ l/b5e0ffcd933669e2b537f66cf8c0f1f7a0128956?continueFlag=760a0cd029f35d2b
+ 938ecae02c3e3b44
 TZID:Asia/Tokyo
 SEQUENCE:0
 UID:A1BF7244-A8F1-426F-9181-C8F78B0922A6
-CREATED:20230307T064453Z
+CREATED:20230307T075948Z
 DTSTART;TZID=Asia/Tokyo:20230307T150000
 DTEND;TZID=Asia/Tokyo:20230307T190000
 END:VEVENT
