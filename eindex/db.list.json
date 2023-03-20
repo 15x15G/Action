@@ -12948,6 +12948,36 @@
     "in": "本作为2010年3月发售的乙女向AVG游戏，后来移植ps2，psp，psv等多个平台。故事讲述的是一个高中女生（山田花）因为在图书馆寻找三国志报告题目的相关资料而无意间因为一本书穿越到一个和“三国志”相似的世界，并藉由书的力量以军师身份卷入群雄争霸的三国世界的故事。"
   },
   {
+    "sp": "parody",
+    "en": "epic seven",
+    "zh": "第七史诗",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "godzilla",
+    "zh": "哥斯拉",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "cloud meadow",
+    "zh": "云端牧场",
+    "in": "兼具农场模拟器、角色扮演游戏和视觉小说，讲述了学会与怪物盟友合作，以便建立新家园和探索未知土地的故事！"
+  },
+  {
+    "sp": "parody",
+    "en": "ookami kodomo no ame to yuki",
+    "zh": "狼的孩子雨和雪",
+    "in": "《狼的孩子雨和雪》（日语：おおかみこどもの雨と雪）是由细田守导演、Studio地图和MADHOUSE制作的一部动画电影。细田守的第二部长篇原创作品。主题是“亲子”，讲述19岁的少女与“狼人”相遇并相爱，直到他们生下的狼人姐弟成长并独立的13年间发生的故事。\n\n作品于2012年7月21日在日本上映。"
+  },
+  {
+    "sp": "parody",
+    "en": "akiba maid sensou",
+    "zh": "秋叶原冥途战争",
+    "in": "1999年的春季，憧憬成为可爱女仆的少女和平奈古美，为追逐梦想来到了竞争激烈的秋叶原，她会遇到怎样的人和事呢？这是Cygames×P.A.WORKS献上的，关于“萌与暴力”的故事。一起萌萌心动吧！"
+  },
+  {
     "sp": "character",
     "en": "alice",
     "zh": "爱丽丝",
@@ -37099,12 +37129,6 @@
   },
   {
     "sp": "character",
-    "en": "ojou",
-    "zh": "オジョウ",
-    "in": ""
-  },
-  {
-    "sp": "character",
     "en": "hatsumi sega",
     "zh": "濑贺初美",
     "in": "濑贺初美（Segami，セガミ）是海王星系列外传作品《超次元大战 海王星VS世嘉主机女孩 梦幻合体特别版》（超次元大战 ネプテューヌＶＳセガ·ハード·ガールズ 梦の合体スペシャル）的登场角色。"
@@ -37126,6 +37150,96 @@
     "en": "vergil",
     "zh": "维吉尔",
     "in": "卡普空旗下电子游戏鬼泣系列角色"
+  },
+  {
+    "sp": "character",
+    "en": "hanbei takenaka",
+    "zh": "竹中半兵卫",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "kanae kochou",
+    "zh": "胡蝶香奈惠",
+    "in": "胡蝶忍的姐姐。同時也是栗花落香奈乎的義姐和恩人，与胡蝶忍從奴隶贩子手下救下了香奈乎。"
+  },
+  {
+    "sp": "character",
+    "en": "sanemi shinazugawa",
+    "zh": "不死川实弥",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "kisaki",
+    "zh": "妃咲",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "mashiro shizuyama",
+    "zh": "静山真白",
+    "in": "所属作品: 蔚蓝档案(blue archive)"
+  },
+  {
+    "sp": "character",
+    "en": "tsurugi kensaki",
+    "zh": "剑先剑",
+    "in": "所属作品: 蔚蓝档案(blue archive)"
+  },
+  {
+    "sp": "character",
+    "en": "acerola",
+    "zh": "阿塞萝拉",
+    "in": "所属作品: 精灵宝可梦(pokemon)"
+  },
+  {
+    "sp": "character",
+    "en": "kou minamoto",
+    "zh": "源光",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "damian desmond",
+    "zh": "达米安·德斯蒙",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "cat noir",
+    "zh": "黑猫诺儿",
+    "in": "阿德里恩·艾格雷斯特"
+  },
+  {
+    "sp": "character",
+    "en": "killua zoldyck",
+    "zh": "杰诺·揍敌客",
+    "in": "所属作品: 全职猎人(hunter x hunter)"
+  },
+  {
+    "sp": "character",
+    "en": "mirai kamiki",
+    "zh": "神木未来",
+    "in": "圣凤学园初中部二年级学生，神木世海的姐姐，同时也是时尚杂志的模特，与弟弟一样，接受过次元霸王流的修炼。"
+  },
+  {
+    "sp": "character",
+    "en": "megumi amatsuka",
+    "zh": "天使惠",
+    "in": "所属作品: GJ部(gj-bu)"
+  },
+  {
+    "sp": "character",
+    "en": "mao amatsuka",
+    "zh": "天使真央",
+    "in": "所属作品: GJ部(gj-bu)"
+  },
+  {
+    "sp": "character",
+    "en": "akane isshiki",
+    "zh": "一色茜",
+    "in": "所属作品: 绯色战姬(vividred operation)"
   },
   {
     "sp": "group",
@@ -112314,6 +112428,24 @@
     "in": ""
   },
   {
+    "sp": "group",
+    "en": "marshmalloya",
+    "zh": "ましゅまろや",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "nanadou",
+    "zh": "七堂",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "ayawasuca",
+    "zh": "文忘蚊",
+    "in": ""
+  },
+  {
     "sp": "artist",
     "en": "2",
     "zh": "2",
@@ -143918,7 +144050,7 @@
   {
     "sp": "artist",
     "en": "gen",
-    "zh": "GEN|源|舷",
+    "zh": "GEN | 源 | 舷",
     "in": ""
   },
   {
@@ -186399,6 +186531,24 @@
     "sp": "artist",
     "en": "sekai ichii",
     "zh": "世界一位",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "maroya kayo",
+    "zh": "まろや伽夜",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "kobayashi ritz",
+    "zh": "小林立",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "hiroki",
+    "zh": "宏き(Hiroki)",
     "in": ""
   },
   {
