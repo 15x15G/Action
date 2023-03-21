@@ -1000,6 +1000,21 @@ DTSTART;TZID=Asia/Tokyo:20220426T150000
 DTEND;TZID=Asia/Tokyo:20220426T190000
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20230320T084440Z
+SUMMARY:J-猎蛋节「びっくりトンベリ、タマゴを守れ！」
+DESCRIPTION:奖励：\n冬贝利套装（共5件）-「トンベリヘッド」、「トンベリボディ」、「トンベリハンド」、「トンベリキュロット」、「トン
+ ベリブーツ」\n情感动作-「驚かす」（吓唬）\n家具（壁挂）-「エッグハントのポスター2023」（2023猎蛋节海报）\n管弦乐乐谱-「Pa-P
+ aya Demastered」\n\n活动页面：\nhttps://jp.finalfantasyxiv.com/lodestone/speci
+ al/2023/Hatching_tide/gkonsy0g3l?utm_source=lodestone&utm_medium=pc_bann
+ er&utm_campaign=jp_hatching_tide
+TZID:Asia/Tokyo
+SEQUENCE:0
+UID:AA6AC991-E2BE-4398-AA25-3BACD0074A72
+CREATED:20230320T084440Z
+DTSTART;TZID=Asia/Tokyo:20230327T170000
+DTEND;TZID=Asia/Tokyo:20230410T235900
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20210916T015556Z
 SUMMARY:「第66回FFXIV PLL」
 DESCRIPTION:主要内容包括\n6.0媒体发布&战斗相关改动
