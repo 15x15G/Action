@@ -13020,6 +13020,54 @@
     "in": ""
   },
   {
+    "sp": "parody",
+    "en": "jikkyou powerful pro yakyuu",
+    "zh": "实况力量棒球系列",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "dolphin wave",
+    "zh": "洶湧海豚",
+    "in": "《Dolphin Wave》（常译作汹涌海豚、海豚波潮等等），为日本游戏开发商株式会社Bullets于2022年推出的手机游戏，并由Marvelous、Honey Parade Games联合出品。"
+  },
+  {
+    "sp": "parody",
+    "en": "suzume no tojimari",
+    "zh": "铃芽之旅",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "warframe",
+    "zh": "星际战甲",
+    "in": "《战甲神兵》（英语：Warframe，中国大陆译作“星际战甲”，香港和台湾译作“战甲神兵”，又译作“战争架”）是一个2013年发行的主打PVE的第三人称射击游戏，由加拿大Digital Extremes开发的独立游戏，可在Microsoft Windows、PlayStation 4、Xbox One及任天堂Switch平台上游玩，采用免费游玩模式，目前已可以跨平台连线。"
+  },
+  {
+    "sp": "parody",
+    "en": "brok the investigator",
+    "zh": "鳄鱼侦探布罗格",
+    "in": "BROK the InvestiGator 是一款由独立法国游戏工作室 COWCAT Games 使用 GameMaker Studio 2 自行开发和发行的独立游戏，该游戏采用了点击式冒险游戏和横向卷轴动作游戏相结合的设计。这款游戏通过 Kickstarter 平台成功筹集到资金。游戏中融合了点和点击冒险、横版过关打斗和角色扮演元素。"
+  },
+  {
+    "sp": "parody",
+    "en": "horizon zero dawn",
+    "zh": "地平线 零之曙光",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "un-go",
+    "zh": "UN-GO",
+    "in": "《UN-GO》是由BONES制作的一部TV动画。于2011年10月开始在在富士电视台的noitaminA栏目播出，共11集。故事原案出自坂口安吾《明治开化 安吾捕物帖》。"
+  },
+  {
+    "sp": "parody",
+    "en": "inma kourin devil carnival",
+    "zh": "淫魔降臨デビル☆カーニバル",
+    "in": ""
+  },
+  {
     "sp": "character",
     "en": "alice",
     "zh": "爱丽丝",
@@ -37160,7 +37208,7 @@
   {
     "sp": "character",
     "en": "rihoko sakurai",
-    "zh": "樱井梨穂子",
+    "zh": "樱井梨穗子",
     "in": ""
   },
   {
@@ -37342,6 +37390,102 @@
     "en": "kafka",
     "zh": "卡夫卡 | 卡芙卡",
     "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "ookanehira",
+    "zh": "大包平",
+    "in": "所属作品: 刀剑乱舞(touken ranbu)"
+  },
+  {
+    "sp": "character",
+    "en": "uguisumaru",
+    "zh": "莺丸",
+    "in": "所属作品: 刀剑乱舞(touken ranbu)"
+  },
+  {
+    "sp": "character",
+    "en": "sovetskaya rossiya",
+    "zh": "苏维埃罗西亚",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "faruzan",
+    "zh": "珐露珊",
+    "in": "米哈游研发的游戏《原神》及其衍生作品的登场角色。"
+  },
+  {
+    "sp": "character",
+    "en": "plana",
+    "zh": "普拉娜",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "rio tsukatsuki",
+    "zh": "调月莉音",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "kikuri hiroi",
+    "zh": "广井菊里",
+    "in": "由はまじあき所创作的漫画《孤独摇滚！》的登场角色。\n人气独立乐队[SICK HACK]中的实力派贝斯手兼主唱。\n是最先注意到独真正实力的人。\n经常为独着想。平日里总是醉醺醺的。"
+  },
+  {
+    "sp": "character",
+    "en": "gintoki sakata",
+    "zh": "坂田银时",
+    "in": "万事屋的领导，啥事都做。\n不定期吃甜食，就会极其焦躁的甜食党。\n平时看似很没精神、没力气，但实际是个很厉害的武士。\n原是一名攘夷志士，被称“白夜叉”的恐怖剑术达人，但现在只使用木刀。\n爱车是一辆轻摩托。"
+  },
+  {
+    "sp": "character",
+    "en": "toshiro hijikata",
+    "zh": "土方十四郎",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "kazamori sasa",
+    "zh": "佐佐风守",
+    "in": "所属作品: UN-GO(un-go)\n\n\n\n禁忌的人工智能生命体‧R.A.I.最后存在的个体，也是第一个被制造者佐佐驹守制作出来的生命体。 一开始被驹守以养子的身分带入佐佐家，在驹守假死后掌控佐佐集团，被驹守当做傀儡代理人。 后加入主角团体，积极的参与解决各种事件。"
+  },
+  {
+    "sp": "character",
+    "en": "kozuki momonosuke",
+    "zh": "光月桃之助",
+    "in": "所属作品: 海贼王(one piece)\n光月桃之助是现任和之国将军。也是已故九里大名光月家之主——光月御田之子、前将军光月锄烧之孙。"
+  },
+  {
+    "sp": "character",
+    "en": "kanna ogata",
+    "zh": "尾刃カンナ",
+    "in": "所属作品: 蔚蓝档案(blue archive)"
+  },
+  {
+    "sp": "character",
+    "en": "nero",
+    "zh": "尼禄",
+    "in": "卡普空的电子游戏鬼泣4代、5代的男主"
+  },
+  {
+    "sp": "character",
+    "en": "deadpool",
+    "zh": "死侍",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "lady",
+    "zh": "蕾蒂",
+    "in": "卡普空出品的动作游戏鬼泣系列的女性角色。"
+  },
+  {
+    "sp": "character",
+    "en": "trish",
+    "zh": "翠西",
+    "in": "卡普空出品的动作游戏鬼泣系列的女性角色。"
   },
   {
     "sp": "group",
@@ -83469,7 +83613,7 @@
     "sp": "group",
     "en": "micro page",
     "zh": "みくろぺえじ",
-    "in": ""
+    "in": "画师黑本君(kuromotokun)所属社团"
   },
   {
     "sp": "group",
@@ -93380,8 +93524,8 @@
   {
     "sp": "group",
     "en": "pony farm",
-    "zh": "仔馬牧場",
-    "in": ""
+    "zh": "仔马牧场",
+    "in": "画师ぼに～(bonnie)所属社团"
   },
   {
     "sp": "group",
@@ -109592,7 +109736,7 @@
   {
     "sp": "group",
     "en": "yaki tomahawk steak",
-    "zh": "焼きトマホークステーキ",
+    "zh": "烧きトマホークステーキ",
     "in": ""
   },
   {
@@ -112551,6 +112695,42 @@
     "sp": "group",
     "en": "sugomori bird",
     "zh": "巣ごもりバード",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "gensou pump",
+    "zh": "幻想ポンプ",
+    "in": "画师福本真久(fukumoto masahisa)所属社团"
+  },
+  {
+    "sp": "group",
+    "en": "elizabeth collar",
+    "zh": "エリザベスカラー",
+    "in": "画师飞梅さゆ(tobiume sayu)所属社团"
+  },
+  {
+    "sp": "group",
+    "en": "toropucchi",
+    "zh": "とろぷっち",
+    "in": "作者推特头像"
+  },
+  {
+    "sp": "group",
+    "en": "satou mitsu",
+    "zh": "さとうみつ",
+    "in": "画师えびおみつ(omitsu)所属社团"
+  },
+  {
+    "sp": "group",
+    "en": "mannen dokodoko dondodoko",
+    "zh": "まんねんドコドコドンドドコ",
+    "in": "画师とっととねろ太郎。(tottotonero tarou.)所属社团"
+  },
+  {
+    "sp": "group",
+    "en": "uruudoki",
+    "zh": "うるうどき",
     "in": ""
   },
   {
@@ -120632,8 +120812,8 @@
   {
     "sp": "artist",
     "en": "outou chieri",
-    "zh": "樱桃千绘里 | 無洗米",
-    "in": ""
+    "zh": "无洗米",
+    "in": "作者推特头像\n\n现用名有洗米，曾用名樱桃千绘里，社团研ぎ水所属画师"
   },
   {
     "sp": "artist",
@@ -122024,8 +122204,8 @@
   {
     "sp": "artist",
     "en": "higashide irodori",
-    "zh": "東出イロドリ",
-    "in": ""
+    "zh": "东出イロドリ",
+    "in": "作者推特头像"
   },
   {
     "sp": "artist",
@@ -125042,7 +125222,7 @@
   {
     "sp": "artist",
     "en": "yakitomato",
-    "zh": "焼きトマト",
+    "zh": "烧きトマト",
     "in": ""
   },
   {
@@ -127250,8 +127430,8 @@
   {
     "sp": "artist",
     "en": "kuromotokun",
-    "zh": "黒本君",
-    "in": ""
+    "zh": "黑本君",
+    "in": "作者推特头像\n\n社团みくろぺえじ(micro page)主笔画师"
   },
   {
     "sp": "artist",
@@ -130028,8 +130208,8 @@
   {
     "sp": "artist",
     "en": "kamizuki shiki",
-    "zh": "守月史貴",
-    "in": ""
+    "zh": "守月史贵",
+    "in": "作者推特头像"
   },
   {
     "sp": "artist",
@@ -131210,7 +131390,7 @@
   {
     "sp": "artist",
     "en": "kameyama shiruko",
-    "zh": "亀山しるこ",
+    "zh": "龟山しるこ",
     "in": "作者推特头像\n\n\n\n作品"
   },
   {
@@ -131444,8 +131624,8 @@
   {
     "sp": "artist",
     "en": "nagashiro rouge",
-    "zh": "長代ルージュ",
-    "in": ""
+    "zh": "长代ルージュ",
+    "in": "作者推特头像"
   },
   {
     "sp": "artist",
@@ -131582,8 +131762,8 @@
   {
     "sp": "artist",
     "en": "souji hougu",
-    "zh": "掃除朋具",
-    "in": ""
+    "zh": "扫除朋具",
+    "in": "作者推特头像"
   },
   {
     "sp": "artist",
@@ -135033,7 +135213,7 @@
     "sp": "artist",
     "en": "ababari",
     "zh": "ababari",
-    "in": ""
+    "in": "作者推特头像"
   },
   {
     "sp": "artist",
@@ -139413,7 +139593,7 @@
     "sp": "artist",
     "en": "bonnie",
     "zh": "ぼに～",
-    "in": ""
+    "in": "作者推特头像\n\n社团仔马牧场(pony farm)所属画师"
   },
   {
     "sp": "artist",
@@ -186688,6 +186868,78 @@
     "en": "soejima shigenori",
     "zh": "副岛成记",
     "in": "副岛 成记，日本插画家。《真·女神转生(shin megami tensei)》大系的主要插画家。"
+  },
+  {
+    "sp": "artist",
+    "en": "chisunosuke",
+    "zh": "ちすの助",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "sakurayashiki tonkotsu",
+    "zh": "桜屋敷とんこつ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "fukumoto masahisa",
+    "zh": "福本真久",
+    "in": "作者推特头像"
+  },
+  {
+    "sp": "artist",
+    "en": "signo mandara",
+    "zh": "シグノマンダラ",
+    "in": "作者推特头像"
+  },
+  {
+    "sp": "artist",
+    "en": "tobiume sayu",
+    "zh": "飞梅さゆ",
+    "in": "作者推特头像"
+  },
+  {
+    "sp": "artist",
+    "en": "omitsu",
+    "zh": "えびおみつ",
+    "in": "作者推特头像\n\n社团さとうみつ(satou mitsu)所属画师"
+  },
+  {
+    "sp": "artist",
+    "en": "hangetsuban sonshou",
+    "zh": "半月板损伤",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "tottotonero tarou.",
+    "zh": "とっととねろ太郎。",
+    "in": "作者推特头像\n\n社团まんねんドコドコドンドドコ(mannen dokodoko dondodoko)所属画师"
+  },
+  {
+    "sp": "artist",
+    "en": "nakagomi",
+    "zh": "中込",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "d.",
+    "zh": "D.",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "oyu",
+    "zh": "おゆ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "pononozo",
+    "zh": "ぽののぞ",
+    "in": ""
   },
   {
     "sp": "cosplayer",
