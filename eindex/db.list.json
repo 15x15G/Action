@@ -13134,6 +13134,24 @@
     "in": ""
   },
   {
+    "sp": "parody",
+    "en": "blue reflection",
+    "zh": "蔚蓝反射（幻舞少女之剑）",
+    "in": "《BLUE REFLECTION》系列是GUST制作的游戏及后续的跨媒体企划，包括主机游戏、移动端游戏、电视动画等系列作品。"
+  },
+  {
+    "sp": "parody",
+    "en": "fumikiri jikan",
+    "zh": "平交道时间",
+    "in": "《平交道时间》（日语：踏切時間）是由里好创作的一部漫画，并有动画等衍生作品。"
+  },
+  {
+    "sp": "parody",
+    "en": "all out",
+    "zh": "ALL OUT!!",
+    "in": "《ALL OUT!!》（日语：オールアウト!!）是雨濑栞的橄榄球题材日本漫画作品。本作品描写主角祇园健次为初学者，加入县立神奈川高校（简称“神高”）橄榄球社之后面临各式各样的挑战。"
+  },
+  {
     "sp": "character",
     "en": "alice",
     "zh": "爱丽丝",
@@ -15987,7 +16005,7 @@
     "sp": "character",
     "en": "producer",
     "zh": "制作人",
-    "in": ""
+    "in": "一般指 偶像大师(the idolmaster)中的制作人。在偶像大师系列中，玩家扮演的角色基本是以制作人的身份出现在游戏中，以培育偶像为主要游戏内容。由于是玩家本身的角色，为了更有代入感，在游戏中从来没有设定过容貌。因此，在需要固定形象的二次创作中，人们创造了各式各样的制作人形象。"
   },
   {
     "sp": "character",
@@ -16149,7 +16167,7 @@
     "sp": "character",
     "en": "momoka sakurai",
     "zh": "樱井桃华",
-    "in": ""
+    "in": "樱井桃华是BNEI与Cygames开发的手机社群游戏《 偶像大师(the idolmaster)灰姑娘女孩》系列中的萝莉大小姐偶像。"
   },
   {
     "sp": "character",
@@ -37600,6 +37618,30 @@
     "en": "aigis",
     "zh": "埃癸斯",
     "in": "埃癸斯（日语：アイギス (Aegis)；美版：Aigis）是Atlus旗下的游戏系列《女神异闻录》正传游戏《女神异闻录3》及其衍生作品的登场角色。"
+  },
+  {
+    "sp": "character",
+    "en": "celia claire",
+    "zh": "瑟莉亚·库列尔",
+    "in": "所属作品: 精灵幻想记(seirei gensouki)"
+  },
+  {
+    "sp": "character",
+    "en": "hinata tachibana",
+    "zh": "橘日向",
+    "in": "橘日向是由津留崎优所创作的漫画《与变成了异世界美少女的大叔一起冒险》及其衍生作品的女主角。32岁的单身原大叔美少女。身高体重都很平均的平平无奇的男生，从小到大喜欢的女生全都爱慕着好友神宫寺司，自己毫无机会。为了神宫寺能早点结婚而经常拉着他去参加联谊。在一次联谊会上喝得烂醉如泥，抱怨为什么没有女生喜欢自己，与其这样下去，不如变成女孩子算了，在回去的路上，被女神转移到了异世界，变成了倾倒众生的金发碧眼绝世美少女。"
+  },
+  {
+    "sp": "character",
+    "en": "conte di cavour",
+    "zh": "加富尔伯爵",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "dhole",
+    "zh": "豺",
+    "in": ""
   },
   {
     "sp": "group",
@@ -112854,6 +112896,24 @@
     "in": ""
   },
   {
+    "sp": "group",
+    "en": "mugen karaage",
+    "zh": "無限からあげ",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "yonaka works",
+    "zh": "ヨナカWorks",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "touketsu shamen",
+    "zh": "卜ウケツ斜面",
+    "in": ""
+  },
+  {
     "sp": "artist",
     "en": "2",
     "zh": "2",
@@ -159290,8 +159350,8 @@
   {
     "sp": "artist",
     "en": "meito",
-    "zh": "meito",
-    "in": ""
+    "zh": "星名めいと",
+    "in": "曾用名meito"
   },
   {
     "sp": "artist",
@@ -187074,6 +187134,36 @@
     "in": ""
   },
   {
+    "sp": "artist",
+    "en": "agachi",
+    "zh": "あがち",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "shiina shinya",
+    "zh": "椎名深夜",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "touketsu",
+    "zh": "卜ウケツ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "hoshina meito",
+    "zh": "星名めいと",
+    "in": "曾用名meito"
+  },
+  {
+    "sp": "artist",
+    "en": "nanonanno",
+    "zh": "なのなんの",
+    "in": ""
+  },
+  {
     "sp": "cosplayer",
     "en": "otohara an",
     "zh": "乙原あん",
@@ -194468,7 +194558,7 @@
   {
     "sp": "other",
     "en": "webtoon",
-    "zh": "Webtoon",
+    "zh": "条漫",
     "in": "Webtoon（朝鲜语：웹툰）是一种始创于韩国的新概念网络漫画，由“Web（网络）”及“Cartoon（漫画、卡通）”组成，只需向上下滑动就能阅读，不需翻页，是一种专为电脑及移动设备而设的漫画。"
   },
   {
