@@ -13152,6 +13152,18 @@
     "in": "《ALL OUT!!》（日语：オールアウト!!）是雨濑栞的橄榄球题材日本漫画作品。本作品描写主角祇园健次为初学者，加入县立神奈川高校（简称“神高”）橄榄球社之后面临各式各样的挑战。"
   },
   {
+    "sp": "parody",
+    "en": "kuma miko",
+    "zh": "熊巫女",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "tsuki ni yorisou otome no sahou",
+    "zh": "近月少女的礼仪",
+    "in": "《近月少女的礼仪》（日语：月に寄りそう乙女の作法）是由Navel制作的一部Galgame，并有近月少女的礼仪2、少女理论及其周边、少女理论及其之后的周边等衍生作品。近朱者赤，近墨者黑，近月者弯"
+  },
+  {
     "sp": "character",
     "en": "alice",
     "zh": "爱丽丝",
@@ -37642,6 +37654,30 @@
     "en": "dhole",
     "zh": "豺",
     "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "senjuro rengoku",
+    "zh": "炼狱千寿郎",
+    "in": "所属作品: 鬼灭之刃(kimetsu no yaiba)\n\n炎柱炼狱杏寿郎的弟弟，待人温文尔雅。原本是作为炎柱的继承人的立场努力锻炼剑术，但发现自身没有成为剑士的才能，而放弃了剑士的道路，决定用自己的方式去寻找帮助别人的道路。"
+  },
+  {
+    "sp": "character",
+    "en": "female protagonist",
+    "zh": "汐见琴音",
+    "in": "汐见琴音（日语：汐見 琴音（しおみ ことね） (Shiomi Kotone)）是Atlus旗下的游戏系列《女神异闻录》系列正传游戏《女神异闻录3 携带版》的女性主人公。\n和其他主人公一样，因为在游戏中没有预设名字，所以写成了主人公子，被玩家昵称为“公子”，拆开就是日本平假名的“ハム子”，也就是“哈姆子”(female protagonist)。\n由于原始标签将kotone shiomi重定向到female protagonist，故名称翻译为汐见琴音而不是哈姆子。"
+  },
+  {
+    "sp": "character",
+    "en": "makoto yuuki",
+    "zh": "结城理",
+    "in": "结城理（日语：結城 理（ゆうき まこと） (Yuuki Makoto)）是Atlus旗下的游戏系列《女神异闻录》系列正传游戏《女神异闻录3》的男性主人公。\n“结城理”为剧场版中的姓名，漫画中名为“有里凑”，舞台剧里则叫“汐见朔也”。"
+  },
+  {
+    "sp": "character",
+    "en": "asuka kurashina",
+    "zh": "仓科明日香",
+    "in": "仓科明日香是sprite原作的游戏、GONZO改编的动画《苍之彼方的四重奏》及其衍生作品的女主角。"
   },
   {
     "sp": "group",
@@ -121922,7 +121958,7 @@
   {
     "sp": "artist",
     "en": "dantetsu",
-    "zh": "断铁",
+    "zh": "断铁（干支門三十四，〇タ）",
     "in": ""
   },
   {
@@ -137851,8 +137887,8 @@
   },
   {
     "sp": "artist",
-    "en": "aquajet kosuke",
-    "zh": "AJこーすけ",
+    "en": "kosuke poke",
+    "zh": "こーすけぽけ",
     "in": ""
   },
   {
@@ -177920,7 +177956,7 @@
   {
     "sp": "artist",
     "en": "tirotata",
-    "zh": "Tirotata",
+    "zh": "ちろたた",
     "in": ""
   },
   {
@@ -187161,6 +187197,36 @@
     "sp": "artist",
     "en": "nanonanno",
     "zh": "なのなんの",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "kuroseimu",
+    "zh": "クロセイム",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "teppo",
+    "zh": "鉄歩",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "mochio",
+    "zh": "白蜜モチ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "kitagawa zayaku",
+    "zh": "北川ざやく",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "saito tsubame",
+    "zh": "齋藤燕",
     "in": ""
   },
   {
