@@ -34892,7 +34892,7 @@
   {
     "sp": "character",
     "en": "vermeil",
-    "zh": "红云|维尔梅",
+    "zh": "红云 | 维尔梅",
     "in": "红云（Vermeil）是上海鹰角网络科技有限公司制作的游戏《明日方舟》及其衍生作品的登场角色。\n\n维尔梅（日语：ヴェルメイ；英语：Vermeil）是漫画作品《金装的维尔梅～濒临堕落的魔法师和最强的灾厄一起冲入魔法世界～》及其衍生作品中的登场角色，女主角。"
   },
   {
@@ -37808,8 +37808,8 @@
   {
     "sp": "character",
     "en": "carol olston",
-    "zh": "卡洛兒·奧爾斯頓",
-    "in": ""
+    "zh": "卡洛儿·奥尔斯顿",
+    "in": "漫画《智酱是女生！》的登场角色。"
   },
   {
     "sp": "character",
@@ -37840,6 +37840,78 @@
     "en": "tang wutong",
     "zh": "唐舞桐",
     "in": "所属作品: 斗罗大陆(douluo continent)"
+  },
+  {
+    "sp": "character",
+    "en": "maryland",
+    "zh": "马里兰",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "shinyou",
+    "zh": "神鹰",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "yawata maru",
+    "zh": "八幡丸 | 云鹰",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "kishinami",
+    "zh": "岸波",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "jingei",
+    "zh": "迅鲸",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "chougei",
+    "zh": "长鲸",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "cyllene",
+    "zh": "星月",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "queen draco",
+    "zh": "所多玛之兽/德拉科",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "march 7th",
+    "zh": "三月七",
+    "in": "《崩坏：星穹铁道》的登场角色。"
+  },
+  {
+    "sp": "character",
+    "en": "himari akeboshi",
+    "zh": "明星日鞠",
+    "in": "所属作品：蔚蓝档案"
+  },
+  {
+    "sp": "character",
+    "en": "asta",
+    "zh": "艾丝妲 | 亚斯塔",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "himeko",
+    "zh": "姬子",
+    "in": ""
   },
   {
     "sp": "group",
@@ -113130,6 +113202,18 @@
     "in": ""
   },
   {
+    "sp": "group",
+    "en": "yakitori teishoku",
+    "zh": "焼きトリ定食",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "dakkoku kidoutai s.a.c",
+    "zh": "脱壳机动队 S.A.C",
+    "in": ""
+  },
+  {
     "sp": "artist",
     "en": "2",
     "zh": "2",
@@ -187467,6 +187551,36 @@
     "sp": "artist",
     "en": "toubaru rairu",
     "zh": "桃原らいる",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "murao mio",
+    "zh": "村生未央",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "toriyaro",
+    "zh": "トリヤロウ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "umeda nautilus",
+    "zh": "梅田ノーチラス",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "komura",
+    "zh": "コムラ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "dakkoku jiro",
+    "zh": "脱壳次郎",
     "in": ""
   },
   {
