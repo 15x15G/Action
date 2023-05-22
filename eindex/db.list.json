@@ -10459,7 +10459,7 @@
   },
   {
     "sp": "parody",
-    "en": "22 slash 7",
+    "en": "nanabun no nijyuuni",
     "zh": "22/7",
     "in": ""
   },
@@ -13234,6 +13234,18 @@
     "en": "sengoku bushouki muramasa",
     "zh": "战国武将姬",
     "in": "戦国武将姫-MURAMASA-"
+  },
+  {
+    "sp": "parody",
+    "en": "idola phantasy star saga",
+    "zh": "梦幻之星·伊多拉传说",
+    "in": "梦幻之星：伊多拉传说是为了纪念知名角色扮演游戏《梦幻之星(phantasy star)》30周年推出的系列最新作。于2018年11月27日上线，2022 年 1 月 12 日停服。"
+  },
+  {
+    "sp": "parody",
+    "en": "golden time",
+    "zh": "青春纪行",
+    "in": "《青春纪行》（又译：金色时光，日文：ゴールデンタイム）是由竹宫悠由子创作、驹都英二负责插画的一部轻小说，并有漫画、广播剧、动画和游戏等衍生作品。此作品是竹宫悠由子继《龙与虎(toradora)》后的又一长篇小说。"
   },
   {
     "sp": "character",
@@ -37909,9 +37921,9 @@
   },
   {
     "sp": "character",
-    "en": "himeko",
-    "zh": "姬子",
-    "in": ""
+    "en": "garou",
+    "zh": "五郎",
+    "in": "所属作品: 原神(genshin impact)\n\n忠勇双全的海祇军大将。天生具有野兽般的战斗直觉与顽强意志，能精准找出绝境中的胜机。领导着军备、物资皆不占优的海祇军与幕府军分庭抗礼，力求为活在这片土地上的人们支撑起一片生存之壁。"
   },
   {
     "sp": "group",
@@ -113214,6 +113226,12 @@
     "in": ""
   },
   {
+    "sp": "group",
+    "en": "mitsumitsuniku",
+    "zh": "ミツミツにく",
+    "in": ""
+  },
+  {
     "sp": "artist",
     "en": "2",
     "zh": "2",
@@ -187947,6 +187965,12 @@
     "sp": "cosplayer",
     "en": "xue qi-sama",
     "zh": "雪琪SAMA",
+    "in": ""
+  },
+  {
+    "sp": "cosplayer",
+    "en": "larissa rochefort",
+    "zh": "Larissa Rochefort",
     "in": ""
   },
   {
