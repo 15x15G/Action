@@ -13248,6 +13248,30 @@
     "in": "《青春纪行》（又译：金色时光，日文：ゴールデンタイム）是由竹宫悠由子创作、驹都英二负责插画的一部轻小说，并有漫画、广播剧、动画和游戏等衍生作品。此作品是竹宫悠由子继《龙与虎(toradora)》后的又一长篇小说。"
   },
   {
+    "sp": "parody",
+    "en": "honkai star rail",
+    "zh": "崩坏：星穹铁道",
+    "in": "《崩坏：星穹铁道》是米哈游创作的回合制角色扮演游戏，崩坏系列的新作。"
+  },
+  {
+    "sp": "parody",
+    "en": "tongari boushi no atelier",
+    "zh": "尖帽子的魔法工坊",
+    "in": "生活在一个偏远村庄的少女可可一直渴望成为一名魔法师，但是这个世界只有出生就是魔法师的人才能成为魔法师。在一次偶然事故中，可可不小心看到了魔法师奇弗利施展魔法的过程，发现了魔法的真相。于是可可便临摹起了自己还是孩童时一位自称魔法师的神秘男子卖给她的一本绘本，不料却用出了强大而危险的禁忌魔法，将自己的母亲与房子都变成了石头。发现了自己不小心将魔法真相泄露而返回寻找可可的奇弗利看到禁忌魔法所造成的惨状，决心将她收为自己的徒弟，解开「绘本」之谜，帮助她将自己的母亲恢复原状。"
+  },
+  {
+    "sp": "parody",
+    "en": "sankarea",
+    "zh": "散华礼弥",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "princess resurrection",
+    "zh": "怪物王女",
+    "in": ""
+  },
+  {
     "sp": "character",
     "en": "alice",
     "zh": "爱丽丝",
@@ -37924,6 +37948,306 @@
     "en": "garou",
     "zh": "五郎",
     "in": "所属作品: 原神(genshin impact)\n\n忠勇双全的海祇军大将。天生具有野兽般的战斗直觉与顽强意志，能精准找出绝境中的胜机。领导着军备、物资皆不占优的海祇军与幕府军分庭抗礼，力求为活在这片土地上的人们支撑起一片生存之壁。"
+  },
+  {
+    "sp": "character",
+    "en": "himeko",
+    "zh": "姬子",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "herta",
+    "zh": "黑塔",
+    "in": "黑塔是《崩坏：星穹铁道(honkai star rail)》的登场角色。"
+  },
+  {
+    "sp": "character",
+    "en": "stelle",
+    "zh": "星",
+    "in": "星是《崩坏：星穹铁道(honkai star rail)》的登场角色。"
+  },
+  {
+    "sp": "character",
+    "en": "clara",
+    "zh": "克拉拉",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "nene ayachi",
+    "zh": "绫地宁宁",
+    "in": "绫地宁宁（日语：綾地（あやち）寧々（ねね））是柚子社所创作的美少女游戏《魔女的夜宴》的登场角色。"
+  },
+  {
+    "sp": "character",
+    "en": "neeko",
+    "zh": "妮蔻",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "nidalee",
+    "zh": "奈德丽",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "vex",
+    "zh": "薇古丝",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "yuu nishinoya",
+    "zh": "西谷夕",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "asahi azumane",
+    "zh": "东峰旭",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "zoe",
+    "zh": "佐伊",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "annie",
+    "zh": "安妮",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "yanagi uzaki",
+    "zh": "宇崎柳",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "baiken",
+    "zh": "梅喧",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "asuka kazama",
+    "zh": "风间飞鸟",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "lili rochefort",
+    "zh": "莉莉·罗舍福尔",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "shizuko kawawa",
+    "zh": "河和静子",
+    "in": "所属作品：蔚蓝档案(blue archive)"
+  },
+  {
+    "sp": "character",
+    "en": "akira kiyosumi",
+    "zh": "清澄晶",
+    "in": "所属作品：蔚蓝档案(blue archive)"
+  },
+  {
+    "sp": "character",
+    "en": "kanji sasahara",
+    "zh": "笹原完士",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "chika ogiue",
+    "zh": "荻上千佳",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "saki kasukabe",
+    "zh": "春日部咲",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "kanako ohno",
+    "zh": "大野加奈子",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "makoto kousaka",
+    "zh": "高坂真琴",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "kenjirou hato",
+    "zh": "波戸贤二郎",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "rika yoshitake",
+    "zh": "吉武莉华",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "harunobu madarame",
+    "zh": "斑目晴信",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "rea sanka",
+    "zh": "散华礼弥",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "mero furuya",
+    "zh": "降谷萌路",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "judge",
+    "zh": "法官",
+    "in": "少女前线的铁血工造的人形法官"
+  },
+  {
+    "sp": "character",
+    "en": "himawari shinomiya",
+    "zh": "四宫向日葵",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "wakaba saegusa",
+    "zh": "三枝若叶",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "rei kuroki",
+    "zh": "黑骑蕾",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "tomoko hoshina",
+    "zh": "保科智子",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "lemmy miyauchi",
+    "zh": "宫内蕾咪",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "serika kurusugawa",
+    "zh": "来栖川芹香",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "akari kamigishi",
+    "zh": "神岸明",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "ayaka kurusugawa",
+    "zh": "来栖川绫香",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "shiho nagaoka",
+    "zh": "长冈志保",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "hiroyuki fujita",
+    "zh": "藤田浩之",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "aoi matsubara",
+    "zh": "松原葵",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "koyomi mizuhara",
+    "zh": "水原历",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "osaka",
+    "zh": "大阪",
+    "in": "春日步"
+  },
+  {
+    "sp": "character",
+    "en": "sakaki",
+    "zh": "榊",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "tomo takino",
+    "zh": "泷野智",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "chiyo mihama",
+    "zh": "美滨千代",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "riza wildman",
+    "zh": "丽莎·瓦德曼",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "hiro hiyorimi",
+    "zh": "日和见日郎",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "lillianne von phoenix",
+    "zh": "莉莉安奴·冯·菲尼克斯",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "sylvia von phoenix",
+    "zh": "茜维亚·冯·菲尼克斯",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "reiri kamura",
+    "zh": "嘉村令里",
+    "in": ""
   },
   {
     "sp": "group",
@@ -113229,6 +113553,12 @@
     "sp": "group",
     "en": "mitsumitsuniku",
     "zh": "ミツミツにく",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "akirerushoujo",
+    "zh": "アキレルショウジョ",
     "in": ""
   },
   {
