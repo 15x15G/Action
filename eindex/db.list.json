@@ -13272,6 +13272,36 @@
     "in": ""
   },
   {
+    "sp": "parody",
+    "en": "world flipper",
+    "zh": "世界弹射物语",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "kikai sentai zenkaiger",
+    "zh": "机界战队全开者",
+    "in": "《机界战队全开者》（原题：機界戦隊ゼンカイジャー）是日本东映公司在2021年推出的《超级战队系列》第45部特摄作品，于2021年（令和3年）3月7日起至2022年（令和4年）2月27日每周日早上09:30-10:00在朝日电视台播出，全49集。"
+  },
+  {
+    "sp": "parody",
+    "en": "ng knight lamune and 40",
+    "zh": "VS骑士",
+    "in": "《VS骑士40炎》（日语：VS騎士ラムネ&40炎）是一套由1996年4月至1996年9月间，开始在日本播放的动画。"
+  },
+  {
+    "sp": "parody",
+    "en": "midnight girls",
+    "zh": "ミッドナイトガールズR",
+    "in": "让我们被充满个性的怪物们恶作剧并被宠爱吧！一个与环绕你的怪物女孩、天使和堕天使展开的浓厚王道 (?) RPG故事！无论是闹剧般的冒险故事，围绕冲突的严肃故事，还是超色情的情节，你都可以全面享受♪"
+  },
+  {
+    "sp": "parody",
+    "en": "xenoblade chronicles 3",
+    "zh": "异度神剑3",
+    "in": "《异度神剑3》（日语：ゼノブレイド3，英语：Xenoblade Chronicles 3）是Monolith Soft开发、任天堂发行的动作角色扮演游戏，于2022年7月29日在Nintendo Switch平台发售，支持简繁中文。"
+  },
+  {
     "sp": "character",
     "en": "alice",
     "zh": "爱丽丝",
@@ -26990,7 +27020,7 @@
   {
     "sp": "character",
     "en": "kirara",
-    "zh": "绮罗罗",
+    "zh": "绮良良",
     "in": ""
   },
   {
@@ -38090,7 +38120,7 @@
   {
     "sp": "character",
     "en": "kenjirou hato",
-    "zh": "波戸贤二郎",
+    "zh": "波户贤二郎",
     "in": ""
   },
   {
@@ -38247,6 +38277,54 @@
     "sp": "character",
     "en": "reiri kamura",
     "zh": "嘉村令里",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "taeko minazuki",
+    "zh": "水无月妙子",
+    "in": "所属作品: 青出于蓝(ai yori aoshi)\n\n薰在大学里的学妹，摄影部成员，巨乳眼镜冒失娘。"
+  },
+  {
+    "sp": "character",
+    "en": "amemiya nazuna",
+    "zh": "飴宮なずな",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "winter schnee",
+    "zh": "温特·雪倪",
+    "in": "Winter Schnee是Schnee Dust Company的主人Jacques Schnee的长女，魏丝·雪倪(weiss schnee)的姐姐，现为擎天军队的高层人物，Ironwood将军的副官。"
+  },
+  {
+    "sp": "character",
+    "en": "ruby hoshino",
+    "zh": "星野瑠美衣",
+    "in": "前世天童寺纱利奈为星野爱(ai hoshino)的狂热女粉丝，患病期间受医生吾郎（星野爱久爱海的前世）照顾，后因绝症不治身亡，享年12岁，转世后成为爱的女儿，仍然保有前世的记忆。在左眼处继承了爱的星星眼，现正致力于作为偶像活动。"
+  },
+  {
+    "sp": "character",
+    "en": "roka maniwa",
+    "zh": "马庭芦花",
+    "in": "所属作品: 千恋＊万花(senren banka)"
+  },
+  {
+    "sp": "character",
+    "en": "lysithea von cordelia",
+    "zh": "莉丝缇亚·冯·科迪利亚",
+    "in": "所属作品: 火焰之纹章 风花雪月(fire emblem three houses)\n\n同盟科迪利亚伯爵家的嫡女。在本届入学学生中年龄最小，只有15岁。擅长魔法，是早熟的天才魔法少女，并且毫不骄傲，而是更加努力。她很讨厌被别人当作小孩子看待，不过经常透露出孩子气的一面。"
+  },
+  {
+    "sp": "character",
+    "en": "tamako kitashirakawa",
+    "zh": "北白川玉子",
+    "in": "所属作品: 玉子市场(tamako market)"
+  },
+  {
+    "sp": "character",
+    "en": "ui tamaki",
+    "zh": "环羽衣",
     "in": ""
   },
   {
@@ -86437,7 +86515,7 @@
   },
   {
     "sp": "group",
-    "en": "moradolog",
+    "en": "moladolog",
     "zh": "モラードログ",
     "in": ""
   },
@@ -113559,6 +113637,24 @@
     "sp": "group",
     "en": "akirerushoujo",
     "zh": "アキレルショウジョ",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "fuzume",
+    "zh": "ふずめ",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "hitakamoya",
+    "zh": "ひたかもや",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "kasokuiki",
+    "zh": "過疎区域",
     "in": ""
   },
   {
@@ -162847,7 +162943,7 @@
   },
   {
     "sp": "artist",
-    "en": "motika",
+    "en": "mothica",
     "zh": "モティカ",
     "in": ""
   },
@@ -163335,12 +163431,6 @@
     "sp": "artist",
     "en": "muro",
     "zh": "むろ",
-    "in": ""
-  },
-  {
-    "sp": "artist",
-    "en": "muro tomoharu",
-    "zh": "室トモハル",
     "in": ""
   },
   {
@@ -187929,6 +188019,78 @@
     "sp": "artist",
     "en": "dakkoku jiro",
     "zh": "脱壳次郎",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "futatsuno-peanuts",
+    "zh": "ふたつのピーナツ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "kanzarin",
+    "zh": "カンザリン",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "nemurinemu",
+    "zh": "ねむりねむ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "wusui yangcong",
+    "zh": "五岁洋葱",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "yuga",
+    "zh": "ゆがー",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "akadashi",
+    "zh": "赤だし",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "hitakamo",
+    "zh": "ひたかも",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "osaki",
+    "zh": "オオサキ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "usa otome",
+    "zh": "うさおとめ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "hatsuuni ikura",
+    "zh": "初雲丹いくら",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "asano yomichi",
+    "zh": "朝野よみち",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "fuguta-ke",
+    "zh": "フグタ家",
     "in": ""
   },
   {
