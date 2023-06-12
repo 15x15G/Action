@@ -13302,6 +13302,12 @@
     "in": "《异度神剑3》（日语：ゼノブレイド3，英语：Xenoblade Chronicles 3）是Monolith Soft开发、任天堂发行的动作角色扮演游戏，于2022年7月29日在Nintendo Switch平台发售，支持简繁中文。"
   },
   {
+    "sp": "parody",
+    "en": "hollow knight",
+    "zh": "空洞骑士",
+    "in": ""
+  },
+  {
     "sp": "character",
     "en": "alice",
     "zh": "爱丽丝",
@@ -38326,6 +38332,18 @@
     "en": "ui tamaki",
     "zh": "环羽衣",
     "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "shigure mayoi",
+    "zh": "间宵时雨",
+    "in": "游戏《碧蓝档案》角色，由于向配给食物加入可疑成分而被赤冬联邦学园发配到227号特别班。不知为何，大家喝完她做的果汁总会变得醉醺醺的。"
+  },
+  {
+    "sp": "character",
+    "en": "inori ichinose",
+    "zh": "一之濑祈梨",
+    "in": "所属作品: 公主连结Re:Dive(princess connect)"
   },
   {
     "sp": "group",
@@ -113658,6 +113676,24 @@
     "in": ""
   },
   {
+    "sp": "group",
+    "en": "khaos distance",
+    "zh": "カオス距離",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "tohosanhun",
+    "zh": "徒歩三分",
+    "in": "茶户老师的R18用马甲"
+  },
+  {
+    "sp": "group",
+    "en": "morunchi",
+    "zh": "モルチ",
+    "in": ""
+  },
+  {
     "sp": "artist",
     "en": "2",
     "zh": "2",
@@ -151687,7 +151723,7 @@
   },
   {
     "sp": "artist",
-    "en": "kabocha torte",
+    "en": "kabocya torute",
     "zh": "南瓜とるて",
     "in": ""
   },
@@ -188091,6 +188127,30 @@
     "sp": "artist",
     "en": "fuguta-ke",
     "zh": "フグタ家",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "namahiyu",
+    "zh": "なまひゆ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "keise.",
+    "zh": "慧瀬。",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "zandoro",
+    "zh": "ざんどろ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "rinaka moruchi",
+    "zh": "モルんち",
     "in": ""
   },
   {
