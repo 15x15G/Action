@@ -10545,7 +10545,7 @@
     "sp": "parody",
     "en": "agarest senki",
     "zh": "亚迦雷斯特战记",
-    "in": ""
+    "in": "亚迦雷斯特战记（日语：アガレスト戦記，英语：Record of Agarest War）是先由日本的游戏公司IDEA FACTORY和RED ENTERTAINMENT所开发，后由COMPILE HEART所贩售的奇幻角色扮演游戏。先于2007年9月27日发行PlayStation 3的电视游戏版本，后于2008年11月27日发行Xbox 360的电视游戏版本。在2013年10月3日，由Steam代理移植，发行电脑游戏版本。"
   },
   {
     "sp": "parody",
@@ -13344,6 +13344,18 @@
     "in": "《GA 艺术科美术设计班》（日语：GA 芸術科アートデザインクラス）是季游月聪子的四格漫画作品，以某高中美术班“GA”的一年级学生当中充满个性的五个女学生为中心，描写了她们点缀著各种美术知识的上课情况以及环绕着她们的热闹学校生活。\n\n原作漫画在《COMICぎゅっと!》创刊时开始连载，至第三号废刊为止。后来在芳文社《Manga Time Kirara Carat》2005年8月号连载单篇短篇，并于同年11月号开始连载至2016年2月号（2015年12月）。上连载，已完结。\n\n另外，也有在虎之穴（とらのあな）的店面发行的广告杂志《とらだよ。》以《GA材料放置场》（GA材置き場）的名义连载。"
   },
   {
+    "sp": "parody",
+    "en": "tower of fantasy",
+    "zh": "幻塔",
+    "in": "《幻塔》是由完美世界旗下Hotta Studio工作室开发的动作角色扮演游戏"
+  },
+  {
+    "sp": "parody",
+    "en": "ase to sekken",
+    "zh": "汗皂交香",
+    "in": "《汗水和皂香》（日语：あせとせっけん）是山田金铁所著的日本漫画，\n原为2018年1月4日在《周刊D Morning》增刊号刊载的单篇漫画，获得好评后转为连载，\n开始连载于《周刊D Morning》2018年第29号，其后剧情进入“同居篇”后改于《Morning》2019年第44号起继续连载，\n于2021年第6号完结。截至2022年1月，漫画单行本累积发行逾440万本。\n改编真人电视剧在2022年2月3日至3月31日于每日放送“电视剧特区”深夜时段播出，佐藤宽太、大原优乃双主演，共9集。"
+  },
+  {
     "sp": "character",
     "en": "alice",
     "zh": "爱丽丝",
@@ -13527,7 +13539,7 @@
     "sp": "character",
     "en": "kurumi",
     "zh": "胡桃",
-    "in": ""
+    "in": "胡桃（日语：クルミ 英语：kurumi）所属作品:莉可丽丝(lycoris recoil)\n是由A-1 Pictures制作的原创动画《莉可莉丝（Lycoris Recoil）》的登场角色。"
   },
   {
     "sp": "character",
@@ -16743,7 +16755,7 @@
     "sp": "character",
     "en": "layla",
     "zh": "莱拉 | 莱依拉",
-    "in": ""
+    "in": "1.莱依拉（英语：layla）所属作品:原神(genshin impact)\n是由米哈游研发的游戏《原神》及其衍生作品的登场角色。\n\n2.莱拉（日语：ライラ；英语：layla）所属作品:偶像大师(the idolmaster)\n《偶像大师》及其衍生作品的登场角色。"
   },
   {
     "sp": "character",
@@ -17469,7 +17481,7 @@
     "sp": "character",
     "en": "madoka higuchi",
     "zh": "樋口圆香",
-    "in": ""
+    "in": "所属作品偶像大师(the idolmaster)\n樋口圆香（日语：樋口円香）万代南梦宫娱乐旗下的游戏《偶像大师 闪耀色彩》及其衍生作品的毒舌偶像。"
   },
   {
     "sp": "character",
@@ -17793,7 +17805,7 @@
     "sp": "character",
     "en": "megumin",
     "zh": "惠惠",
-    "in": ""
+    "in": "惠惠(英语：Megumin) 所属作品:为美好的世界献上祝福！(kono subarashii sekai ni syukufuku o)\n是晓枣所创作的轻小说《为美好的世界献上祝福！》及其衍生作品中的登场角色"
   },
   {
     "sp": "character",
@@ -26667,7 +26679,7 @@
     "sp": "character",
     "en": "senritsu no tatsumaki",
     "zh": "战栗的龙卷",
-    "in": ""
+    "in": "战栗的龙卷（英语：senritsu no tatsumaki）所属作品:一拳超人(one punch man)\n是ONE所创作、重制版由村田雄介作画的漫画《一拳超人》及其衍生作品中的登场角色。"
   },
   {
     "sp": "character",
@@ -26991,7 +27003,7 @@
     "sp": "character",
     "en": "albedo",
     "zh": "雅儿贝德 | 阿贝多",
-    "in": ""
+    "in": "1.雅儿贝德（日语：アルベド 英语：albedo）所属作品:不死者之王(overlord)\n是丸山くがね所创作的小说《OVERLORD》及其衍生作品的登场角色。\n\n2.阿贝多（英语：albedo）所属作品:原神(genshin impact)\n是由米哈游研发的游戏《原神》及其衍生作品的登场角色。"
   },
   {
     "sp": "character",
@@ -27063,7 +27075,7 @@
     "sp": "character",
     "en": "kirara",
     "zh": "绮良良",
-    "in": ""
+    "in": "绮良良（英语：kirara）所属作品:原神(genshin impact)\n是由米哈游研发的游戏《原神》及其衍生作品的登场角色。"
   },
   {
     "sp": "character",
@@ -27987,7 +27999,7 @@
     "sp": "character",
     "en": "shinobu kochou",
     "zh": "蝴蝶忍",
-    "in": "鬼杀队中的虫柱，鬼杀队医疗设施“蝶屋”的主人。精通药学与毒理学，擅长毒杀。因为力气很小，是柱中唯一一个无法斩下鬼头的剑士，但善于制作毒素来弥补力量的不足。除此之外还经营名为“蝶屋”的医疗设施，负责治疗受重伤的队员"
+    "in": "胡蝶忍（英语：shinobu kochou）所属作品:鬼灭之刃(kimetsu no yaiba)\n是由吾峠呼世晴所创作的漫画《鬼灭之刃》及其衍生作品的登场角色。"
   },
   {
     "sp": "character",
@@ -27999,7 +28011,7 @@
     "sp": "character",
     "en": "mitsuri kanroji",
     "zh": "甘露寺蜜璃",
-    "in": "使用的恋之呼吸"
+    "in": "甘露寺蜜璃（英语:Mitsuri Kanroji）所属作品:鬼灭之刃(kimetsu no yaiba)\n是由吾峠呼世晴所创作的漫画《鬼灭之刃》及其衍生作品的角色。"
   },
   {
     "sp": "character",
@@ -28965,7 +28977,7 @@
     "sp": "character",
     "en": "gloria",
     "zh": "小优",
-    "in": ""
+    "in": "小优（日语：ユウリ，英语：Gloria）所属作品:精灵宝可梦(pokemon)\n是《宝可梦系列》及其衍生作品的登场角色。"
   },
   {
     "sp": "character",
@@ -28977,7 +28989,7 @@
     "sp": "character",
     "en": "klara",
     "zh": "克拉拉",
-    "in": ""
+    "in": "克拉拉（英语：Klara）所属作品：精灵宝可梦(pokemon)"
   },
   {
     "sp": "character",
@@ -30237,7 +30249,7 @@
     "sp": "character",
     "en": "keqing",
     "zh": "刻晴",
-    "in": "刻晴（英语：Keqing／日语：刻晴（こくせい））是由miHoYo研发的游戏《原神》及其衍生作品的登场角色。"
+    "in": "刻晴（英语：keqing）所属作品:原神(genshin impact)\n是由米哈游研发的游戏《原神》及其衍生作品的登场角色。"
   },
   {
     "sp": "character",
@@ -30279,13 +30291,13 @@
     "sp": "character",
     "en": "ganyu",
     "zh": "甘雨",
-    "in": "甘雨，米哈游出品的游戏《原神》及其衍生作品中的角色，璃月七星的秘书。"
+    "in": "甘雨（英语：ganyu）所属作品:原神(genshin impact)\n是由米哈游研发的游戏《原神》及其衍生作品的登场角色。"
   },
   {
     "sp": "character",
     "en": "jean gunnhildr",
     "zh": "琴·古恩希尔德",
-    "in": "琴·古恩希尔德是米哈游研发的游戏《原神（genshin impact）》及其衍生作品的登场角色。"
+    "in": "琴·古恩希尔德（英语：jean gunnhildr）所属作品:原神(genshin impact)\n是由米哈游研发的游戏《原神》及其衍生作品的登场角色。"
   },
   {
     "sp": "character",
@@ -30351,7 +30363,7 @@
     "sp": "character",
     "en": "chen hui-chieh",
     "zh": "陈晖洁",
-    "in": ""
+    "in": "陈晖洁(chen hui-chieh) 所属作品明日方舟(arknights)\n是游戏《明日方舟》及其衍生作品的登场角色。"
   },
   {
     "sp": "character",
@@ -30501,7 +30513,7 @@
     "sp": "character",
     "en": "thoma",
     "zh": "托马",
-    "in": "《约定的梦幻岛》主角孩子团中之一"
+    "in": "1.托马（英语：thoma）所属作品:原神(genshin impact)\n是由米哈游研发的游戏《原神》及其衍生作品的登场角色。\n\n2.《约定的梦幻岛》主角孩子团中之一"
   },
   {
     "sp": "character",
@@ -30591,7 +30603,7 @@
     "sp": "character",
     "en": "rimuru tempest",
     "zh": "利姆鲁·特恩佩斯特",
-    "in": ""
+    "in": "利姆鲁·特恩佩斯特(英语：Rimuru Tempest) 所属作品:关于我转生变成史莱姆这档事(tensei shitara slime datta ken)\n\n是伏濑所创作的小说《关于我转生变成史莱姆这档事》及其衍生作品的登场角色。"
   },
   {
     "sp": "character",
@@ -30825,13 +30837,13 @@
     "sp": "character",
     "en": "zhongli",
     "zh": "钟离",
-    "in": ""
+    "in": "钟离（英语：zhongli）所属作品:原神(genshin impact)\n是由米哈游研发的游戏《原神》及其衍生作品的登场角色。"
   },
   {
     "sp": "character",
     "en": "ningguang",
     "zh": "凝光",
-    "in": ""
+    "in": "凝光(英语:ningguang) 所属作品:原神(genshin impact)\n是米哈游研发的游戏《原神》及其衍生作品的登场角色。"
   },
   {
     "sp": "character",
@@ -30843,13 +30855,13 @@
     "sp": "character",
     "en": "amber",
     "zh": "安柏",
-    "in": ""
+    "in": "安柏（英语：amber）所属作品:原神(genshin impact)\n是由米哈游研发的游戏《原神》及其衍生作品的登场角色。"
   },
   {
     "sp": "character",
     "en": "beidou",
     "zh": "北斗",
-    "in": ""
+    "in": "北斗（英语：beidou）所属作品:原神(genshin impact)\n是由米哈游研发的游戏《原神》及其衍生作品的登场角色。"
   },
   {
     "sp": "character",
@@ -30867,7 +30879,7 @@
     "sp": "character",
     "en": "hu tao",
     "zh": "胡桃",
-    "in": "胡桃是米哈游创作的游戏《原神（genshin impact）》及其衍生作品的登场角色。"
+    "in": "胡桃（英语：hu tao）所属作品:原神(genshin impact)\n是由米哈游研发的游戏《原神》及其衍生作品的登场角色。"
   },
   {
     "sp": "character",
@@ -30999,7 +31011,7 @@
     "sp": "character",
     "en": "qiqi",
     "zh": "七七",
-    "in": "七七是原神游戏内的单手剑角色，冰元素神之眼的持有者，七七拥有强大的辅助能力，技能不仅可以给队友回血，还能侦测璃月的特产资源"
+    "in": "七七（英语：qiqi）所属作品:原神(genshin impact)\n是由米哈游研发的游戏《原神》及其衍生作品的登场角色。"
   },
   {
     "sp": "character",
@@ -31101,7 +31113,7 @@
     "sp": "character",
     "en": "mona megistus",
     "zh": "莫娜·梅姬斯图斯",
-    "in": "阿斯托洛吉斯·莫娜·梅姬斯图斯是《原神(genshin impact)》及其衍生作品的登场角色，神秘的少女占星术士，声称自己是「伟大的占星术士莫娜」，拥有与名号相符的不俗实力，博学而高傲。"
+    "in": "莫娜·梅姬斯图斯（英语：mona megistus）所属作品:原神(genshin impact)\n是由米哈游研发的游戏《原神》及其衍生作品的登场角色。"
   },
   {
     "sp": "character",
@@ -31113,91 +31125,91 @@
     "sp": "character",
     "en": "fischl",
     "zh": "菲谢尔",
-    "in": "《原神》及其衍生作品的登场角色，自称「断罪之皇女」，与名为奥兹的漆黑夜鸦同行的神秘少女。"
+    "in": "菲谢尔（英语：fischl）所属作品:原神(genshin impact)\n是米哈游制作的游戏《原神》及其衍生作品的登场角色。"
   },
   {
     "sp": "character",
     "en": "eula lawrence",
     "zh": "优菈·劳伦斯",
-    "in": "《原神(genshin impact)》及其衍生作品的登场角色，西风骑士团「游击小队」队长与声名显赫的「浪花骑士」，同时也是旧贵族劳伦斯家族的后裔。"
+    "in": "优菈·劳伦斯（英语：eula lawrence）所属作品:原神(genshin impact)\n是由米哈游研发的游戏《原神》及其衍生作品的登场角色。"
   },
   {
     "sp": "character",
     "en": "barbara pegg",
     "zh": "芭芭拉",
-    "in": "所属作品：原神(genshin impact)"
+    "in": "芭芭拉（英语：barbara pegg）所属作品:原神(genshin impact)\n是由米哈游研发的游戏《原神》及其衍生作品的登场角色。"
   },
   {
     "sp": "character",
     "en": "chongyun",
     "zh": "重云",
-    "in": ""
+    "in": "重云（英语：chongyun）所属作品:原神(genshin impact)\n是由米哈游研发的游戏《原神》及其衍生作品的登场角色。"
   },
   {
     "sp": "character",
     "en": "xingqiu",
     "zh": "行秋",
-    "in": ""
+    "in": "行秋（英语：xingqiu）所属作品:原神(genshin impact)\n是由米哈游研发的游戏《原神》及其衍生作品的登场角色。"
   },
   {
     "sp": "character",
     "en": "lisa minci",
     "zh": "丽莎·敏兹",
-    "in": "《原神》及其衍生作品的登场角色，西风骑士团图书馆的管理员，钟情于睡眠的知性魔女。"
+    "in": "丽莎·敏兹（英语：lisa minci）所属作品:原神(genshin impact)\n是由米哈游研发的游戏《原神》及其衍生作品的登场角色。"
   },
   {
     "sp": "character",
     "en": "noelle",
     "zh": "诺艾尔",
-    "in": "《原神》及其衍生作品的登场角色，以女仆的身份在骑士团里工作，努力学习着骑士的言行礼仪。"
+    "in": "诺艾尔（英语：noelle）所属作品:原神(genshin impact)\n是由米哈游研发的游戏《原神》及其衍生作品的登场角色。"
   },
   {
     "sp": "character",
     "en": "sucrose",
     "zh": "砂糖",
-    "in": "《原神(genshin impact)》及其衍生作品的登场角色，炼金术天才阿贝多的助手。"
+    "in": "砂糖（英语：sucrose）所属作品:原神(genshin impact)\n是由米哈游研发的游戏《原神》及其衍生作品的登场角色。"
   },
   {
     "sp": "character",
     "en": "diona",
     "zh": "迪奥娜",
-    "in": "《原神》及其衍生作品的登场角色，出身于清泉镇的猫耳猫尾少女，「猫尾酒馆」的超人气调酒师。"
+    "in": "迪奥娜（英语：diona）所属作品:原神(genshin impact)\n是由米哈游研发的游戏《原神》及其衍生作品的登场角色。"
   },
   {
     "sp": "character",
     "en": "rosaria",
     "zh": "罗莎莉亚",
-    "in": "《原神(genshin impact)》及其衍生作品的登场角色，蒙德城西风教会下属的一名修女。"
+    "in": "罗莎莉亚（英语：rosaria）所属作品:原神(genshin impact)\n是由米哈游研发的游戏《原神》及其衍生作品的登场角色。"
   },
   {
     "sp": "character",
     "en": "klee",
     "zh": "可莉",
-    "in": "《原神》及其衍生作品的登场角色，西风骑士团禁闭室的常客，蒙德的爆破大师。人称「逃跑的太阳」。"
+    "in": "可莉（英语：klee）所属作品:原神(genshin impact)\n是由米哈游研发的游戏《原神》及其衍生作品的登场角色。"
   },
   {
     "sp": "character",
     "en": "xinyan",
     "zh": "辛焱",
-    "in": ""
+    "in": "辛焱（英语：xinyan）所属作品:原神(genshin impact)\n是由米哈游研发的游戏《原神》及其衍生作品的登场角色。"
   },
   {
     "sp": "character",
     "en": "venti",
     "zh": "温迪",
-    "in": ""
+    "in": "温迪（英语：venti）所属作品:原神(genshin impact)\n是由米哈游研发的游戏《原神》及其衍生作品的登场角色。"
   },
   {
     "sp": "character",
     "en": "xiao",
     "zh": "魈",
-    "in": ""
+    "in": "魈（英语：xiao）所属作品:原神(genshin impact)\n是由米哈游研发的游戏《原神》及其衍生作品的登场角色。"
   },
   {
     "sp": "character",
     "en": "razor",
     "zh": "雷泽",
-    "in": ""
+    "in": "雷泽（英语：razor）所属作品:原神(genshin impact)\n是由米哈游研发的游戏《原神》及其衍生作品的登场角色。"
   },
   {
     "sp": "character",
@@ -31269,7 +31281,7 @@
     "sp": "character",
     "en": "yanfei",
     "zh": "烟绯",
-    "in": "《原神》及其衍生作品的登场角色。精通百法、又懂得权衡情理的半仙少女，璃月港顶尖的律法专家。"
+    "in": "烟绯（英语：yanfei）所属作品:原神(genshin impact)\n是米哈游研发的游戏《原神》及其衍生作品的登场角色。"
   },
   {
     "sp": "character",
@@ -32085,7 +32097,7 @@
     "sp": "character",
     "en": "raiden shogun",
     "zh": "雷电将军",
-    "in": "雷电将军是由miHoYo研发的游戏《原神(genshin impact)》及其衍生作品的登场角色。"
+    "in": "雷电将军（英语：raiden shogun）所属作品:原神(genshin impact)\n是由米哈游研发的游戏《原神》及其衍生作品的登场角色。"
   },
   {
     "sp": "character",
@@ -32127,7 +32139,7 @@
     "sp": "character",
     "en": "ayaka kamisato",
     "zh": "神里绫华",
-    "in": "神里绫华，米哈游出品的游戏《原神(genshin impact)》及其衍生作品中的角色，稻妻“社奉行”神里家的大小姐。"
+    "in": "神里绫华（英语：ayaka kamisato）所属作品:原神(genshin impact)\n是由米哈游研发的游戏《原神》及其衍生作品的登场角色。"
   },
   {
     "sp": "character",
@@ -32229,7 +32241,7 @@
     "sp": "character",
     "en": "kokomi sangonomiya",
     "zh": "珊瑚宫心海",
-    "in": ""
+    "in": "珊瑚宫心海(kokomi sangonomiya) 所属作品:原神(genshin impact)\n是米哈游研发的游戏《原神》及其衍生作品的登场角色。"
   },
   {
     "sp": "character",
@@ -32379,13 +32391,13 @@
     "sp": "character",
     "en": "yae miko",
     "zh": "八重神子",
-    "in": "八重神子是由miHoYo研发的游戏《原神》及其衍生作品的登场角色。雷神眷属，鸣神大社的宫司，也是八重堂的老板。"
+    "in": "八重神子（英语：yae miko）所属作品:原神(genshin impact)\n是由米哈游研发的游戏《原神》及其衍生作品的登场角色。"
   },
   {
     "sp": "character",
     "en": "yoimiya naganohara",
     "zh": "宵宫",
-    "in": "宵宫是由miHoYo研发的游戏《原神》及其衍生作品的登场角色。才华横溢的烟花工匠。「长野原烟花店」现任店主。"
+    "in": "宵宫（英语：yoimiya naganohara）所属作品:原神(genshin impact)\n是由米哈游研发的游戏《原神》及其衍生作品的登场角色。"
   },
   {
     "sp": "character",
@@ -32445,7 +32457,7 @@
     "sp": "character",
     "en": "xiangling",
     "zh": "香菱",
-    "in": ""
+    "in": "香菱（英语：xiangling）所属作品:原神(genshin impact)\n是由米哈游研发的游戏《原神》及其衍生作品的登场角色。"
   },
   {
     "sp": "character",
@@ -32475,7 +32487,7 @@
     "sp": "character",
     "en": "itto arataki",
     "zh": "荒泷一斗",
-    "in": "荒泷一斗是由miHoYo研发的游戏《原神(genshin impact)》及其衍生作品的登场角色。"
+    "in": "荒泷一斗（英语：itto arataki）所属作品:原神(genshin impact)\n是由米哈游研发的游戏《原神》及其衍生作品的登场角色。"
   },
   {
     "sp": "character",
@@ -32541,7 +32553,7 @@
     "sp": "character",
     "en": "sara kujou",
     "zh": "九条裟罗",
-    "in": "由miHoYo研发的游戏《原神(genshin impact)》及其衍生作品的登场角色。"
+    "in": "九条裟罗（英语：sara kujou）所属作品:原神(genshin impact)\n是由米哈游研发的游戏《原神》及其衍生作品的登场角色。"
   },
   {
     "sp": "character",
@@ -32559,13 +32571,13 @@
     "sp": "character",
     "en": "akane murokasa",
     "zh": "室笠茜",
-    "in": ""
+    "in": "室笠朱音 / 室笠茜是 Nexon 发行的游戏《蔚蓝档案》及其衍生作品中的登场角色。\n所属作品：蔚蓝档案(blue archive)"
   },
   {
     "sp": "character",
     "en": "karin kakudate",
     "zh": "角楯花凛",
-    "in": ""
+    "in": "角楯花凛 Nexon 发行的游戏《蔚蓝档案》及其衍生作品中的登场角色。\n所属作品：蔚蓝档案(blue archive)"
   },
   {
     "sp": "character",
@@ -32763,7 +32775,7 @@
     "sp": "character",
     "en": "shenhe",
     "zh": "申鹤",
-    "in": "申鹤是米哈游研发的游戏《原神（genshin impact）》及其衍生作品的登场角色。"
+    "in": "申鹤（英语：shenhe）所属作品:原神(genshin impact)\n是由米哈游研发的游戏《原神》及其衍生作品的登场角色。"
   },
   {
     "sp": "character",
@@ -33219,7 +33231,7 @@
     "sp": "character",
     "en": "sayu",
     "zh": "早柚",
-    "in": "游戏原神(genshin impact)中的角色"
+    "in": "早柚（英语：sayu）所属作品:原神(genshin impact)\n是由米哈游研发的游戏《原神》及其衍生作品的登场角色。"
   },
   {
     "sp": "character",
@@ -33411,7 +33423,7 @@
     "sp": "character",
     "en": "bennett",
     "zh": "班尼特",
-    "in": ""
+    "in": "班尼特（英语：bennett）所属作品:原神(genshin impact)\n是由米哈游研发的游戏《原神》及其衍生作品的登场角色。"
   },
   {
     "sp": "character",
@@ -33807,7 +33819,7 @@
     "sp": "character",
     "en": "yelan",
     "zh": "夜兰",
-    "in": "夜兰是米哈游研发的游戏《原神（genshin impact）》及其衍生作品的登场角色。"
+    "in": "夜兰（英语：yelan）所属作品:原神(genshin impact)\n是由米哈游研发的游戏《原神》及其衍生作品的登场角色。"
   },
   {
     "sp": "character",
@@ -33909,7 +33921,7 @@
     "sp": "character",
     "en": "ninomae inanis",
     "zh": "一伊那尔栖",
-    "in": ""
+    "in": "一伊那尔栖(英语:ninomae inanis) 所属社团:Hololive(hololive)\n是一名VTuber"
   },
   {
     "sp": "character",
@@ -33963,13 +33975,13 @@
     "sp": "character",
     "en": "kazuha kaedehara",
     "zh": "枫原万叶",
-    "in": "所属作品 原神(genshin impact)"
+    "in": "枫原万叶（英语：kazuha kaedehara）所属作品:原神(genshin impact)\n是由米哈游研发的游戏《原神》及其衍生作品的登场角色。"
   },
   {
     "sp": "character",
     "en": "scaramouche",
     "zh": "「散兵」（国崩）",
-    "in": "所属作品 原神(genshin impact)"
+    "in": "散兵（英语：scaramouche）所属作品:原神(genshin impact)\n是由米哈游研发的游戏《原神》及其衍生作品的登场角色。"
   },
   {
     "sp": "character",
@@ -34581,7 +34593,7 @@
     "sp": "character",
     "en": "ouro kronii",
     "zh": "奥罗·克洛尼",
-    "in": ""
+    "in": "奥罗·克洛尼(英语:ouro kronii) 所属社团:Hololive(hololive)\n是一名VTuber"
   },
   {
     "sp": "character",
@@ -34677,13 +34689,13 @@
     "sp": "character",
     "en": "diluc ragnvindr",
     "zh": "迪卢克·莱艮芬德",
-    "in": "迪卢克·莱艮芬德是由miHoYo制作的游戏《原神》及其衍生作品的登场角色，游戏中蒙德最大酒庄「晨曦酒庄」的庄主。"
+    "in": "迪卢克·莱艮芬德（英语：diluc ragnvindr）所属作品:原神(genshin impact)\n是由米哈游研发的游戏《原神》及其衍生作品的登场角色。"
   },
   {
     "sp": "character",
     "en": "kaeya alberich",
     "zh": "凯亚·亚尔伯里奇",
-    "in": "凯亚·亚尔伯里奇是由miHoYo研发的游戏《原神》及其衍生作品的登场角色，西风骑士团的骑兵队长。"
+    "in": "凯亚·亚尔伯里奇（英语：kaeya alberich）所属作品:原神(genshin impact)\n是由米哈游研发的游戏《原神》及其衍生作品的登场角色。"
   },
   {
     "sp": "character",
@@ -35091,7 +35103,7 @@
     "sp": "character",
     "en": "yuuka hayase",
     "zh": "早濑优香",
-    "in": ""
+    "in": "早濑优香（英语：yuuka hayase） 所属作品:蔚蓝档案(blue archive)\n是Nexon发行的游戏《蔚蓝档案》及其衍生作品中的登场角色。"
   },
   {
     "sp": "character",
@@ -35235,7 +35247,7 @@
     "sp": "character",
     "en": "neru mikamo",
     "zh": "美甘宁瑠",
-    "in": "所属作品：蔚蓝档案(blue archive)\n\n千禧科技学园所属，承包商「C&C」的领头。\n乍一看只是在女仆服外面套着特攻衫的不良少女，但实际上是作为千禧年最强战斗能力的代理人。"
+    "in": "美甘宁瑠是 Nexon 发行的游戏《蔚蓝档案》及其衍生作品中的登场角色。\n所属作品：蔚蓝档案(blue archive)\n\n千禧科技学园所属，承包商「C&C」的领头。\n乍一看只是在女仆服外面套着特攻衫的不良少女，但实际上是作为千禧年最强战斗能力的代理人。"
   },
   {
     "sp": "character",
@@ -35793,7 +35805,7 @@
     "sp": "character",
     "en": "arlecchino",
     "zh": "「仆人」阿蕾奇诺",
-    "in": ""
+    "in": "「仆人」阿蕾奇诺（英语：arlecchino）所属作品:原神(genshin impact)\n是由米哈游研发的游戏《原神》及其衍生作品的登场角色。"
   },
   {
     "sp": "character",
@@ -35841,7 +35853,7 @@
     "sp": "character",
     "en": "nahida",
     "zh": "纳西妲",
-    "in": "纳西妲是由miHoYo创作的游戏《原神》及其衍生作品的登场角色。"
+    "in": "纳西妲（英语：nahida）所属作品:原神(genshin impact)\n是由米哈游研发的游戏《原神》及其衍生作品的登场角色。"
   },
   {
     "sp": "character",
@@ -35865,7 +35877,7 @@
     "sp": "character",
     "en": "nilou",
     "zh": "妮露",
-    "in": "妮露是米哈游研发的游戏《原神（genshin impact）》及其衍生作品的登场角色。"
+    "in": "妮露（英语：nilou）所属作品:原神(genshin impact)\n是由米哈游研发的游戏《原神》及其衍生作品的登场角色。"
   },
   {
     "sp": "character",
@@ -35979,7 +35991,7 @@
     "sp": "character",
     "en": "tighnari",
     "zh": "提纳里",
-    "in": ""
+    "in": "提纳里（英语：tighnari）所属作品:原神(genshin impact)\n是由米哈游研发的游戏《原神》及其衍生作品的登场角色。"
   },
   {
     "sp": "character",
@@ -36081,7 +36093,7 @@
     "sp": "character",
     "en": "dori",
     "zh": "多莉",
-    "in": "原神(genshin impact)的登场角色。"
+    "in": "所属作品:传颂之物(utawarerumono)"
   },
   {
     "sp": "character",
@@ -36093,7 +36105,7 @@
     "sp": "character",
     "en": "aponia",
     "zh": "阿波尼亚",
-    "in": ""
+    "in": "阿波尼亚是米哈游旗下的游戏《崩坏3》及其衍生作品的登场角色"
   },
   {
     "sp": "character",
@@ -36117,7 +36129,7 @@
     "sp": "character",
     "en": "candace",
     "zh": "坎蒂丝",
-    "in": ""
+    "in": "坎蒂丝(英语:candace) 所属作品原神(genshin impact)\n是米哈游研发的游戏《原神》及其衍生作品的登场角色。"
   },
   {
     "sp": "character",
@@ -36141,7 +36153,7 @@
     "sp": "character",
     "en": "seele vollerei",
     "zh": "希儿·芙乐艾",
-    "in": "希儿·芙乐艾是米哈游出品的崩坏系列及其衍生作品的出场角色。由于《崩坏学园2》和《崩坏3》互为平行世界，且角色设定存在很大不同，因此，在萌娘百科，希儿·芙乐艾可以指：\n\n希儿·芙乐艾(崩坏学园2)———《崩坏学园2》及其衍生作品中的出场角色。\n希儿·芙乐艾(崩坏3)———《崩坏3》及其衍生作品中的出场角色。"
+    "in": "希儿·芙乐艾，所属作品:崩坏学园(honkai gakuen); 崩坏：星穹铁道(honkai star rail)\n是米哈游出品的崩坏系列（包括《崩坏:星穹铁道》）及其衍生作品的出场角色\n希儿·芙乐艾(崩坏学园2)———《崩坏学园2》及其衍生作品中的出场角色。\n希儿·芙乐艾(崩坏3)———《崩坏3》及其衍生作品中的出场角色。\n希儿(崩坏：星穹铁道)———《崩坏:星穹铁道》及其衍生作品中的出场角色。"
   },
   {
     "sp": "character",
@@ -36153,7 +36165,7 @@
     "sp": "character",
     "en": "shinobu kuki",
     "zh": "久岐忍",
-    "in": "久岐忍是由miHoYo研发的游戏《原神》及其衍生作品的登场角色。荒泷派二把手，前「鸣神大社」巫女。"
+    "in": "久岐忍（英语：shinobu kuki）所属作品:原神(genshin impact)\n是由米哈游研发的游戏《原神》及其衍生作品的登场角色。"
   },
   {
     "sp": "character",
@@ -36189,7 +36201,7 @@
     "sp": "character",
     "en": "heizou shikanoin",
     "zh": "鹿野院平藏",
-    "in": ""
+    "in": "鹿野院平藏（英语：heizou shikanoin）所属作品:原神(genshin impact)\n是由米哈游研发的游戏《原神》及其衍生作品的登场角色。"
   },
   {
     "sp": "character",
@@ -36201,13 +36213,13 @@
     "sp": "character",
     "en": "tartaglia",
     "zh": "「公子」达达利亚",
-    "in": "《原神(genshin impact)》的登场角色。愚人众十一执行官末席。"
+    "in": "达达利亚（英语：tartaglia）所属作品:原神(genshin impact)\n是由米哈游研发的游戏《原神》及其衍生作品的登场角色。"
   },
   {
     "sp": "character",
     "en": "gorou",
     "zh": "五郎",
-    "in": ""
+    "in": "五郎（英语：gorou）所属作品:原神(genshin impact)\n是由米哈游研发的游戏《原神》及其衍生作品的登场角色。"
   },
   {
     "sp": "character",
@@ -36219,7 +36231,7 @@
     "sp": "character",
     "en": "yun jin",
     "zh": "云堇",
-    "in": ""
+    "in": "云堇（英语：yun jin）所属作品:原神(genshin impact)\n是由米哈游研发的游戏《原神》及其衍生作品的登场角色。"
   },
   {
     "sp": "character",
@@ -36285,7 +36297,7 @@
     "sp": "character",
     "en": "ayato kamisato",
     "zh": "神里绫人",
-    "in": ""
+    "in": "神里绫人（英语：ayato kamisato）所属作品:原神(genshin impact)\n是由米哈游研发的游戏《原神》及其衍生作品的登场角色。"
   },
   {
     "sp": "character",
@@ -36363,7 +36375,7 @@
     "sp": "character",
     "en": "dehya",
     "zh": "迪希雅",
-    "in": "迪希雅是由米哈游研发游戏《原神（genshin impact）》及其衍生作品的登场角色。"
+    "in": "迪希雅（英语：dehya）所属作品:原神(genshin impact)\n是由米哈游研发游戏《原神（genshin impact）》及其衍生作品的登场角色。"
   },
   {
     "sp": "character",
@@ -36405,7 +36417,7 @@
     "sp": "character",
     "en": "collei",
     "zh": "柯莱",
-    "in": ""
+    "in": "柯莱(英语:collei) 所属作品原神(genshin impact)\n是游戏《原神》及其衍生作品的登场角色。"
   },
   {
     "sp": "character",
@@ -36885,7 +36897,7 @@
     "sp": "character",
     "en": "nijika ijichi",
     "zh": "伊地知虹夏",
-    "in": ""
+    "in": "伊地知虹夏（英语:nijika ijichi）所属作品:孤独摇滚！(bocchi the rock)\n是由はまじあき所创作的漫画《孤独摇滚！》及其衍生作品中的登场角色。"
   },
   {
     "sp": "character",
@@ -36999,7 +37011,7 @@
     "sp": "character",
     "en": "alhaitham",
     "zh": "艾尔海森",
-    "in": ""
+    "in": "艾尔海森（英语：alhaitham）所属作品:原神(genshin impact)\n是由米哈游研发的游戏《原神》及其衍生作品的登场角色。"
   },
   {
     "sp": "character",
@@ -37239,7 +37251,7 @@
     "sp": "character",
     "en": "yaoyao",
     "zh": "瑶瑶",
-    "in": ""
+    "in": "瑶瑶（英语：yaoyao）所属作品:原神(genshin impact)\n是由米哈游研发的游戏《原神》及其衍生作品的登场角色。"
   },
   {
     "sp": "character",
@@ -37689,7 +37701,7 @@
     "sp": "character",
     "en": "faruzan",
     "zh": "珐露珊",
-    "in": "米哈游研发的游戏《原神》及其衍生作品的登场角色。"
+    "in": "珐露珊（英语：faruzan）所属作品:原神(genshin impact)\n是由米哈游研发的游戏《原神》及其衍生作品的登场角色。"
   },
   {
     "sp": "character",
@@ -37773,7 +37785,7 @@
     "sp": "character",
     "en": "cyno",
     "zh": "赛诺",
-    "in": "赛诺，米哈游出品的游戏《原神》及其衍生作品中的角色，须弥教令院的大风纪官。"
+    "in": "赛诺（英语：cyno）所属作品:原神(genshin impact)\n是由米哈游研发的游戏《原神》及其衍生作品的登场角色。"
   },
   {
     "sp": "character",
@@ -38025,7 +38037,7 @@
     "sp": "character",
     "en": "himeko",
     "zh": "姬子",
-    "in": ""
+    "in": "姬子(英语:himeko) 所属作品崩坏：星穹铁道(honkai star rail)\n是米哈游制作的游戏《崩坏：星穹铁道》及其衍生作品的登场角色。"
   },
   {
     "sp": "character",
@@ -38475,7 +38487,7 @@
     "sp": "character",
     "en": "tingyun",
     "zh": "停云",
-    "in": "停云是米哈游制作的游戏《崩坏：星穹铁道》及其衍生作品的登场角色。"
+    "in": "停云（英语：tingyun）所属作品:崩坏：星穹铁道(honkai star rail)\n是米哈游制作的游戏《崩坏：星穹铁道》及其衍生作品的登场角色。"
   },
   {
     "sp": "character",
@@ -38824,6 +38836,108 @@
     "en": "tsukasa tenma",
     "zh": "天马司",
     "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "kouta oyamada",
+    "zh": "小山田耕太",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "chizuru minamoto",
+    "zh": "源千鹤",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "nozomu ezomori",
+    "zh": "犹守望",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "anisphia wynn palettia",
+    "zh": "艾妮丝菲亚·温·帕雷提亚",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "euphyllia magenta",
+    "zh": "尤菲莉亚·玛赞塔",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "gobuta",
+    "zh": "哥布塔",
+    "in": "哥布塔(英语:Gobta) 所属作品:关于我转生变成史莱姆这档事(tensei shitara slime datta ken)\n是伏濑所创作的小说《关于我转生变成史莱姆这档事》及其衍生作品的登场角色。"
+  },
+  {
+    "sp": "character",
+    "en": "hakos baelz",
+    "zh": "哈珂斯·贝尔丝",
+    "in": "哈珂斯·贝尔丝（英语：Hakos Baelz；日语：ハコス・ベールズ）所属社团:Hololive(hololive)\n是一名VTuber"
+  },
+  {
+    "sp": "character",
+    "en": "saitama",
+    "zh": "琦玉",
+    "in": "埼玉（英语：saitama）所属作品:一拳超人(one punch man)\n是ONE所创作、重制版由村田雄介作画的漫画《一拳超人》及其衍生作品中的主人公。"
+  },
+  {
+    "sp": "character",
+    "en": "rukia kuchiki",
+    "zh": "朽木露琪亚",
+    "in": "朽木露琪亚（英语：rukia kuchiki ) 所属作品:死神(bleach)\n是久保带人所创作的漫画《死神（BLEACH）》及其衍生作品的女主角。"
+  },
+  {
+    "sp": "character",
+    "en": "dori sangemah bay",
+    "zh": "多莉·桑歌玛哈巴依",
+    "in": "多莉·桑歌玛哈巴依（英语：dori sangemah bay）所属作品:原神(genshin impact)\n是由米哈游研发的游戏《原神》及其衍生作品的登场角色。"
+  },
+  {
+    "sp": "character",
+    "en": "baizhu",
+    "zh": "白术",
+    "in": "白术（英语：baizhu）所属作品:原神(genshin impact)\n是由米哈游研发的游戏《原神》及其衍生作品的登场角色。"
+  },
+  {
+    "sp": "character",
+    "en": "lewis",
+    "zh": "刘易斯",
+    "in": "刘易斯（英语：lewis）所属作品:少女前线(girls frontline)\n是由云母组研发、暗冬网络发行的战术策略养成类游戏《少女前线》及其衍生作品的登场角色"
+  },
+  {
+    "sp": "character",
+    "en": "kagura mea",
+    "zh": "神樂Mea",
+    "in": "神樂Mea（日语：神楽めあ英语：Kagura Mea）是一名VTuber"
+  },
+  {
+    "sp": "character",
+    "en": "gabriel",
+    "zh": "加百列",
+    "in": "加百列（英语：gabriel）所属作品:碧蓝幻想(granblue fantasy)"
+  },
+  {
+    "sp": "character",
+    "en": "europa",
+    "zh": "欧罗巴",
+    "in": "欧罗巴（英语：europa）所属作品:碧蓝幻想(granblue fantasy)"
+  },
+  {
+    "sp": "character",
+    "en": "neneka utsushimi",
+    "zh": "现士实似似花",
+    "in": "现士实似似花（日语：現士実（うつしみ） 似々花（ねねか）英语：neneka utsushimi）所属作品:公主连结Re:Dive(princess connect)\n是Cygames开发和发行的游戏《公主连结》及其续作《公主连结Re:Dive》的登场角色。"
+  },
+  {
+    "sp": "character",
+    "en": "penny",
+    "zh": "牡丹",
+    "in": "牡丹（日语：ボタン，英语：Penny）所属作品:精灵宝可梦(pokemon)\n是《宝可梦系列》的登场角色。"
   },
   {
     "sp": "group",
@@ -52346,8 +52460,8 @@
   {
     "sp": "group",
     "en": "momojiru teien",
-    "zh": "桃汁庭園",
-    "in": ""
+    "zh": "桃汁庭园",
+    "in": "画师桃云(momokumo)所属社团"
   },
   {
     "sp": "group",
@@ -105715,12 +105829,6 @@
   },
   {
     "sp": "group",
-    "en": "tearontaron",
-    "zh": "てぃーろんたろん",
-    "in": ""
-  },
-  {
-    "sp": "group",
     "en": "tecchitecchi",
     "zh": "テッチテッチ",
     "in": ""
@@ -107492,7 +107600,7 @@
   {
     "sp": "group",
     "en": "touenketsu",
-    "zh": "桃園結",
+    "zh": "桃园结",
     "in": ""
   },
   {
@@ -114210,6 +114318,36 @@
     "in": ""
   },
   {
+    "sp": "group",
+    "en": "hikoushiki",
+    "zh": "飞行式",
+    "in": "画师矼房(cowbow)所属社团"
+  },
+  {
+    "sp": "group",
+    "en": "toyoko daisyouten",
+    "zh": "东横大赏典",
+    "in": "漫画家山田金铁(yamada kintetsu)所属社团"
+  },
+  {
+    "sp": "group",
+    "en": "maimu maimu",
+    "zh": "まいむ～まいむ",
+    "in": "画师九童まいむ(kudou maimu)所属社团"
+  },
+  {
+    "sp": "group",
+    "en": "yakimeshi modoki",
+    "zh": "やきめしもどき",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "nananto",
+    "zh": "ななんと",
+    "in": ""
+  },
+  {
     "sp": "artist",
     "en": "2",
     "zh": "2",
@@ -114279,7 +114417,7 @@
     "sp": "artist",
     "en": "88",
     "zh": "88",
-    "in": ""
+    "in": "画师，笔下人物的脸很有特点\n2021年初出道，处女作是刊登于《コミックホットミルク》（COMIC HOTMILK）2021年3月号的《クノ―テン》\n2023年7月28日发行第一部电子单行本《とろけるささやき》"
   },
   {
     "sp": "artist",
@@ -123686,7 +123824,7 @@
   {
     "sp": "artist",
     "en": "higashide irodori",
-    "zh": "東出イロドリ",
+    "zh": "东出彩",
     "in": "作者推特头像"
   },
   {
@@ -130940,8 +131078,8 @@
   {
     "sp": "artist",
     "en": "henkuma",
-    "zh": "変熊",
-    "in": ""
+    "zh": "变熊",
+    "in": "作者推特头像"
   },
   {
     "sp": "artist",
@@ -132968,7 +133106,7 @@
   {
     "sp": "artist",
     "en": "konnyaku",
-    "zh": "こんにゃく",
+    "zh": "蒟蒻",
     "in": ""
   },
   {
@@ -133238,8 +133376,8 @@
   {
     "sp": "artist",
     "en": "sanjuurou",
-    "zh": "さんじゅうろう",
-    "in": ""
+    "zh": "三十郎",
+    "in": "《COMIC X-EROS》作者"
   },
   {
     "sp": "artist",
@@ -136148,8 +136286,8 @@
   {
     "sp": "artist",
     "en": "momokumo",
-    "zh": "桃雲",
-    "in": ""
+    "zh": "桃云",
+    "in": "作者推特头像\n\n社团桃汁庭园(momojiru teien)主笔"
   },
   {
     "sp": "artist",
@@ -168896,7 +169034,7 @@
   {
     "sp": "artist",
     "en": "ototo",
-    "zh": "Ototo",
+    "zh": "おとと(ototo)",
     "in": ""
   },
   {
@@ -188874,6 +189012,102 @@
     "in": "一个经常画百合类作品的画师。\n作品中有Project Sekai（世界计划）的内容。"
   },
   {
+    "sp": "artist",
+    "en": "shibatora",
+    "zh": "柴寅",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "cowbow",
+    "zh": "矼房",
+    "in": "作者推特头像\n\n社团飞行式(hikoushiki)主笔画师。"
+  },
+  {
+    "sp": "artist",
+    "en": "yamada kintetsu",
+    "zh": "山田金铁",
+    "in": "作者推特头像\n\n漫画《汗皂交香》作者"
+  },
+  {
+    "sp": "artist",
+    "en": "kudou maimu",
+    "zh": "九童まいむ",
+    "in": "作者推特头像\n\n社团まいむ～まいむ(maimu maimu)主笔画师"
+  },
+  {
+    "sp": "artist",
+    "en": "iwamoto kuyo",
+    "zh": "いーなん",
+    "in": "作者推特头像"
+  },
+  {
+    "sp": "artist",
+    "en": "pilaf modoki",
+    "zh": "ぴらふもどき",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "uenosuke",
+    "zh": "↑野介",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "inoue makito",
+    "zh": "井植莳人",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "mudoochi",
+    "zh": "むどおち",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "mori manpei",
+    "zh": "森万平",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "frogsnake",
+    "zh": "蛙记",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "tearontaron",
+    "zh": "てぃーろんたろん",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "tonee",
+    "zh": "Tonee",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "rangu",
+    "zh": "らんぐ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "icomochi",
+    "zh": "イコモチ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "hongshi",
+    "zh": "紅世",
+    "in": ""
+  },
+  {
     "sp": "cosplayer",
     "en": "otohara an",
     "zh": "乙原あん",
@@ -189255,6 +189489,18 @@
     "sp": "cosplayer",
     "en": "banbanko",
     "zh": "半半子",
+    "in": ""
+  },
+  {
+    "sp": "cosplayer",
+    "en": "aninnyan",
+    "zh": "桜井宁宁",
+    "in": ""
+  },
+  {
+    "sp": "cosplayer",
+    "en": "nagisa",
+    "zh": "NAGISA魔物喵",
     "in": ""
   },
   {
