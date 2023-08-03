@@ -1399,6 +1399,19 @@ DTSTART;TZID=Asia/Tokyo:20220603T170000
 DTEND;TZID=Asia/Tokyo:20220620T235900
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20230803T081719Z
+SUMMARY:J-红莲节「立ち上がれ、不死鳥のように！」
+DESCRIPTION:活动奖励：\n时装-「不死鸟英雄套装」（共两件：フェニックスヒーロー・メット、フェニックスヒーロー・スーツ）\n\n活动页
+ 面：\nhttps://jp.finalfantasyxiv.com/lodestone/special/2023/Moonfire_Faire
+ /oct9miki0d
+TZID:Asia/Tokyo
+SEQUENCE:0
+UID:CD6887F1-10ED-49E0-9301-C8C3D79D3B66
+CREATED:20230803T081719Z
+DTSTART;TZID=Asia/Tokyo:20230810T170000
+DTEND;TZID=Asia/Tokyo:20230826T235900
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20220728T020928Z
 SUMMARY:J-红莲节相关商品7折折扣
 DESCRIPTION:折扣商品页面（日语）：\nhttps://store.finalfantasyxiv.com/ffxivstore/ja-
