@@ -1069,15 +1069,16 @@ DTSTART;TZID=Asia/Shanghai:20220601T140000
 DTEND;TZID=Asia/Shanghai:20220630T140000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230717T093559Z
-SUMMARY:（预测）C-新生庆典
-DESCRIPTION:奖励：\n时尚配饰-「红月油纸伞」\n烟花-「妮美雅百合香囊」
-TZID:Asia/Tokyo
+DTSTAMP:20230805T142145Z
+SUMMARY:C-新生庆典「某人留下的足迹、某人启航的契机」
+DESCRIPTION:奖励：\n宠物-「发条索鲁斯」\n\n活动页面：\nhttps://actff1.web.sdo.com/project/
+ 20230816TheRising/
+TZID:Asia/Shanghai
 SEQUENCE:0
 UID:92994DB8-8BDA-4C3F-BEF9-E1821A9F2C17
-CREATED:20230717T093559Z
-DTSTART;VALUE=DATE:20230808
-DTEND;VALUE=DATE:20230809
+CREATED:20230805T142145Z
+DTSTART;TZID=Asia/Shanghai:20230816T140000
+DTEND;TZID=Asia/Shanghai:20230830T140000
 END:VEVENT
 BEGIN:VEVENT
 CREATED:20230522T232109Z
@@ -1893,6 +1894,22 @@ UID:F4F56C6D-9347-4289-821E-B9C58E263E65
 CREATED:20230113T054219Z
 DTSTART;VALUE=DATE:20231017
 DTEND;VALUE=DATE:20231018
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230805T141723Z
+SUMMARY:C-「莫古莫古★大收集 ～虚构之刻～」
+DESCRIPTION:【持续到6.4更新维护，有6.4的具体时间后会再修改结束时间】\n\n对象迷宫概述（获得多少石头）：\n7石头-希望之炮台
+ ：“塔”、天幕魔导城最终决战\n6石头-人偶军事基地\n5石头-复制工厂废墟\n3~5石头-纷争前线、烈羽争锋\n4石头-财宝传说破舰岛、惨剧灵
+ 殿塔姆·塔拉墓园、神兵要塞帝国南方堡\n3石头-究极神兵破坏作战、山中战线泽梅尔要塞、流沙迷宫樵鸣洞、古代遗迹喀恩埋没圣堂\n2石头-亚历山大机
+ 工城普通难度全系列、钻石神兵捕获作战、绿宝石神兵破坏作战、红宝石神兵破坏作战\n\n（或许能有用的）奖励：\n仙子猪耳坠-100\n魔导猎手认证
+ 密钥-50\n伊克西翁号角-50\n硕山羊角笛-50\n发型样式：基拉巴尼亚编发-50\n管弦乐琴乐谱：一瞬千里-50\n演技教材·坚持主张-3
+ 0\n\n活动网页：\nhttps://actff1.web.sdo.com/project/20230715mogu/index.html
+TZID:Asia/Shanghai
+SEQUENCE:0
+UID:F517F8DA-A960-488A-9428-F4B8458FD920
+CREATED:20230805T141723Z
+DTSTART;TZID=Asia/Shanghai:20230808T180000
+DTEND;TZID=Asia/Shanghai:20230912T190000
 END:VEVENT
 BEGIN:VEVENT
 CREATED:20220119T111228Z
