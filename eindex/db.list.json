@@ -23888,7 +23888,7 @@
   {
     "sp": "character",
     "en": "cure muse",
-    "zh": "谬思天使",
+    "zh": "缪斯天使",
     "in": ""
   },
   {
@@ -33411,7 +33411,7 @@
     "sp": "character",
     "en": "mona",
     "zh": "莫娜",
-    "in": "非原神中的莫娜，原神中的莫娜标签应当为莫娜·梅姬斯图斯(mona megistus)"
+    "in": "所属作品:p:warioware,超级马力欧兄弟(super mario brothers)"
   },
   {
     "sp": "character",
@@ -37574,7 +37574,7 @@
   {
     "sp": "character",
     "en": "tsurugi kensaki",
-    "zh": "剑先剑",
+    "zh": "剑崎鹤城",
     "in": "所属作品: 蔚蓝档案(blue archive)"
   },
   {
@@ -38042,8 +38042,8 @@
   {
     "sp": "character",
     "en": "garou",
-    "zh": "五郎",
-    "in": "所属作品: 原神(genshin impact)\n\n忠勇双全的海祇军大将。天生具有野兽般的战斗直觉与顽强意志，能精准找出绝境中的胜机。领导着军备、物资皆不占优的海祇军与幕府军分庭抗礼，力求为活在这片土地上的人们支撑起一片生存之壁。"
+    "zh": "饿狼",
+    "in": "饿狼（英语:garou）所属作品: 一拳超人(one punch man)"
   },
   {
     "sp": "character",
@@ -38997,6 +38997,210 @@
     "sp": "character",
     "en": "grea",
     "zh": "古蕾雅",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "sakurako utazumi",
+    "zh": "歌住樱子",
+    "in": "所属作品：蔚蓝档案(blue archive)"
+  },
+  {
+    "sp": "character",
+    "en": "miyako tsukiyuki",
+    "zh": "月雪宫子",
+    "in": "所属作品：蔚蓝档案(blue archive)"
+  },
+  {
+    "sp": "character",
+    "en": "koyuki kurosaki",
+    "zh": "黑崎小雪",
+    "in": "所属作品：蔚蓝档案(blue archive)"
+  },
+  {
+    "sp": "character",
+    "en": "atsuko hakari",
+    "zh": "秤亚津子",
+    "in": "所属作品：蔚蓝档案(blue archive)"
+  },
+  {
+    "sp": "character",
+    "en": "saya yakushi",
+    "zh": "叶子纱绫",
+    "in": "所属作品：蔚蓝档案(blue archive)"
+  },
+  {
+    "sp": "character",
+    "en": "kaya shiranui",
+    "zh": "不知火花耶",
+    "in": "所属作品：蔚蓝档案(blue archive)"
+  },
+  {
+    "sp": "character",
+    "en": "mine aomori",
+    "zh": "苍森美弥",
+    "in": "所属作品：蔚蓝档案(blue archive)"
+  },
+  {
+    "sp": "character",
+    "en": "mina konoe",
+    "zh": "近卫弥奈",
+    "in": "所属作品：蔚蓝档案(blue archive)"
+  },
+  {
+    "sp": "character",
+    "en": "marina ikekura",
+    "zh": "池仓玛利娜",
+    "in": "所属作品：蔚蓝档案(blue archive)"
+  },
+  {
+    "sp": "character",
+    "en": "eimi izumimoto",
+    "zh": "和泉元艾米",
+    "in": "所属作品：蔚蓝档案(blue archive)"
+  },
+  {
+    "sp": "character",
+    "en": "megu shimokura",
+    "zh": "下仓惠",
+    "in": "所属作品：蔚蓝档案(blue archive)"
+  },
+  {
+    "sp": "character",
+    "en": "serina sumi",
+    "zh": "鹫见芹娜",
+    "in": "所属作品：蔚蓝档案(blue archive)"
+  },
+  {
+    "sp": "character",
+    "en": "ayumu iwabitsu",
+    "zh": "岩柜步梦",
+    "in": "所属作品：蔚蓝档案(blue archive)"
+  },
+  {
+    "sp": "character",
+    "en": "rin nanagami",
+    "zh": "七神凛",
+    "in": "所属作品：蔚蓝档案(blue archive)"
+  },
+  {
+    "sp": "character",
+    "en": "aoi oki",
+    "zh": "扇喜葵",
+    "in": "所属作品：蔚蓝档案(blue archive)"
+  },
+  {
+    "sp": "character",
+    "en": "rumi akeshiro",
+    "zh": "朱城瑠美",
+    "in": "所属作品：蔚蓝档案(blue archive)"
+  },
+  {
+    "sp": "character",
+    "en": "michiru chidori",
+    "zh": "千鸟满",
+    "in": "所属作品：蔚蓝档案(blue archive)"
+  },
+  {
+    "sp": "character",
+    "en": "reijo kayama",
+    "zh": "鹿山丽情",
+    "in": "所属作品：蔚蓝档案(blue archive)"
+  },
+  {
+    "sp": "character",
+    "en": "maki konuri",
+    "zh": "小涂真纪",
+    "in": "所属作品：蔚蓝档案(blue archive)"
+  },
+  {
+    "sp": "character",
+    "en": "misaki imashino",
+    "zh": "戒野美咲",
+    "in": "所属作品：蔚蓝档案(blue archive)"
+  },
+  {
+    "sp": "character",
+    "en": "mimori mizuha",
+    "zh": "水羽三森",
+    "in": "所属作品：蔚蓝档案(blue archive)"
+  },
+  {
+    "sp": "character",
+    "en": "haruka igusa",
+    "zh": "伊草遥香",
+    "in": "所属作品：蔚蓝档案(blue archive)"
+  },
+  {
+    "sp": "character",
+    "en": "kirino nakatsukasa",
+    "zh": "中务桐乃",
+    "in": "所属作品：蔚蓝档案(blue archive)"
+  },
+  {
+    "sp": "character",
+    "en": "yoshimi ibaragi",
+    "zh": "伊原木好美",
+    "in": "所属作品：蔚蓝档案(blue archive)"
+  },
+  {
+    "sp": "character",
+    "en": "hiyori tsuchinaga",
+    "zh": "槌永日和",
+    "in": "所属作品：蔚蓝档案(blue archive)"
+  },
+  {
+    "sp": "character",
+    "en": "cherino renkawa",
+    "zh": "连河切里诺",
+    "in": "所属作品：蔚蓝档案(blue archive)"
+  },
+  {
+    "sp": "character",
+    "en": "kei tsukishima",
+    "zh": "月岛萤",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "izzy izumi",
+    "zh": "泉光子郎",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "tai kamiya",
+    "zh": "八神太一",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "agumon",
+    "zh": "亚古兽",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "hatoba tsugu",
+    "zh": "鸠羽伦|鸠羽嗣",
+    "in": "YouTube上的虚拟YouTuber"
+  },
+  {
+    "sp": "character",
+    "en": "autumn blaze",
+    "zh": "秋烨",
+    "in": "秋烨（Autumn Blaze）是动画《彩虹小马》及其衍生作品的登场角色。"
+  },
+  {
+    "sp": "character",
+    "en": "lyra heartstrings",
+    "zh": "天琴心弦",
+    "in": "天琴心弦（Lyra Heartstrings）是动画《彩虹小马》及其衍生作品的登场角色。"
+  },
+  {
+    "sp": "character",
+    "en": "lopiniatre",
+    "zh": "倔强",
     "in": ""
   },
   {
@@ -114408,6 +114612,36 @@
     "in": ""
   },
   {
+    "sp": "group",
+    "en": "gogatsu souzaiten",
+    "zh": "五月惣菜店",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "syunichi kansuu",
+    "zh": "しゅにち関数",
+    "in": "null"
+  },
+  {
+    "sp": "group",
+    "en": "edamametei",
+    "zh": "えだまめ亭",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "texteater",
+    "zh": "Texteater",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "evolment tycoon",
+    "zh": "EVOLMENT TYCOON",
+    "in": ""
+  },
+  {
     "sp": "artist",
     "en": "2",
     "zh": "2",
@@ -131402,8 +131636,8 @@
   {
     "sp": "artist",
     "en": "mitsuba minoru",
-    "zh": "三ッ葉稔",
-    "in": ""
+    "zh": "三叶稔",
+    "in": "作者推特头像"
   },
   {
     "sp": "artist",
@@ -149150,7 +149384,7 @@
   {
     "sp": "artist",
     "en": "hiroto",
-    "zh": "啓人",
+    "zh": "启人",
     "in": ""
   },
   {
@@ -189178,6 +189412,84 @@
     "en": "sensiya",
     "zh": "千氏夜",
     "in": "短漫画师，喜欢画纯爱漫画"
+  },
+  {
+    "sp": "artist",
+    "en": "aruto naruto",
+    "zh": "有人成徒",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "denbu momo",
+    "zh": "でんぶ腿",
+    "in": "作者推特头像"
+  },
+  {
+    "sp": "artist",
+    "en": "gogatsu unagi",
+    "zh": "五月うなぎ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "uko",
+    "zh": "うこ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "ishimari yuuya",
+    "zh": "イシマリユウヤ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "mannen junyuuki",
+    "zh": "万年授乳期",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "putama",
+    "zh": "ぷ玉",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "waka mochi ta",
+    "zh": "わかもち太",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "mmchair",
+    "zh": "MM",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "arisugawa kotone",
+    "zh": "有栖川琴音",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "hitonitati",
+    "zh": "ひとにたち",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "ryou",
+    "zh": "涼",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "ono elle",
+    "zh": "える",
+    "in": ""
   },
   {
     "sp": "cosplayer",
