@@ -620,13 +620,15 @@ DTSTART;TZID=Asia/Tokyo:20210427T140000
 DTEND;TZID=Asia/Tokyo:20210427T180000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230627T123258Z
-SUMMARY:J-莫古莫古大收集（说是奖励很豪华）
-DESCRIPTION:情报来源（？）：\nhttps://jp.finalfantasyxiv.com/10th_anniversary/
+DTSTAMP:20230818T142252Z
+SUMMARY:J-モグモグ★コレクション ～新生10周年スペシャル～
+DESCRIPTION:【持续时间到6.5为止】\n\n活动页面：\nhttps://jp.finalfantasyxiv.com/lodesto
+ ne/special/mogmog-collection/202308/1ny0ji96di\n\n情报来源：\nhttps://jp.fina
+ lfantasyxiv.com/10th_anniversary/
 TZID:Asia/Tokyo
 SEQUENCE:0
 UID:5F767B8E-E656-4571-8A17-89434F2401F1
-CREATED:20230627T123258Z
+CREATED:20230818T142252Z
 DTSTART;VALUE=DATE:20230827
 DTEND;VALUE=DATE:20230828
 END:VEVENT
@@ -801,15 +803,18 @@ DTSTART;TZID=Asia/Shanghai:20210413T140000
 DTEND;TZID=Asia/Shanghai:20210413T225900
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230627T123304Z
-SUMMARY:J-新生十周年的新生祭
-DESCRIPTION:情报来源（？）：\nhttps://jp.finalfantasyxiv.com/10th_anniversary/
+DTSTAMP:20230818T142114Z
+SUMMARY:J-新生祭「これまでの旅に感謝を、これからの旅に祝福を」
+DESCRIPTION:【持续时间到6.5为止】\n活动奖励：\n坐骑-「重生・不死鸟号角」\n家具（墙上）-「新生祭的海报」\n管弦乐谱-「オー
+ ケストリオン譜:新生の鼓動」、「オーケストリオン譜:天より降りしポンポン」\n\n活动页面：\nhttps://jp.finalfantasyx
+ iv.com/lodestone/special/2023/The_Rising/eykg76bc2d\n\n情报来源：\nhttps://jp
+ .finalfantasyxiv.com/10th_anniversary/
 TZID:Asia/Tokyo
 SEQUENCE:0
 UID:7DF9DE9D-5E33-4E6F-90E9-5780960E2854
-CREATED:20230627T123304Z
-DTSTART;VALUE=DATE:20230827
-DTEND;VALUE=DATE:20230828
+CREATED:20230818T142114Z
+DTSTART;TZID=Asia/Tokyo:20230827T160000
+DTEND;TZID=Asia/Tokyo:20231003T160000
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20220307T050230Z
