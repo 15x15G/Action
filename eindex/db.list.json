@@ -13368,6 +13368,12 @@
     "in": ""
   },
   {
+    "sp": "parody",
+    "en": "siren",
+    "zh": "死魂曲",
+    "in": "《死魂曲》（日版名：SIREN，欧版名：Forbidden Siren，又译作“尸人”）为索尼电脑娱乐开发贩售的PlayStation 2专用恐怖游戏。"
+  },
+  {
     "sp": "character",
     "en": "alice",
     "zh": "爱丽丝",
@@ -32817,7 +32823,7 @@
     "sp": "character",
     "en": "natsume shiki",
     "zh": "四季夏目",
-    "in": ""
+    "in": "所属作品:星光咖啡馆与死神之蝶(cafe stella to shinigami no chou)"
   },
   {
     "sp": "character",
@@ -39201,6 +39207,36 @@
     "sp": "character",
     "en": "lopiniatre",
     "zh": "倔强",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "luca ikaruga",
+    "zh": "斑鸠路加",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "hare omagari",
+    "zh": "小钩晴",
+    "in": "所属作品：蔚蓝档案(blue archive)"
+  },
+  {
+    "sp": "character",
+    "en": "karen aijo",
+    "zh": "爱城华恋",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "sawako kuronuma",
+    "zh": "黑沼爽子",
+    "in": "所属作品: 好想告诉你(kimi ni todoke)"
+  },
+  {
+    "sp": "character",
+    "en": "izumi shishidou",
+    "zh": "狮子堂泉",
     "in": ""
   },
   {
@@ -114642,6 +114678,54 @@
     "in": ""
   },
   {
+    "sp": "group",
+    "en": "utsusumi onsen",
+    "zh": "うつすみおんせん",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "dorayakiya",
+    "zh": "どらやきや",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "kazumiya",
+    "zh": "かずみ屋",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "high land",
+    "zh": "HIGH:LAND",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "shibasaki shouji",
+    "zh": "柴崎障子",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "ecchi ecchi daifuku",
+    "zh": "えちえち大福",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "hoyhoy colo",
+    "zh": "ホイホイこーろ",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "higashinodou",
+    "zh": "東ノ堂",
+    "in": ""
+  },
+  {
     "sp": "artist",
     "en": "2",
     "zh": "2",
@@ -116018,7 +116102,7 @@
   {
     "sp": "artist",
     "en": "shibasaki syouzi",
-    "zh": "柴崎ショージ",
+    "zh": "柴崎しょうじ（柴崎ショージ）",
     "in": ""
   },
   {
@@ -159092,7 +159176,7 @@
   {
     "sp": "artist",
     "en": "leonat",
-    "zh": "Leonat",
+    "zh": "レオナト",
     "in": ""
   },
   {
@@ -189446,7 +189530,7 @@
   {
     "sp": "artist",
     "en": "mannen junyuuki",
-    "zh": "万年授乳期",
+    "zh": "万年授乳期(ジュニー)",
     "in": ""
   },
   {
@@ -189489,6 +189573,42 @@
     "sp": "artist",
     "en": "ono elle",
     "zh": "える",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "usitora tatumi",
+    "zh": "牛虎たつみ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "takashima shoa",
+    "zh": "高嶋しょあ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "half horse hanma",
+    "zh": "半馬ハンマ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "ekimae machinaka",
+    "zh": "駅前街中",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "hoyhoy colo",
+    "zh": "ホイホイこーろ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "noyama",
+    "zh": "のやま",
     "in": ""
   },
   {
@@ -189885,6 +190005,24 @@
     "sp": "cosplayer",
     "en": "nagisa",
     "zh": "NAGISA魔物喵",
+    "in": ""
+  },
+  {
+    "sp": "cosplayer",
+    "en": "katiecakey",
+    "zh": "Katie Cakey",
+    "in": ""
+  },
+  {
+    "sp": "cosplayer",
+    "en": "linzi jiang",
+    "zh": "凛子酱",
+    "in": ""
+  },
+  {
+    "sp": "cosplayer",
+    "en": "cherry neko",
+    "zh": "桜桃喵",
     "in": ""
   },
   {
