@@ -13386,6 +13386,24 @@
     "in": "疯狂怪医芙兰描写了人造少女芙兰运用她的医术帮助人们的故事。芙兰被设定为类似科学怪人那样的人造人。"
   },
   {
+    "sp": "parody",
+    "en": "kaminaki sekai no kamisama katsudou",
+    "zh": "无神世界中的神明活动",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "shoukan yuusha to f-kei kareshi",
+    "zh": "召唤勇者与F系男友",
+    "in": "『召唤勇者与F系男友』（しょうかんゆうしゃとえふけいかれし、The summoned Brave & Fantasic Boyfriends）是由LifeWonders合同会社于2014年开始提供的智能手机游戏应用程序。简称为『F彼』。"
+  },
+  {
+    "sp": "parody",
+    "en": "megami device",
+    "zh": "女神装置",
+    "in": "女神装置(メガミデバイス)是由日本寿屋玩具公司(KOTOBUKIYA)发行，结合机械与美少女的组装模型系列。"
+  },
+  {
     "sp": "character",
     "en": "alice",
     "zh": "爱丽丝",
@@ -38744,8 +38762,8 @@
   {
     "sp": "character",
     "en": "hinoa",
-    "zh": "水芸",
-    "in": ""
+    "zh": "火芽",
+    "in": "火芽登场于Capcom出品游戏系列《怪物猎人系列》中的《怪物猎人 崛起》。\n\n负责调配村庄任务的接待员。\n\n有个担任集会所接待员的双胞胎妹妹。\n\n温柔善良，总是笑眯眯的，犹如太阳般照耀着村庄。\n\n她的笑容能够照亮整个遭受灾祸的炎火村。\n\n常常对成为新手猎人的主角（烈焰）施以援手，关系好得就像家人一般。\n\n特别喜欢村里的名产“兔团子”，总爱往茶馆跑。\n\n村庄的任务都由接待员火芽负责介绍。\n\n阅读更多：火芽（萌娘百科 ）\n本文引自萌娘百科(萌娘百科 )，文字内容默认使用《知识共享 署名-非商业性使用-相同方式共享 3.0 中国大陆》协议。"
   },
   {
     "sp": "character",
@@ -39285,6 +39303,66 @@
     "sp": "character",
     "en": "london",
     "zh": "伦敦",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "enlilta reesehyde bertrand",
+    "zh": "贝尔托兰",
+    "in": "所属作品: 无神世界中的神明活动(kaminaki sekai no kamisama katsudou)\n\n隶属于帝国军的男性骑士之一，为帝国军第六骑士团的骑士长。被御灵复活后变成了女性。"
+  },
+  {
+    "sp": "character",
+    "en": "momiji akiizumi",
+    "zh": "秋泉红叶",
+    "in": "所属作品: 蔚蓝档案(blue archive)\n\n\n\n译名来源"
+  },
+  {
+    "sp": "character",
+    "en": "howe",
+    "zh": "豪",
+    "in": "豪（Howe，ハウ，하우）是由蛮啾网络、勇仕网络联合研发的移动设备游戏《碧蓝航线》及其衍生作品的登场角色。\n其原型为英国海军的豪号战列舰。"
+  },
+  {
+    "sp": "character",
+    "en": "aki shino",
+    "zh": "志野亚贵",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "yuri briar",
+    "zh": "尤里·布莱尔",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "kotama otose",
+    "zh": "音濑小玉",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "minoto",
+    "zh": "水芸",
+    "in": "水芸登场于Capcom出品游戏系列《怪物猎人系列》中的《怪物猎人 崛起》。\n\n村庄接待员火芽的双胞胎妹妹。\n\n沉着冷静，大多时候都面不改色。\n\n她总是平淡漠然地完成自己的工作，乍看之下很是冷淡，但其实心地善良，还有意外笨拙的一面。"
+  },
+  {
+    "sp": "character",
+    "en": "matikanefukukitaru",
+    "zh": "待兼福来",
+    "in": "待兼福来是以由Cygames制作的手机游戏为主导的跨媒体企划《赛马娘 Pretty Derby》及其衍生作品中的登场角色。原型为日本纯血竞赛马匹マチカネフクキタル（Matikanefukukitaru）。"
+  },
+  {
+    "sp": "character",
+    "en": "hiyori harusaki",
+    "zh": "春咲日和莉",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "rei shijo",
+    "zh": "士条怜",
     "in": ""
   },
   {
@@ -189771,6 +189849,48 @@
     "sp": "artist",
     "en": "kikomuhito",
     "zh": "着込む人",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "elegant",
+    "zh": "えれがんと",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "tonyman plus",
+    "zh": "トニーマン+",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "shimetsuki tanki",
+    "zh": "湿月タンキ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "yuukey",
+    "zh": "ゆーきぃ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "wu qing yan hui gang",
+    "zh": "无情烟灰缸",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "yoshimura bitchmotor",
+    "zh": "吉村ビッチモーター",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "mochimoon curry",
+    "zh": "餅月カレン",
     "in": ""
   },
   {
