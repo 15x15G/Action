@@ -5997,7 +5997,7 @@
     "sp": "parody",
     "en": "another",
     "zh": "Another",
-    "in": ""
+    "in": "《Another》（简体中文译名《替身》）是绫辻行人创作的一部长篇推理小说。\n\n故事讲述了夜见山镇的夜见山北中学的一个古老传说，据说二十六年前，该学校的三年三班有一位叫“misaki”的人气学生突然死亡，班上的老师和同学无法接受这个事实，众人决定到毕业之前仍想像「misaki」还活着般度过每一天。结果该做法从中召唤回了死者。此后诅咒开始了，三年三班成为了死者的还魂之所，每届三年三班都会莫名其妙多出一个“多余的人”，该“多余的人”是该班级曾经死掉的人，死亡降临到了班上的每一个人，而只有让死者“回归死亡”，才可以停止灾厄……"
   },
   {
     "sp": "parody",
@@ -8318,7 +8318,7 @@
   {
     "sp": "parody",
     "en": "tomo-chan wa onnanoko",
-    "zh": "小智是女孩子",
+    "zh": "小智是女孩啦！",
     "in": "《小智是女孩子》（日语：トモちゃんは女の子!）是日本漫画家柳田史太所画的四格漫画。"
   },
   {
@@ -13402,6 +13402,36 @@
     "en": "megami device",
     "zh": "女神装置",
     "in": "女神装置(メガミデバイス)是由日本寿屋玩具公司(KOTOBUKIYA)发行，结合机械与美少女的组装模型系列。"
+  },
+  {
+    "sp": "parody",
+    "en": "skip to loafer",
+    "zh": "跳跃和乐福鞋",
+    "in": "本作讲述了15岁的女高中生美津未从乡下到东京高中求学的校园生活故事。"
+  },
+  {
+    "sp": "parody",
+    "en": "astral chain",
+    "zh": "异界锁链",
+    "in": "《异界锁链》（日语：アストラルチェイン，英语：Astral Chain）是白金工作室开发、任天堂发行的动作游戏。田浦贵久担任总监，神谷英树担任监制，漫画家桂正和担任角色设计。\n\n玩家需要操纵角色调查案件，利用武器和雷基恩击败敌人，维护“方舟”的和平。"
+  },
+  {
+    "sp": "parody",
+    "en": "taiyou no kiba dougram",
+    "zh": "太阳之牙",
+    "in": "《太阳之牙》（原题：太陽の牙ダグラム）是由Sunrise制作的日本的机器人动画。由东京电视台在1981年10月23日至1983年3月25日播放，全75话。"
+  },
+  {
+    "sp": "parody",
+    "en": "natsuiro kiseki",
+    "zh": "夏色奇迹",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "slam dunk",
+    "zh": "灌篮高手",
+    "in": "《灌篮高手》是日本漫画家井上雄彦创作的以高中篮球为题材的励志型漫画，是《周刊少年Jump》全白金时代（20世纪90年代上半叶）三大台柱漫画之一，也是日本历史上销量最高的漫画之一。上世纪90年代，《灌篮高手》被引进中国，成为在中国影响最深远的动漫作品之一。"
   },
   {
     "sp": "character",
@@ -39331,12 +39361,6 @@
   },
   {
     "sp": "character",
-    "en": "yuri briar",
-    "zh": "尤里·布莱尔",
-    "in": ""
-  },
-  {
-    "sp": "character",
     "en": "kotama otose",
     "zh": "音濑小玉",
     "in": ""
@@ -39364,6 +39388,84 @@
     "en": "rei shijo",
     "zh": "士条怜",
     "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "tomo aizawa",
+    "zh": "相泽智",
+    "in": "所属作品: 小智是女孩啦！(tomo-chan wa onnanoko)\n\n女主角，上野水高中1年A班学生。从小就在老家的空手道道场坚持锻炼，现在隶属于男子空手道部。擅长体育和格斗，外表和性格非常男孩子气。喜欢青梅竹马久保田淳一郎。"
+  },
+  {
+    "sp": "character",
+    "en": "junichirou kubota",
+    "zh": "久保田淳一郎",
+    "in": "所属作品: 小智是女孩啦！(tomo-chan wa onnanoko)\n\n男主角，上野水高中1年A班学生。从小学时期开始与智交往，曾长期以为对方是男生，和她像好哥们一样相处。虽然平时有些冷淡，但在智面前会表现出天真和孩子气的一面。"
+  },
+  {
+    "sp": "character",
+    "en": "misuzu gundou",
+    "zh": "群堂美铃",
+    "in": "parody:tomo-chan wa onnanoko\n\n智和淳一郎的发小，上野水高中1年A班学生。沉着冷静，学业优秀，成绩一直在年级前几名。有非常毒舌的一面，经常对朋友提出辛辣的建议。和淳一郎水火不容。淳一郎初中时的女友，但交往三天就受不了淳一郎的过度健身约会而分手"
+  },
+  {
+    "sp": "character",
+    "en": "minato senkawa",
+    "zh": "千川凑",
+    "in": "所属作品: 别当欧尼酱了！(onii-chan wa oshimai)\n\n绪山真寻的中学同学，和樱田悠太很要好，对绪山真寻有好感，经常因看向不该看的地方或者说错话而被高田纱月和椎名未祈围攻，正在被椎名未祈默默关注着。"
+  },
+  {
+    "sp": "character",
+    "en": "yuuta sakurada",
+    "zh": "樱田悠太",
+    "in": "所属作品: 别当欧尼酱了！(onii-chan wa oshimai)\n\n绪山真寻的中学同学，和千川凑很要好，对绪山真寻有好感，经常因看向不该看的地方或者说错话而被高田纱月和椎名未祈围攻，是高田纱月的暗恋对象。"
+  },
+  {
+    "sp": "character",
+    "en": "saria",
+    "zh": "塞雷娅",
+    "in": "塞雷娅是游戏《明日方舟》及其衍生作品的登场角色。"
+  },
+  {
+    "sp": "character",
+    "en": "saga",
+    "zh": "嵯峨",
+    "in": "嵯（Cuó）峨是游戏《明日方舟》及其衍生作品的登场角色。"
+  },
+  {
+    "sp": "character",
+    "en": "bagpipe",
+    "zh": "风笛",
+    "in": "风笛是游戏《明日方舟》及其衍生作品的登场角色。"
+  },
+  {
+    "sp": "character",
+    "en": "hoolheyak",
+    "zh": "霍尔海雅",
+    "in": "霍尔海雅是游戏《明日方舟》及其衍生作品的登场角色。"
+  },
+  {
+    "sp": "character",
+    "en": "dorothy",
+    "zh": "多萝西",
+    "in": "多萝西是游戏《明日方舟》及其衍生作品的登场角色。"
+  },
+  {
+    "sp": "character",
+    "en": "daki",
+    "zh": "堕姬",
+    "in": "所属作品：鬼灭之刃(kimetsu no yaiba)"
+  },
+  {
+    "sp": "character",
+    "en": "professor juniper",
+    "zh": "红豆杉博士",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "hirato",
+    "zh": "平户",
+    "in": "所属作品: 舰队Collection(kantai collection)"
   },
   {
     "sp": "group",
@@ -58124,7 +58226,7 @@
   {
     "sp": "group",
     "en": "bad mushrooms",
-    "zh": "壞茸社",
+    "zh": "坏茸社",
     "in": ""
   },
   {
@@ -114314,7 +114416,7 @@
   {
     "sp": "group",
     "en": "riku no kotoutei",
-    "zh": "陸の孤島亭",
+    "zh": "陆の孤岛亭",
     "in": ""
   },
   {
@@ -114873,6 +114975,30 @@
     "sp": "group",
     "en": "mori no michi",
     "zh": "森の道",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "studio yama roman",
+    "zh": "スタジオ山ロマン",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "inu ha sakana",
+    "zh": "犬は鱼",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "mizukani",
+    "zh": "みずかに",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "one hit wonder",
+    "zh": "ONE HIT WONDER",
     "in": ""
   },
   {
@@ -120560,8 +120686,8 @@
   {
     "sp": "artist",
     "en": "benimura karu",
-    "zh": "紅村かる",
-    "in": ""
+    "zh": "红村かる",
+    "in": "作者推特头像"
   },
   {
     "sp": "artist",
@@ -134048,8 +134174,8 @@
   {
     "sp": "artist",
     "en": "gokubuto mayuge",
-    "zh": "極太眉毛",
-    "in": ""
+    "zh": "极太眉毛",
+    "in": "作者推特头像"
   },
   {
     "sp": "artist",
@@ -137619,12 +137745,6 @@
     "sp": "artist",
     "en": "ahiru",
     "zh": "あひる",
-    "in": ""
-  },
-  {
-    "sp": "artist",
-    "en": "aho",
-    "zh": "aho",
     "in": ""
   },
   {
@@ -189894,6 +190014,54 @@
     "in": ""
   },
   {
+    "sp": "artist",
+    "en": "yukimochi kinako",
+    "zh": "幸餅きなこ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "houraku",
+    "zh": "HOURAKU",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "nagatsuki misoka",
+    "zh": "长月みそか",
+    "in": "作者推特头像"
+  },
+  {
+    "sp": "artist",
+    "en": "wosushi",
+    "zh": "をすし",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "kiyohara hiro",
+    "zh": "清原纮",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "yakiuni",
+    "zh": "烧きうに",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "inui ayu",
+    "zh": "犬井あゆ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "osanai shiina",
+    "zh": "小山内しいな",
+    "in": ""
+  },
+  {
     "sp": "cosplayer",
     "en": "otohara an",
     "zh": "乙原あん",
@@ -190009,7 +190177,7 @@
   },
   {
     "sp": "cosplayer",
-    "en": "misa daidai",
+    "en": "xidaidai",
     "zh": "习呆呆",
     "in": ""
   },
