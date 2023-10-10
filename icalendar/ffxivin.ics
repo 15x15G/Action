@@ -359,14 +359,22 @@ DTSTART;TZID=Asia/Tokyo:20220803T141500
 DTEND;TZID=Asia/Tokyo:20220817T235900
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221008T065156Z
+DTSTAMP:20231009T131250Z
 SUMMARY:J-伦敦FanFes
+DESCRIPTION:Day-1节目表（北京时间）：\n17:00 – 18:30 主题演讲\n18:30 – 19:00 开幕式\n19:30
+  – 21:30 开发者会谈\n22:00 – 23:00 《谁想成为亿万富翁2》\n23:30 – 1:00 Yoshi-P Q&A\n2:0
+ 0 – 3:00 钢琴演奏会（不会转播）\n\nDay-2节目表（北京时间）：\n17:00 – 18:30 Yoshi-P散步\n19:30 
+ – 22:00 水晶冲突锦标赛\n22:30 – 24:00 cosplay大会\n24:00 – 24:30 《Cheering Choice
+ 》\n2:00 – 3:00 THE PRIMALS 音乐会（不会转播）\n\n节目表来源：https://fanfest2.finalfant
+ asyxiv.com/2023-24/eu/news/presenting-the-fan-festival-2023-in-london-st
+ age-stream-schedule\n观看渠道：\nYoutube-\nTwitch-https://www.twitch.tv/final
+ fantasyxiv
 TZID:Asia/Shanghai
 SEQUENCE:0
 UID:37302038-B6BB-48A9-B331-54EE1CF02836
-CREATED:20221008T065156Z
-DTSTART;VALUE=DATE:20231021
-DTEND;VALUE=DATE:20231023
+CREATED:20231009T131250Z
+DTSTART;TZID=Asia/Shanghai:20231021T170000
+DTEND;TZID=Asia/Shanghai:20231023T030000
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20221221T075004Z
