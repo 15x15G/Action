@@ -842,6 +842,19 @@ DTSTART;TZID=Asia/Shanghai:20210413T140000
 DTEND;TZID=Asia/Shanghai:20210413T225900
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20231013T071921Z
+SUMMARY:J-CDK50%折扣
+DESCRIPTION:コンプリートパック（包含2.0~6.0）：6380日元→3190日元，也就是311rmb→155rmb，还送张月卡，趁现在
+ 邀请你犹豫的朋友入坑吧！\n\n活动页面：\nhttps://www.finalfantasyxiv.com/sale/\n\n对象商店：\n莫
+ 古站\nSE e-STORE\nPlayStation®Store\nAmazon.co.jp（日亚折扣上架会稍微有些延迟）
+TZID:Asia/Tokyo
+SEQUENCE:0
+UID:7C63504C-84C2-4742-ACEA-FCFDE04C8BCD
+CREATED:20231013T071921Z
+DTSTART;TZID=Asia/Tokyo:20231011T180000
+DTEND;TZID=Asia/Tokyo:20231025T235900
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20230818T142114Z
 SUMMARY:J-新生祭「これまでの旅に感謝を、これからの旅に祝福を」
 DESCRIPTION:【持续时间到6.5为止】\n活动奖励：\n坐骑-「重生・不死鸟号角」\n家具（墙上）-「新生祭的海报」\n管弦乐谱-「オー
