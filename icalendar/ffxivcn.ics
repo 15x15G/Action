@@ -2082,17 +2082,18 @@ DTSTART;TZID=Asia/Shanghai:20230816T230000
 DTEND;TZID=Asia/Shanghai:20230825T225900
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231010T162757Z
-SUMMARY:（预测）C-守护天节
-DESCRIPTION:活动奖励：\n医生服一套（5件）-「ウェイクドクター・マスク」、「ウェイクドクター・ホワイトコート」、「ウェイクドクター・
- ラバーグローブ」、「ウェイクドクター・ボトム」、「ウェイクドクター・シューズ」\n新动作（吃南瓜饼干）-「パンプキンクッキーを食べる」\n庭具-
- 「ゴースト＆パンプキンセット」\n家具（桌上）-「ウィスプケージランプ」
-TZID:Asia/Tokyo
-SEQUENCE:0
-UID:F4F56C6D-9347-4289-821E-B9C58E263E65
 CREATED:20231010T162757Z
-DTSTART;VALUE=DATE:20231024
-DTEND;VALUE=DATE:20231025
+DESCRIPTION:活动奖励：\n守夜医一套（5件）-「守夜医面具」、「守夜医白大褂」、「守夜医橡胶手套」、「守夜医打底裤」、「守夜医皮鞋」\
+ n新动作-「吃南瓜曲奇」\n庭具-「ゴースト＆パンプキンセット」（记不太清了）\n家具（桌上）-「鬼火灯笼」\n\n活动页面：\nhttps:/
+ /actff1.web.sdo.com/project/20231019AllSaintsWake/mindex.html
+DTEND;TZID=Asia/Shanghai:20231102T140000
+DTSTAMP:20231013T035850Z
+DTSTART;TZID=Asia/Shanghai:20231019T140000
+LAST-MODIFIED:20231013T035849Z
+SEQUENCE:1
+SUMMARY:C-守护天节「危险的变装游行来袭」
+TZID:Asia/Tokyo
+UID:F4F56C6D-9347-4289-821E-B9C58E263E65
 END:VEVENT
 BEGIN:VEVENT
 CREATED:20230805T141723Z
