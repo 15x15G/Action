@@ -13578,6 +13578,36 @@
     "in": "《怪物事变》（日语：けものじへん）是由蓝本松创作的一部漫画，并有动画等衍生作品。"
   },
   {
+    "sp": "parody",
+    "en": "oounabara to wadanohara",
+    "zh": "大海原与大海原",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "zero escape",
+    "zh": "极限脱出",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "araburu kisetsu no otome-domo yo",
+    "zh": "骚动时节的少女们啊",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "yuusha party o tsuihou sareta beast tamer saikyoushu no nekomimi shoujo to deau",
+    "zh": "被开除出勇者队伍的驯兽使，邂逅了最强种猫耳少女",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "doukyuusei",
+    "zh": "同级生",
+    "in": "《同级生》是élf在1992年发售的恋爱游戏类型日本成人游戏，除游戏外，也发售过OVA、小说等相关作品。重制版的中英文版本于2022年4月15日发售。"
+  },
+  {
     "sp": "character",
     "en": "alice",
     "zh": "爱丽丝",
@@ -24776,8 +24806,8 @@
   {
     "sp": "character",
     "en": "charlotte",
-    "zh": "夏洛特",
-    "in": ""
+    "zh": "夏洛特|夏洛蒂",
+    "in": "1.所属作品:圣剑传说(seiken densetsu)\n2.所属作品:碧蓝幻想(granblue fantasy)\n3.所属作品:魔法少女小圆(puella magi madoka magica)\n4.夏洛蒂(charlotte)所属作品:原神(genshin impact)\n是由米哈游研发的游戏《原神》及其衍生作品的登场角色。"
   },
   {
     "sp": "character",
@@ -40486,6 +40516,60 @@
     "en": "topaz",
     "zh": "托帕",
     "in": "托帕（英语：topaz）所属作品:崩坏：星穹铁道(honkai star rail)\n是由米哈游研发的游戏《崩坏：星穹铁道》及其衍生作品的登场角色。"
+  },
+  {
+    "sp": "character",
+    "en": "jingliu",
+    "zh": "镜流",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "dan heng",
+    "zh": "丹恒",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "caelus",
+    "zh": "穹",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "pozemka",
+    "zh": "鸿雪",
+    "in": "明日方舟角色"
+  },
+  {
+    "sp": "character",
+    "en": "kotori toyomi",
+    "zh": "丰见亚都梨",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "frieren",
+    "zh": "芙莉莲",
+    "in": "葬送的芙莉莲(sousou no frieren)的女主角，打倒了魔王的勇者一行人中的精灵族魔法使，人类族大魔法使伏拉梅的徒弟。其外貌主要特征是绑成双马尾的银色长发和蓝色双眼，精灵族特有的尖耳和白皙的肤色。"
+  },
+  {
+    "sp": "character",
+    "en": "joshua bright",
+    "zh": "约修亚·布莱特",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "courier",
+    "zh": "讯使",
+    "in": "讯使是游戏《明日方舟》及其衍生作品的登场角色。"
+  },
+  {
+    "sp": "character",
+    "en": "thorns",
+    "zh": "棘刺",
+    "in": "棘刺是游戏《明日方舟》及其衍生作品的登场角色。"
   },
   {
     "sp": "group",
@@ -131582,7 +131666,7 @@
   {
     "sp": "artist",
     "en": "naha 78",
-    "zh": "七G",
+    "zh": "ナハ78",
     "in": ""
   },
   {
@@ -169220,7 +169304,7 @@
   {
     "sp": "artist",
     "en": "nukui lususu",
-    "zh": "ぬくいるすす",
+    "zh": "ぬくい味汐",
     "in": ""
   },
   {
@@ -191436,6 +191520,18 @@
     "in": "画师艶艶，代表作：たとえば母が (即使是母亲)、久枝背徳日記等"
   },
   {
+    "sp": "artist",
+    "en": "star shadow magician",
+    "zh": "STAR影法师",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "sakai",
+    "zh": "坂井",
+    "in": ""
+  },
+  {
     "sp": "cosplayer",
     "en": "otohara an",
     "zh": "乙原あん",
@@ -193996,6 +194092,12 @@
     "en": "gymshorts",
     "zh": "运动短裤",
     "in": "短的运动裤子，颜色和长度可以改变。不应与布鲁马(bloomers)或自行车短裤(bike shorts)混淆。"
+  },
+  {
+    "sp": "male",
+    "en": "haigure",
+    "zh": "高叉装",
+    "in": "穿着在胳膊和腿部弯曲的紧身衣服的人，强调阴部的位置。"
   },
   {
     "sp": "male",
