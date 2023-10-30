@@ -11510,7 +11510,7 @@
   {
     "sp": "parody",
     "en": "chaos head",
-    "zh": "CHAOS;HEAD",
+    "zh": "混沌之脑",
     "in": ""
   },
   {
@@ -13606,6 +13606,18 @@
     "en": "doukyuusei",
     "zh": "同级生",
     "in": "《同级生》是élf在1992年发售的恋爱游戏类型日本成人游戏，除游戏外，也发售过OVA、小说等相关作品。重制版的中英文版本于2022年4月15日发售。"
+  },
+  {
+    "sp": "parody",
+    "en": "dohna dohna issho ni warui koto o shiyou",
+    "zh": "多娜多娜一起干坏事吧",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "chizuru-chan kaihatsu nikki",
+    "zh": "千鹤酱的开发日志",
+    "in": "千鶴ちゃん開発日記"
   },
   {
     "sp": "character",
@@ -22646,8 +22658,8 @@
   {
     "sp": "character",
     "en": "jeanne alter",
-    "zh": "贞德Alter（黑贞）",
-    "in": ""
+    "zh": "贞德Alter",
+    "in": "黑贞"
   },
   {
     "sp": "character",
@@ -24806,8 +24818,8 @@
   {
     "sp": "character",
     "en": "charlotte",
-    "zh": "夏洛特|夏洛蒂",
-    "in": "1.所属作品:圣剑传说(seiken densetsu)\n2.所属作品:碧蓝幻想(granblue fantasy)\n3.所属作品:魔法少女小圆(puella magi madoka magica)\n4.夏洛蒂(charlotte)所属作品:原神(genshin impact)\n是由米哈游研发的游戏《原神》及其衍生作品的登场角色。"
+    "zh": "夏洛特 | 夏洛蒂",
+    "in": "1. 所属作品:圣剑传说(seiken densetsu)\n\n2. 所属作品:碧蓝幻想(granblue fantasy)\n\n3. 所属作品:魔法少女小圆(puella magi madoka magica)\n\n4. 夏洛蒂(charlotte)所属作品:原神(genshin impact)\n是由米哈游研发的游戏《原神》及其衍生作品的登场角色。"
   },
   {
     "sp": "character",
@@ -40570,6 +40582,54 @@
     "en": "thorns",
     "zh": "棘刺",
     "in": "棘刺是游戏《明日方舟》及其衍生作品的登场角色。"
+  },
+  {
+    "sp": "character",
+    "en": "issei hyoudou",
+    "zh": "兵藤一诚",
+    "in": "《恶魔高校D×D》及其衍生作品中的男主角"
+  },
+  {
+    "sp": "character",
+    "en": "chizuru shiina",
+    "zh": "椎名千鹤",
+    "in": "椎名 千鶴(しいな ちづる)\n曲がったことが大嫌いな優等生。\n優しくてカッコいい月野に恋をしている。"
+  },
+  {
+    "sp": "character",
+    "en": "miss fortune",
+    "zh": "厄运小姐",
+    "in": "网络游戏《英雄联盟》登场英雄。"
+  },
+  {
+    "sp": "character",
+    "en": "riven",
+    "zh": "锐雯",
+    "in": "网络游戏《英雄联盟》登场英雄。"
+  },
+  {
+    "sp": "character",
+    "en": "zac",
+    "zh": "扎克",
+    "in": "网络游戏《英雄联盟》登场英雄。"
+  },
+  {
+    "sp": "character",
+    "en": "xenovia quarta",
+    "zh": "洁诺薇亚·夸塔",
+    "in": "洁诺薇亚·夸塔，女，是日本轻小说《恶魔高校D×D》及其衍生作品中的女主角之一。"
+  },
+  {
+    "sp": "character",
+    "en": "crow armbrust",
+    "zh": "克洛·安布斯特",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "yshtola rhul",
+    "zh": "雅·修特拉·路尔",
+    "in": "雅·修特拉·路尔是《最终幻想14》的角色之一，拂晓血盟的成员。曾在萨雷安魔法大学学习魔法，师父是玛托雅，永远的23岁。在游戏初期，是三大新手主城之一的海都利姆萨罗敏萨的新手教程NPC。"
   },
   {
     "sp": "group",
@@ -116262,6 +116322,18 @@
     "in": ""
   },
   {
+    "sp": "group",
+    "en": "nullspace",
+    "zh": "NULLSPACE",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "sys-lila",
+    "zh": "シスリラ",
+    "in": ""
+  },
+  {
     "sp": "artist",
     "en": "2",
     "zh": "2",
@@ -191529,6 +191601,30 @@
     "sp": "artist",
     "en": "sakai",
     "zh": "坂井",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "reiichi",
+    "zh": "零壱",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "akichi",
+    "zh": "空き地",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "kouzu sousuke",
+    "zh": "兴津惣介",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "lemon snail",
+    "zh": "Lemon Snail",
     "in": ""
   },
   {
