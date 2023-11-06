@@ -13620,6 +13620,18 @@
     "in": "千鶴ちゃん開発日記"
   },
   {
+    "sp": "parody",
+    "en": "arc the lad",
+    "zh": "妖精战士",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "haiiro teien",
+    "zh": "灰色庭园",
+    "in": ""
+  },
+  {
     "sp": "character",
     "en": "alice",
     "zh": "爱丽丝",
@@ -40630,6 +40642,42 @@
     "en": "yshtola rhul",
     "zh": "雅·修特拉·路尔",
     "in": "雅·修特拉·路尔是《最终幻想14》的角色之一，拂晓血盟的成员。曾在萨雷安魔法大学学习魔法，师父是玛托雅，永远的23岁。在游戏初期，是三大新手主城之一的海都利姆萨罗敏萨的新手教程NPC。"
+  },
+  {
+    "sp": "character",
+    "en": "fine motion",
+    "zh": "美妙姿势",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "air groove",
+    "zh": "气槽",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "matikane tannhauser",
+    "zh": "待兼诗歌剧",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "ash ketchum",
+    "zh": "小智",
+    "in": "小智（日文︰サトシ，英文︰Ash Ketchum）所属作品:精灵宝可梦(pokemon) 是宝可梦动画中宝可梦至宝可梦 旅途的主角，他是一位梦想成为宝可梦大师的十岁少年。"
+  },
+  {
+    "sp": "character",
+    "en": "jirachi",
+    "zh": "基拉祈",
+    "in": "基拉祈（日文︰ジラーチ，英文︰Jirachi）是钢属性／超能力属性幻之宝可梦。\n拥有类似星星的外型，背部有两条形似布的构造，腹部有类似眼睛的器官。星角末端有蓝绿色方形构造。眼睛下方有蓝绿色三角形纹路。"
+  },
+  {
+    "sp": "character",
+    "en": "mew",
+    "zh": "梦幻",
+    "in": "梦幻（日文︰ミュウ，英文︰Mew）是超能力属性幻之宝可梦\n外表像一只粉红色小猫，尾长约为身高的两倍，尾尖为橄榄形。蓝色的大眼睛呈三角形。"
   },
   {
     "sp": "group",
@@ -158828,7 +158876,7 @@
   {
     "sp": "artist",
     "en": "kota",
-    "zh": "kota",
+    "zh": "耕太 | コタ | こた(炬太郎) | kota´",
     "in": ""
   },
   {
@@ -191628,6 +191676,12 @@
     "in": ""
   },
   {
+    "sp": "artist",
+    "en": "zirba",
+    "zh": "Zirba",
+    "in": ""
+  },
+  {
     "sp": "cosplayer",
     "en": "otohara an",
     "zh": "乙原あん",
@@ -195466,6 +195520,12 @@
     "en": "absorption",
     "zh": "吸收",
     "in": "吸收某人或某物。可能由吞食(vore)或入阴(unbirth)引发。"
+  },
+  {
+    "sp": "female",
+    "en": "futanarization",
+    "zh": "扶她化",
+    "in": "一名女性角色因长出阴茎而变成了扶她。需要扶她(futanari)或人妖♂(shemale)标签。存在延伸到角色作为扶她的持续时间。不应与性转换(gender change)或男体化(gender morph)相混淆。"
   },
   {
     "sp": "female",
