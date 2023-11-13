@@ -13632,6 +13632,12 @@
     "in": ""
   },
   {
+    "sp": "parody",
+    "en": "shuumatsu nani shitemasu ka isogashii desu ka sukutte moratte ii desu ka",
+    "zh": "末日时在做什么？有没有空？可以来拯救吗？",
+    "in": "終末なにしてますか？ 忙しいですか？ 救ってもらっていいですか？"
+  },
+  {
     "sp": "character",
     "en": "alice",
     "zh": "爱丽丝",
@@ -40678,6 +40684,30 @@
     "en": "mew",
     "zh": "梦幻",
     "in": "梦幻（日文︰ミュウ，英文︰Mew）是超能力属性幻之宝可梦\n外表像一只粉红色小猫，尾长约为身高的两倍，尾尖为橄榄形。蓝色的大眼睛呈三角形。"
+  },
+  {
+    "sp": "character",
+    "en": "billy the kid",
+    "zh": "比利·奇德",
+    "in": "比利·奇德，游戏《绝区零》中的角色，造型帅气倜傥，是个个性吊儿郎当的智能机械人。作为特摄剧《星徽骑士》的狂热粉丝，比利不仅自称星徽骑士，还常常把剧中台词常挂嘴边"
+  },
+  {
+    "sp": "character",
+    "en": "lloyd bannings",
+    "zh": "罗伊德·班宁斯",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "agnes claudel",
+    "zh": "亚妮艾丝·克劳蒂尔",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "lorelei",
+    "zh": "科拿",
+    "in": "石英高原四天王"
   },
   {
     "sp": "group",
@@ -116382,6 +116412,18 @@
     "in": ""
   },
   {
+    "sp": "group",
+    "en": "kaisendon",
+    "zh": "カイセンドン",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "dandan dango",
+    "zh": "段々団子",
+    "in": ""
+  },
+  {
     "sp": "artist",
     "en": "2",
     "zh": "2",
@@ -130442,7 +130484,7 @@
   {
     "sp": "artist",
     "en": "tabigarasu",
-    "zh": "旅烏",
+    "zh": "旅乌",
     "in": ""
   },
   {
@@ -191679,6 +191721,60 @@
     "sp": "artist",
     "en": "zirba",
     "zh": "Zirba",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "fyxfd",
+    "zh": "肥油小分队",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "karei",
+    "zh": "かれい",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "arashiya",
+    "zh": "嵐屋",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "yamamoto yumiko",
+    "zh": "山本由美子",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "zurikishi",
+    "zh": "ずり騎士",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "himeno mikan",
+    "zh": "姫野蜜柑",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "fujimura q",
+    "zh": "藤村久",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "kaneko naoya",
+    "zh": "カネコナオヤ",
+    "in": "@nahoyan"
+  },
+  {
+    "sp": "artist",
+    "en": "grimgrim",
+    "zh": "grimgrim",
     "in": ""
   },
   {
