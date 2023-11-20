@@ -13638,6 +13638,36 @@
     "in": "終末なにしてますか？ 忙しいですか？ 救ってもらっていいですか？"
   },
   {
+    "sp": "parody",
+    "en": "flint the time detective",
+    "zh": "时空侦探",
+    "in": "《时空侦探》是于1998年至1999年在东京电视台播映的日本动画，共39集。后由漫画家山中あきら的改编为漫画。"
+  },
+  {
+    "sp": "parody",
+    "en": "fumetsu no anata e",
+    "zh": "致不灭的你",
+    "in": "《致不灭的你》（日语：不滅のあなたへ）是日本漫画家大今良时创作的漫画作品。\n\n作品着墨于一个名为“不死”的神秘存在，它具有不死之身和复制其他生物肉体的能力。讲述了他存在的故事以及他与其他人的相遇与别离。"
+  },
+  {
+    "sp": "parody",
+    "en": "shiro seijo to kuro bokushi",
+    "zh": "白圣女与黑牧师",
+    "in": "《白圣女与黑牧师》（日语：白聖女と黒牧師）是和武叶佐乃（和武はざの）所创作的日本漫画，原为和武在其pixiv发表的作品，由2017年4月20日发售的《少年Magazine R》第3号开始连载。后改编电视动画，由动画工房担任动画制作，于2023年7月至9月播映。"
+  },
+  {
+    "sp": "parody",
+    "en": "slow loop",
+    "zh": "SLOW LOOP",
+    "in": "《女孩的钓鱼慢活》（日语：スローループ）是内野舞子的日本漫画作品。于芳文社的杂志《Manga Time Kirara Forward》2018年6月号客串刊载后，于同年11月号开始连载。"
+  },
+  {
+    "sp": "parody",
+    "en": "taimadou gakuen 35 shiken shoutai",
+    "zh": "对魔导学园35试验小队",
+    "in": ""
+  },
+  {
     "sp": "character",
     "en": "alice",
     "zh": "爱丽丝",
@@ -17691,7 +17721,7 @@
     "sp": "character",
     "en": "chiyoko sonoda",
     "zh": "园田智代子",
-    "in": ""
+    "in": "所属作品: 偶像大师(the idolmaster)"
   },
   {
     "sp": "character",
@@ -23703,7 +23733,7 @@
     "sp": "character",
     "en": "manaka takane",
     "zh": "高岭爱花",
-    "in": ""
+    "in": "游戏《Love Plus》中的角色。隶属网球社的高中2年级学生。母亲是高岭珠深。家中经营诊所，父是医生，母是护士，本人则是文武双全的大小姐。10月5日出生，A型血。学习成绩优异，擅长打网球，是十野羽高中网球社里的NO.1。性格内向，被他人称为“不是同一个世界的人”。爱吃烤白薯，擅长料理，喜欢兔子和推理小说，尤其喜欢福尔摩斯。"
   },
   {
     "sp": "character",
@@ -40708,6 +40738,96 @@
     "en": "lorelei",
     "zh": "科拿",
     "in": "石英高原四天王"
+  },
+  {
+    "sp": "character",
+    "en": "fern",
+    "zh": "菲伦",
+    "in": "漫画《葬送的芙莉莲》及其衍生作品角色，出自漫画第2话。芙莉莲的徒弟，和她一起旅行的魔法使。被海塔抚养长大的战灾孤儿。冷静的少女，仿佛母亲一般照顾生活方面懒散的芙莉莲。"
+  },
+  {
+    "sp": "character",
+    "en": "cure sky",
+    "zh": "索拉・哈雷瓦塔尔",
+    "in": "索拉・哈雷瓦塔尔／天空天使\n\n所属作品: 开阔天空！光之美少女(hirogaru sky precure)"
+  },
+  {
+    "sp": "character",
+    "en": "chiyari tenkajin",
+    "zh": "天火人血枪",
+    "in": "天火人血枪是日本的“东方Project(touhou project)”系列弹幕游戏及其衍生作品的登场角色之一。\n\n首次登场于《东方兽王园》，作为可选自机与敌机登场。"
+  },
+  {
+    "sp": "character",
+    "en": "ai sugimoto",
+    "zh": "杉本爱",
+    "in": "画师尾崎未来(ozaki miray)创造的角色，在The Great Escape、Nearest To Real LOVE、秘密等多部作品中出场。"
+  },
+  {
+    "sp": "character",
+    "en": "nobara kugisaki",
+    "zh": "钉崎野蔷薇",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "maki zenin",
+    "zh": "禅院真希",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "usagi saionji",
+    "zh": "西园寺兔",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "principal minami",
+    "zh": "南日和子",
+    "in": "“南大鸟”，音乃木坂学园的理事长，南小鸟的母亲。"
+  },
+  {
+    "sp": "character",
+    "en": "sumi takane",
+    "zh": "高岭珠深",
+    "in": "高岭爱花的母亲。护士。兼具美貌和知性，几乎没有缺点。与爱操心的父亲相反，支持着爱花的恋爱。"
+  },
+  {
+    "sp": "character",
+    "en": "illumi zoldyck",
+    "zh": "伊路米·揍敌客",
+    "in": "伊路米·揍敌客（日语：イルミ·ゾルディック）是由富坚义博所创作的漫画《全职猎人》及其衍生作品的登场角色。"
+  },
+  {
+    "sp": "character",
+    "en": "charybdis",
+    "zh": "卡律布狄斯",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "elbe",
+    "zh": "易北",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "anchorage",
+    "zh": "安克雷奇",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "jade",
+    "zh": "亚德",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "scylla",
+    "zh": "斯库拉",
+    "in": ""
   },
   {
     "sp": "group",
@@ -116424,6 +116544,12 @@
     "in": ""
   },
   {
+    "sp": "group",
+    "en": "mobumomu ntr",
+    "zh": "モブモムNTR",
+    "in": "作者モブ太用来画NTR作品时的社团名称"
+  },
+  {
     "sp": "artist",
     "en": "2",
     "zh": "2",
@@ -191778,6 +191904,54 @@
     "in": ""
   },
   {
+    "sp": "artist",
+    "en": "makochan42",
+    "zh": "まこちあ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "wagashi",
+    "zh": "和菓子",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "kayama yuichiro",
+    "zh": "鹿山裕一郎",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "iranon",
+    "zh": "冬灯",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "takanaga kouhei",
+    "zh": "高永浩平",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "shuru-ban",
+    "zh": "しゅる版",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "yoongonji",
+    "zh": "尹坤志",
+    "in": "韩国著名女性漫画家。"
+  },
+  {
+    "sp": "artist",
+    "en": "mobuta",
+    "zh": "モブ太",
+    "in": ""
+  },
+  {
     "sp": "cosplayer",
     "en": "otohara an",
     "zh": "乙原あん",
@@ -192226,6 +192400,12 @@
     "en": "tyouduki maryou",
     "zh": "蝶月真綾",
     "in": ""
+  },
+  {
+    "sp": "cosplayer",
+    "en": "ringo mitsuki",
+    "zh": "林檎蜜纪(林檎蜜紀)",
+    "in": "coser"
   },
   {
     "sp": "male",
