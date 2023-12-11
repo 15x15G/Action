@@ -29829,13 +29829,13 @@
     "sp": "character",
     "en": "hilbert",
     "zh": "斗也",
-    "in": "斗也（日文︰トウヤ，英文︰Hilbert）是《宝可梦 黑／白》的主角，他是斗子(hilda)的对应男性人物。"
+    "in": "斗也（日文︰トウヤ，英文︰Hilbert）是《宝可梦 黑／白》的主角，他是希尔达|斗子(hilda)的对应男性人物。"
   },
   {
     "sp": "character",
     "en": "hilda",
-    "zh": "斗子",
-    "in": "斗子（日文︰トウコ，英文︰Hilda）是《宝可梦 黑／白》的主角，作为斗也(hilbert)的对应女性人物。"
+    "zh": "希尔达|斗子",
+    "in": "希尔达Hilda是一个11岁的蓝发女孩，出自同名同名图画小说系列，以及网飞改编的系列剧集\n\n斗子（日文︰トウコ，英文︰Hilda）是《宝可梦 黑／白》的主角，作为斗也(hilbert)的对应女性人物。"
   },
   {
     "sp": "character",
@@ -41158,6 +41158,42 @@
     "en": "tsuzuri yugiri",
     "zh": "夕雾缀理",
     "in": "夕雾缀理（日语：夕霧 綴理，罗马字：Yugiri Tsuzuri）是企划《莲之空女学院学园偶像俱乐部》及其衍生作品的登场角色。"
+  },
+  {
+    "sp": "character",
+    "en": "futari gotou",
+    "zh": "后藤二里",
+    "in": "后藤二里（日语：後藤（ごとう）ふたり）是由はまじあき所创作的漫画《孤独摇滚！》及其衍生作品的登场角色。\n\n后藤一里的妹妹，现年5岁，性格比姐姐要开朗许多。\n\n她身穿连衣裙，头发两侧分布着两根呆毛（后藤一里则只有一根），且没有佩戴与姐姐一里相似的发饰。\n\n喜多郁代认为她与姐姐的关系非常好。"
+  },
+  {
+    "sp": "character",
+    "en": "frostleaf",
+    "zh": "霜叶",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "highmore",
+    "zh": "海沫",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "mei misaki",
+    "zh": "见崎鸣",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "kenma kozume",
+    "zh": "孤爪研磨",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "tadashi yamaguchi",
+    "zh": "山口忠",
+    "in": ""
   },
   {
     "sp": "group",
@@ -116886,6 +116922,24 @@
     "in": ""
   },
   {
+    "sp": "group",
+    "en": "sakura suishou",
+    "zh": "桜水晶",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "nekomimi to kuro mask",
+    "zh": "猫耳と黒マスク",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "champion soft",
+    "zh": "Champion Soft",
+    "in": "「冠军软件公司」（Champion Soft，チャンピオンソフト）现在以成人游戏品牌「爱丽丝软件」（AliceSoft，有时亦作Alice Soft，アリスソフト）活动中，于1983年（昭和58年）3月成立。"
+  },
+  {
     "sp": "artist",
     "en": "2",
     "zh": "2",
@@ -160520,7 +160574,7 @@
   {
     "sp": "artist",
     "en": "kuromame mugicha",
-    "zh": "黒豆麦茶",
+    "zh": "黑豆麦茶",
     "in": ""
   },
   {
@@ -192345,6 +192399,42 @@
     "sp": "artist",
     "en": "murabito toufuten",
     "zh": "村人豆腐店",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "kuma ashi s",
+    "zh": "熊足S",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "sasai nakoto",
+    "zh": "茶彩なこと",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "hina",
+    "zh": "氷菜",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "yozakura souki",
+    "zh": "夜桜ソウキ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "susukumo nagi",
+    "zh": "煤雲なぎ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "cielo",
+    "zh": "CIELO",
     "in": ""
   },
   {
