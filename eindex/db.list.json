@@ -13692,6 +13692,18 @@
     "in": ""
   },
   {
+    "sp": "parody",
+    "en": "puss in boots the last wish",
+    "zh": "穿靴子的猫:最后的愿望",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "fatal frame",
+    "zh": "零系列",
+    "in": "零为日本厂商特库摩开发的恐怖游戏系列，自2001年问世以来，已推出了五部正传作品：《零～zero～》、《零～红蝶～》、《零～刺青之声～》、《零～月蚀的假面～》和《零～濡鸦之巫女～》，一部外传作品《心灵照相机～被附身的笔记本～》。"
+  },
+  {
     "sp": "character",
     "en": "alice",
     "zh": "爱丽丝",
@@ -16112,8 +16124,8 @@
   {
     "sp": "character",
     "en": "jervis",
-    "zh": "杰维斯",
-    "in": ""
+    "zh": "贾维斯|杰维斯",
+    "in": "1.贾维斯(Jervis)，所属作品:碧蓝航线(azur lane)\n\n2.杰维斯(Jervis)，所属作品:舰队Collection(kantai collection)"
   },
   {
     "sp": "character",
@@ -41193,6 +41205,36 @@
     "sp": "character",
     "en": "tadashi yamaguchi",
     "zh": "山口忠",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "leon s. kennedy",
+    "zh": "里昂·斯科特·肯尼迪",
+    "in": "里昂·斯科特·肯尼迪（日语：レオン·S·ケネディ，英语：Leon Scott Kennedy）是卡普空制作的生化危机系列中登场的角色之一，为《生化危机2》、《生化危机4》、《生化危机6》的主要角色，同时也是官方电影《恶化》、《诅咒》、《复仇》的主角。"
+  },
+  {
+    "sp": "character",
+    "en": "sayaka igarashi",
+    "zh": "五十岚清华",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "kiba inuzuka",
+    "zh": "犬冢牙",
+    "in": "犬冢牙是漫画《火影忍者》及其衍生作品的登场角色。"
+  },
+  {
+    "sp": "character",
+    "en": "aang",
+    "zh": "安昂",
+    "in": "安昂（Aang）是Nickelodeon旗下的动画《降世神通·最后的气宗》和《科拉传奇》及其衍生作品的登场角色。"
+  },
+  {
+    "sp": "character",
+    "en": "kyouko kirigiri",
+    "zh": "雾切响子",
     "in": ""
   },
   {
@@ -116940,6 +116982,12 @@
     "in": "「冠军软件公司」（Champion Soft，チャンピオンソフト）现在以成人游戏品牌「爱丽丝软件」（AliceSoft，有时亦作Alice Soft，アリスソフト）活动中，于1983年（昭和58年）3月成立。"
   },
   {
+    "sp": "group",
+    "en": "dojiro books",
+    "zh": "どじろーブックス",
+    "in": ""
+  },
+  {
     "sp": "artist",
     "en": "2",
     "zh": "2",
@@ -192435,6 +192483,66 @@
     "sp": "artist",
     "en": "cielo",
     "zh": "CIELO",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "hekoman",
+    "zh": "へこまん",
+    "in": "萝莉&口交颜大师(bushi)"
+  },
+  {
+    "sp": "artist",
+    "en": "ichinosono yui",
+    "zh": "一之园唯",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "rindow masaki",
+    "zh": "あるでぃ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "orihika",
+    "zh": "おりひか",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "scottie",
+    "zh": "スコッティ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "makin",
+    "zh": "まきん",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "myamo",
+    "zh": "ミャモ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "pedopetton",
+    "zh": "ぺどぺっとん",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "mikozin",
+    "zh": "ミコジン",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "imajin kouji",
+    "zh": "イマジン孝二",
     "in": ""
   },
   {
