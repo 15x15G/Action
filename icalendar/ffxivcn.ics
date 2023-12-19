@@ -763,6 +763,22 @@ DTSTART;TZID=Asia/Shanghai:20211217T140000
 DTEND;TZID=Asia/Shanghai:20220117T140000
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20231218T131505Z
+SUMMARY:C-石之家迎新庆典（可获得纯黑夏衣套装）
+DESCRIPTION:【活动期间共有15天】\n活动内容（集章任务将在每天的凌晨5点刷新，仅计算帖子、动态、攻略及其评论的点赞和回复）：\n每日
+ 集章-签到、点赞5次、跟帖/评论1次\n\n活动奖励（账号下全部角色共享任务进度，每个账号只能领取一份奖励）：\n3个章-传送网使用券x30\n
+ 5个章-5000商城积分\n9个章-传送网使用券x30\n15个章-礼物盒x1\n19个章-纯黑夏衣套装\n24个章-20000商城积分\n27
+ 个章-特制无暇白染剂x1\n30个章-传送网使用券x50\n\n石之家页面：\nhttps://ff.web.sdo.com/ff14risin
+ gstones/index.html\n\n活动页面：\nhttps://ff14risingstones.web.sdo.com/projec
+ t/ffstoneonline/pc/index.html#/index
+TZID:Asia/Shanghai
+SEQUENCE:0
+UID:553DBF8E-E1A5-4B52-8E77-2D5F30B717C1
+CREATED:20231218T131505Z
+DTSTART;TZID=Asia/Shanghai:20231218T060000
+DTEND;TZID=Asia/Shanghai:20240102T050000
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20231020T164644Z
 SUMMARY:（预测）C-新生祭-龙
 TZID:Asia/Tokyo
