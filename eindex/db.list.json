@@ -819,7 +819,7 @@
     "sp": "parody",
     "en": "love live",
     "zh": "LoveLive!",
-    "in": "LoveLive!（日语：ラブライブ！），全称LoveLive! School idol project，是由日本动画公司Sunrise、唱片公司Lantis，以及ACG月刊杂志电击G’s magazine在2010年共同合作推出的读者参与型混合媒体（MediaMix）校园偶像企划，企划包括音乐作品、电视和广播节目、文字书籍、 漫画插画 、动画 、游戏、周边等。 作品的口号是大家一起实现梦想的故事（日语：みんなで叶える物語）。"
+    "in": "LoveLive!（日语：ラブライブ！），全称LoveLive! School idol project，是由日本动画公司Sunrise、唱片公司Lantis，以及ACG月刊杂志电击G’s magazine在2010年共同合作推出的读者参与型混合媒体（MediaMix）校园偶像企划，企划包括音乐作品、电视和广播节目、文字书籍、 漫画插画 、动画 、游戏、周边等。 作品的口号是大家一起实现梦想的故事。"
   },
   {
     "sp": "parody",
@@ -6645,7 +6645,7 @@
     "sp": "parody",
     "en": "kuttsukiboshi",
     "zh": "紧扣的星星",
-    "in": "《くっつきぼし》是一部由石川直哉和PRIMSTEA制作的百合OVA动画，常见译名有“紧扣的星星”、“紧扣的拇指”、“星连星”等。"
+    "in": "《紧扣的星星》是一部两集的原创动画，完全由自由动画制作者石川直哉导演、编剧、作画。除音乐等委托他人制作，整部作品为石川直哉一个人作画。作画方式为，最初先在纸上用铅笔将人物画出来，然后用扫描仪扫进电脑，用anilapaint上色。用sai来绘制风景，最终的动画由adobe after effects完成。"
   },
   {
     "sp": "parody",
@@ -13710,6 +13710,30 @@
     "in": ""
   },
   {
+    "sp": "parody",
+    "en": "calabiyau",
+    "zh": "卡拉彼丘",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "soltyrei",
+    "zh": "曙光少女",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "meikyuu black company",
+    "zh": "异世界迷宫黑心企业",
+    "in": "二之宫金治因为讨厌当为公司做牛做马的“社畜”，而靠着各种努力与投资，终于达成不工作也有大笔收入的理想目标！\n然而他因阴错阳差掉进异世界，再度踏入“社畜”的深渊⋯⋯！\n究竟他能否摆脱“社畜”的悲惨命运呢？"
+  },
+  {
+    "sp": "parody",
+    "en": "kimi no koto ga daidaidaidaidaisuki na 100-nin no kanojo",
+    "zh": "超超超超超喜欢你的100个女朋友",
+    "in": "中村力斗原作，野泽由纪子作画创作的漫画作品"
+  },
+  {
     "sp": "character",
     "en": "alice",
     "zh": "爱丽丝",
@@ -18447,7 +18471,7 @@
     "sp": "character",
     "en": "satoshi tainaka",
     "zh": "田井中聪",
-    "in": ""
+    "in": "《轻音少女》登场男配角之一，在TV版中多次作为配角登场，属于动画原创角色。"
   },
   {
     "sp": "character",
@@ -38702,7 +38726,7 @@
   {
     "sp": "character",
     "en": "ruby hoshino",
-    "zh": "星野瑠美衣",
+    "zh": "露比（星野瑠美衣）",
     "in": "前世天童寺纱利奈为星野爱(ai hoshino)的狂热女粉丝，患病期间受医生吾郎（星野爱久爱海的前世）照顾，后因绝症不治身亡，享年12岁，转世后成为爱的女儿，仍然保有前世的记忆。在左眼处继承了爱的星星眼，现正致力于作为偶像活动。"
   },
   {
@@ -41326,6 +41350,66 @@
     "en": "kooh",
     "zh": "酷儿",
     "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "aaya saitou",
+    "zh": "齐藤亚绫",
+    "in": "16岁。高中二年级。转校新生，在川上纪衣子(kiiko kawakami)车祸住院期间一直在照顾她，使得纪衣子喜欢上了她，对纪衣子的能力很有兴趣，一次在树下两个人KISS并正式进入了“非常时期”。"
+  },
+  {
+    "sp": "character",
+    "en": "kiiko kawakami",
+    "zh": "川上纪衣子",
+    "in": "17岁。高中二年级。比较体弱的女孩，因一次车祸使得自己获得了能用意念移动物体的不可思议的能力，能力的大小与范围跟物体的重量、体积有关。是个腼腆型的百合向女孩，一直喜欢同班的齐藤亚绫(aaya saitou)。"
+  },
+  {
+    "sp": "character",
+    "en": "princess gradriel de valendia",
+    "zh": "海拉加德的公主",
+    "in": "所属作品:世界树的迷宫(etrian odyssey)\n治理海拉加德公国的王族公主。尽管年幼，但是一位努力支持公国的女性。"
+  },
+  {
+    "sp": "character",
+    "en": "olivier mira armstrong",
+    "zh": "奥利维亚·米拉·阿姆斯特朗",
+    "in": "《钢之炼金术师(fullmetal alchemist)》中阿姆斯特朗家族年轻一代的长女，阿姆斯特朗少校的姐姐，北方军团的司令官，偶尔会说出弟弟的台词「这是我们阿姆斯特朗家代代相传的……」"
+  },
+  {
+    "sp": "character",
+    "en": "aqua hoshino",
+    "zh": "阿库亚（星野爱久爱海）",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "miyako saitou",
+    "zh": "齐藤京子",
+    "in": "齐藤美弥子。\n《【我推的孩子】》及其衍生作品中的角色。莓pro事务所社长齐藤一护的妻子。在爱死后接手了丈夫所在的事务所，并收养了露比和阿库亚。"
+  },
+  {
+    "sp": "character",
+    "en": "airi kurimura",
+    "zh": "栗村爱莉",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "rentarou aijou",
+    "zh": "爱城恋太郎",
+    "in": "爱城恋太郎是由中村力斗原作、野澤ゆき子作画的《超超超超超喜欢你的100个女朋友》的男主角。"
+  },
+  {
+    "sp": "character",
+    "en": "karane inda",
+    "zh": "院田唐音",
+    "in": "《超超超超超喜欢你的100个女朋友》女主之一。\n属性：傲娇、贫乳、辣妹、黄发、暴力女、高中生、怪力、吐槽。"
+  },
+  {
+    "sp": "character",
+    "en": "hakari hanazono",
+    "zh": "花园羽香里",
+    "in": "《超超超超超喜欢你的100个女朋友》女主之一。\n属性：粉发、巨乳、痴女、高中生、妄想、大小姐、安产型、丰满体型、百合（唐音）"
   },
   {
     "sp": "group",
@@ -117192,6 +117276,48 @@
     "in": ""
   },
   {
+    "sp": "group",
+    "en": "kaoinshou zero",
+    "zh": "顔印象零",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "yasudajuku",
+    "zh": "保田塾",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "mahou no kinoko",
+    "zh": "魔法のキノコ",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "suihanya",
+    "zh": "炊飯屋",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "climbcrown",
+    "zh": "クライムクラウン",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "takahiro no ie",
+    "zh": "たかひろの家",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "shiosai",
+    "zh": "潮騒",
+    "in": ""
+  },
+  {
     "sp": "artist",
     "en": "2",
     "zh": "2",
@@ -192884,8 +193010,8 @@
   {
     "sp": "artist",
     "en": "raikou",
-    "zh": "raikou",
-    "in": "らい公"
+    "zh": "らい公",
+    "in": ""
   },
   {
     "sp": "artist",
@@ -192903,6 +193029,96 @@
     "sp": "artist",
     "en": "jinze",
     "zh": "今沢",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "hosigarasu",
+    "zh": "干しガラス",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "koyama harutarou",
+    "zh": "コヤマハルタロウ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "iketatsu shizuru",
+    "zh": "池竜静留",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "kogara tsugumi",
+    "zh": "小雀つぐみ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "papipukepo",
+    "zh": "ぱぴぷけぽ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "yomogi mametaro",
+    "zh": "よもぎ豆太郎",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "yasuda yasuhiro",
+    "zh": "保田やすひろ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "minazuki miyabi",
+    "zh": "水無月雅",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "okome taberu",
+    "zh": "おこめタベル",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "nagase tooru",
+    "zh": "長瀬 徹",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "az slash hybrid",
+    "zh": "をん（AZ/HYBRID）",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "shirabii",
+    "zh": "しらび",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "ushio kiyoshi",
+    "zh": "潮汐きよし",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "yumemi teer",
+    "zh": "夢見てぇる",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "kisaragi sonami",
+    "zh": "生肉",
     "in": ""
   },
   {
