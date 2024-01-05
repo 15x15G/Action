@@ -72,6 +72,7 @@ PROCESS-NAME,fdm.exe
 PROCESS-NAME,qBittorrent
 PROCESS-NAME,qbittorrent.exe
 PROCESS-NAME,qbittorrent-nox
+PROCESS-NAME,transmission-daemon
 PROCESS-NAME,transmission-daemon.exe
 PROCESS-NAME,transmission-qt.exe
 PROCESS-NAME,uTorrent
