@@ -13734,6 +13734,18 @@
     "in": "中村力斗原作，野泽由纪子作画创作的漫画作品"
   },
   {
+    "sp": "parody",
+    "en": "kimagure orange road",
+    "zh": "橙路",
+    "in": "故事讲述拥有超能力的男主角春日恭介与鲇川圆、桧山光两个女孩之间三角恋情。"
+  },
+  {
+    "sp": "parody",
+    "en": "mahoutsukai no yakusoku",
+    "zh": "魔法使的约定",
+    "in": "《魔法使的约定》（日语：魔法使いの約束）是由coly制作的女性向手机游戏。有漫画等衍生作品。"
+  },
+  {
     "sp": "character",
     "en": "alice",
     "zh": "爱丽丝",
@@ -41410,6 +41422,36 @@
     "en": "hakari hanazono",
     "zh": "花园羽香里",
     "in": "《超超超超超喜欢你的100个女朋友》女主之一。\n属性：粉发、巨乳、痴女、高中生、妄想、大小姐、安产型、丰满体型、百合（唐音）"
+  },
+  {
+    "sp": "character",
+    "en": "mayling shen",
+    "zh": "沈美玲",
+    "in": "少女前线2角色"
+  },
+  {
+    "sp": "character",
+    "en": "akari wanibuchi",
+    "zh": "鳄渊亚伽里",
+    "in": "所属作品：蔚蓝档案(blue archive)"
+  },
+  {
+    "sp": "character",
+    "en": "kikyou kiryuu",
+    "zh": "桐生桔梗",
+    "in": "所属作品：蔚蓝档案(blue archive)"
+  },
+  {
+    "sp": "character",
+    "en": "fuwawa abyssgard",
+    "zh": "软软·阿比斯加德",
+    "in": "软软·阿比斯加德（英语：Fuwawa Abyssgard）和茸茸·阿比斯加德（英语：Mococo Abyssgard）是于2023年7月26日开始活动的VTuber，所属日本业界团体hololive EN―『hololive English -降临-』的成员。"
+  },
+  {
+    "sp": "character",
+    "en": "mococo abyssgard",
+    "zh": "茸茸·阿比斯加德",
+    "in": "软软·阿比斯加德(fuwawa abyssgard)（英语：Fuwawa Abyssgard）和茸茸·阿比斯加德（英语：Mococo Abyssgard）是于2023年7月26日开始活动的VTuber，所属日本业界团体hololive EN―『hololive English -降临-』的成员。"
   },
   {
     "sp": "group",
@@ -117318,6 +117360,36 @@
     "in": ""
   },
   {
+    "sp": "group",
+    "en": "touzainanboku",
+    "zh": "とうざいなんぼく",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "arijigoku",
+    "zh": "蚁地狱",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "tianoblue",
+    "zh": "ティアノブルー",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "nerimono koujou",
+    "zh": "練り物工場",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "marosaan",
+    "zh": "まろ茶庵",
+    "in": ""
+  },
+  {
     "sp": "artist",
     "en": "2",
     "zh": "2",
@@ -131078,7 +131150,7 @@
   {
     "sp": "artist",
     "en": "urabi",
-    "zh": "うらび",
+    "zh": "紅吊うらび",
     "in": ""
   },
   {
@@ -138801,7 +138873,7 @@
     "sp": "artist",
     "en": "ikezaki misa",
     "zh": "池咲弥撒",
-    "in": ""
+    "in": "画师有两个Pixiv帐号\nhitokui\n\nikezakimisa\n\n@ikezakimisa"
   },
   {
     "sp": "artist",
@@ -193122,6 +193194,48 @@
     "in": ""
   },
   {
+    "sp": "artist",
+    "en": "nishi yasuaki",
+    "zh": "西ヤスアキ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "higashi taishi",
+    "zh": "東太子",
+    "in": "转生成为 コソコソ丸"
+  },
+  {
+    "sp": "artist",
+    "en": "kokudou juunigou",
+    "zh": "国道12号",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "sushi yuusha toro",
+    "zh": "寿司勇者トロ",
+    "in": "ホラーとクリーチャーだいすきっ！\n同人サークル「イニミニマニモ？」でゲーム作ってるよっ！\nニコニコで東方異形郷（R-18G）という動画も投稿してるよんっ！"
+  },
+  {
+    "sp": "artist",
+    "en": "sandbox",
+    "zh": "砂场",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "yunamaro",
+    "zh": "ゆなまろ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "810eru",
+    "zh": "草葉える",
+    "in": ""
+  },
+  {
     "sp": "cosplayer",
     "en": "otohara an",
     "zh": "乙原あん",
@@ -193576,6 +193690,12 @@
     "en": "ringo mitsuki",
     "zh": "林檎蜜纪(林檎蜜紀)",
     "in": "coser"
+  },
+  {
+    "sp": "cosplayer",
+    "en": "tokar",
+    "zh": "浵卡Tokar",
+    "in": "Twitter"
   },
   {
     "sp": "male",
