@@ -303,15 +303,17 @@ DTSTART;TZID=Asia/Tokyo:20231031T190000
 DTEND;TZID=Asia/Tokyo:20231231T235900
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240111T082944Z
+DTSTAMP:20240117T053758Z
 SUMMARY:J-6.55版本更新维护（新主线、新友好部族合集篇、塔塔露商店后篇、调查员、曼武）
-DESCRIPTION:公告地址：\nhttps://jp.finalfantasyxiv.com/lodestone/news/detail/b
- 77f98476589a76d672904cb96f9103db338c469\n\npart.2 来源粉丝节 将维护24小时，日服将借此机会更
- 换所有服务器
+DESCRIPTION:更新笔记翻译（来源@止水ShinwaRyu）：\nhttps://weibo.com/1489227017/NC8487d
+ tE\n\n更新笔记（日）：\nhttps://jp.finalfantasyxiv.com/lodestone/topics/detail/b
+ 9f5a0f86f8869b785e5f720ba2b9a72022aa4c7\n\n公告地址：\nhttps://jp.finalfantas
+ yxiv.com/lodestone/news/detail/b77f98476589a76d672904cb96f9103db338c469\
+ n\npart.2 来源粉丝节 将维护24小时，日服将借此机会更换所有服务器
 TZID:Asia/Tokyo
 SEQUENCE:0
 UID:2ADCCB9F-DB8C-41B4-AC94-DA8D96CD289D
-CREATED:20240111T082944Z
+CREATED:20240117T053758Z
 DTSTART;TZID=Asia/Tokyo:20240115T183000
 DTEND;TZID=Asia/Tokyo:20240116T193000
 END:VEVENT
@@ -894,6 +896,19 @@ UID:7B897F28-1AB8-43E9-8310-5C38D580D51E
 CREATED:20210421T083133Z
 DTSTART;TZID=Asia/Shanghai:20210413T140000
 DTEND;TZID=Asia/Shanghai:20210413T225900
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240117T054026Z
+SUMMARY:J-「星唄異聞」ff11联动活动
+DESCRIPTION:活动奖励：\n天つ水影流套装（5件：天つ水影流鉢金、天つ水影流闘着、天つ水影流手甲、天つ水影流佩楯、天つ水影流脛当）\n\
+ n活动页面：\nhttps://jp.finalfantasyxiv.com/lodestone/special/2024/The_Maiden
+ s_Rhapsody/flf9m2g38k
+TZID:Asia/Tokyo
+SEQUENCE:0
+UID:7C39B6FA-22F5-4279-BD90-88FC58FB5F5F
+CREATED:20240117T054026Z
+DTSTART;TZID=Asia/Tokyo:20240122T170000
+DTEND;TZID=Asia/Tokyo:20240205T180000
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20231013T071921Z
