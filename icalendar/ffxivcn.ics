@@ -877,8 +877,7 @@ UID:6645924A-3D41-4027-A210-31A9C4691729
 URL;VALUE=URI:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231205T085235Z
-SUMMARY:C-「莫古莫古★大收集 ～外典～」
+CREATED:20231205T085235Z
 DESCRIPTION:【持续时间到6.5为止（有具体时间后会更新）】\n\n活动页面：\nhttps://actff1.web.sdo.com/
  project/20231113mogu/index.html\n\n对象迷宫概述（获得多少石头）：\n7石头-喜悦神域欧芙洛绪涅、希望之炮台：
  “塔”、乐欲之所瓯博讷修道院、影之国、天幕魔导城最终决战\n6石头-灿烂神域阿格莱亚、人偶军事基地、封闭圣塔黎铎拉纳大灯塔\n5石头-复制工厂废
@@ -886,12 +885,15 @@ DESCRIPTION:【持续时间到6.5为止（有具体时间后会更新）】\n\n�
  n3石头-魔航船虚无方舟、水晶塔123、究极神兵破坏作战\n2石头-所有万魔殿普通\n\n（或许能有用的）奖励（实在太多，建议自己进游戏看）：\
  n猫小胖阳伞-100\n发型样式：佣兵-50\n仙子玲龙角笛-50\n大壳蟹角笛-50\n暴龙角笛-50\n各种狗笛子-30\n青蛙套-各30\
  n
+DTEND;VALUE=DATE:20240410
+DTSTAMP:20240116T082851Z
+DTSTART;VALUE=DATE:20240118
+LAST-MODIFIED:20240116T082851Z
+SEQUENCE:1
+SUMMARY:C-「莫古莫古★大收集 ～外典～」
 TZID:Asia/Tokyo
-SEQUENCE:0
 UID:68A1ADB7-6861-4CAC-99BE-D8EE38BD4472
-CREATED:20231205T085235Z
-DTSTART;VALUE=DATE:20240124
-DTEND;VALUE=DATE:20240416
+URL;VALUE=URI:
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20220504T154218Z
