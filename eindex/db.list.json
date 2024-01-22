@@ -824,8 +824,8 @@
   {
     "sp": "parody",
     "en": "love live",
-    "zh": "LoveLive!",
-    "in": "LoveLive!（日语：ラブライブ！），全称LoveLive! School idol project，是由日本动画公司Sunrise、唱片公司Lantis，以及ACG月刊杂志电击G’s magazine在2010年共同合作推出的读者参与型混合媒体（MediaMix）校园偶像企划，企划包括音乐作品、电视和广播节目、文字书籍、 漫画插画 、动画 、游戏、周边等。 作品的口号是大家一起实现梦想的故事。"
+    "zh": "LoveLive! School idol project",
+    "in": "LoveLive! School idol project（日语：ラブライブ！スクールアイドルプロジェクト）是2010年开始由角川书店旗下美少女综合娱乐杂志《电击G’s magazine》、日本动画公司Sunrise、唱片公司Lantis共同策划的以9人美少女校园偶像们为主角的跨媒体企划，讲述了九位少女为了将学院的名声宣传而增加入学志愿者，拯救面临废校危机的学院音乃木坂学院而成为偶像的故事。\n\nLoveLive!（日语：ラブライブ！），全称LoveLive! School idol project series，是由日本动画公司Sunrise、唱片公司Lantis，以及ACG月刊杂志电击G’s magazine在2010年共同合作推出的读者参与型混合媒体校园偶像企划。作品的口号是“大家一起实现梦想的故事”。"
   },
   {
     "sp": "parody",
@@ -9987,7 +9987,7 @@
     "sp": "parody",
     "en": "love live superstar",
     "zh": "Love Live! Superstar!!",
-    "in": "《Love Live! Superstar!!》（日语：ラブライブ！スーパースター!!），是以Liella!为主角、日昇制作的改编电视动画，也是《LoveLive!(love live)》动画系列第四作。"
+    "in": "《Love Live! Superstar!!》（日语：ラブライブ！スーパースター!!），是以Liella!为主角、日昇制作的改编电视动画，也是《LoveLive! School idol project(love live)》动画系列第四作。"
   },
   {
     "sp": "parody",
@@ -13822,6 +13822,12 @@
     "en": "engage kiss",
     "zh": "契约之吻",
     "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "seitokai no ichizon",
+    "zh": "碧阳学园学生会议事录(学生会的一己之见)",
+    "in": "《碧阳学园学生会议事录》（日语：碧陽学園生徒会議事録，英语：Student Council's Discretion）是于富士见Fantasia文库（富士见书房）出版的轻小说。作者是葵关南，插图画师是狗神煌。"
   },
   {
     "sp": "character",
@@ -23133,7 +23139,7 @@
     "sp": "character",
     "en": "osakabehime",
     "zh": "刑部姬",
-    "in": ""
+    "in": "刑部姬是TYPE-MOON旗下游戏《Fate/Grand Order》及其衍生作品的登场角色。"
   },
   {
     "sp": "character",
@@ -23283,7 +23289,7 @@
     "sp": "character",
     "en": "tiamat",
     "zh": "提亚马特",
-    "in": ""
+    "in": "提亚马特是TYPE-MOON旗下Fate系列及其衍生作品的登场角色，在《Fate/EXTRA CCC》作为BB的构成素材首次出现，之后在《Fate/Grand Order》正式登场。"
   },
   {
     "sp": "character",
@@ -27963,7 +27969,7 @@
     "sp": "character",
     "en": "kama",
     "zh": "迦摩",
-    "in": "在TYPE-MOON推出的安卓&iOS游戏《Fate/Grand Order》中登场的Servant，职阶为Assassin。"
+    "in": "迦摩是TYPE-MOON旗下游戏《Fate/Grand Order》及其衍生作品的登场角色。\n\n印度神话中的爱神。本作中以凭依在间桐樱的身上的形态登场。\n\n“迦摩”在梵语中意为欲望，和希腊罗马神话里的丘比特是类似的存在，手持弓和箭联系姻缘。神话中本是男神。FGO中因为受到凭依在间桐樱身上的帕尔瓦蒂的影响而变成了女性。"
   },
   {
     "sp": "character",
@@ -30921,7 +30927,7 @@
     "sp": "character",
     "en": "artoria caster",
     "zh": "阿尔托莉雅·卡斯特",
-    "in": ""
+    "in": "游戏《Fate/Grand Order》的登场人物，乃是妖精国不列颠中，来自星之内海的「乐园妖精（阿瓦隆·勒·菲）」。和泛人类史中的亚瑟王阿尔托莉雅·潘德拉贡是有着相同的面容但内在不同的少女。"
   },
   {
     "sp": "character",
@@ -33777,7 +33783,7 @@
     "sp": "character",
     "en": "barghest",
     "zh": "巴格斯特（犬魔）",
-    "in": ""
+    "in": "妖精骑士高文是TYPE-MOON旗下Fate系列及其衍生作品的登场角色。\n\n作为妖精的名字是巴格斯特（Barghest）。"
   },
   {
     "sp": "character",
@@ -33993,7 +33999,7 @@
     "sp": "character",
     "en": "morgan le fay",
     "zh": "摩根勒菲",
-    "in": ""
+    "in": "游戏《Fate/Grand Order》的登场人物，作为自止境的奥克尼而来横扫不列颠并君临天下，支配妖精国不列颠长达2017年的女王登场。"
   },
   {
     "sp": "character",
@@ -40755,7 +40761,7 @@
     "sp": "character",
     "en": "kotori toyomi",
     "zh": "丰见亚都梨",
-    "in": ""
+    "in": "丰见亚都梨是 Nexon 发行的游戏《蔚蓝档案》及其衍生作品中的登场角色。"
   },
   {
     "sp": "character",
@@ -41626,6 +41632,60 @@
     "en": "sharon",
     "zh": "莎郎 | 莎朗·荷莉格蕾尔",
     "in": "所属作品: 光与影的传说(words worth)\n莎郎，女主角，影之一族的最强女剑士，男主角的未婚妻和青梅竹马。喜欢最强的男性，险遭光之一族国王强奸玷污，后被男主角拯救，与之共赴爱河。\n\n所属作品: 契约之吻(engage kiss)\n莎朗·荷莉格蕾尔，女主角之一，表面上是支持博爱主义的“星天教会”的修女，实际上是世界最大的驱魔师集团的代理人。"
+  },
+  {
+    "sp": "character",
+    "en": "warlock",
+    "zh": "术士",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "tamaki kotatsu",
+    "zh": "環古達",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "brigitte lindholm",
+    "zh": "布丽吉塔",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "tatsuya kaname",
+    "zh": "鹿目达也",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "kamille bidan",
+    "zh": "卡缪·比丹",
+    "in": "翻译别称：卡缪·维丹"
+  },
+  {
+    "sp": "character",
+    "en": "delta",
+    "zh": "德尔塔",
+    "in": "德尔塔是由米哈游旗下的《崩坏3》及其衍生作品的登场角色。"
+  },
+  {
+    "sp": "character",
+    "en": "kyouko yuuki",
+    "zh": "结城京子",
+    "in": "《刀剑神域》圣母圣咏篇的登场人物，是明日奈的母亲，大学教授，对自己孩子的教育相当严格，准备让与桐人就读同一所学校的明日奈转学。\n\n个性严格，对因为SAO事件而导致女儿不得不脱离精英阶层转到现在的SAO生还者专门学校这点感到不满。\n\n在圣母圣咏篇中，因为自己出身贫穷，所以讨厌出身一般的和人与明日奈交往，并要求女儿按照规划的路线追求豪门，但明日奈利用其对过去的思念，在新生ALO中和母亲故乡相似的22层树屋，表明自己对和人的追求与坚持自己的意愿，最终放弃对女儿的要求。在剧场版《序列之争》结尾，与送明日奈回家的和人见面。"
+  },
+  {
+    "sp": "character",
+    "en": "maomao",
+    "zh": "猫猫",
+    "in": "猫猫是由日向夏创作、しのとうこ插画的轻小说《药师少女的独语》及其衍生的动画等作品的登场角色。"
+  },
+  {
+    "sp": "character",
+    "en": "chris redfield",
+    "zh": "克里斯·雷德菲尔德",
+    "in": "克里斯·雷德菲尔德是CAPCOM旗下著名恐怖游戏系列《生化危机》中的主角之一。"
   },
   {
     "sp": "group",
@@ -117588,6 +117648,36 @@
     "in": ""
   },
   {
+    "sp": "group",
+    "en": "ruri-iro special room",
+    "zh": "瑠璃色特別室",
+    "in": "作者川口蓝的社团名称。"
+  },
+  {
+    "sp": "group",
+    "en": "harmonear",
+    "zh": "HarmoNeaR",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "higedokoro",
+    "zh": "ひげどころ",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "shinjiroya",
+    "zh": "信じろや",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "pontaroya",
+    "zh": "ぽんたろ家",
+    "in": ""
+  },
+  {
     "sp": "artist",
     "en": "2",
     "zh": "2",
@@ -193485,6 +193575,24 @@
     "sp": "artist",
     "en": "yoshimura takuya",
     "zh": "吉村拓哉",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "yuki no arashi",
+    "zh": "雪之岚(雪ノ嵐)",
+    "in": "【甲板下的鸽子窝】主催&画师，PIXIVID=17305623"
+  },
+  {
+    "sp": "artist",
+    "en": "yiduan",
+    "zh": "异端",
+    "in": "【甲板下的鸽子窝】主催&画师，PIXIVID=17305623"
+  },
+  {
+    "sp": "artist",
+    "en": "kii kanna",
+    "zh": "紀伊カンナ",
     "in": ""
   },
   {
