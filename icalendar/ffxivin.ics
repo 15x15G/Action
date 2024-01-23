@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//caldav.icloud.com//CALDAVJ 2404B418//EN
+PRODID:-//caldav.icloud.com//CALDAVJ 2407B608//EN
 X-WR-CALNAME:国际服(Final Fantasy XIV)
 X-APPLE-CALENDAR-COLOR:#cc73e1
 BEGIN:VEVENT
@@ -343,6 +343,21 @@ UID:2FF19F5B-BD67-4D18-813D-B85E43500527
 CREATED:20210628T071130Z
 DTSTART;TZID=Asia/Tokyo:20210622T150000
 DTEND;TZID=Asia/Tokyo:20210622T190000
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240123T113244Z
+SUMMARY:J-「モグモグ★コレクション ～新次元の創世 Part1～」～
+DESCRIPTION:这次除了副本外还有海钓、金蝶小游戏、周常（每周二北京时间16:00刷新，周常似乎是挖宝、幻卡、狩猎等内容）、莫古挑战（只要
+ 达成一次就可以获得大量石头）都可以获得莫古石头。详细战斗副本在游戏内有新的专属ui可以看。\n\nnga相关奖励内容帖子：\n​[海外资讯] 国
+ 际服下一次莫古力活动奖励(拆包)（来自@ 白色花开 梦之天堂 ）\nhttps://bbs.nga.cn/read.php?tid=390106
+ 70\n\n活动页面：\nhttps://jp.finalfantasyxiv.com/lodestone/special/mogmog-col
+ lection/202401/8degg9wgnk
+TZID:Asia/Tokyo
+SEQUENCE:0
+UID:2b077b56-e782-461e-baf8-567dff6068ad
+CREATED:20240123T113244Z
+DTSTART;TZID=Asia/Tokyo:20240130T170000
+DTEND;TZID=Asia/Tokyo:20240311T235900
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20230113T054518Z
