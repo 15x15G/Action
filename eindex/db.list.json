@@ -13848,6 +13848,12 @@
     "in": "常用译名：小美代老师如是说"
   },
   {
+    "sp": "parody",
+    "en": "kusuriya no hitorigoto",
+    "zh": "药师少女的独语",
+    "in": ""
+  },
+  {
     "sp": "character",
     "en": "alice",
     "zh": "爱丽丝",
@@ -15501,7 +15507,7 @@
     "sp": "character",
     "en": "oboro",
     "zh": "胧",
-    "in": ""
+    "in": "~~合用标签~~\n1. 舰队Collection 的 胧\n2. 对魔忍阿萨姬 的 胧"
   },
   {
     "sp": "character",
@@ -36489,19 +36495,19 @@
     "sp": "character",
     "en": "fubuki nemugaki",
     "zh": "合欢垣吹雪",
-    "in": ""
+    "in": "所属作品: 蔚蓝档案(blue archive)"
   },
   {
     "sp": "character",
     "en": "serika kuromi",
     "zh": "黑见芹香",
-    "in": ""
+    "in": "黑见芹香是 Nexon 发行的游戏蔚蓝档案(blue archive)及其衍生作品中的登场角色。"
   },
   {
     "sp": "character",
     "en": "ayane okusora",
     "zh": "奥空绫音",
-    "in": ""
+    "in": "所属作品: 蔚蓝档案(blue archive)"
   },
   {
     "sp": "character",
@@ -38013,7 +38019,7 @@
     "sp": "character",
     "en": "kisaki",
     "zh": "龙华妃咲",
-    "in": "所属作品:蔚蓝档案(blue archive)"
+    "in": "所属作品: 蔚蓝档案(blue archive)"
   },
   {
     "sp": "character",
@@ -38169,13 +38175,13 @@
     "sp": "character",
     "en": "plana",
     "zh": "普拉娜",
-    "in": ""
+    "in": "所属作品: 蔚蓝档案(blue archive)"
   },
   {
     "sp": "character",
     "en": "rio tsukatsuki",
     "zh": "调月莉音",
-    "in": ""
+    "in": "所属作品: 蔚蓝档案(blue archive)"
   },
   {
     "sp": "character",
@@ -38877,7 +38883,7 @@
     "sp": "character",
     "en": "reisa uzawa",
     "zh": "宇泽玲纱",
-    "in": ""
+    "in": "所属作品: 蔚蓝档案(blue archive)"
   },
   {
     "sp": "character",
@@ -39141,7 +39147,7 @@
     "sp": "character",
     "en": "junko akashi",
     "zh": "赤司淳子",
-    "in": ""
+    "in": "所属作品: 蔚蓝档案(blue archive)"
   },
   {
     "sp": "character",
@@ -40737,7 +40743,7 @@
     "sp": "character",
     "en": "dan heng",
     "zh": "丹恒",
-    "in": ""
+    "in": "丹恒是米哈游制作的游戏崩坏：星穹铁道(honkai star rail)及其衍生作品的登场角色。"
   },
   {
     "sp": "character",
@@ -41481,7 +41487,7 @@
     "sp": "character",
     "en": "airi kurimura",
     "zh": "栗村爱莉",
-    "in": ""
+    "in": "所属作品: 蔚蓝档案(blue archive)"
   },
   {
     "sp": "character",
@@ -41902,6 +41908,102 @@
     "en": "chiori",
     "zh": "千织",
     "in": "千织是米哈游研发的游戏原神(genshin impact)及其衍生作品的登场角色。"
+  },
+  {
+    "sp": "character",
+    "en": "shuro yabuki",
+    "zh": "箭吹棕榈",
+    "in": "所属作品: 蔚蓝档案(blue archive)"
+  },
+  {
+    "sp": "character",
+    "en": "blade",
+    "zh": "刃",
+    "in": "刃是米哈游制作的游戏崩坏：星穹铁道(honkai star rail)及其衍生作品的登场角色。"
+  },
+  {
+    "sp": "character",
+    "en": "astesia",
+    "zh": "星极",
+    "in": "星极是游戏《明日方舟》及其衍生作品的登场角色。"
+  },
+  {
+    "sp": "character",
+    "en": "ichika",
+    "zh": "仲正一花",
+    "in": "仲正一花是 Nexon 发行的游戏蔚蓝档案(blue archive)及其衍生作品中的登场角色。"
+  },
+  {
+    "sp": "character",
+    "en": "nodoka amami",
+    "zh": "天见和香",
+    "in": "所属作品：蔚蓝档案(blue archive)"
+  },
+  {
+    "sp": "character",
+    "en": "shadow the hedgehog",
+    "zh": "夏特",
+    "in": "所属作品: 刺猬索尼克(sonic the hedgehog)\n\n夏特是一只与索尼克的外观极其相似的黑色刺猬而且还被别人当成索尼克。他由蛋头博士的祖父——世纪的天才科学家杰拉德教授制造出来的\"Ultimate Life Form\" (终极生命体，究极生命体 Kyūkyoku Seimeitai)"
+  },
+  {
+    "sp": "character",
+    "en": "iris",
+    "zh": "艾莉丝",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "momoka yuragi",
+    "zh": "由良木桃香",
+    "in": "所属作品: 蔚蓝档案(blue archive)"
+  },
+  {
+    "sp": "character",
+    "en": "yukari kadenokouji",
+    "zh": "勘解由小路紫",
+    "in": "所属作品: 蔚蓝档案(blue archive)"
+  },
+  {
+    "sp": "character",
+    "en": "yakumo aramaki",
+    "zh": "荒牧八云",
+    "in": "所属作品: 蔚蓝档案(blue archive)"
+  },
+  {
+    "sp": "character",
+    "en": "kasumi kinugawa",
+    "zh": "鬼怒川霞",
+    "in": "所属作品: 蔚蓝档案(blue archive)"
+  },
+  {
+    "sp": "character",
+    "en": "niya amachi",
+    "zh": "天地妮娅",
+    "in": "所属作品: 蔚蓝档案(blue archive)"
+  },
+  {
+    "sp": "character",
+    "en": "fiammetta",
+    "zh": "菲亚梅塔",
+    "in": "明日方舟干员"
+  },
+  {
+    "sp": "character",
+    "en": "shu",
+    "zh": "黍",
+    "in": "明日方舟干员"
+  },
+  {
+    "sp": "character",
+    "en": "hahari hanazono",
+    "zh": "花園羽羽里",
+    "in": "由中村力斗創作、野澤ゆき子作畫的漫畫《超超超超超喜歡你的100個女朋友》及其衍生作品的登場角色。\n\n「花園羽羽里」名字由來：\n「花園」請看「花園羽香里」條目中的「花園」，「羽羽里（ははり）」中的羽羽（はは）諧音就是「母親（はは）」。\n\n花園羽香里的母親，和女兒一樣都有驚人的戀愛腦。\n銘戶芽衣的救命恩人，雙方十分重視彼此。\n花園集團的董事長，兼任花之蜜大學校集團的理事長。經商天才，錢財無數，是戀太郎家族幾乎所有大型活動的贊助者。\n母性泛濫，十分喜歡小嬰兒，尤其喜歡給人換紙尿褲。常常抱着進入嬰兒狀態的土呂瀞騎士華。\n喜歡可愛的東西，尤其喜歡給可愛的人換裝，包括給戀太郎換女裝。\n胸圍達到了I罩杯。\n儘管年近30，但穿上JK制服時仍會被當作高三的學生。"
+  },
+  {
+    "sp": "character",
+    "en": "naoto hachiouji",
+    "zh": "八王子直人",
+    "in": "八王子直人，是由ナナシ创作的漫画不要欺负我，长瀞同学(ijiranaide nagatoro-san)及其衍生作品中的登场角色。"
   },
   {
     "sp": "group",
@@ -117915,6 +118017,24 @@
     "sp": "group",
     "en": "elica",
     "zh": "ELICA",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "gojihan",
+    "zh": "五时半",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "netorare no tami",
+    "zh": "ネトラレの民",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "7 rensa",
+    "zh": "7连锁",
     "in": ""
   },
   {
