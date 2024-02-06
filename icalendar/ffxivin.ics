@@ -543,6 +543,18 @@ DTSTART;TZID=Asia/Tokyo:20230724T120000
 DTEND;TZID=Asia/Tokyo:20230724T130000
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20240206T121427Z
+SUMMARY:J-「無料ログインキャンペーン」
+DESCRIPTION:30天以上未契约的玩家，可在活动期间内免费游玩4天。刚好能覆盖到2024年恋人节。\n\n活动页面：\nhttps://j
+ p.finalfantasyxiv.com/lodestone/special/freelogincampaign/
+TZID:Asia/Tokyo
+SEQUENCE:0
+UID:450add82-19f4-4864-9ac7-6efa08086a69
+CREATED:20240206T121427Z
+DTSTART;TZID=Asia/Tokyo:20240201T170000
+DTEND;TZID=Asia/Tokyo:20240221T235900
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20230827T211737Z
 SUMMARY:J-「無料ログインキャンペーン」
 DESCRIPTION:活动页面：\nhttps://jp.finalfantasyxiv.com/lodestone/special/freel
