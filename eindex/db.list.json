@@ -13328,7 +13328,7 @@
   {
     "sp": "parody",
     "en": "jigokuraku",
-    "zh": "地獄樂",
+    "zh": "地狱乐",
     "in": ""
   },
   {
@@ -13844,14 +13844,20 @@
   {
     "sp": "parody",
     "en": "myo-chan sensei wa kaku katariki",
-    "zh": "みょーちゃん先生はかく語りき",
-    "in": "常用译名：小美代老师如是说"
+    "zh": "小美代老师如是说",
+    "in": "みょーちゃん先生はかく語りき"
   },
   {
     "sp": "parody",
     "en": "kusuriya no hitorigoto",
     "zh": "药师少女的独语",
     "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "equestria girls",
+    "zh": "小马宝莉：魔法公主",
+    "in": "《彩虹小马：魔法公主》（英语：My Little Pony: Equestria Girls）为美国动画片《小马宝莉：友谊就是魔法》的衍生系列电影。该电影与电视剧的人物较为不同，人物以相似于对应于小马利亚小马配色与个性的人类作为形象。"
   },
   {
     "sp": "character",
@@ -35595,7 +35601,7 @@
     "sp": "character",
     "en": "orihime inoue",
     "zh": "井上织姬",
-    "in": ""
+    "in": "所属作品: 死神(bleach)\n\n本作的主角之一。性格单纯温柔、天然呆又无厘头，总有很多奇思异想，是一个喜好和平的女孩，也总是能给人带来轻松和笑声。拥有敏锐的灵力感知和细致的灵压掌控技巧，能力是头上发夹中的\"盾舜六花\"（拒绝之力）。"
   },
   {
     "sp": "character",
@@ -39675,7 +39681,7 @@
     "sp": "character",
     "en": "karen aijo",
     "zh": "爱城华恋",
-    "in": ""
+    "in": "所属作品: 少女歌剧Revue Starlight(shoujo kageki revue starlight)\n\n幼年时观赏Revue『Starlight』后为之心动，因而走上舞台之路的舞台少女。随时精神饱满，声音宏亮，但非常不习惯早起练习。与交换了『命运』的青梅竹马神乐光一起参加神秘的Revue。"
   },
   {
     "sp": "character",
@@ -41493,7 +41499,7 @@
     "sp": "character",
     "en": "rentarou aijou",
     "zh": "爱城恋太郎",
-    "in": "爱城恋太郎是由中村力斗原作、野澤ゆき子作画的《超超超超超喜欢你的100个女朋友》的男主角。"
+    "in": "爱城恋太郎是由中村力斗原作、野澤ゆき子作画的《超超超超超喜欢你的100个女朋友(kimi no koto ga daidaidaidaidaisuki na 100-nin no kanojo)》的男主角。"
   },
   {
     "sp": "character",
@@ -41804,7 +41810,7 @@
   {
     "sp": "character",
     "en": "ryuko tatsuma",
-    "zh": "竜間龍子",
+    "zh": "龙间龙子",
     "in": "《我的英雄学院》女英雄，英雄公告牌日本榜单 NO.10 “龙骑英雄” 龙九"
   },
   {
@@ -41816,13 +41822,13 @@
   {
     "sp": "character",
     "en": "nejire hado",
-    "zh": "波动龙卷",
+    "zh": "波动螺卷",
     "in": "波動ねじれ\n《我的英雄学院》女英雄。"
   },
   {
     "sp": "character",
     "en": "setsuna tokage",
-    "zh": "取蔭切奈",
+    "zh": "取荫切奈",
     "in": "《我的英雄学院》女英雄。"
   },
   {
@@ -41834,13 +41840,13 @@
   {
     "sp": "character",
     "en": "kyoka jiro",
-    "zh": "耳郎響香",
+    "zh": "耳郎响香",
     "in": "《我的英雄学院》女英雄"
   },
   {
     "sp": "character",
     "en": "tooru hagakure",
-    "zh": "葉隠透",
+    "zh": "叶隐透",
     "in": "《我的英雄学院》女英雄"
   },
   {
@@ -41858,13 +41864,13 @@
   {
     "sp": "character",
     "en": "pony tsunotori",
-    "zh": "角取ポニー",
+    "zh": "角取波尼",
     "in": "《我的英雄学院》女英雄"
   },
   {
     "sp": "character",
     "en": "reiko yanagi",
-    "zh": "柳レイ子",
+    "zh": "柳玲子",
     "in": "《我的英雄学院》女英雄"
   },
   {
@@ -41888,7 +41894,7 @@
   {
     "sp": "character",
     "en": "mei hatsume",
-    "zh": "発目明",
+    "zh": "发目明",
     "in": "《我的英雄学院》女英雄。"
   },
   {
@@ -41996,14 +42002,74 @@
   {
     "sp": "character",
     "en": "hahari hanazono",
-    "zh": "花園羽羽里",
-    "in": "由中村力斗創作、野澤ゆき子作畫的漫畫《超超超超超喜歡你的100個女朋友》及其衍生作品的登場角色。\n\n「花園羽羽里」名字由來：\n「花園」請看「花園羽香里」條目中的「花園」，「羽羽里（ははり）」中的羽羽（はは）諧音就是「母親（はは）」。\n\n花園羽香里的母親，和女兒一樣都有驚人的戀愛腦。\n銘戶芽衣的救命恩人，雙方十分重視彼此。\n花園集團的董事長，兼任花之蜜大學校集團的理事長。經商天才，錢財無數，是戀太郎家族幾乎所有大型活動的贊助者。\n母性泛濫，十分喜歡小嬰兒，尤其喜歡給人換紙尿褲。常常抱着進入嬰兒狀態的土呂瀞騎士華。\n喜歡可愛的東西，尤其喜歡給可愛的人換裝，包括給戀太郎換女裝。\n胸圍達到了I罩杯。\n儘管年近30，但穿上JK制服時仍會被當作高三的學生。"
+    "zh": "花园羽羽里",
+    "in": "花园羽羽里（日语：花園（はなぞの） 羽々里（ははり））是由中村力斗创作、野澤ゆき子作画的漫画《超超超超超喜欢你的100个女朋友(kimi no koto ga daidaidaidaidaisuki na 100-nin no kanojo)》及其衍生作品的登场角色。\n\n“花园羽羽里”名字由来：“花园”请看“花园羽香里”条目中的“花园”，“羽羽里（ははり）”中的羽羽（はは）谐音就是“母亲（はは）”。\n\n生日（5.12）的含义：2019年（漫画开始连载的那一年）的母亲节。"
   },
   {
     "sp": "character",
     "en": "naoto hachiouji",
     "zh": "八王子直人",
     "in": "八王子直人，是由ナナシ创作的漫画不要欺负我，长瀞同学(ijiranaide nagatoro-san)及其衍生作品中的登场角色。"
+  },
+  {
+    "sp": "character",
+    "en": "xianyun",
+    "zh": "闲云（留云借风真君）",
+    "in": "闲云，又名留云借风真君，是游戏原神(genshin impact)及其衍生作品的登场角色。"
+  },
+  {
+    "sp": "character",
+    "en": "aizawa ema",
+    "zh": "蓝泽艾玛",
+    "in": "蓝泽艾玛（藍沢エマ / あいざわ えまAizawa Ema）是一名于2021年9月14日活动开始的虚拟UP主，所属日本业界团体VSPO!。"
+  },
+  {
+    "sp": "character",
+    "en": "kurumi noah",
+    "zh": "胡桃诺娅",
+    "in": "胡桃诺娅 （胡桃のあ）是一名从2020年3月14日在Youtube平台开始活动的虚拟UP主，所属于业界团体VSPO!。\n\n非常爱笑爱哭的男性口吻Vtuber、天真浪漫的声音和性格让周围的人都会有一副笑颜。游戏中进取心很强，总是朝着更高的目标前进。"
+  },
+  {
+    "sp": "character",
+    "en": "atsushi murasakibara",
+    "zh": "紫原敦",
+    "in": "所属作品: 黑子的篮球(kuroko no basuke)\n\n阳泉高校的中锋，曾是奇迹的世代的中锋。除了紫色及肩长发外，他最醒目的特征是超过两米的身高，自小因身材高大而理所当然地打起篮球，虽然没有干劲也不喜欢篮球，但有很高的才能。他特别擅长防守，不过如果他没有干劲、便不会去阻挡对手进攻。他也讨厌那些热爱打篮球的人，也经常会表示自己「很无聊」，因此在中学时、他与黑子经常因为对篮球的观点不同而争论。"
+  },
+  {
+    "sp": "character",
+    "en": "junna hoshimi",
+    "zh": "星见纯那",
+    "in": "所属作品: 少女歌剧Revue Starlight(shoujo kageki revue starlight)\n\n同学年当中成绩最好的资优生，同时也担任班长。判断力、分析力都相当杰出，但反而因此常常想太多。不顾双亲反对走上舞台之路，但因自己与天分出众的真矢等人有所差距而烦恼不已的舞台少女。"
+  },
+  {
+    "sp": "character",
+    "en": "hikari kagura",
+    "zh": "神乐光",
+    "in": "所属作品: 少女歌剧Revue Starlight(shoujo kageki revue starlight)\n\n曾到英国戏剧学校留学的天生舞台少女，是华恋的青梅竹马。跟华恋一同观赏Revue『Starlight』后，与她交换了『命运』。与华恋再会后，仿佛受了什么驱使一般参加了神秘的Revue。"
+  },
+  {
+    "sp": "character",
+    "en": "futaba isurugi",
+    "zh": "石动双叶",
+    "in": "所属作品: 少女歌剧Revue Starlight(shoujo kageki revue starlight)\n\n花柳香子(kaoruko hanayagi)的青梅竹马，为了陪伴她而就读圣翔音乐学园，与众不同的舞台少女。虽然说话毒辣但其实很温柔，嘴上抱怨归抱怨，但凡事还是都以香子为优先。个子虽小，不过运动能力相当高，擅长实战学来的武打戏。"
+  },
+  {
+    "sp": "character",
+    "en": "kaoruko hanayagi",
+    "zh": "花柳香子",
+    "in": "所属作品: 少女歌剧Revue Starlight(shoujo kageki revue starlight)\n\n日本舞掌门人的孙女，歌谣与舞蹈才能卓越的和风舞台少女。是天生的大小姐，生活起居的大小事全都仰赖石动双叶(futaba isurugi)帮忙处理。随时笑容满面，但机谋深算，私底下非常讲究得失。其华美的京都腔为她的一大特征。"
+  },
+  {
+    "sp": "character",
+    "en": "mahiru tsuyuzaki",
+    "zh": "露崎真昼",
+    "in": "所属作品: 少女歌剧Revue Starlight(shoujo kageki revue starlight)\n\n在舞台上活泼地载歌载舞，但其实平常很稳重内向的舞台少女。是爱城华恋(karen aijo)的室友，一直很向往她开朗积极的个性。然而当华恋的青梅竹马神乐光(hikari kagura)出现后，让她的心情复杂了起来……"
+  },
+  {
+    "sp": "character",
+    "en": "shizuka yoshimoto",
+    "zh": "好本静",
+    "in": "《超超超超超喜欢你的100个女朋友》女主之一。"
   },
   {
     "sp": "group",
@@ -89396,7 +89462,7 @@
   {
     "sp": "group",
     "en": "mochi-ya",
-    "zh": "もち屋",
+    "zh": "餅屋",
     "in": ""
   },
   {
@@ -118038,6 +118104,12 @@
     "in": ""
   },
   {
+    "sp": "group",
+    "en": "citrusniper",
+    "zh": "シトラスナイパー",
+    "in": ""
+  },
+  {
     "sp": "artist",
     "en": "2",
     "zh": "2",
@@ -118155,6 +118227,12 @@
     "sp": "artist",
     "en": "691",
     "zh": "ムクイ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "892",
+    "zh": "八9二",
     "in": ""
   },
   {
@@ -178381,7 +178459,7 @@
   },
   {
     "sp": "artist",
-    "en": "shinobu neko",
+    "en": "ninbyo nin",
     "zh": "忍猫",
     "in": ""
   },
@@ -193992,6 +194070,30 @@
     "in": ""
   },
   {
+    "sp": "artist",
+    "en": "nyaon",
+    "zh": "にゃおん",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "fuugetsu makoto",
+    "zh": "楓月誠",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "rebutsu",
+    "zh": "りぶつ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "choi moz",
+    "zh": "ちょいもず",
+    "in": ""
+  },
+  {
     "sp": "cosplayer",
     "en": "otohara an",
     "zh": "乙原あん",
@@ -194493,6 +194595,12 @@
     "sp": "cosplayer",
     "en": "mashiro yuki",
     "zh": "真白ゆき",
+    "in": ""
+  },
+  {
+    "sp": "cosplayer",
+    "en": "alina becker",
+    "zh": "Alina Becker",
     "in": ""
   },
   {
