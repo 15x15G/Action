@@ -687,6 +687,18 @@ DTSTART;TZID=Asia/Tokyo:20210602T150000
 DTEND;TZID=Asia/Tokyo:20210602T174000
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20240213T092135Z
+SUMMARY:J-6.57版本更新维护
+DESCRIPTION:更新笔记（日）：\nhttps://jp.finalfantasyxiv.com/lodestone/topics/det
+ ail/ddf5b756a1eb56dcba0e8700921b7429202de25b
+TZID:Asia/Tokyo
+SEQUENCE:0
+UID:5401f1b1-69a6-4cce-ace3-67381c295072
+CREATED:20240213T092135Z
+DTSTART;TZID=Asia/Tokyo:20240213T120000
+DTEND;TZID=Asia/Tokyo:20240213T180500
+END:VEVENT
+BEGIN:VEVENT
 CREATED:20231020T082358Z
 DESCRIPTION:活动奖励：\n情感动作-「守護天節のおまじない」\n家具-墙上-「ウォールヴァンパイアバットオブジェ」\n\n活动页面：\
  nhttps://jp.finalfantasyxiv.com/lodestone/special/2023/All_Saints_Wake/g
