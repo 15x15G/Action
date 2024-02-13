@@ -347,14 +347,14 @@ END:VEVENT
 BEGIN:VEVENT
 CREATED:20240130T103409Z
 DESCRIPTION:这次除了副本外还有海钓、金蝶小游戏、周常（每周二北京时间16:00刷新，周常似乎是挖宝、幻卡、狩猎、FATE等内容，每周只
- 用做其中一个）、莫古挑战（只要达成一次就可以获得大量石头，现在进行中的是达成一次海钓8000分）都可以获得莫古石头。详细战斗副本在游戏内有新的专
+ 用做其中一个）、莫古挑战（只要达成一次就可以获得50石头，现在进行中的是达成一次海钓8000分）都可以获得莫古石头。详细战斗副本在游戏内有新的专
  属ui可以看。（在重要物品里）\n\nnga相关奖励内容帖子：\n​[海外资讯] 国际服下一次莫古力活动奖励(拆包)（来自@ 白色花开 梦之天堂
   ）\nhttps://bbs.nga.cn/read.php?tid=39010670\n\n活动页面：\nhttps://jp.finalf
  antasyxiv.com/lodestone/special/mogmog-collection/202401/8degg9wgnk
 DTEND;TZID=Asia/Tokyo:20240311T235900
-DTSTAMP:20240209T013850Z
+DTSTAMP:20240213T000609Z
 DTSTART;TZID=Asia/Tokyo:20240130T170000
-LAST-MODIFIED:20240209T013850Z
+LAST-MODIFIED:20240213T000608Z
 SEQUENCE:0
 SUMMARY:J-「モグモグ★コレクション ～新次元の創世 Part1～」～
 TZID:Asia/Tokyo
