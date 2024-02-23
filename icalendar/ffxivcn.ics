@@ -516,6 +516,20 @@ DTSTART;TZID=Asia/Shanghai:20220111T100000
 DTEND;TZID=Asia/Shanghai:20220120T140000
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20240222T153035Z
+SUMMARY:C-艾欧泽亚大冒险
+DESCRIPTION:打本获得抽奖机会的活动。\n抽100次必定有稀有奖品。\n日常在每天0点刷新，周常在每周一0点刷新。\n总共持续：46天，
+ 共162次机会(138次日常+24次周常)（数据来源NGA @sendaiyoru）\n\n\n活动页面：\nhttps://eorzea202
+ 4adt.web.sdo.com/index.html#/index\n\n大转盘产出公示：\nhttps://ff.web.sdo.com/w
+ eb8/index.html#/newstab/newscont/357728
+TZID:Asia/Shanghai
+SEQUENCE:0
+UID:2ce969d6-afd4-456e-91bf-082c649846d8
+CREATED:20240222T153035Z
+DTSTART;TZID=Asia/Shanghai:20240223T100000
+DTEND;TZID=Asia/Shanghai:20240408T235900
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20240202T123314Z
 SUMMARY:C-道具商城优惠券大放送（优惠期有效期间）
 DESCRIPTION:礼品码：FFXIV24HPNY888\n\n礼品码每个账户可用10次。\n每次使用可获得4张优惠券：满50元减10元点券；
