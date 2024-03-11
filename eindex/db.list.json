@@ -13866,6 +13866,18 @@
     "in": ""
   },
   {
+    "sp": "parody",
+    "en": "limbus company",
+    "zh": "边狱公司",
+    "in": "《边狱公司》（英语：Limbus Company，别称《边狱巴士公司》或《边狱巴士》）是由Project Moon制作并发行的回合制策略RPG类游戏，于2023年2月27日公测，是脑叶公司与废墟图书馆的同世界观续作。"
+  },
+  {
+    "sp": "parody",
+    "en": "trigun",
+    "zh": "枪神",
+    "in": "《枪神》（トライガン，Trigun）是一个由内藤泰弘创作及插图的日本漫画系列，于1996年至2008年间连载。台湾东立曾出版前两册，第一集于1999年9月出版，译《太空游侠》。"
+  },
+  {
     "sp": "character",
     "en": "alice",
     "zh": "爱丽丝",
@@ -42166,6 +42178,36 @@
     "en": "secelia dote",
     "zh": "塞西莉亚·多特",
     "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "gon freecss",
+    "zh": "杰·富力士",
+    "in": "傑·富力士（日語：ゴン・フリークス）是由富堅義博所創作的漫畫《全職獵人》及其衍生作品的登場角色。"
+  },
+  {
+    "sp": "character",
+    "en": "davi artman",
+    "zh": "ダヴィ・アートマン",
+    "in": "漫画家あらと安里が運営するバーチャルyoutuber「ダヴィ・アートマン」です。"
+  },
+  {
+    "sp": "character",
+    "en": "meteion",
+    "zh": "梅蒂恩",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "emil sinclair",
+    "zh": "辛克莱",
+    "in": "辛克莱（Sinclair）是《边狱巴士公司》及其衍生作品的登场角色。原型来源小说《德米安：埃米尔·辛克莱的彷徨少年时》。"
+  },
+  {
+    "sp": "character",
+    "en": "yi sang",
+    "zh": "李箱",
+    "in": "李箱（Yi Sang）是《边狱巴士公司》及其衍生作品的登场角色。原型朝鲜象征派诗人、小说家金海卿。"
   },
   {
     "sp": "group",
@@ -118272,6 +118314,30 @@
     "in": ""
   },
   {
+    "sp": "group",
+    "en": "maisou no soko",
+    "zh": "埋葬ノ底",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "kyuryo koen",
+    "zh": "丘陵公園",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "chairoiyatsu",
+    "zh": "ちゃいろいやつ",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "surudoiman no irutokoro",
+    "zh": "するどいマンのいるところ",
+    "in": ""
+  },
+  {
     "sp": "artist",
     "en": "2",
     "zh": "2",
@@ -194368,6 +194434,48 @@
     "en": "takota konu",
     "zh": "蛸田こぬ",
     "in": "作者推特头像"
+  },
+  {
+    "sp": "artist",
+    "en": "made rokuri",
+    "zh": "迄ロクリ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "charin",
+    "zh": "チャリン",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "usodi",
+    "zh": "ウソヂ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "chairoino",
+    "zh": "茶色いの",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "sugiyama",
+    "zh": "杉山",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "antifreez3",
+    "zh": "天凉多喝防冻液",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "norihito",
+    "zh": "仁人",
+    "in": ""
   },
   {
     "sp": "cosplayer",
