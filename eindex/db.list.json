@@ -6195,7 +6195,7 @@
     "sp": "parody",
     "en": "cream lemon",
     "zh": "乳霜柠檬",
-    "in": ""
+    "in": "《Cream Lemon》（日语：くりいむレモン，译作“奶油柠檬”“奶霜柠檬”或“乳霜柠檬”），是一日本成人动画系列。Cream Lemon被认为是日本成人动画的先驱。该系列始于1984年发行的原创动画录像带（OVA），有复数个故事，涵盖了许多不同的类型，如幻想、科幻和恐怖，但故事性不强。首要主题是各种类型的性爱，常出现荒谬的性行为。"
   },
   {
     "sp": "parody",
@@ -6949,7 +6949,7 @@
   },
   {
     "sp": "parody",
-    "en": "beat angel escalayer",
+    "en": "choukou tenshi escalayer",
     "zh": "超昂天使 Escalayer",
     "in": "《超昂天使 Escalayer》（日语：超昂天使エスカレイヤー -Beat Angel Escalayer-）是日本ALICESOFT在2002年8月2日发售的冒险类型成人游戏。"
   },
@@ -13876,6 +13876,12 @@
     "en": "trigun",
     "zh": "枪神",
     "in": "《枪神》（トライガン，Trigun）是一个由内藤泰弘创作及插图的日本漫画系列，于1996年至2008年间连载。台湾东立曾出版前两册，第一集于1999年9月出版，译《太空游侠》。"
+  },
+  {
+    "sp": "parody",
+    "en": "saimin seishidou",
+    "zh": "催眠性指导",
+    "in": ""
   },
   {
     "sp": "character",
@@ -33392,7 +33398,7 @@
   {
     "sp": "character",
     "en": "signora",
-    "zh": "「女士」（罗莎琳）",
+    "zh": "「女士」罗莎琳",
     "in": "女士是游戏《原神(genshin impact)》及其衍生作品的登场角色。"
   },
   {
@@ -38041,7 +38047,7 @@
   },
   {
     "sp": "character",
-    "en": "kisaki",
+    "en": "ryuuge kisaki",
     "zh": "龙华妃咲",
     "in": "所属作品: 蔚蓝档案(blue archive)"
   },
@@ -38983,8 +38989,8 @@
   },
   {
     "sp": "character",
-    "en": "bronya",
-    "zh": "布洛妮娅",
+    "en": "bronya rand",
+    "zh": "布洛妮娅·兰德",
     "in": "布洛妮娅·兰德是米哈游制作的游戏《崩坏：星穹铁道》及其衍生作品的登场角色。"
   },
   {
@@ -41953,7 +41959,7 @@
   },
   {
     "sp": "character",
-    "en": "ichika",
+    "en": "ichika nakamasa",
     "zh": "仲正一花",
     "in": "仲正一花是 Nexon 发行的游戏蔚蓝档案(blue archive)及其衍生作品中的登场角色。"
   },
@@ -42187,12 +42193,6 @@
   },
   {
     "sp": "character",
-    "en": "davi artman",
-    "zh": "ダヴィ・アートマン",
-    "in": "漫画家あらと安里が運営するバーチャルyoutuber「ダヴィ・アートマン」です。"
-  },
-  {
-    "sp": "character",
     "en": "meteion",
     "zh": "梅蒂恩",
     "in": ""
@@ -42208,6 +42208,48 @@
     "en": "yi sang",
     "zh": "李箱",
     "in": "李箱（Yi Sang）是《边狱巴士公司》及其衍生作品的登场角色。原型朝鲜象征派诗人、小说家金海卿。"
+  },
+  {
+    "sp": "character",
+    "en": "gary oak",
+    "zh": "小茂",
+    "in": "小茂（日文︰オーキド・シゲル Okido Shigeru，英文︰Gary Oak），本名大木·茂，是和小智一起长大的朋友，也是小智的第一个劲敌。他是大木博士的孙子，曾是宝可梦训练家，现为研究员，梦想是成为像他爷爷一样的宝可梦博士。在宝可梦 旅途中，他是梦幻计划（日文︰プロジェクト・ミュウ）的挑战者之一。"
+  },
+  {
+    "sp": "character",
+    "en": "red",
+    "zh": "赤红",
+    "in": "赤红是任天堂旗下游戏宝可梦中，第一世代游戏与第三世代火红叶绿中的主角，也是红的游戏主角的第一个默认名。是第一世代及火红·叶绿中的男性主人公。"
+  },
+  {
+    "sp": "character",
+    "en": "coralie 6626 planck",
+    "zh": "科拉莉·6626·普朗克",
+    "in": "所属作品:崩坏学园(honkai gakuen)"
+  },
+  {
+    "sp": "character",
+    "en": "ami nonomura",
+    "zh": "野野村亚美",
+    "in": "野々村亜美是成人动漫《乳霜柠檬(cream lemon)》系列的代表性女主角，并且因其高人气而成为整个系列的象征人物。幼年丧母后，父亲再婚，他开始与继兄生活。"
+  },
+  {
+    "sp": "character",
+    "en": "indomitable",
+    "zh": "不挠",
+    "in": "不挠（不撓，Indomitable，インドミタブル，인도미터블）是由蛮啾网络、勇仕网络联合研发的移动设备游戏《碧蓝航线(azur lane)》及其衍生作品中的登场角色。\n其原型为英国皇家海军光辉级航空母舰4号舰不挠号。"
+  },
+  {
+    "sp": "character",
+    "en": "kurumi tsuchimikado",
+    "zh": "土御门胡桃",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "ada wong",
+    "zh": "艾达·王",
+    "in": "艾达·王（英语：Ada Wong）是Capcom旗下的游戏《生化危机(resident evil)》及其衍生作品的登场角色。"
   },
   {
     "sp": "group",
@@ -118338,6 +118380,12 @@
     "in": ""
   },
   {
+    "sp": "group",
+    "en": "kinkai 100 kg",
+    "zh": "金塊100kg",
+    "in": ""
+  },
+  {
     "sp": "artist",
     "en": "2",
     "zh": "2",
@@ -132301,9 +132349,9 @@
   },
   {
     "sp": "artist",
-    "en": "nekonekokoneko",
-    "zh": "ねこねここねこ",
-    "in": "ねこねここねこ（二見パラン）"
+    "en": "futami paran",
+    "zh": "二見パラン",
+    "in": "二見パラン（ねこねここねこ）"
   },
   {
     "sp": "artist",
@@ -140461,7 +140509,7 @@
   },
   {
     "sp": "artist",
-    "en": "tooyama burin",
+    "en": "toyama burin",
     "zh": "遠山ブリン",
     "in": ""
   },
@@ -166387,7 +166435,7 @@
   },
   {
     "sp": "artist",
-    "en": "miyako no gohan",
+    "en": "kyou no gohan",
     "zh": "京のごはん",
     "in": ""
   },
@@ -190771,12 +190819,6 @@
   },
   {
     "sp": "artist",
-    "en": "yamayoshi tanosuke",
-    "zh": "鳥居ヨシツナ",
-    "in": ""
-  },
-  {
-    "sp": "artist",
     "en": "melailai",
     "zh": "么赖赖",
     "in": ""
@@ -194342,8 +194384,8 @@
   {
     "sp": "artist",
     "en": "torii yoshitsuna",
-    "zh": "鳥居ヨシツナ | 山吉 田之助",
-    "in": ""
+    "zh": "鳥居ヨシツナ",
+    "in": "鳥居ヨシツナ（山吉田之助）"
   },
   {
     "sp": "artist",
@@ -194475,6 +194517,24 @@
     "sp": "artist",
     "en": "norihito",
     "zh": "仁人",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "ogatatei",
+    "zh": "緒方てい",
+    "in": "Tei Ogata\nManga artist\n\nBorn: Osaka"
+  },
+  {
+    "sp": "artist",
+    "en": "aota sora",
+    "zh": "あおたそら",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "4uu",
+    "zh": "4UU",
     "in": ""
   },
   {
@@ -194988,6 +195048,36 @@
     "in": ""
   },
   {
+    "sp": "cosplayer",
+    "en": "shizuku honami",
+    "zh": "穂南しずく",
+    "in": ""
+  },
+  {
+    "sp": "cosplayer",
+    "en": "lmusicl",
+    "zh": "lMusicl",
+    "in": ""
+  },
+  {
+    "sp": "cosplayer",
+    "en": "masako yume",
+    "zh": "Masako Yume",
+    "in": ""
+  },
+  {
+    "sp": "cosplayer",
+    "en": "ain nguyen",
+    "zh": "Ain Nguyễn",
+    "in": ""
+  },
+  {
+    "sp": "cosplayer",
+    "en": "oniksiya sofinikum",
+    "zh": "Oniksiya Sofinikum",
+    "in": ""
+  },
+  {
     "sp": "male",
     "en": "age progression",
     "zh": "年龄增长",
@@ -195160,6 +195250,12 @@
     "en": "bee boy",
     "zh": "蜂男",
     "in": "蜂女(bee girl)的男性版本。"
+  },
+  {
+    "sp": "male",
+    "en": "bird boy",
+    "zh": "鸟男",
+    "in": "鸟娘(bird girl)的男性版本。"
   },
   {
     "sp": "male",
@@ -197923,6 +198019,12 @@
   },
   {
     "sp": "male",
+    "en": "full tour",
+    "zh": "消化道游览",
+    "in": "一个角色被另一个角色整个吞下，穿过其消化系统，然后从肛门活着出来。只计算出现角色穿过消化系统的页面。可能援引吞食(vore)标签。不应与消化道贯穿(all the way through)混淆。"
+  },
+  {
+    "sp": "male",
     "en": "cuntboy",
     "zh": "人妖♀",
     "in": "有阴道而不是阴茎的男性。男性与人妖♀(cuntboy)间的性行为不应添加男同(yaoi)或纯男性⚣(males only)标签。如果男性拥有阴道和阴茎，请使用扶他(otokofutanari)。"
@@ -198424,6 +198526,12 @@
     "en": "bee girl",
     "zh": "蜂女",
     "in": "具有蜜蜂特征的女性。"
+  },
+  {
+    "sp": "female",
+    "en": "bird girl",
+    "zh": "鸟娘",
+    "in": "鸟与人类的混合体，几乎全身覆盖羽毛；通常有翅膀、喙和其他鸟类特征。需要毛茸茸(furry)标签。不应与鸟人(harpy)混淆。"
   },
   {
     "sp": "female",
@@ -201394,6 +201502,12 @@
     "en": "mute",
     "zh": "哑巴",
     "in": "一个不能说话的人。不应用于不愿说话的人或戴口塞(gag)的人。不用于无言(speechless)图库。"
+  },
+  {
+    "sp": "female",
+    "en": "full tour",
+    "zh": "消化道游览",
+    "in": "一个角色被另一个角色整个吞下，穿过其消化系统，然后从肛门活着出来。只计算出现角色穿过消化系统的页面。可能援引吞食(vore)标签。不应与消化道贯穿(all the way through)混淆。"
   },
   {
     "sp": "female",
