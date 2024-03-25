@@ -13884,6 +13884,12 @@
     "in": ""
   },
   {
+    "sp": "parody",
+    "en": "tekkaman blade",
+    "zh": "宇宙骑士BLADE",
+    "in": "《宇宙骑士铁甲人利刃》（日语：宇宙の騎士テッカマンブレード）是一部日本动画。于1992年2月18日至1993年2月2日于东京电视台放映。这部动画的前身是1975年的动画宇宙骑士铁甲人（宇宙の騎士テッカマン），但故事上和这部没关系。其主要人物曾在本作的倒数第二集客串登场。"
+  },
+  {
     "sp": "character",
     "en": "alice",
     "zh": "爱丽丝",
@@ -30518,8 +30524,8 @@
   {
     "sp": "character",
     "en": "superwoman",
-    "zh": "超级女侠",
-    "in": ""
+    "zh": "超级女侠／女超人／超女",
+    "in": "超级女侠／女超人／超女"
   },
   {
     "sp": "character",
@@ -42250,6 +42256,36 @@
     "en": "ada wong",
     "zh": "艾达·王",
     "in": "艾达·王（英语：Ada Wong）是Capcom旗下的游戏《生化危机(resident evil)》及其衍生作品的登场角色。"
+  },
+  {
+    "sp": "character",
+    "en": "yamato takeru",
+    "zh": "日本武尊(Fate)",
+    "in": "日本武尊是TYPE-MOON旗下《Fate系列》及其衍生作品的登场角色，在游戏《Fate/Samurai Remnant》中初次登场。"
+  },
+  {
+    "sp": "character",
+    "en": "wriothesley",
+    "zh": "莱欧斯利",
+    "in": "莱欧斯利是米哈游研发的游戏《原神》及其衍生作品的登场角色。"
+  },
+  {
+    "sp": "character",
+    "en": "rin uehara",
+    "zh": "上原燐",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "himeno",
+    "zh": "姬野",
+    "in": "出自《电锯人》"
+  },
+  {
+    "sp": "character",
+    "en": "tomori takamatsu",
+    "zh": "高松灯",
+    "in": "日本娱乐公司Bushiroad策划的次世代少女乐队企划《BanG Dream!》及其衍生作品的登场角色。"
   },
   {
     "sp": "group",
@@ -118383,6 +118419,48 @@
     "sp": "group",
     "en": "kinkai 100 kg",
     "zh": "金塊100kg",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "mukyou no utopia",
+    "zh": "梦境的",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "nomiyagumi",
+    "zh": "ノミヤ組",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "manaita koujou",
+    "zh": "まな板工場",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "choukenkouya",
+    "zh": "超健康屋",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "namekuzu",
+    "zh": "なめくず",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "yuujikouji",
+    "zh": "ゆうじこうじ",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "kuwaiya",
+    "zh": "くわい屋",
     "in": ""
   },
   {
@@ -194535,6 +194613,60 @@
     "sp": "artist",
     "en": "4uu",
     "zh": "4UU",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "miginer",
+    "zh": "みぎなー",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "kenko shindan-chan",
+    "zh": "健康診断ちゃん",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "hibari",
+    "zh": "雲雀ひな",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "neko no youchuu",
+    "zh": "猫の幼虫",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "to hegemonikon",
+    "zh": "ト！ヘーゲモニコン",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "agagaga",
+    "zh": "あがががが",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "namekuji",
+    "zh": "なめくじ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "bonnou obaa-chan",
+    "zh": "煩悩おばあちゃん",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "neneneg",
+    "zh": "ねねねじ",
     "in": ""
   },
   {
