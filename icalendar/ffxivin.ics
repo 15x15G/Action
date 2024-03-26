@@ -816,15 +816,21 @@ DTSTART;TZID=Asia/Tokyo:20230209T190000
 DTEND;TZID=Asia/Tokyo:20230301T155900
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240323T170024Z
+DTSTAMP:20240325T111045Z
 SUMMARY:J-FF16联动
-DESCRIPTION:来源PAX，有正式时间和网址再更新。
+DESCRIPTION:（需要打完50级主线究极神兵（就是会给幻想药的那个任务））\n\n活动奖励：\n美狄亚套（共四件）-「メティアン・ベスト」
+ 、「メティアン・ガントレット」、「メティアン・ショース」、「メティアン・ソルレット」\n坐骑-「トルガルの魔笛」\n宠物-「トルガル・パピー」\
+ n幻卡-「カード:クライヴ・ロズフィールド」\n管弦乐琴乐谱（共十张）-《Tonitrua ex Machina》、《Idylls of the
+  Empire》、《Forevermore - The Grand Duchy of Rosaria》、《Before the Storm - 
+ Caer Norvent》、《The State of the Realm》、《Who I Really Am》、《Away（Refrain）》
+ 、《To Sail Forbidden Seas》、《Find the Flame》、《Land of Eikons》\n\n活动页面：\nht
+ tps://jp.finalfantasyxiv.com/lodestone/special/ffxvi/
 TZID:Asia/Tokyo
 SEQUENCE:0
 UID:69B27F8F-73BE-4FD6-96A6-993901EA23E1
-CREATED:20240323T170024Z
-DTSTART;VALUE=DATE:20240402
-DTEND;VALUE=DATE:20240509
+CREATED:20240325T111045Z
+DTSTART;TZID=Asia/Tokyo:20240402T170000
+DTEND;TZID=Asia/Tokyo:20240508T235900
 END:VEVENT
 BEGIN:VEVENT
 CREATED:20221214T071552Z
