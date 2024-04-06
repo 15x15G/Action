@@ -1233,14 +1233,22 @@ DTSTART;TZID=Asia/Tokyo:20230620T130000
 DTEND;TZID=Asia/Tokyo:20230620T190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240308T175612Z
+DTSTAMP:20240406T140957Z
 SUMMARY:J-新生十周年纪念 第九回14小时生放送
-DESCRIPTION:公告页面：\nhttps://jp.finalfantasyxiv.com/lodestone/topics/detail
- /52376b808873e4e1cf32b3e7994bb0644243a23e
+DESCRIPTION:时间表（北京时间，翻译来源微博@止水ShinwaRyu）：\n开幕（11:00 ～ 11:30）\n第80回 FFXIV制
+ 作人来信LIVE （12:00 ～ 14:30）\n快看快看！ 在家里进行的投影SHOW （15:00 ～ 16:00）\n祝贺！ THE PR
+ IMALS 成立10周年 ～回顾与展望座谈会～ （16:30 ～ 18:00）\n吉P散步（18:30 ～ 21:00）\n开发组座谈会 （22
+ :00 ～ 25:00）\n\n直播地址（Youtube前半，18:00为止）：\nhttps://www.youtube.com/watch?
+ v=OxVWTktvt_M\n直播地址（Youtube后半，18:00之后）：\nhttps://www.youtube.com/watch?v
+ =p3um8QbhrS4\n直播地址（Niconico）：\nhttps://live.nicovideo.jp/watch/lv3447960
+ 91\n直播地址（Twitch）：\nhttps://www.twitch.tv/finalfantasyxiv\n\n副直播（Youtube，
+ TRPG游戏）：\nhttps://www.youtube.com/live/TtEKLT1m1FI\n\n公告页面：\nhttps://jp.
+ finalfantasyxiv.com/lodestone/topics/detail/9e656e42c484712f10eec026f83d
+ 103364d64b7d
 TZID:Asia/Tokyo
 SEQUENCE:0
 UID:96e6caee-4f57-4ebe-8fef-d6967bc4042c
-CREATED:20240308T175612Z
+CREATED:20240406T140957Z
 DTSTART;TZID=Asia/Tokyo:20240413T120000
 DTEND;TZID=Asia/Tokyo:20240413T140000
 END:VEVENT
@@ -1470,19 +1478,17 @@ DTSTART;TZID=Asia/Tokyo:20210918T110000
 DTEND;TZID=Asia/Tokyo:20210918T150000
 END:VEVENT
 BEGIN:VEVENT
-CREATED:20240329T195205Z
-DESCRIPTION:会有7.0最新情报、和光之战士一起看到的ff14的世界、其他情报等\n\n公告地址：\nhttps://jp.finalf
- antasyxiv.com/lodestone/topics/detail/606545508a6c39603568e8570e09a8eb99
- cde1dc
-DTEND;TZID=Asia/Tokyo:20240413T150000
-DTSTAMP:20240329T195206Z
-DTSTART;TZID=Asia/Tokyo:20240413T130000
-LAST-MODIFIED:20240329T195205Z
-SEQUENCE:0
+DTSTAMP:20240406T141027Z
 SUMMARY:J-「第80回 FFXIV PLL」
+DESCRIPTION:介绍7.0版本「黄金之遗产」最新情报以及围绕FFXIV统计数据的「与光之战士们共同所见的FFXIV世界」\n\n公告地址：
+ \nhttps://jp.finalfantasyxiv.com/lodestone/topics/detail/606545508a6c396
+ 03568e8570e09a8eb99cde1dc
+TZID:Asia/Tokyo
+SEQUENCE:0
 UID:AFBB2772-8CEE-46AB-A6C3-D8B15058E280
-X-APPLE-CREATOR-IDENTITY:com.apple.mobilecal
-X-APPLE-CREATOR-TEAM-IDENTITY:0000000000
+CREATED:20240406T141027Z
+DTSTART;TZID=Asia/Tokyo:20240413T130000
+DTEND;TZID=Asia/Tokyo:20240413T150000
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20221027T083646Z
