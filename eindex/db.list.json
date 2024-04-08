@@ -123,7 +123,7 @@
     "sp": "reclass",
     "en": "misc",
     "zh": "杂项",
-    "in": "不符合任何其他类别的图库。包含3D(3d)图库；非色情的西方(western)图库；实物（如手办(figure)、纸片人(paperchild)、充气娃娃(real doll)等）图库；游戏手册(game manual)、指南、攻略和游戏杂志图库；或者包含大量混合内容以致不符合其他任何分类的要求。从这些图库获得的 GP 数量减少到上传者通常会收到的 25%。"
+    "in": "不符合任何其他类别的图库。包含3D(3d)图库；非色情的西方(western)图库；实物（如手办(figure)、纸片人(paperchild)、充气娃娃(real doll)等）图库；无H游戏手册(non-h game manual)、指南、攻略和游戏杂志图库；或者包含大量混合内容以致不符合其他任何分类的要求。从这些图库获得的 GP 数量减少到上传者通常会收到的 25%。"
   },
   {
     "sp": "reclass",
@@ -10112,7 +10112,7 @@
   {
     "sp": "parody",
     "en": "arena of valor",
-    "zh": "王者荣耀",
+    "zh": "传说对决",
     "in": ""
   },
   {
@@ -13888,6 +13888,18 @@
     "en": "tekkaman blade",
     "zh": "宇宙骑士BLADE",
     "in": "《宇宙骑士铁甲人利刃》（日语：宇宙の騎士テッカマンブレード）是一部日本动画。于1992年2月18日至1993年2月2日于东京电视台放映。这部动画的前身是1975年的动画宇宙骑士铁甲人（宇宙の騎士テッカマン），但故事上和这部没关系。其主要人物曾在本作的倒数第二集客串登场。"
+  },
+  {
+    "sp": "parody",
+    "en": "koikatsu",
+    "zh": "恋活！",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "debby the corsifa wa makezugirai",
+    "zh": "Debby·the·Corsifa不愿败北",
+    "in": "黛比．扎．可露西法討厭認輸 デビィ・ザ・コルシファは負けず嫌い"
   },
   {
     "sp": "character",
@@ -42360,6 +42372,30 @@
     "in": "开拓者是米哈游制作的游戏《崩坏：星穹铁道》及其衍生作品的登场角色。"
   },
   {
+    "sp": "character",
+    "en": "asahi ohka",
+    "zh": "樱花朝日",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "miyo murosaki",
+    "zh": "室崎美夜",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "konan",
+    "zh": "小南",
+    "in": "火影忍者中晓组织女成员"
+  },
+  {
+    "sp": "character",
+    "en": "shadowo tto shark",
+    "zh": "夏朵",
+    "in": "《Debby·the·Corsifa不愿败北(debby the corsifa wa makezugirai)》的女配角，社恐大只女。"
+  },
+  {
     "sp": "group",
     "en": "1",
     "zh": "1",
@@ -44091,7 +44127,7 @@
     "sp": "group",
     "en": "ojou no yokushitsu",
     "zh": "お嬢の浴室",
-    "in": "该社团作品特点是，将热门作品的女性角色，以北斗神拳(fist of the north star)中的男性角色的脸貌特征和画风画出来，其中部分也结合了北斗神拳(fist of the north star)的相关剧情。\n社团代表人：鉄人（参照标签铁人(tetsujin)）\nTwitter Pixiv\n初代作画担当：AYA （参照标签AYA | 蓝夜(aya)）\nTwitter Youtube\nC90后二代目作画担当：ひよさん（参照标签ひよさん(hiyoko)）\nTwitter Pixiv"
+    "in": "该社团作品特点是，将热门作品的女性角色，以北斗神拳(fist of the north star)中的男性角色的脸貌特征和画风画出来，其中部分也结合了北斗神拳(fist of the north star)的相关剧情。\n社团代表人：鉄人（参照标签铁人(tetsujin)）\nTwitter pixiv\n初代作画担当：AYA （参照标签AYA | 蓝夜(aya)）\nTwitter YouTube\nC90后二代目作画担当：ひよさん（参照标签ひよさん(hiyoko)）\nTwitter pixiv"
   },
   {
     "sp": "group",
@@ -118536,6 +118572,48 @@
     "in": ""
   },
   {
+    "sp": "group",
+    "en": "sumeshiya-san",
+    "zh": "すめし屋さん",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "yumemimochi honpo",
+    "zh": "夢みもち本舗",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "kikumonza",
+    "zh": "菊門座",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "uru uru onsen",
+    "zh": "うるうる温泉",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "sourou yarou a-team",
+    "zh": "早漏野郎Aチーム",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "wakaba syokei",
+    "zh": "若葉祥慶",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "honyuubin",
+    "zh": "ほ乳びん",
+    "in": ""
+  },
+  {
     "sp": "artist",
     "en": "2",
     "zh": "2",
@@ -119295,7 +119373,7 @@
     "sp": "artist",
     "en": "hiyoko",
     "zh": "ひよさん",
-    "in": "漫画家，画师。插画作品以幸运☆星(lucky star)的二次创作居多。\n同人社团ひよこの劇場(hiyoko no gekijoh) ，以舰队Collection(kantai collection)的二次作品为主。\nC90加入创作团体お嬢の浴室(ojou no yokushitsu)\n\n作者推特头像\n你的名字。(kimi no na wa.)二次创作《うぬの名は。》\n\n※另有画师同tag，因为作品不多，此处不再图片说明。\nひよこPixiv"
+    "in": "漫画家，画师。插画作品以幸运☆星(lucky star)的二次创作居多。\n同人社团ひよこの劇場(hiyoko no gekijoh) ，以舰队Collection(kantai collection)的二次作品为主。\nC90加入创作团体お嬢の浴室(ojou no yokushitsu)\n\n作者推特头像\n你的名字。(kimi no na wa.)二次创作《うぬの名は。》\n\n※另有画师同tag，因为作品不多，此处不再图片说明。\nひよこpixiv"
   },
   {
     "sp": "artist",
@@ -133713,7 +133791,7 @@
     "sp": "artist",
     "en": "mochi",
     "zh": "モチ",
-    "in": "萝莉万岁！萝莉万岁！萝莉万岁！\n※本条目指向多位作者\n①モチ　成人向萝莉(lolicon)系漫画家　\n社团：RIN\n\nモチ推特头像\n单行本《死なずの姫君》\n\n以下作者由于此处地方太小，写不开，故省略图片说明\n②もっちー  同人志作者，绘师\n社团：もちだや\nTwitter Pixiv\n\n③御萩もち 男同(yaoi)系同人志作者\nTwitter\n\n④もち 男同(yaoi)系同人志作者\nPixiv\n\n⑤もち 创作大叔男同(yaoi)以及毛茸茸(furry)同性本的同人社团“オヤジジ組 ”中的一员\n官方网站"
+    "in": "萝莉万岁！萝莉万岁！萝莉万岁！\n※本条目指向多位作者\n①モチ　成人向萝莉(lolicon)系漫画家　\n社团：RIN\n\nモチ推特头像\n单行本《死なずの姫君》\n\n以下作者由于此处地方太小，写不开，故省略图片说明\n②もっちー  同人志作者，绘师\n社团：もちだや\nTwitter pixiv\n\n③御萩もち 男同(yaoi)系同人志作者\nTwitter\n\n④もち 男同(yaoi)系同人志作者\npixiv\n\n⑤もち 创作大叔男同(yaoi)以及毛茸茸(furry)同性本的同人社团“オヤジジ組 ”中的一员\n官方网站"
   },
   {
     "sp": "artist",
@@ -134817,7 +134895,7 @@
     "sp": "artist",
     "en": "miyama",
     "zh": "箕山",
-    "in": "twitter头像"
+    "in": ""
   },
   {
     "sp": "artist",
@@ -137619,7 +137697,7 @@
     "sp": "artist",
     "en": "coupe",
     "zh": "こっぺ",
-    "in": "twitter头像"
+    "in": ""
   },
   {
     "sp": "artist",
@@ -138183,7 +138261,7 @@
     "sp": "artist",
     "en": "riyo",
     "zh": "リヨ",
-    "in": "リヨ\n日本漫画家、插画师。男性。\n别名ベルナール・リヨ3世。\n其作品特点是，二头身萌系人物。在pixiv上Riyo老师的画风被大量模仿，并付以标签“Riyo风”（リヨ風）。\n在NicoNico动画上主要投稿偶像大师(the idolmaster)的手绘作品。\n\nRiyo老师是游戏Fate/Grand Order(fate grand order)的官方画师之一，创作了以新手教学FGO为目的（嘘）的《从漫画了解FGO》系列官方同人漫画。其作品中的咕哒子(gudako)由于过于鬼畜，也反映了FGO玩家们的真实样态，被称为Riyo咕哒子（リヨぐだ子），许多“人类恶”的梗也以此而来。\n从漫画了解FGO - 萌娘百科\n从2016年4月1日开始，每年愚人节在日服都将举行愚人节活动，游戏中所有从者的卡面立绘都变成了Riyo老师的二头身画。\n\n※另有画师同tag\nりよ☕️Pixiv"
+    "in": "リヨ\n日本漫画家、插画师。男性。\n别名ベルナール・リヨ3世。\n其作品特点是，二头身萌系人物。在pixiv上Riyo老师的画风被大量模仿，并付以标签“Riyo风”（リヨ風）。\n在NicoNico动画上主要投稿偶像大师(the idolmaster)的手绘作品。\n\nRiyo老师是游戏Fate/Grand Order(fate grand order)的官方画师之一，创作了以新手教学FGO为目的（嘘）的《从漫画了解FGO》系列官方同人漫画。其作品中的咕哒子(gudako)由于过于鬼畜，也反映了FGO玩家们的真实样态，被称为Riyo咕哒子（リヨぐだ子），许多“人类恶”的梗也以此而来。\n从漫画了解FGO - 萌娘百科\n从2016年4月1日开始，每年愚人节在日服都将举行愚人节活动，游戏中所有从者的卡面立绘都变成了Riyo老师的二头身画。\n\n※另有画师同tag\nりよ☕️pixiv"
   },
   {
     "sp": "artist",
@@ -159704,7 +159782,7 @@
   {
     "sp": "artist",
     "en": "kirin kakeru",
-    "zh": "木铃カケル",
+    "zh": "木鈴カケル",
     "in": ""
   },
   {
@@ -161277,12 +161355,6 @@
     "sp": "artist",
     "en": "kounosu",
     "zh": "こうのす",
-    "in": ""
-  },
-  {
-    "sp": "artist",
-    "en": "kouri",
-    "zh": "木鈴カケル",
     "in": ""
   },
   {
@@ -180788,7 +180860,7 @@
   {
     "sp": "artist",
     "en": "sumeshi",
-    "zh": "酢飯",
+    "zh": "すめし",
     "in": ""
   },
   {
@@ -194778,6 +194850,72 @@
     "in": ""
   },
   {
+    "sp": "artist",
+    "en": "fake enn",
+    "zh": "Fake Enn",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "actuale",
+    "zh": "ActualE",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "throtem",
+    "zh": "トロテム",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "hiro hirono",
+    "zh": "ヒロ広野",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "asama hinami",
+    "zh": "浅間ひなみ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "katase shou",
+    "zh": "かたせ湘",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "garagara tarou",
+    "zh": "ガラガラ太郎",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "sorenari no ishi",
+    "zh": "それなりの石",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "toxic ramen",
+    "zh": "劇毒拉麵",
+    "in": "R18G像素画师"
+  },
+  {
+    "sp": "artist",
+    "en": "kudaraji hatsuka",
+    "zh": "百済児廿日",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "rim",
+    "zh": "りむ",
+    "in": ""
+  },
+  {
     "sp": "cosplayer",
     "en": "otohara an",
     "zh": "乙原あん",
@@ -195340,6 +195478,12 @@
     "en": "infantilism",
     "zh": "幼稚型",
     "in": "将成年人当作小孩对待。"
+  },
+  {
+    "sp": "male",
+    "en": "kodomo doushi",
+    "zh": "两小无猜",
+    "in": "儿童间的性行为，所有参与者都为儿童。需要正太(shotacon)标签。"
   },
   {
     "sp": "male",
@@ -198604,6 +198748,12 @@
     "en": "infantilism",
     "zh": "幼稚型",
     "in": "将成年人当作小孩对待。"
+  },
+  {
+    "sp": "female",
+    "en": "kodomo doushi",
+    "zh": "两小无猜",
+    "in": "儿童间的性行为，所有参与者都为儿童。需要萝莉(lolicon)标签。"
   },
   {
     "sp": "female",
@@ -202099,6 +202249,12 @@
   },
   {
     "sp": "mixed",
+    "en": "kodomo doushi",
+    "zh": "两小无猜",
+    "in": "儿童间的性行为，所有参与者都为儿童。需要萝莉(lolicon)和正太(shotacon)标签。"
+  },
+  {
+    "sp": "mixed",
     "en": "animal on animal",
     "zh": "兽兽",
     "in": "动物间性交。"
@@ -202291,12 +202447,6 @@
   },
   {
     "sp": "other",
-    "en": "game manual",
-    "zh": "游戏手册",
-    "in": "提供有关如何操作电子游戏的详细信息的说明书或小册子。也适用于任何包含电子游戏提示或解决方案的指导手册。专注于电子游戏的评论、回顾和新闻的出版物也符合条件。\n所有游戏手册都属于杂项(misc)类别。"
-  },
-  {
-    "sp": "other",
     "en": "game sprite",
     "zh": "像素画",
     "in": "角色的低分辨率图形，常常是动图(animated)。"
@@ -202318,6 +202468,12 @@
     "en": "multi-work series",
     "zh": "系列作品",
     "in": "一个完整的作品，其故事跨多册书籍或发行版。不应与故事线(story arc)混淆。"
+  },
+  {
+    "sp": "other",
+    "en": "non-h game manual",
+    "zh": "无H游戏手册",
+    "in": "提供有关如何操作电子游戏的详细信息的说明书或小册子。也适用于任何包含电子游戏提示或解决方案的指导手册。专注于电子游戏的评论、回顾和新闻的出版物也符合条件。\n所有无H游戏手册都属于杂项(misc)类别。不应用于包含成人内容的游戏手册。"
   },
   {
     "sp": "other",
