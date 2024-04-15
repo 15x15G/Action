@@ -2522,8 +2522,8 @@
   {
     "sp": "parody",
     "en": "ben 10",
-    "zh": "少年骇客",
-    "in": ""
+    "zh": "Ben 10",
+    "in": "《Ben 10》为美国时代华纳公司旗下卡通频道工作室（英语：Cartoon Network Studios）的电视动画，于2005年推出，是Ben 10系列主剧情的第一套系列作，原译《少年骇客》。"
   },
   {
     "sp": "parody",
@@ -3537,7 +3537,7 @@
     "sp": "parody",
     "en": "the amazing world of gumball",
     "zh": "阿甘妙世界",
-    "in": ""
+    "in": "《阿甘妙世界》（英语：The Amazing World of Gumball）是部美国英国动画喜剧，由位于英国伦敦的卡通频道欧洲工作室制作，2011年开始在美国卡通频道播出。班·波克勒特及英国电影和电视艺术学院奖项得奖者 麦克·格雷夫斯（Mic Graves）担任导演。"
   },
   {
     "sp": "parody",
@@ -12254,7 +12254,7 @@
   {
     "sp": "parody",
     "en": "tachibana-san-chi no dansei jijou",
-    "zh": "橘OO家O男性事情",
+    "zh": "橘家男性事情",
     "in": "橘さん家ノ男性事情"
   },
   {
@@ -13900,6 +13900,12 @@
     "en": "debby the corsifa wa makezugirai",
     "zh": "Debby·the·Corsifa不愿败北",
     "in": "黛比．扎．可露西法討厭認輸 デビィ・ザ・コルシファは負けず嫌い"
+  },
+  {
+    "sp": "parody",
+    "en": "101 dalmatians",
+    "zh": "101忠狗",
+    "in": ""
   },
   {
     "sp": "character",
@@ -42394,6 +42400,60 @@
     "en": "shadowo tto shark",
     "zh": "夏朵",
     "in": "《Debby·the·Corsifa不愿败北(debby the corsifa wa makezugirai)》的女配角，社恐大只女。"
+  },
+  {
+    "sp": "character",
+    "en": "sonic the hedgehog",
+    "zh": "刺猬索尼克",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "megumi fujishima",
+    "zh": "藤岛慈",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "rurino osawa",
+    "zh": "大泽瑠璃乃",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "giselle gewelle",
+    "zh": "吉赛尔·茱艾尔",
+    "in": "出自《BLEACH》"
+  },
+  {
+    "sp": "character",
+    "en": "jun sazanami",
+    "zh": "涟纯",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "ben tennyson",
+    "zh": "田小班",
+    "in": "田小班（Benjamin Kirby \"Ben\" Tennyson/本杰明·柯比·“本”·田尼森）是Cartoon Network Studios旗下作品《Ben 10(ben 10)》里的角色。"
+  },
+  {
+    "sp": "character",
+    "en": "gwen tennyson",
+    "zh": "田小玟",
+    "in": "田小玟（Gwendolyn \"Gwen\" Tennyson/格玟多琳·“格玟”·田纳森 ）是Cartoon Network Studios旗下作品《Ben 10(ben 10)》里的角色。"
+  },
+  {
+    "sp": "character",
+    "en": "virtuosa",
+    "zh": "塑心（阿尔图罗）",
+    "in": "出自游戏《明日方舟》"
+  },
+  {
+    "sp": "character",
+    "en": "viviana droste",
+    "zh": "薇薇安娜·德罗斯特",
+    "in": "出自游戏《明日方舟》"
   },
   {
     "sp": "group",
@@ -118611,6 +118671,42 @@
     "sp": "group",
     "en": "honyuubin",
     "zh": "ほ乳びん",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "im moralist",
+    "zh": "I'm moralist",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "palcomix",
+    "zh": "Palcomix",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "naporitan",
+    "zh": "ナポりたん",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "charon",
+    "zh": "LAPUTA",
+    "in": "3D漫画作者，现名改为：LAPUTA，原名为：charon"
+  },
+  {
+    "sp": "group",
+    "en": "tawawa delivery",
+    "zh": "たわわデリバリー",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "patapo",
+    "zh": "ぱーたぽ",
     "in": ""
   },
   {
@@ -194916,6 +195012,72 @@
     "in": ""
   },
   {
+    "sp": "artist",
+    "en": "hinahara hajime",
+    "zh": "雛原肇",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "crazy dad",
+    "zh": "CrazyDad3D",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "pig king",
+    "zh": "PigKing",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "nia",
+    "zh": "にあ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "nanakotu",
+    "zh": "なな骨",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "aratani",
+    "zh": "あらたに",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "tsuruki",
+    "zh": "ツルキ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "incognitymous",
+    "zh": "Incognitymous",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "matsuzawa muni",
+    "zh": "松沢夢丹",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "tsuki no senninno",
+    "zh": "月之仙人丿",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "hellap",
+    "zh": "hellaP",
+    "in": ""
+  },
+  {
     "sp": "cosplayer",
     "en": "otohara an",
     "zh": "乙原あん",
@@ -195453,6 +195615,12 @@
     "sp": "cosplayer",
     "en": "oniksiya sofinikum",
     "zh": "Oniksiya Sofinikum",
+    "in": ""
+  },
+  {
+    "sp": "cosplayer",
+    "en": "kaya nilson",
+    "zh": "Kaya Nilson",
     "in": ""
   },
   {
