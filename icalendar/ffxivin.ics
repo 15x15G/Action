@@ -2218,16 +2218,18 @@ DTSTART;TZID=Asia/Tokyo:20240402T120000
 DTEND;TZID=Asia/Tokyo:20240402T160000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240417T084330Z
-SUMMARY:J-妖怪手表联动（有新铭牌奖励）
-DESCRIPTION:截止到7.0开始维护为止。\n这次相比以前的只新增了一个铭牌。\n\n活动页面：\nhttps://jp.finalfan
- tasyxiv.com/lodestone/special/2024/youkai-watch/j9rq1fpxxd
-TZID:Asia/Tokyo
-SEQUENCE:0
-UID:e5e0b1a5-6a9d-45ea-9e64-379de35480cf
 CREATED:20240417T084330Z
-DTSTART;TZID=Asia/Tokyo:20240424T170000
+DESCRIPTION:截止到7.0开始维护为止。\n这次相比以前的只新增了一个铭牌。\n\n活动页面：\nhttps://jp.finalfan
+ tasyxiv.com/lodestone/special/2024/youkai-watch/j9rq1fpxxd\n\n攻略可参考：\nht
+ tps://bbs.nga.cn/read.php?tid=39862950
 DTEND;TZID=Asia/Tokyo:20240626T180000
+DTSTAMP:20240425T025445Z
+DTSTART;TZID=Asia/Tokyo:20240424T170000
+LAST-MODIFIED:20240425T025443Z
+SEQUENCE:0
+SUMMARY:J-妖怪手表联动（有新铭牌奖励）
+TZID:Asia/Tokyo
+UID:e5e0b1a5-6a9d-45ea-9e64-379de35480cf
 END:VEVENT
 BEGIN:VTIMEZONE
 TZID:Asia/Tokyo
