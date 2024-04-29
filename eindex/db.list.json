@@ -3200,7 +3200,7 @@
   {
     "sp": "parody",
     "en": "adventure time",
-    "zh": "探险时光",
+    "zh": "探险活宝",
     "in": ""
   },
   {
@@ -13917,6 +13917,12 @@
     "sp": "parody",
     "en": "power pack",
     "zh": "超能小队",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "the amazing digital circus",
+    "zh": "神奇数字马戏团",
     "in": ""
   },
   {
@@ -42656,13 +42662,13 @@
   {
     "sp": "character",
     "en": "hikari tachibana",
-    "zh": "光明",
+    "zh": "橘光明",
     "in": "所属作品：蔚蓝档案(blue archive)\n对策委员会第3章中登场的海兰德铁道学园的学生，隶属于名为“中央控制中心”的海兰德学生会。\n海兰德与奈芙蒂斯集团有业务合作，这次阿拜多斯的事情似乎由她们负责。"
   },
   {
     "sp": "character",
     "en": "nozomi tachibana",
-    "zh": "希望",
+    "zh": "橘希望",
     "in": "所属作品：蔚蓝档案(blue archive)"
   },
   {
@@ -42688,6 +42694,132 @@
     "en": "leonora nakiri",
     "zh": "薙切蕾欧诺拉",
     "in": "漫画《食戟之灵》的女角色，薙切爱丽丝的母亲，远月学园研究部门——薙切国际研究会的部门长。薙切国际研究会作为远月的研究部门而成立的，是一个以最新科学来缔造新的美食和分子烹饪的学术机关。\n不擅长说日语，但是只要嘴炮开起来就无人能敌。\n父亲：薙切仙左卫门\n丈夫：薙切宗卫\n女儿：薙切爱丽丝\n侄女：薙切绘里奈"
+  },
+  {
+    "sp": "character",
+    "en": "ibuki tanga",
+    "zh": "丹花伊吹",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "shinobu kudo",
+    "zh": "工藤忍",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "gwen",
+    "zh": "格温",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "princess bubblegum",
+    "zh": "泡泡糖公主",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "plume",
+    "zh": "翎羽",
+    "in": "出自游戏《明日方舟》"
+  },
+  {
+    "sp": "character",
+    "en": "catapult",
+    "zh": "空爆",
+    "in": "明日方舟 游戏角色"
+  },
+  {
+    "sp": "character",
+    "en": "makoto tachibana",
+    "zh": "橘真琴",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "lisa simpson",
+    "zh": "莉萨·辛普森",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "marge simpson",
+    "zh": "玛琦·辛普森",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "homer simpson",
+    "zh": "霍默·辛普森",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "moe szyslak",
+    "zh": "莫·希斯拉克",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "bart simpson",
+    "zh": "巴特·辛普森",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "sideshow bob",
+    "zh": "杂耍家鲍伯",
+    "in": "杂耍家鲍伯（英语：Sideshow Bob），本名罗伯 特·昂德当克·特威利格（英语：Robert Onderdonk Terwilliger），是美国动画电视剧《辛普森一家(the simpsons)》中的虚构配角。"
+  },
+  {
+    "sp": "character",
+    "en": "cookie kwan",
+    "zh": "曲奇·关",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "maggie simpson",
+    "zh": "玛吉·辛普森",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "edna krabappel",
+    "zh": "埃德娜·克拉巴佩尔",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "patty bouvier",
+    "zh": "帕蒂·布维尔",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "selma bouvier",
+    "zh": "塞尔玛·布维尔",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "natsumi onitsuka",
+    "zh": "鬼塚夏美",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "wien margarete",
+    "zh": "维恩·玛格丽特",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "shellin burgundy",
+    "zh": "谢林·勃艮第",
+    "in": ""
   },
   {
     "sp": "group",
@@ -118968,6 +119100,30 @@
     "in": ""
   },
   {
+    "sp": "group",
+    "en": "nikujiru shinkou",
+    "zh": "霧中夜行",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "asakurag plus",
+    "zh": "AsakuraG+",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "nishi no tora",
+    "zh": "西ノ虎",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "noir auto",
+    "zh": "ノワールオート",
+    "in": ""
+  },
+  {
     "sp": "artist",
     "en": "2",
     "zh": "2",
@@ -165439,7 +165595,7 @@
   },
   {
     "sp": "artist",
-    "en": "melonleaf",
+    "en": "meloso leaf",
     "zh": "メロソリーフ",
     "in": ""
   },
@@ -178424,7 +178580,7 @@
   {
     "sp": "artist",
     "en": "serakichi.",
-    "zh": "世羅吉。",
+    "zh": "世罗吉。",
     "in": ""
   },
   {
@@ -183865,9 +184021,9 @@
   },
   {
     "sp": "artist",
-    "en": "the orz",
-    "zh": "the_orz",
-    "in": ""
+    "en": "walter wolf",
+    "zh": "うぉるたーうるふ",
+    "in": "the_orz"
   },
   {
     "sp": "artist",
@@ -195411,6 +195567,60 @@
     "sp": "artist",
     "en": "daimong",
     "zh": "大文G",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "fujun nyuushi",
+    "zh": "黒森ヤガ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "alfre-tori",
+    "zh": "あるふれっ鳥",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "incase",
+    "zh": "InCase",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "ishikawa hirodi",
+    "zh": "石川ヒロヂ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "hisamaru hajime",
+    "zh": "久丸一",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "asakura shimoichi",
+    "zh": "麻倉下市",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "croc",
+    "zh": "Croc",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "takami itsu",
+    "zh": "高見乙",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "kaza midori",
+    "zh": "可座ミドリ",
     "in": ""
   },
   {
