@@ -13926,6 +13926,18 @@
     "in": ""
   },
   {
+    "sp": "parody",
+    "en": "night shift nurses",
+    "zh": "夜勤病栋",
+    "in": "由Mink公司从1999年12月22日开始制作发售的日本成人游戏，主要描叙发生在医院里关于里面护士的鬼畜调教的故事。\n除了电脑游戏外，另有OVA版本的发行。Mink解散后改由FG REMAKE于2024年2月22日发售重制版《夜勤病栋Remake》。"
+  },
+  {
+    "sp": "parody",
+    "en": "library of ruina",
+    "zh": "废墟图书馆",
+    "in": "《废墟图书馆》（英文：Library of Ruina）是由Project Moon制作并发行的一款以“图书馆战斗模拟”为概念的模拟策略卡牌游戏。"
+  },
+  {
     "sp": "character",
     "en": "alice",
     "zh": "爱丽丝",
@@ -31814,8 +31826,8 @@
   {
     "sp": "character",
     "en": "robin",
-    "zh": "罗宾",
-    "in": "罗宾DC漫画中的超级英雄，是蝙蝠侠的搭档及助手。又称“神奇小子”。"
+    "zh": "罗宾 | 知更鸟",
+    "in": "罗宾DC漫画中的超级英雄，是蝙蝠侠的搭档及助手。又称“神奇小子”。\n\n知更鸟是米哈游制作的游戏崩坏：星穹铁道(honkai star rail)及其衍生作品的登场角色。"
   },
   {
     "sp": "character",
@@ -42820,6 +42832,72 @@
     "en": "shellin burgundy",
     "zh": "谢林·勃艮第",
     "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "levi ackerman",
+    "zh": "利威尔·阿克曼",
+    "in": "日本漫画《进击的巨人》及其衍生作品中的角色。"
+  },
+  {
+    "sp": "character",
+    "en": "belldandy",
+    "zh": "贝露丹蒂",
+    "in": "日本漫画《我的女神》及其衍生作品中的女主角。"
+  },
+  {
+    "sp": "character",
+    "en": "karamatsu matsuno",
+    "zh": "松野空松",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "onpu segawa",
+    "zh": "濑川音符",
+    "in": "日本动画《小魔女DoReMi》中的角色"
+  },
+  {
+    "sp": "character",
+    "en": "doremi harukaze",
+    "zh": "春风DoReMi",
+    "in": "日本动画《小魔女DoReMi》中的角色。"
+  },
+  {
+    "sp": "character",
+    "en": "ichimatsu matsuno",
+    "zh": "松野一松",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "ubel",
+    "zh": "尤贝尔",
+    "in": "尤贝尔是由山田钟人原作、アベツカサ作画的漫画葬送的芙莉莲(sousou no frieren)及其衍生作品的登场角色。"
+  },
+  {
+    "sp": "character",
+    "en": "takeru taiga",
+    "zh": "大河武",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "ikoma",
+    "zh": "生驹",
+    "in": "TV动画《甲铁城的卡巴内利》及其衍生作品中的角色，男主角 。住在以炼铁和蒸汽机的生产为业的显金驿的蒸汽锻冶少年。\n为了打倒卡巴内，和朋友逞生一起开发了独自的武器“贯筒”。虽然受到众人的轻视，但期盼着有朝一日能让人们对自己刮目相看。"
+  },
+  {
+    "sp": "character",
+    "en": "juufuutei raden",
+    "zh": "儒乌风亭螺钿",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "chitose kisaragi",
+    "zh": "如月千岁",
+    "in": "万代南梦宫发行的游戏《超级机器人大战V》的原创角色。\n本作女主角，第三特殊战略研究所防卫队的队员，并无实战经验。\n有活泼开朗的性格，让周围的人们感受她的安心乐意。"
   },
   {
     "sp": "group",
@@ -90470,7 +90548,7 @@
   {
     "sp": "group",
     "en": "molossan",
-    "zh": "喪loss庵",
+    "zh": "丧loss庵",
     "in": ""
   },
   {
@@ -109821,7 +109899,7 @@
     "sp": "group",
     "en": "tekireiki ni shokuchuudoku",
     "zh": "適齢期に食中毒",
-    "in": ""
+    "in": "画师泽村青(sawamura ao)所属同人社团。"
   },
   {
     "sp": "group",
@@ -119124,6 +119202,84 @@
     "in": ""
   },
   {
+    "sp": "group",
+    "en": "yuuki saien",
+    "zh": "ユーキ菜園",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "ginshio honpo",
+    "zh": "銀しお本舗",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "kitsune no nijibiya",
+    "zh": "狐の虹火屋",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "juubako seisakujo",
+    "zh": "重箱製作所",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "mandara ryuuseigun",
+    "zh": "マンダラ流星群",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "chimimou land",
+    "zh": "ちみもうらんど",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "neyagurui",
+    "zh": "ねやぐるい",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "tsurutsuru udon club",
+    "zh": "ツルツルおうどん俱乐部",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "tabehoudai",
+    "zh": "食べ放題",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "yururiya.",
+    "zh": "ゆるり屋。",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "chokuretsu reactor",
+    "zh": "直列りあくとる",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "kaminarisama",
+    "zh": "カミナリサマ",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "hoshikuzu pot-au-feu",
+    "zh": "星屑ぽとふ",
+    "in": ""
+  },
+  {
     "sp": "artist",
     "en": "2",
     "zh": "2",
@@ -126410,7 +126566,7 @@
   {
     "sp": "artist",
     "en": "clone ningen",
-    "zh": "clone人間",
+    "zh": "clone人间",
     "in": ""
   },
   {
@@ -128210,8 +128366,8 @@
   {
     "sp": "artist",
     "en": "igumox",
-    "zh": "井雲くす",
-    "in": ""
+    "zh": "井云くす",
+    "in": "作者推特头像"
   },
   {
     "sp": "artist",
@@ -132693,7 +132849,7 @@
     "sp": "artist",
     "en": "ryokuchaism",
     "zh": "緑茶イズム",
-    "in": ""
+    "in": "作者推特头像"
   },
   {
     "sp": "artist",
@@ -138038,8 +138194,8 @@
   {
     "sp": "artist",
     "en": "isorashi",
-    "zh": "五十嵐唱乃",
-    "in": ""
+    "zh": "五十岚唱乃",
+    "in": "作者推特头像"
   },
   {
     "sp": "artist",
@@ -151058,7 +151214,7 @@
   {
     "sp": "artist",
     "en": "gokuraku jouko",
-    "zh": "極楽浄子",
+    "zh": "极乐浄子",
     "in": ""
   },
   {
@@ -172502,7 +172658,7 @@
   {
     "sp": "artist",
     "en": "ocha",
-    "zh": "おちゃ",
+    "zh": "お茶",
     "in": ""
   },
   {
@@ -178136,8 +178292,8 @@
   {
     "sp": "artist",
     "en": "sawamura ao",
-    "zh": "沢村青",
-    "in": ""
+    "zh": "泽村青",
+    "in": "作者推特头像"
   },
   {
     "sp": "artist",
@@ -195624,6 +195780,138 @@
     "in": ""
   },
   {
+    "sp": "artist",
+    "en": "kahmasu",
+    "zh": "かーます",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "ginen",
+    "zh": "銀塩",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "saitou renji",
+    "zh": "西東レンジ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "suzuro aruki",
+    "zh": "スズロアルキ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "moritama",
+    "zh": "もりたま",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "inainaka",
+    "zh": "不在中",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "nizigensan",
+    "zh": "ニジィー",
+    "in": "作者推特头像\n\n社团うらのひきだし(ura no hikidashi)主笔画师"
+  },
+  {
+    "sp": "artist",
+    "en": "yaruku",
+    "zh": "ヤルク",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "jeattle",
+    "zh": "ジアトー",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "yoshio ereki",
+    "zh": "よしおエレキ",
+    "in": "作者推特头像"
+  },
+  {
+    "sp": "artist",
+    "en": "ueda metawo",
+    "zh": "上田メタヲ",
+    "in": "作者推特头像"
+  },
+  {
+    "sp": "artist",
+    "en": "ematsuko",
+    "zh": "エマツコ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "kimineko",
+    "zh": "君ねこ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "toono esuke",
+    "zh": "远野えすけ",
+    "in": "作者推特头像"
+  },
+  {
+    "sp": "artist",
+    "en": "ozu satoru",
+    "zh": "を图さとる",
+    "in": "作者推特头像"
+  },
+  {
+    "sp": "artist",
+    "en": "ainame",
+    "zh": "あいなめ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "fuyutsumi chiaki",
+    "zh": "ふゆつみ千明",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "akatsuki usagi",
+    "zh": "あかつき兎",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "umako",
+    "zh": "ウマ子",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "kumamoto aichi",
+    "zh": "熊本愛知",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "arata",
+    "zh": "アラタ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "yumemi gachi",
+    "zh": "夢ミガチ",
+    "in": ""
+  },
+  {
     "sp": "cosplayer",
     "en": "otohara an",
     "zh": "乙原あん",
@@ -196179,6 +196467,12 @@
     "sp": "cosplayer",
     "en": "tsunnyanchan",
     "zh": "Tsunnyanchan",
+    "in": ""
+  },
+  {
+    "sp": "cosplayer",
+    "en": "rynkerbelle",
+    "zh": "Rynkerbelle",
     "in": ""
   },
   {
@@ -203434,6 +203728,12 @@
     "en": "rough translation",
     "zh": "渣翻",
     "in": "任何第三方翻译，包含一定数量的文本框／气泡翻译错误。要求数量：总翻译页数的 25%（四舍五入到最接近的整数）或 10，以较高数字为准。翻译错误包括缺失上下文、缺失作者意图、遗漏故事／情境相关文本或意思错误。\n图库评论必须详细说明错误，否则标签无效。评论需以建设性、尊重的方式撰写。改写(rewrite)不符合条件。不被标记在其他正确的替代翻译上。不应与语法差(rough grammar)混淆。"
+  },
+  {
+    "sp": "other",
+    "en": "kodomo only",
+    "zh": "仅儿童",
+    "in": "整个图库中所有的性、恋物或亲密互动都仅限于儿童之间。需要至少两个孩子互相互动。需要正太(shotacon)或萝莉(lolicon)标签"
   },
   {
     "sp": "other",
