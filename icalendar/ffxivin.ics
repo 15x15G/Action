@@ -945,16 +945,16 @@ DTSTART;TZID=Asia/Tokyo:20230301T170000
 DTEND;TZID=Asia/Tokyo:20230315T235900
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240508T082413Z
+DTSTAMP:20240508T082442Z
 SUMMARY:J-金碟庆典「遊技場に新たなマスコット現る!?」
-DESCRIPTION:活动奖励：\n防具-「アーマーガッパ・ヘッド」、「アーマーガッパ・スーツ」（河童套，共两件）\n家具-「サボテンダーダイニ
- ングテーブル」（仙人刺晚餐桌，桌椅，不可染色）\n庭具-「セニョールサボテンダー・クロノメーター」（仙人刺先生屋外时钟，不可染色）\n\n活动页
- 面：\nhttps://jp.finalfantasyxiv.com/lodestone/special/2024/the_make_it_ra
- in_campaign/jgmo8djkm5
+DESCRIPTION:活动期间金碟币1.5倍。\n\n活动奖励：\n防具-「アーマーガッパ・ヘッド」、「アーマーガッパ・スーツ」（河童套，共两件
+ ）\n家具-「サボテンダーダイニングテーブル」（仙人刺晚餐桌，桌椅，不可染色）\n庭具-「セニョールサボテンダー・クロノメーター」（仙人刺先生屋
+ 外时钟，不可染色）\n\n活动页面：\nhttps://jp.finalfantasyxiv.com/lodestone/special/202
+ 4/the_make_it_rain_campaign/jgmo8djkm5
 TZID:Asia/Tokyo
 SEQUENCE:0
 UID:792e62a3-210d-4774-8097-4c4491d2dc6a
-CREATED:20240508T082413Z
+CREATED:20240508T082442Z
 DTSTART;TZID=Asia/Tokyo:20240515T170000
 DTEND;TZID=Asia/Tokyo:20240531T235900
 END:VEVENT
