@@ -13938,6 +13938,12 @@
     "in": "《废墟图书馆》（英文：Library of Ruina）是由Project Moon制作并发行的一款以“图书馆战斗模拟”为概念的模拟策略卡牌游戏。"
   },
   {
+    "sp": "parody",
+    "en": "dark gathering",
+    "zh": "黑暗集会",
+    "in": ""
+  },
+  {
     "sp": "character",
     "en": "alice",
     "zh": "爱丽丝",
@@ -18224,7 +18230,7 @@
   {
     "sp": "character",
     "en": "pinkie pie",
-    "zh": "萍琪·派",
+    "zh": "萍琪派",
     "in": ""
   },
   {
@@ -33866,7 +33872,7 @@
   {
     "sp": "character",
     "en": "barghest",
-    "zh": "巴格斯特（犬魔）",
+    "zh": "巴格斯特（妖高）",
     "in": "妖精骑士高文是TYPE-MOON旗下Fate系列及其衍生作品的登场角色。\n\n作为妖精的名字是巴格斯特（Barghest）。"
   },
   {
@@ -34178,13 +34184,13 @@
   {
     "sp": "character",
     "en": "melusine",
-    "zh": "美露莘",
+    "zh": "美露莘（妖兰）",
     "in": "FGO 2.6中，妖精国不列颠中圆桌骑士的一位。使用了泛人类史中的圆桌骑士·兰斯洛特的灵基之名的妖精骑士。作为妖精的名字是美露莘。"
   },
   {
     "sp": "character",
     "en": "baobhan sith",
-    "zh": "芭万·希",
+    "zh": "芭万·希（妖崔）",
     "in": "FGO 2.6中，妖精国不列颠中圆桌骑士的一位。使用了泛人类史中的圆桌骑士·崔斯坦的灵基之名的妖精骑士。作为妖精的名字是芭万·希。"
   },
   {
@@ -34550,7 +34556,7 @@
   {
     "sp": "character",
     "en": "zenobia",
-    "zh": "芝诺比娅",
+    "zh": "芝诺比阿",
     "in": ""
   },
   {
@@ -42898,6 +42904,306 @@
     "en": "chitose kisaragi",
     "zh": "如月千岁",
     "in": "万代南梦宫发行的游戏《超级机器人大战V》的原创角色。\n本作女主角，第三特殊战略研究所防卫队的队员，并无实战经验。\n有活泼开朗的性格，让周围的人们感受她的安心乐意。"
+  },
+  {
+    "sp": "character",
+    "en": "erik",
+    "zh": "卡缪",
+    "in": "卡缪是游戏《勇者斗恶龙11》中的角色。"
+  },
+  {
+    "sp": "character",
+    "en": "mika schmidt",
+    "zh": "米卡·施密特",
+    "in": "米卡是米哈游研发的游戏《原神》及其衍生作品的登场角色。\n米卡属于“施密特”（Schmidt）家族，因此其全名大概率为”米卡·施密特”，但游戏内目前没有直接出现米卡的全名。"
+  },
+  {
+    "sp": "character",
+    "en": "van gogh",
+    "zh": "梵高",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "shousetsu yui",
+    "zh": "由井正雪",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "xu fu",
+    "zh": "徐福",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "okuni",
+    "zh": "出云阿国",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "do-s",
+    "zh": "弩S",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "fiona frost",
+    "zh": "菲奥娜·弗洛斯特",
+    "in": "菲奥娜·弗洛斯特是漫画《间谍过家家(spy x family)》及其衍生作品的登场角色。"
+  },
+  {
+    "sp": "character",
+    "en": "spike",
+    "zh": "斯派克",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "adagio dazzle",
+    "zh": "阿达吉奥·达佐",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "aria blaze",
+    "zh": "阿里亚·布雷兹",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "cheerilee",
+    "zh": "车厘子",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "king sombra",
+    "zh": "黑晶王",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "stellar flare",
+    "zh": "星辰闪耀",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "tempest shadow",
+    "zh": "狂风暗影",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "zecora",
+    "zh": "泽科拉",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "coco pommel",
+    "zh": "可可·帕梅",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "flurry heart",
+    "zh": "凝心雪儿",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "limestone pie",
+    "zh": "石青派",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "maud pie",
+    "zh": "石灰派",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "nurse redheart",
+    "zh": "红心护士",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "pear butter",
+    "zh": "金梨果酱",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "toriel",
+    "zh": "托丽尔",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "frisk",
+    "zh": "福",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "lana loud",
+    "zh": "拉娜·劳德",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "leni loud",
+    "zh": "兰妮·劳德",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "lincoln loud",
+    "zh": "林肯·劳德",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "lisa loud",
+    "zh": "莉萨·劳德",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "lola loud",
+    "zh": "萝拉·劳德",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "luan loud",
+    "zh": "卢安·劳德",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "luna loud",
+    "zh": "露娜·劳德",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "lynn loud",
+    "zh": "琳恩·劳德",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "rita loud",
+    "zh": "丽塔·劳德",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "clyde mcbride",
+    "zh": "克莱德·麦克布莱德",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "lori loud",
+    "zh": "罗丽·劳德",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "lily loud",
+    "zh": "莉莉·劳德",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "lucy loud",
+    "zh": "露西·劳德",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "lynn loud sr.",
+    "zh": "老林恩·劳德",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "claire redfield",
+    "zh": "克莱尔·雷德菲尔德",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "albert wesker",
+    "zh": "阿尔伯特·威斯克",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "kukulkan",
+    "zh": "库库尔坎",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "iori miyamoto",
+    "zh": "宫本伊织",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "kirara yozakura",
+    "zh": "夜樱绮罗罗",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "britomart",
+    "zh": "布里托玛特",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "rex",
+    "zh": "莱克斯",
+    "in": "莱克斯（日语：レックス）是游戏《异度神剑2》的登场角色，男主角。"
+  },
+  {
+    "sp": "character",
+    "en": "shizuka mikazuki",
+    "zh": "三日月闲",
+    "in": "漫画《僵尸百分百》女主角"
+  },
+  {
+    "sp": "character",
+    "en": "la pluma",
+    "zh": "羽毛笔",
+    "in": "手机游戏明日方舟女干员"
+  },
+  {
+    "sp": "character",
+    "en": "if",
+    "zh": "爱耶芙",
+    "in": "爱耶芙(IDEA FACTORY/アイエフ)，是游戏《超次元游戏海王星》及其衍生作品的登场角色。"
+  },
+  {
+    "sp": "character",
+    "en": "luo xiaohei",
+    "zh": "罗小黑",
+    "in": "罗小黑是MTJJ执导的国产动画《罗小黑战记》的主人公。\n\n罗小黑是一只通体漆黑的可爱小猫，本体是猫妖，可变为人形后并和其他人正常交流。"
+  },
+  {
+    "sp": "character",
+    "en": "wuxian",
+    "zh": "无限",
+    "in": "无限是由MTJJ所创作的《罗小黑战记》及其衍生作品的登场角色。"
   },
   {
     "sp": "group",
@@ -119280,6 +119586,72 @@
     "in": ""
   },
   {
+    "sp": "group",
+    "en": "binzoko",
+    "zh": "BINZOKO",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "flower classe",
+    "zh": "ふらわーくらっせ",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "iro murasaki",
+    "zh": "やみつきハグハグ",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "minshuku izmd",
+    "zh": "民宿IZMD",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "youyouan",
+    "zh": "葉々庵",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "kurumaya koudou",
+    "zh": "クルマヤ公道",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "harugakita",
+    "zh": "はるがきた",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "imoimolatte",
+    "zh": "いもいもラテ",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "kitahara koubou",
+    "zh": "北原工房。",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "smile foran company",
+    "zh": "すまいるふぉらんかんぱにぃ。",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "kozuki sousaku dokoro",
+    "zh": "甲月創作処",
+    "in": ""
+  },
+  {
     "sp": "artist",
     "en": "2",
     "zh": "2",
@@ -131654,7 +132026,7 @@
   {
     "sp": "artist",
     "en": "midorino tanuki",
-    "zh": "翠野タヌキ",
+    "zh": "翠野タヌキ | アーティスト",
     "in": ""
   },
   {
@@ -136825,7 +137197,7 @@
   },
   {
     "sp": "artist",
-    "en": "suruga kuroitsu",
+    "en": "suruga kreuz",
     "zh": "駿河クロイツ",
     "in": ""
   },
@@ -195912,6 +196284,90 @@
     "in": ""
   },
   {
+    "sp": "artist",
+    "en": "sinobiin",
+    "zh": "しのびん",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "funnyaka",
+    "zh": "フンニャカ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "yonaka ao",
+    "zh": "よなかあお",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "scaf",
+    "zh": "SCAF（すかーふ）",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "bonnouji yura",
+    "zh": "烦恼寺ゆら",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "kuware",
+    "zh": "クワレ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "izumida izumi",
+    "zh": "泉田一角",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "yurashima",
+    "zh": "ゆらしま",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "aoyagi kabota",
+    "zh": "青柳カボた",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "phathusa",
+    "zh": "Phathusa",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "kitsune maru",
+    "zh": "きつね丸",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "tsukushi haru",
+    "zh": "筑紫はる",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "lao gong",
+    "zh": "老攻",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "kozuki",
+    "zh": "甲月",
+    "in": ""
+  },
+  {
     "sp": "cosplayer",
     "en": "otohara an",
     "zh": "乙原あん",
@@ -196473,6 +196929,12 @@
     "sp": "cosplayer",
     "en": "rynkerbelle",
     "zh": "Rynkerbelle",
+    "in": ""
+  },
+  {
+    "sp": "cosplayer",
+    "en": "cattashaa",
+    "zh": "Cattashaa",
     "in": ""
   },
   {
