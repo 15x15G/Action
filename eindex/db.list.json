@@ -8576,8 +8576,8 @@
   {
     "sp": "parody",
     "en": "scooby-doo",
-    "zh": "叔比狗",
-    "in": "《叔比狗》（Scooby-Doo，或译作史酷比）是一系列知名美国动画。电视动画首播于1969年。最初的系列叔比狗，你在哪里！（Scooby-Doo, Where Are You!）由美国动画公司汉纳-巴伯拉制片公司的Joe Ruby和Ken Spears两人于1969年创作。台湾现在由卡通频道播出。"
+    "zh": "史酷比",
+    "in": "《史酷比》（英语：Scooby-Doo，或译作史酷比、狗狗震）是由汉纳巴伯拉动画制作、乔·鲁比、肯·斯皮尔斯所创作，华纳兄弟探索发行的美国动画系列，最初的系列《史酷比，你在哪里！》于1969年播出，并在之后改编为其他媒体，例如电视剧、真人电影、电子游戏和周边商品等领域。"
   },
   {
     "sp": "parody",
@@ -12884,7 +12884,7 @@
   {
     "sp": "parody",
     "en": "onii-chan wa oshimai",
-    "zh": "别当哥哥了！",
+    "zh": "别当欧尼酱了！",
     "in": "《别当欧尼酱了！》（日语：お兄ちゃんはおしまい！），简称《别酱了》（日语：おにまい），\n是由日本漫画家猫豆腐创作的同人性转喜剧漫画。\n作品最初在日本插画网站pixiv连载，后niconico静画也同步更新。\n2018年1月27日作者自费出版本作的繁体中文电子版，并提供方便简体中文用户购买的方式。\n作者曾经授权布卡漫画连载简体中文电子版，布卡漫画破产后改在bilibili漫画继续连载。\n2018年6月27日起由一迅社进行商业化出版单行本。2019年6月号开始在《月刊ComicREX》连载。\n截止2022年12月，商业版累计发行册数突破100万部。\n改编电视动画于2023年1月5日开始播映，动画制作公司为Studio Bind。"
   },
   {
@@ -13070,8 +13070,8 @@
   {
     "sp": "parody",
     "en": "inma kourin devil carnival",
-    "zh": "淫魔降臨デビル☆カーニバル",
-    "in": ""
+    "zh": "淫魔降临Devil Carnival",
+    "in": "淫魔降臨デビル☆カーニバル"
   },
   {
     "sp": "parody",
@@ -13941,6 +13941,24 @@
     "sp": "parody",
     "en": "dark gathering",
     "zh": "黑暗集会",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "reverse 1999",
+    "zh": "重返未来：1999",
+    "in": "《重返未来：1999》（英语：Reverse:1999）是由广州深蓝互动网络科技有限公司开发的策略RPG及收集养成游戏。"
+  },
+  {
+    "sp": "parody",
+    "en": "peanuts",
+    "zh": "花生",
+    "in": "《花生》（英语：Peanuts）是一部美国报纸连环漫画，作者为查尔斯·舒尔茨（Charles M. Schulz）。《花生》是漫画发展史上首部多个角色系列漫画，从1950年10月2日开始发行，到2000年2月13日作者病逝为止，共连载17,897幅。漫画中以史努比(snoopy)、查理·布朗(charlie brown)、莎莉·布朗(sally brown)、莱纳斯·潘贝鲁特(linus van pelt)、露西·潘贝鲁特(lucy van pelt)、施洛德（Schroeder）、薄荷·派蒂(patricia reichardt)、玛西(marcie)、和富兰克林（Franklin）等几位小学生为主要角色，以小孩生活为题材，观察这个简单又复杂的世界。"
+  },
+  {
+    "sp": "parody",
+    "en": "fortnite",
+    "zh": "堡垒之夜",
     "in": ""
   },
   {
@@ -22808,13 +22826,13 @@
   {
     "sp": "character",
     "en": "artoria pendragon",
-    "zh": "阿尔托莉雅·潘德拉贡",
+    "zh": "阿尔托莉雅·潘德拉贡（Lancer）",
     "in": "指 FGO 中 artoria pendragon [lancer]"
   },
   {
     "sp": "character",
     "en": "artoria pendragon alter",
-    "zh": "阿尔托莉雅·潘德拉贡Alter",
+    "zh": "阿尔托莉雅·潘德拉贡〔Alter〕（Lancer）",
     "in": "指 FGO 中 artoria pendragon alter [lancer]"
   },
   {
@@ -22958,14 +22976,14 @@
   {
     "sp": "character",
     "en": "meltryllis",
-    "zh": "溶解莉莉丝",
-    "in": ""
+    "zh": "梅尔特莉莉丝",
+    "in": "溶解莉莉丝(Meltryllis)是TYPE-MOON旗下的《Fate系列》及其衍生作品的登场角色，在游戏《Fate/EXTRA CCC》中首次登场。"
   },
   {
     "sp": "character",
     "en": "passionlip",
-    "zh": "帕森莉普（热情迷唇）",
-    "in": ""
+    "zh": "帕森莉普",
+    "in": "热情迷唇(Passionlip)是TYPE-MOON旗下的《Fate系列》及其衍生作品的登场角色。在游戏《Fate/EXTRA CCC》中首次登场。"
   },
   {
     "sp": "character",
@@ -22982,7 +23000,7 @@
   {
     "sp": "character",
     "en": "jeanne alter",
-    "zh": "贞德Alter",
+    "zh": "贞德〔Alter〕",
     "in": "黑贞"
   },
   {
@@ -23205,7 +23223,7 @@
     "sp": "character",
     "en": "stheno",
     "zh": "斯忒诺",
-    "in": ""
+    "in": "（大姐）"
   },
   {
     "sp": "character",
@@ -23367,7 +23385,7 @@
     "sp": "character",
     "en": "medusa",
     "zh": "美杜莎",
-    "in": "一般指碧蓝幻想角色。少见情况下指 光神话系列 或 假面骑士Wizard 或 GS美神 极乐大作战！！ 角色。\n\n（对于fate系列的美杜莎角色请视作品中的职阶使用Rider | 龙女(rider)或美杜莎(Lancer)(medusa lily)标签）"
+    "in": "一般指碧蓝幻想角色。少见情况下指 光神话系列 或 假面骑士Wizard 或 GS美神 极乐大作战！！ 角色。\n\n（对于fate系列的美杜莎角色请视作品中的职阶使用Rider | 龙女(rider)或美杜莎（Lancer）(medusa lily)标签）"
   },
   {
     "sp": "character",
@@ -23438,7 +23456,7 @@
   {
     "sp": "character",
     "en": "artoria pendragon rider alter",
-    "zh": "阿尔托莉雅·潘德拉贡〔Alter〕",
+    "zh": "阿尔托莉雅·潘德拉贡〔Alter〕（Rider）",
     "in": ""
   },
   {
@@ -28299,7 +28317,7 @@
     "sp": "character",
     "en": "saren sasaki",
     "zh": "佐佐木咲恋",
-    "in": ""
+    "in": "佐佐木咲恋是Cygames开发和发行的游戏《公主连结》及其续作《公主连结Re:Dive》的登场角色。在游戏世界内的ID为咲恋。"
   },
   {
     "sp": "character",
@@ -29474,7 +29492,7 @@
   {
     "sp": "character",
     "en": "medusa lily",
-    "zh": "美杜莎(Lancer)",
+    "zh": "美杜莎（Lancer）",
     "in": "fate系列美杜莎的Lancer职阶形态"
   },
   {
@@ -33872,8 +33890,8 @@
   {
     "sp": "character",
     "en": "barghest",
-    "zh": "巴格斯特（妖高）",
-    "in": "妖精骑士高文是TYPE-MOON旗下Fate系列及其衍生作品的登场角色。\n\n作为妖精的名字是巴格斯特（Barghest）。"
+    "zh": "巴格斯特",
+    "in": "（妖高）FGO 2.6中，妖精国不列颠中圆桌骑士的一位。使用了泛人类史中的圆桌骑士·高文的灵基之名的妖精骑士。作为妖精的名字是巴格斯特。"
   },
   {
     "sp": "character",
@@ -34088,7 +34106,7 @@
   {
     "sp": "character",
     "en": "morgan le fay",
-    "zh": "摩根勒菲",
+    "zh": "摩根·勒·菲",
     "in": "游戏《Fate/Grand Order》的登场人物，作为自止境的奥克尼而来横扫不列颠并君临天下，支配妖精国不列颠长达2017年的女王登场。"
   },
   {
@@ -34184,14 +34202,14 @@
   {
     "sp": "character",
     "en": "melusine",
-    "zh": "美露莘（妖兰）",
-    "in": "FGO 2.6中，妖精国不列颠中圆桌骑士的一位。使用了泛人类史中的圆桌骑士·兰斯洛特的灵基之名的妖精骑士。作为妖精的名字是美露莘。"
+    "zh": "美露莘",
+    "in": "（妖兰）FGO 2.6中，妖精国不列颠中圆桌骑士的一位。使用了泛人类史中的圆桌骑士·兰斯洛特的灵基之名的妖精骑士。作为妖精的名字是美露莘。"
   },
   {
     "sp": "character",
     "en": "baobhan sith",
-    "zh": "芭万·希（妖崔）",
-    "in": "FGO 2.6中，妖精国不列颠中圆桌骑士的一位。使用了泛人类史中的圆桌骑士·崔斯坦的灵基之名的妖精骑士。作为妖精的名字是芭万·希。"
+    "zh": "芭万·希",
+    "in": "（妖崔）FGO 2.6中，妖精国不列颠中圆桌骑士的一位。使用了泛人类史中的圆桌骑士·崔斯坦的灵基之名的妖精骑士。作为妖精的名字是芭万·希。"
   },
   {
     "sp": "character",
@@ -36176,8 +36194,8 @@
   {
     "sp": "character",
     "en": "merlin prototype",
-    "zh": "梅林prototype",
-    "in": ""
+    "zh": "梅林〔Prototype〕",
+    "in": "（阿瓦隆女士）"
   },
   {
     "sp": "character",
@@ -36896,7 +36914,7 @@
   {
     "sp": "character",
     "en": "emiya alter",
-    "zh": "卫宫Alter",
+    "zh": "卫宫〔Alter〕",
     "in": ""
   },
   {
@@ -37899,7 +37917,7 @@
     "sp": "character",
     "en": "mahiro oyama",
     "zh": "绪山真寻",
-    "in": "是由猫豆腐创作的漫画《别当哥哥了！(onii-chan wa oshimai)》及其衍生作品的登场角色，男主角（♀）。"
+    "in": "是由猫豆腐创作的漫画《别当欧尼酱了！(onii-chan wa oshimai)》及其衍生作品的登场角色，男主角（♀）。"
   },
   {
     "sp": "character",
@@ -38559,7 +38577,7 @@
     "sp": "character",
     "en": "queen draco",
     "zh": "妖妃德拉科",
-    "in": ""
+    "in": "（兽尼禄）"
   },
   {
     "sp": "character",
@@ -39885,13 +39903,13 @@
     "sp": "character",
     "en": "minato senkawa",
     "zh": "千川凑",
-    "in": "所属作品: 别当哥哥了！(onii-chan wa oshimai)\n\n绪山真寻的中学同学，和樱田悠太很要好，对绪山真寻有好感，经常因看向不该看的地方或者说错话而被高田纱月和椎名未祈围攻，正在被椎名未祈默默关注着。"
+    "in": "所属作品: 别当欧尼酱了！(onii-chan wa oshimai)\n\n绪山真寻的中学同学，和樱田悠太很要好，对绪山真寻有好感，经常因看向不该看的地方或者说错话而被高田纱月和椎名未祈围攻，正在被椎名未祈默默关注着。"
   },
   {
     "sp": "character",
     "en": "yuuta sakurada",
     "zh": "樱田悠太",
-    "in": "所属作品: 别当哥哥了！(onii-chan wa oshimai)\n\n绪山真寻的中学同学，和千川凑很要好，对绪山真寻有好感，经常因看向不该看的地方或者说错话而被高田纱月和椎名未祈围攻，是高田纱月的暗恋对象。"
+    "in": "所属作品: 别当欧尼酱了！(onii-chan wa oshimai)\n\n绪山真寻的中学同学，和千川凑很要好，对绪山真寻有好感，经常因看向不该看的地方或者说错话而被高田纱月和椎名未祈围攻，是高田纱月的暗恋对象。"
   },
   {
     "sp": "character",
@@ -43206,6 +43224,270 @@
     "in": "无限是由MTJJ所创作的《罗小黑战记》及其衍生作品的登场角色。"
   },
   {
+    "sp": "character",
+    "en": "shinsaku takasugi",
+    "zh": "高杉晋作",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "nagayoshi mori",
+    "zh": "森长可",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "locusta",
+    "zh": "洛库斯塔",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "wandjina",
+    "zh": "旺吉娜",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "tlaloc",
+    "zh": "特拉洛克",
+    "in": "（雨神）"
+  },
+  {
+    "sp": "character",
+    "en": "black cat",
+    "zh": "费莉西亚‧哈代（黑猫）",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "spider-man",
+    "zh": "蜘蛛侠",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "mary jane watson",
+    "zh": "玛丽•简•沃森",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "aesc the savior",
+    "zh": "救世主梣",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "morgan",
+    "zh": "摩根",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "aphrodite",
+    "zh": "阿佛洛狄忒",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "fuuma kotarou",
+    "zh": "风魔小太郎",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "boggart",
+    "zh": "博格特",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "tezcatlipoca",
+    "zh": "特斯卡特利波卡",
+    "in": "（烟雾镜）"
+  },
+  {
+    "sp": "character",
+    "en": "arjuna",
+    "zh": "阿周那",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "ashwatthama",
+    "zh": "马嘶",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "shirou amakusa",
+    "zh": "天草四郎",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "oberon",
+    "zh": "奥伯龙",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "ashiya douman",
+    "zh": "芦屋道满",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "robin hood",
+    "zh": "罗宾汉",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "ryouma sakamoto",
+    "zh": "坂本龙马",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "kojiro sasaki",
+    "zh": "佐佐木小次郎",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "james moriarty",
+    "zh": "詹姆斯·莫里亚蒂",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "hajime saitou",
+    "zh": "斋藤一",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "goredolf musik",
+    "zh": "戈尔德鲁夫·穆吉克",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "edward teach",
+    "zh": "爱德华·蒂奇",
+    "in": "（黑胡子）"
+  },
+  {
+    "sp": "character",
+    "en": "habetrot",
+    "zh": "哈贝特洛特",
+    "in": "（哈贝喵）"
+  },
+  {
+    "sp": "character",
+    "en": "velma dinkley",
+    "zh": "维尔玛·丁克利",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "daphne blake",
+    "zh": "达芙妮·布雷克",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "brock",
+    "zh": "小刚",
+    "in": "小刚（タケシ）是游戏《精灵宝可梦(pokemon)》系列及其衍生作品的登场角色。"
+  },
+  {
+    "sp": "character",
+    "en": "vulpix",
+    "zh": "六尾",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "zoroark",
+    "zh": "索罗亚克",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "yveltal",
+    "zh": "伊裴尔塔尔",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "groudon",
+    "zh": "固拉多",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "charizard",
+    "zh": "喷火龙",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "korra",
+    "zh": "科拉",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "snoopy",
+    "zh": "史努比",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "charlie brown",
+    "zh": "查理·布朗",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "sally brown",
+    "zh": "莎莉·布朗",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "linus van pelt",
+    "zh": "莱纳斯·潘贝鲁特",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "lucy van pelt",
+    "zh": "露西·潘贝鲁特",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "patricia reichardt",
+    "zh": "薄荷·派蒂",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "marcie",
+    "zh": "玛西",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "franky franklin",
+    "zh": "弗兰克·富兰克林",
+    "in": ""
+  },
+  {
     "sp": "group",
     "en": "1",
     "zh": "1",
@@ -44937,7 +45219,7 @@
     "sp": "group",
     "en": "ojou no yokushitsu",
     "zh": "お嬢の浴室",
-    "in": "该社团作品特点是，将热门作品的女性角色，以北斗神拳(fist of the north star)中的男性角色的脸貌特征和画风画出来，其中部分也结合了北斗神拳(fist of the north star)的相关剧情。\n社团代表人：鉄人（参照标签铁人(tetsujin)）\nTwitter pixiv\n初代作画担当：AYA （参照标签AYA | 蓝夜(aya)）\nTwitter YouTube\nC90后二代目作画担当：ひよさん（参照标签ひよさん(hiyoko)）\nTwitter pixiv"
+    "in": "该社团作品特点是，将热门作品的女性角色，以北斗神拳(fist of the north star)中的男性角色的脸貌特征和画风画出来，其中部分也结合了北斗神拳(fist of the north star)的相关剧情。\n社团代表人：鉄人（参照标签铁人(tetsujin)）\nX pixiv\n初代作画担当：AYA （参照标签AYA | 蓝夜(aya)）\nX YouTube\nC90后二代目作画担当：ひよさん（参照标签ひよさん(hiyoko)）\nX pixiv"
   },
   {
     "sp": "group",
@@ -119652,6 +119934,24 @@
     "in": ""
   },
   {
+    "sp": "group",
+    "en": "nezumi no haha",
+    "zh": "鼠の母",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "hachihachihachi",
+    "zh": "蜂蜂蜂",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "sakuranbo nouen",
+    "zh": "さくらんぼ農園",
+    "in": ""
+  },
+  {
     "sp": "artist",
     "en": "2",
     "zh": "2",
@@ -132026,7 +132326,7 @@
   {
     "sp": "artist",
     "en": "midorino tanuki",
-    "zh": "翠野タヌキ | アーティスト",
+    "zh": "翠野タヌキ",
     "in": ""
   },
   {
@@ -134829,7 +135129,7 @@
     "sp": "artist",
     "en": "mochi",
     "zh": "モチ",
-    "in": "萝莉万岁！萝莉万岁！萝莉万岁！\n※本条目指向多位作者\n①モチ　成人向萝莉(lolicon)系漫画家　\n社团：RIN\n\nモチ推特头像\n单行本《死なずの姫君》\n\n以下作者由于此处地方太小，写不开，故省略图片说明\n②もっちー  同人志作者，绘师\n社团：もちだや\nTwitter pixiv\n\n③御萩もち 男同(yaoi)系同人志作者\nTwitter\n\n④もち 男同(yaoi)系同人志作者\npixiv\n\n⑤もち 创作大叔男同(yaoi)以及毛茸茸(furry)同性本的同人社团“オヤジジ組 ”中的一员\n官方网站"
+    "in": "萝莉万岁！萝莉万岁！萝莉万岁！\n※本条目指向多位作者\n①モチ　成人向萝莉(lolicon)系漫画家　\n社团：RIN\n\nモチ推特头像\n单行本《死なずの姫君》\n\n以下作者由于此处地方太小，写不开，故省略图片说明\n②もっちー  同人志作者，绘师\n社团：もちだや\nX pixiv\n\n③御萩もち 男同(yaoi)系同人志作者\nX\n\n④もち 男同(yaoi)系同人志作者\npixiv\n\n⑤もち 创作大叔男同(yaoi)以及毛茸茸(furry)同性本的同人社团“オヤジジ組 ”中的一员\n官方网站"
   },
   {
     "sp": "artist",
@@ -137631,7 +137931,7 @@
     "sp": "artist",
     "en": "nanashiki",
     "zh": "七色",
-    "in": "Twitter melonbooks pixiv"
+    "in": "X melonbooks pixiv"
   },
   {
     "sp": "artist",
@@ -141069,7 +141369,7 @@
     "sp": "artist",
     "en": "gorgeous mushroom",
     "zh": "绚烂的蘑菇",
-    "in": "pixiv\nTwitter\n微博"
+    "in": "pixiv\nX\n微博"
   },
   {
     "sp": "artist",
@@ -149972,7 +150272,7 @@
   {
     "sp": "artist",
     "en": "fence 14",
-    "zh": "フェンス14",
+    "zh": "柵野14",
     "in": ""
   },
   {
@@ -195638,7 +195938,7 @@
   {
     "sp": "artist",
     "en": "cbmus",
-    "zh": "cbmus",
+    "zh": "Cbmus",
     "in": ""
   },
   {
@@ -196351,20 +196651,104 @@
   },
   {
     "sp": "artist",
-    "en": "tsukushi haru",
-    "zh": "筑紫はる",
+    "en": "toshizou",
+    "zh": "としぞう",
     "in": ""
   },
   {
     "sp": "artist",
-    "en": "lao gong",
-    "zh": "老攻",
+    "en": "izhardraws",
+    "zh": "IzharDraws",
     "in": ""
   },
   {
     "sp": "artist",
-    "en": "kozuki",
-    "zh": "甲月",
+    "en": "jay naylor",
+    "zh": "Jay Naylor",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "blue striker",
+    "zh": "Blue Striker",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "fred perry",
+    "zh": "Fred Perry",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "matemi",
+    "zh": "Matemi",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "zourik",
+    "zh": "Zourik",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "garabatoz",
+    "zh": "Garabatoz",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "koyubita beru",
+    "zh": "こゆびた べる",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "shiroha",
+    "zh": "しろ羽",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "ex alnam",
+    "zh": "EXアルナム",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "koohii koucha maru",
+    "zh": "コーヒー紅茶丸",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "handplug",
+    "zh": "HandPlug",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "ro-g",
+    "zh": "Ro_G",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "vicky",
+    "zh": "ビッキー",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "kondo yume",
+    "zh": "魂童夢",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "namonaki",
+    "zh": "なもなき",
     "in": ""
   },
   {
@@ -196539,7 +196923,7 @@
     "sp": "cosplayer",
     "en": "kokura chiyo",
     "zh": "小倉ちよ",
-    "in": "常称为小仓千代w，Twitter 是高仿号。"
+    "in": "常称为小仓千代w，X 是高仿号。"
   },
   {
     "sp": "cosplayer",
@@ -196827,7 +197211,7 @@
     "sp": "cosplayer",
     "en": "tokar",
     "zh": "浵卡Tokar",
-    "in": "Twitter"
+    "in": "X"
   },
   {
     "sp": "cosplayer",
