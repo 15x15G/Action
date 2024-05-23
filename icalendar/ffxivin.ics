@@ -2251,6 +2251,18 @@ SUMMARY:J-妖怪手表联动（有新铭牌奖励）
 TZID:Asia/Tokyo
 UID:e5e0b1a5-6a9d-45ea-9e64-379de35480cf
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240523T110802Z
+SUMMARY:J-「無料ログインキャンペーン」
+DESCRIPTION:30天以上未契约的玩家，可在活动期间内免费游玩4天。时间够把莫古石头和糖豆人、金碟活动做了。\n\n活动页面：\nhttp
+ s://jp.finalfantasyxiv.com/lodestone/special/freelogincampaign/
+TZID:Asia/Tokyo
+SEQUENCE:0
+UID:fa71cb75-892d-403c-a8ca-0fb0fa880fda
+CREATED:20240523T110802Z
+DTSTART;TZID=Asia/Tokyo:20240523T170000
+DTEND;TZID=Asia/Tokyo:20240620T235900
+END:VEVENT
 BEGIN:VTIMEZONE
 TZID:Asia/Tokyo
 X-LIC-LOCATION:Asia/Tokyo
