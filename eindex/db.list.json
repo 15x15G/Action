@@ -20109,7 +20109,7 @@
     "sp": "character",
     "en": "erina nakiri",
     "zh": "薙切绘理奈",
-    "in": ""
+    "in": "=薙切绘里奈。《食戟之灵》的女主角，第十席。"
   },
   {
     "sp": "character",
@@ -42710,7 +42710,7 @@
   {
     "sp": "character",
     "en": "amy rose",
-    "zh": "艾米·罗斯",
+    "zh": "艾咪·罗斯",
     "in": ""
   },
   {
@@ -43659,7 +43659,127 @@
     "sp": "character",
     "en": "king george v",
     "zh": "英王乔治五世",
-    "in": "英国1939年建造的英王乔治五世级战列舰首舰"
+    "in": "英国1939年下水的英王乔治五世级战列舰首舰"
+  },
+  {
+    "sp": "character",
+    "en": "golden hind",
+    "zh": "金鹿号",
+    "in": "盖伦型三桅帆船"
+  },
+  {
+    "sp": "character",
+    "en": "regensburg",
+    "zh": "雷根斯堡",
+    "in": "格劳登茨级小巡洋舰的末舰"
+  },
+  {
+    "sp": "character",
+    "en": "trieste",
+    "zh": "的里雅斯特",
+    "in": "特伦托级二号舰，的里雅斯特号"
+  },
+  {
+    "sp": "character",
+    "en": "gascogne",
+    "zh": "加斯科涅",
+    "in": "黎塞留级四号舰加斯科涅号"
+  },
+  {
+    "sp": "character",
+    "en": "downes",
+    "zh": "唐斯",
+    "in": "马汉级十二号舰唐斯号"
+  },
+  {
+    "sp": "character",
+    "en": "volga",
+    "zh": "伏尔加",
+    "in": "苏联海军Pr.72型航空母舰伏尔加"
+  },
+  {
+    "sp": "character",
+    "en": "yorktown",
+    "zh": "约克城",
+    "in": "约克城级航空母舰首舰"
+  },
+  {
+    "sp": "character",
+    "en": "drake",
+    "zh": "德雷克",
+    "in": "《战舰世界》根据1939年重巡方案丘吉尔型所设计的德雷克号"
+  },
+  {
+    "sp": "character",
+    "en": "sandy cheeks",
+    "zh": "珊迪·奇克斯",
+    "in": "《海绵宝宝》中的人物"
+  },
+  {
+    "sp": "character",
+    "en": "ishmael",
+    "zh": "以实玛利",
+    "in": "以实玛利（Ishmael）是《边狱公司》及其衍生作品的登场角色。原型来源小说《白鲸记》"
+  },
+  {
+    "sp": "character",
+    "en": "gloucester",
+    "zh": "格罗斯特",
+    "in": "格罗斯特级格洛斯特号"
+  },
+  {
+    "sp": "character",
+    "en": "bishamonten",
+    "zh": "毘沙门天",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "jessica rabbit",
+    "zh": "兔子杰茜卡",
+    "in": "谁陷害了兔子罗杰(who framed roger rabbit)"
+  },
+  {
+    "sp": "character",
+    "en": "roger rabbit",
+    "zh": "兔子罗杰",
+    "in": "谁陷害了兔子罗杰(who framed roger rabbit)"
+  },
+  {
+    "sp": "character",
+    "en": "betty boop",
+    "zh": "贝蒂娃娃",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "ankha",
+    "zh": "尼罗",
+    "in": "埃及猫"
+  },
+  {
+    "sp": "character",
+    "en": "isabelle",
+    "zh": "西施惠",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "cream the rabbit",
+    "zh": "可利姆",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "vanilla the rabbit",
+    "zh": "瓦妮菈",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "blaze the cat",
+    "zh": "布蕾姿",
+    "in": ""
   },
   {
     "sp": "group",
@@ -63163,7 +63283,7 @@
   },
   {
     "sp": "group",
-    "en": "bishamon",
+    "en": "bishamon.",
     "zh": "びしゃもん。",
     "in": ""
   },
@@ -120147,6 +120267,24 @@
     "sp": "group",
     "en": "metrobay comix",
     "zh": "Metrobay Comix",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "mono stellar",
+    "zh": "Mono*Stellar",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "cominaya",
+    "zh": "こみな屋",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "agenasu",
+    "zh": "揚げナス(仮)",
     "in": ""
   },
   {
@@ -197079,6 +197217,78 @@
     "sp": "artist",
     "en": "cutesexyrobutts",
     "zh": "Cutesexyrobutts",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "shintaro",
+    "zh": "しんたろ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "haiba nemumi",
+    "zh": "灰刃ねむみ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "mohu2factory",
+    "zh": "モフ2製作所",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "tadano comina",
+    "zh": "但野こみな",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "bingbingzi",
+    "zh": "冰冰子",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "pepper0",
+    "zh": "pepper0",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "mikitoamon",
+    "zh": "ミキトアモン",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "tamabi",
+    "zh": "たまび",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "imadeej",
+    "zh": "ImaDeeJ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "oca",
+    "zh": "Oca",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "tslove",
+    "zh": "tslove",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "the kite",
+    "zh": "TheKite",
     "in": ""
   },
   {
