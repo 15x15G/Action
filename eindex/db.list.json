@@ -37041,7 +37041,7 @@
     "sp": "character",
     "en": "april",
     "zh": "四月",
-    "in": ""
+    "in": "四月是游戏《明日方舟》及其衍生作品的登场角色"
   },
   {
     "sp": "character",
@@ -41553,7 +41553,7 @@
     "sp": "character",
     "en": "absinthe",
     "zh": "苦艾",
-    "in": ""
+    "in": "苦艾是游戏《明日方舟》及其衍生作品的登场角色"
   },
   {
     "sp": "character",
@@ -43780,6 +43780,36 @@
     "en": "blaze the cat",
     "zh": "布蕾姿",
     "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "duca degli abruzzi",
+    "zh": "阿布鲁齐公爵号轻巡洋舰",
+    "in": "雇佣兵队长级轻巡洋舰第五型阿布鲁齐公爵号"
+  },
+  {
+    "sp": "character",
+    "en": "lunacub",
+    "zh": "子月",
+    "in": "子月是游戏《明日方舟》及其衍生作品的登场角色"
+  },
+  {
+    "sp": "character",
+    "en": "dagda",
+    "zh": "达哥达",
+    "in": "达哥达是游戏《明日方舟》及其衍生作品的登场角色"
+  },
+  {
+    "sp": "character",
+    "en": "harmonie",
+    "zh": "和弦",
+    "in": "和弦是游戏《明日方舟》及其衍生作品的登场角色"
+  },
+  {
+    "sp": "character",
+    "en": "beanstalk",
+    "zh": "豆苗",
+    "in": "豆苗是游戏《明日方舟》及其衍生作品的登场角色"
   },
   {
     "sp": "group",
@@ -120288,6 +120318,24 @@
     "in": ""
   },
   {
+    "sp": "group",
+    "en": "miracleburn",
+    "zh": "みらくるバーン",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "ice coffee",
+    "zh": "冷珈琲",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "nasu homu",
+    "zh": "なすほーむ",
+    "in": ""
+  },
+  {
     "sp": "artist",
     "en": "2",
     "zh": "2",
@@ -171524,7 +171572,7 @@
   {
     "sp": "artist",
     "en": "nasu",
-    "zh": "茄子",
+    "zh": "なす",
     "in": ""
   },
   {
@@ -174885,7 +174933,7 @@
     "sp": "artist",
     "en": "osterei",
     "zh": "OSTEREi",
-    "in": ""
+    "in": "OSTEREi（おー）"
   },
   {
     "sp": "artist",
@@ -197289,6 +197337,24 @@
     "sp": "artist",
     "en": "the kite",
     "zh": "TheKite",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "ujihara shitone",
+    "zh": "蛆孕茵",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "nodo",
+    "zh": "nodo",
+    "in": "泰国画师"
+  },
+  {
+    "sp": "artist",
+    "en": "comiching",
+    "zh": "こみちん",
     "in": ""
   },
   {
