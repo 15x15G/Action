@@ -2303,6 +2303,20 @@ TZID:Asia/Tokyo
 UID:e5e0b1a5-6a9d-45ea-9e64-379de35480cf
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20240620T091110Z
+SUMMARY:J-7.0更新笔记朗读会
+DESCRIPTION:观看方式：\nyoutube：https://www.youtube.com/live/7RR9lLfXMgc\ntwit
+ ch：https://www.twitch.tv/finalfantasyxiv\n\n公告地址：\nhttps://jp.finalfanta
+ syxiv.com/lodestone/topics/detail/7e1f9fb7200ee121e1e10fe550e320ad21da0f
+ 56
+TZID:Asia/Tokyo
+SEQUENCE:0
+UID:ee76aba9-e1f6-4bfb-b86e-9bf67e54d314
+CREATED:20240620T091110Z
+DTSTART;TZID=Asia/Tokyo:20240627T190000
+DTEND;TZID=Asia/Tokyo:20240627T210000
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20240523T110802Z
 SUMMARY:J-「無料ログインキャンペーン」
 DESCRIPTION:30天以上未契约的玩家，可在活动期间内免费游玩4天。时间够把莫古石头和糖豆人、金碟活动做了。\n\n活动页面：\nhttp
