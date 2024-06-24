@@ -2228,6 +2228,20 @@ DTSTART;TZID=Asia/Tokyo:20240327T180000
 DTEND;TZID=Asia/Tokyo:20240410T235900
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20240624T115701Z
+SUMMARY:J-Twitch巧克力叶大妖掉宝活动
+DESCRIPTION:在活动期间内，在有掉宝活动的Twitch直播间内观看满一定时间就能获得道具码。\n\n1小时：经验值提升料理组合（莫古莫古
+ 曲奇&陆行鸟巧克力）x10\n3小时：传送网优惠券x10\n6小时：巧克力叶大妖角笛（坐骑）x1\n\n公告地址：\nhttps://jp.fi
+ nalfantasyxiv.com/lodestone/topics/detail/2891da86ab73df94c57d196fd3d078
+ 19f2cdc925
+TZID:Asia/Tokyo
+SEQUENCE:0
+UID:c5915057-82c0-45dd-bf41-cb578f012a52
+CREATED:20240624T115701Z
+DTSTART;TZID=Asia/Tokyo:20240702T170000
+DTEND;TZID=Asia/Tokyo:20240729T170000
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20240308T174031Z
 SUMMARY:J-女儿节&猎蛋节「花が繋げる、ふたつの祝祭」
 DESCRIPTION:奖励：\n坐骑-「ピティーホルン」\n\n活动页面：\nhttps://jp.finalfantasyxiv.com/lo
