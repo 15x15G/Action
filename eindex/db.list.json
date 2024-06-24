@@ -13986,6 +13986,12 @@
     "in": ""
   },
   {
+    "sp": "parody",
+    "en": "tenshi no 3p",
+    "zh": "天使的3P",
+    "in": ""
+  },
+  {
     "sp": "character",
     "en": "alice",
     "zh": "爱丽丝",
@@ -43810,6 +43816,36 @@
     "en": "beanstalk",
     "zh": "豆苗",
     "in": "豆苗是游戏《明日方舟》及其衍生作品的登场角色"
+  },
+  {
+    "sp": "character",
+    "en": "nicole demara",
+    "zh": "妮可·德玛拉",
+    "in": "妮可·德玛拉，游戏《绝区零》中的角色，新艾利都万能事务所“狡兔屋”的创始人。在街头摸爬滚打多年，妮可圆滑狡黠的作风，在同行间享有“狡兔有三窟，妮可三百窟”的“美誉”。哪怕事务所的委托费要价不菲，“狡兔屋”的财务状况却还是常年在赤字边缘徘徊……\n\n明智之选！不过提前说好，我出场费可不低哦！"
+  },
+  {
+    "sp": "character",
+    "en": "ranmaru mori",
+    "zh": "森兰丸（谜之兰丸X）",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "taisui xingjun",
+    "zh": "太岁星君",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "nemo marine",
+    "zh": "尼莫水兵",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "jun gotou",
+    "zh": "五岛润",
+    "in": ""
   },
   {
     "sp": "group",
@@ -120336,6 +120372,12 @@
     "in": ""
   },
   {
+    "sp": "group",
+    "en": "hitaki nikomiya",
+    "zh": "ひたき煮込み屋",
+    "in": ""
+  },
+  {
     "sp": "artist",
     "en": "2",
     "zh": "2",
@@ -121773,7 +121815,7 @@
     "sp": "artist",
     "en": "tsuttsu",
     "zh": "つっつ",
-    "in": ""
+    "in": "作者推特头像"
   },
   {
     "sp": "artist",
@@ -128516,7 +128558,7 @@
   {
     "sp": "artist",
     "en": "miyamoto issa",
-    "zh": "宫元一佐",
+    "zh": "宮元一佐",
     "in": ""
   },
   {
@@ -137097,7 +137139,7 @@
     "sp": "artist",
     "en": "namae renraku",
     "zh": "なまえ れんらく",
-    "in": ""
+    "in": "作者推特头像"
   },
   {
     "sp": "artist",
@@ -139532,7 +139574,7 @@
   {
     "sp": "artist",
     "en": "furyouhin",
-    "zh": "不良品",
+    "zh": "ニャ獣（不良品）",
     "in": ""
   },
   {
@@ -162279,7 +162321,7 @@
     "sp": "artist",
     "en": "kohri ms",
     "zh": "こおりみず",
-    "in": ""
+    "in": "作者推特头像"
   },
   {
     "sp": "artist",
@@ -175839,7 +175881,7 @@
     "sp": "artist",
     "en": "pizanuko",
     "zh": "ぴざぬこ",
-    "in": ""
+    "in": "作者推特头像"
   },
   {
     "sp": "artist",
@@ -197355,6 +197397,36 @@
     "sp": "artist",
     "en": "comiching",
     "zh": "こみちん",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "rosuuri",
+    "zh": "Rosuuri",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "otogiri fua",
+    "zh": "おとぎりふあ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "pirates cat",
+    "zh": "パイレーツキャット",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "boshi",
+    "zh": "ぼし",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "hitaki ni",
+    "zh": "ひたき煮",
     "in": ""
   },
   {
