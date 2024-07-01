@@ -13992,6 +13992,18 @@
     "in": ""
   },
   {
+    "sp": "parody",
+    "en": "apex legends",
+    "zh": "Apex英雄",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "brawl stars",
+    "zh": "荒野乱斗",
+    "in": "芬兰电子游戏开发商Supercell公司开发和发布的一款的手机实时战略第三人称射击游戏。"
+  },
+  {
     "sp": "character",
     "en": "alice",
     "zh": "爱丽丝",
@@ -25929,7 +25941,7 @@
     "sp": "character",
     "en": "tsunade",
     "zh": "纲手",
-    "in": ""
+    "in": "本名:\t綱手（つなで）(Tsunade)\n別號:\t綱手公主、綱手婆婆、蛞蝓公主、綱手姬、第五代火影\n髮色:\t黃髮\n瞳色:\t褐瞳\n身高:\t163.1cm\n體重:\t48.9kg\n三圍:\tB:106W:62H:90"
   },
   {
     "sp": "character",
@@ -27009,7 +27021,7 @@
     "sp": "character",
     "en": "tifa lockhart",
     "zh": "蒂法·洛克哈特",
-    "in": ""
+    "in": "本名:\tティファ·ロックハート/Tifa Lockhart\n別號:\t耶路撒冷\n髮色:\t黑褐髮\n瞳色:\t紅瞳\n身高:\t167cm\n三圍:\t92-60-88"
   },
   {
     "sp": "character",
@@ -29007,7 +29019,7 @@
     "sp": "character",
     "en": "chika fujiwara",
     "zh": "藤原千花",
-    "in": ""
+    "in": "藤原千花（日語：藤原 千花／ふじわら ちか Fujiwara Chika）是漫畫系列《輝夜姬想讓人告白～天才們的戀愛頭腦戰～》（下簡稱《輝夜姬》）的虛構角色，由赤坂明所創。"
   },
   {
     "sp": "character",
@@ -34125,7 +34137,7 @@
     "sp": "character",
     "en": "yor forger",
     "zh": "约尔·福杰",
-    "in": ""
+    "in": "約兒·佛傑是由遠藤達哉創作的漫畫《SPY×FAMILY 間諜家家酒》及其衍生作品的登場角色。"
   },
   {
     "sp": "character",
@@ -43848,6 +43860,60 @@
     "in": ""
   },
   {
+    "sp": "character",
+    "en": "typhon",
+    "zh": "提丰",
+    "in": "提丰是游戏《明日方舟》及其衍生作品的登场角色"
+  },
+  {
+    "sp": "character",
+    "en": "yurine hanazono",
+    "zh": "花园百合铃",
+    "in": "花園百合鈴（花園ゆりね）是由ユキヲ所創作的漫畫《邪神與廚二病少女》及其衍生作品的登場角色。"
+  },
+  {
+    "sp": "character",
+    "en": "yinlin",
+    "zh": "吟霖",
+    "in": "吟霖是库洛制作的游戏鸣潮(wuthering waves)的登场角色。"
+  },
+  {
+    "sp": "character",
+    "en": "jinshi",
+    "zh": "壬氏",
+    "in": "壬氏是是由日向夏创作、しのとうこ插画的轻小说药师少女的独语(kusuriya no hitorigoto)及其衍生的动画等作品的登场角色。"
+  },
+  {
+    "sp": "character",
+    "en": "jinhsi",
+    "zh": "今汐",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "aversa",
+    "zh": "茵巴丝",
+    "in": "火焰纹章：觉醒中的女性反派"
+  },
+  {
+    "sp": "character",
+    "en": "ethan winters",
+    "zh": "伊森·温特斯",
+    "in": "生化危机7.8角色"
+  },
+  {
+    "sp": "character",
+    "en": "avenger",
+    "zh": "安哥拉曼纽",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "jtf mob",
+    "zh": "正义实现委员会杂鱼酱",
+    "in": ""
+  },
+  {
     "sp": "group",
     "en": "1",
     "zh": "1",
@@ -51345,7 +51411,7 @@
     "sp": "group",
     "en": "niliu chahui",
     "zh": "逆流茶会",
-    "in": ""
+    "in": "住在克拉码头(SG)附近，喜欢喝梅酒，堂吉柯德的梅酒打折时会经常去买"
   },
   {
     "sp": "group",
@@ -120378,6 +120444,48 @@
     "in": ""
   },
   {
+    "sp": "group",
+    "en": "tori salt",
+    "zh": "トリソルト",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "archa1c",
+    "zh": "アルカ一区",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "tehakusen",
+    "zh": "テハクセン",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "waniwanipanic",
+    "zh": "わにわにぱにっく",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "morelia standard",
+    "zh": "もれりあすたんだーど",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "orutama",
+    "zh": "オルタマ",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "gelatin koubou",
+    "zh": "ゼラチン工房",
+    "in": ""
+  },
+  {
     "sp": "artist",
     "en": "2",
     "zh": "2",
@@ -135489,7 +135597,7 @@
     "sp": "artist",
     "en": "takemasa takeshi",
     "zh": "武将武",
-    "in": ""
+    "in": "作者推特头像"
   },
   {
     "sp": "artist",
@@ -140655,7 +140763,7 @@
     "sp": "artist",
     "en": "rurudo",
     "zh": "rurudo",
-    "in": ""
+    "in": "喜歡的食物:\n鮭魚乾、所有搭配酒的小菜\n討厭的食物:\n所有甜食(奶油泡芙除外)、麻婆豆腐、茶碗蒸、茄子"
   },
   {
     "sp": "artist",
@@ -148640,7 +148748,7 @@
   {
     "sp": "artist",
     "en": "collagen",
-    "zh": "コラーゲン",
+    "zh": "コラーゲン/藩滑るめる",
     "in": ""
   },
   {
@@ -150056,8 +150164,8 @@
   {
     "sp": "artist",
     "en": "egami",
-    "zh": "エガミ",
-    "in": ""
+    "zh": "えがみ",
+    "in": "現在リクエスト停止中です。\n成人向けの絵も描きます。よろしくお願いします。\n\nI'm drawing R-18 pictures of animation and game characters.\nI'm not accepting commissions for illustrations.\n\nお仕事のご依頼は現在募集しておりません。"
   },
   {
     "sp": "artist",
@@ -193161,7 +193269,7 @@
     "sp": "artist",
     "en": "toushiki yubune",
     "zh": "橙織ゆぶね",
-    "in": ""
+    "in": "作者推特头像"
   },
   {
     "sp": "artist",
@@ -195441,7 +195549,7 @@
     "sp": "artist",
     "en": "gsus",
     "zh": "GSUS",
-    "in": ""
+    "in": "台灣绘师"
   },
   {
     "sp": "artist",
@@ -197427,6 +197535,90 @@
     "sp": "artist",
     "en": "hitaki ni",
     "zh": "ひたき煮",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "kaji makoto",
+    "zh": "カジマコト",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "matrix16",
+    "zh": "Matrix16",
+    "in": "大家好,\n希望各位喜歡我的作品\n如果想約稿的話請透過PIXIV，電子信箱或推特...等等"
+  },
+  {
+    "sp": "artist",
+    "en": "cyi",
+    "zh": "CYI",
+    "in": "女畫家"
+  },
+  {
+    "sp": "artist",
+    "en": "choipiro",
+    "zh": "ちょいぴろ",
+    "in": "作者推特头像"
+  },
+  {
+    "sp": "artist",
+    "en": "shimizu tomomi",
+    "zh": "清水ともみ",
+    "in": "清水智美女士是日本前速滑运动员，现在以漫画的形式活跃在维护人权前线，向世界宣传中共对东突厥斯坦的维吾尔人施行的人权侵害。漫画以真实的受害群体的个人经历为原型，描述种种中共犯罪恶行。出版的著作有：《谁也不敢提起那个国名》，《我生上发生的事》的一系列漫画。内容被翻译成多国语言。"
+  },
+  {
+    "sp": "artist",
+    "en": "umai",
+    "zh": "馬胃",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "nada shio",
+    "zh": "なだソルト",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "toriuchi",
+    "zh": "トリウチ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "huwahuwa raidou",
+    "zh": "ふわふわらいどう",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "mother kiisuke",
+    "zh": "マザーきーすけ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "kurihara sakura",
+    "zh": "栗原さくら",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "washoku",
+    "zh": "和食",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "wanitaroo.",
+    "zh": "わにたろー。",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "paingumi",
+    "zh": "パイングミ",
     "in": ""
   },
   {
