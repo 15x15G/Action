@@ -12537,7 +12537,7 @@
     "sp": "parody",
     "en": "zenless zone zero",
     "zh": "绝区零",
-    "in": ""
+    "in": "《绝区零》是由米哈游自研的全新动作游戏。它的故事发生在被神秘的超自然灾害「空洞」所侵袭的近未来。在这灾祸频仍的世界里，崛起了一座另类的城市——「新艾利都」。这座最后的「绿洲」掌握了与「空洞」共生的技术，盘踞着错综复杂的势力，它混乱、喧嚣、危险又充满活力。而你将成为串联起空洞与都市的关键少数派，名为「绳匠」的特殊职业人士。这里正等待着见证你的故事。"
   },
   {
     "sp": "parody",
@@ -14948,8 +14948,8 @@
   {
     "sp": "character",
     "en": "maribel han",
-    "zh": "玛艾露贝莉·赫恩",
-    "in": "梅利"
+    "zh": "玛艾露贝莉·赫恩(梅莉)",
+    "in": "梅莉"
   },
   {
     "sp": "character",
@@ -25995,7 +25995,7 @@
     "sp": "character",
     "en": "hinata hyuga",
     "zh": "日向雏田",
-    "in": ""
+    "in": "日向雏田（日语：日向（ひゅうが） ヒナタ）是岸本齐史创作的漫画《火影忍者》及其衍生作品的登场角色。"
   },
   {
     "sp": "character",
@@ -43887,7 +43887,7 @@
     "sp": "character",
     "en": "jinhsi",
     "zh": "今汐",
-    "in": ""
+    "in": "今汐是库洛制作的游戏鸣潮(wuthering waves)的登场角色。"
   },
   {
     "sp": "character",
@@ -43912,6 +43912,30 @@
     "en": "jtf mob",
     "zh": "正义实现委员会杂鱼酱",
     "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "mana nekomiya",
+    "zh": "猫宫又奈",
+    "in": "猫宫又奈是由米哈游所制作的游戏绝区零(zenless zone zero)及其衍生作品的登场角色。"
+  },
+  {
+    "sp": "character",
+    "en": "verina",
+    "zh": "维里奈",
+    "in": "维里奈是库洛制作的游戏鸣潮(wuthering waves)的登场角色。"
+  },
+  {
+    "sp": "character",
+    "en": "agnes digital",
+    "zh": "爱丽数码",
+    "in": "爱丽数码是以由Cygames制作的手机游戏为主导的跨媒体企划《赛马娘 Pretty Derby》及其衍生作品中的登场角色。原型为日本纯血竞赛马匹アグネスデジタル（Agnes Digital）。"
+  },
+  {
+    "sp": "character",
+    "en": "hishi miracle",
+    "zh": "菱钻奇宝",
+    "in": "菱钻奇宝是以由Cygames制作的手机游戏为主导的跨媒体企划《赛马娘 Pretty Derby》及其衍生作品中的登场角色。原型为日本纯血竞赛马匹ヒシミラクル（Hishi Miracle）。"
   },
   {
     "sp": "group",
@@ -197619,6 +197643,12 @@
     "sp": "artist",
     "en": "paingumi",
     "zh": "パイングミ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "baret",
+    "zh": "バレット",
     "in": ""
   },
   {
