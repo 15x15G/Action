@@ -29361,7 +29361,7 @@
     "sp": "character",
     "en": "miko iino",
     "zh": "伊井野弥子",
-    "in": ""
+    "in": "伊井野弥子别名小弥，女，漫画《辉夜大小姐想让我告白～天才们的恋爱头脑战～》及其衍生作品中的角色，里女主。原型为《竹取物语》中的石作皇子。"
   },
   {
     "sp": "character",
@@ -34400,8 +34400,8 @@
   {
     "sp": "character",
     "en": "belle",
-    "zh": "贝儿",
-    "in": "出处：美女与野兽(beauty and the beast)"
+    "zh": "贝儿 | 铃",
+    "in": "贝尔，出处：美女与野兽(beauty and the beast)\n\n铃，是由米哈游所制作的游戏绝区零(zenless zone zero)及其衍生作品的登场角色。"
   },
   {
     "sp": "character",
@@ -43936,6 +43936,84 @@
     "en": "hishi miracle",
     "zh": "菱钻奇宝",
     "in": "菱钻奇宝是以由Cygames制作的手机游戏为主导的跨媒体企划《赛马娘 Pretty Derby》及其衍生作品中的登场角色。原型为日本纯血竞赛马匹ヒシミラクル（Hishi Miracle）。"
+  },
+  {
+    "sp": "character",
+    "en": "akeno misaki",
+    "zh": "岬明乃",
+    "in": "岬明乃是原创动画《高校舰队》及其衍生作品的登场角色。"
+  },
+  {
+    "sp": "character",
+    "en": "kaoru mashiko",
+    "zh": "益子薰",
+    "in": "益子薰是Studio五组制作、由しずまよしのり担任角色原案的动画《刀使之巫女》及其衍生作品的登场角色。"
+  },
+  {
+    "sp": "character",
+    "en": "sana futaba",
+    "zh": "燕结芽",
+    "in": "燕结芽是Studio五组制作、由しずまよしのり担任角色原案的动画《刀使之巫女》及其衍生作品的登场角色。"
+  },
+  {
+    "sp": "character",
+    "en": "talulah",
+    "zh": "塔露拉",
+    "in": "塔露拉·雅特利亚斯，游戏《明日方舟》及其衍生作品中的角色，整合运动的前领导人，也是整合运动曾经的精神道标，是她将整合运动从无所作为的感染者地下组织变成了泰拉最大的感染者革命组织。"
+  },
+  {
+    "sp": "character",
+    "en": "hajime hinata",
+    "zh": "日向创",
+    "in": "日向创是Spike Chunsoft旗下的游戏《超级弹丸论破2:再见绝望学园》及其衍生作品的登场角色。"
+  },
+  {
+    "sp": "character",
+    "en": "nagito komaeda",
+    "zh": "狛枝凪斗",
+    "in": "狛枝凪斗是Spike旗下游戏《超级弹丸论破2:再见绝望学园》及其衍生作品的登场角色。"
+  },
+  {
+    "sp": "character",
+    "en": "wise",
+    "zh": "哲 | 华兹",
+    "in": "哲是由米哈游所制作的游戏绝区零(zenless zone zero)及其衍生作品的登场角色。\n\n华兹是井中だちま创作的轻小说普通攻击是全体二连击，这样的妈妈你喜欢吗？(tsujou kougeki ga zentai kougeki de 2-kai kougeki no okaasan wa suki desu ka)及其衍生作品中的登场角色"
+  },
+  {
+    "sp": "character",
+    "en": "ellen joe",
+    "zh": "艾莲·乔",
+    "in": "艾莲·乔是米哈游制作的游戏绝区零(zenless zone zero)及其衍生作品的登场角色。"
+  },
+  {
+    "sp": "character",
+    "en": "ben bigger",
+    "zh": "本·比格",
+    "in": "本·比格是由米哈游所制作的游戏绝区零(zenless zone zero)及其衍生作品的登场角色。"
+  },
+  {
+    "sp": "character",
+    "en": "corin wickes",
+    "zh": "可琳·威克斯",
+    "in": "可琳·威克斯是米哈游制作的游戏绝区零(zenless zone zero)及其衍生作品的登场角色。"
+  },
+  {
+    "sp": "character",
+    "en": "grace howard",
+    "zh": "格莉丝·霍华德",
+    "in": "格莉丝·霍华德是由米哈游所制作的游戏绝区零(zenless zone zero)及其衍生作品的登场角色。"
+  },
+  {
+    "sp": "character",
+    "en": "anby demara",
+    "zh": "安比·德玛拉",
+    "in": "安比·德玛拉是由米哈游所制作的游戏绝区零(zenless zone zero)及其衍生作品的登场角色。"
+  },
+  {
+    "sp": "character",
+    "en": "encore",
+    "zh": "安可",
+    "in": "安可是库洛制作的游戏鸣潮(wuthering waves)的登场角色。"
   },
   {
     "sp": "group",
@@ -120510,6 +120588,30 @@
     "in": ""
   },
   {
+    "sp": "group",
+    "en": "marukuramaru",
+    "zh": "まる鞍丸",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "shigaeya",
+    "zh": "しがえ屋",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "nemaki wa sailor fuku",
+    "zh": "寝間着はセーラー服",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "mochigometei",
+    "zh": "もちごめ亭",
+    "in": ""
+  },
+  {
     "sp": "artist",
     "en": "2",
     "zh": "2",
@@ -133545,7 +133647,7 @@
     "sp": "artist",
     "en": "mozu",
     "zh": "もず",
-    "in": ""
+    "in": "作者推特头像"
   },
   {
     "sp": "artist",
@@ -197649,6 +197751,72 @@
     "sp": "artist",
     "en": "baret",
     "zh": "バレット",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "otsumoon",
+    "zh": "乙むん",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "marukura",
+    "zh": "まる鞍",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "ide shota",
+    "zh": "胃出ショータ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "habe rin",
+    "zh": "羽部凛",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "doshima",
+    "zh": "どうしま",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "amatsuji",
+    "zh": "あまつじ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "huyumitsu",
+    "zh": "ふゆみつ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "yakinikuteishoku",
+    "zh": "焼肉定食",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "hoshisaka ami",
+    "zh": "星坂網",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "pyomaru",
+    "zh": "ぴょまる",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "kinoshita kou",
+    "zh": "木ノ下コウ",
     "in": ""
   },
   {
