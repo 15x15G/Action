@@ -14004,6 +14004,24 @@
     "in": "芬兰电子游戏开发商Supercell公司开发和发布的一款的手机实时战略第三人称射击游戏。"
   },
   {
+    "sp": "parody",
+    "en": "yoru no kurage wa oyogenai",
+    "zh": "夜晚的水母不会游泳",
+    "in": "《夜晚的水母不会游泳》（日语：夜のクラゲは泳げない）是由动画工房制作的一部原创动画，于2024年4月6日播出。"
+  },
+  {
+    "sp": "parody",
+    "en": "battlefield",
+    "zh": "战地风云",
+    "in": "战地（英语：Battlefield）是艺电所推出的一系列第一人称射击的电脑、家用主机及Mac游戏。最初版本为Digital Illusions CE所开发的《战地1942》。战地游戏系列以大型地图、多种可驾驶的载具、丰富的网络对战为卖点，而近期的战地游戏还具有全环境破坏的特性。"
+  },
+  {
+    "sp": "parody",
+    "en": "girls band cry",
+    "zh": "少女哭泣乐队",
+    "in": "《GIRLS BAND CRY》（日语：ガールズバンドクライ），简称gbc或少哭（日语：ガルクラ），是由东映动画、agehasprings和环球音乐联合策划制作的一部原创动画，以及衍生跨媒体企划。"
+  },
+  {
     "sp": "character",
     "en": "alice",
     "zh": "爱丽丝",
@@ -14948,7 +14966,7 @@
   {
     "sp": "character",
     "en": "maribel han",
-    "zh": "玛艾露贝莉·赫恩(梅莉)",
+    "zh": "玛艾露贝莉·赫恩",
     "in": "梅莉"
   },
   {
@@ -24733,12 +24751,6 @@
   },
   {
     "sp": "character",
-    "en": "towa akagi",
-    "zh": "红城永久",
-    "in": ""
-  },
-  {
-    "sp": "character",
     "en": "cure scarlet",
     "zh": "赤红天使",
     "in": ""
@@ -32948,7 +32960,7 @@
   {
     "sp": "character",
     "en": "yuni shingyouji",
-    "zh": "真行寺由仁",
+    "zh": "真行寺由仁（优妮）",
     "in": "真行寺由仁（日语：真行寺（しんぎょうじ） 由仁（ゆに））是Cygames开发和发行的游戏《公主连结Re:Dive》中的登场角色。在游戏世界内的ID为优妮（日语：ユニ）。"
   },
   {
@@ -33284,7 +33296,7 @@
   {
     "sp": "character",
     "en": "hanako kuroe",
-    "zh": "黑江花子",
+    "zh": "黑江花子(克罗依)",
     "in": ""
   },
   {
@@ -43333,7 +43345,7 @@
   },
   {
     "sp": "character",
-    "en": "fuuma kotarou",
+    "en": "kotarou fuuma",
     "zh": "风魔小太郎",
     "in": ""
   },
@@ -43911,7 +43923,7 @@
     "sp": "character",
     "en": "jtf mob",
     "zh": "正义实现委员会杂鱼酱",
-    "in": ""
+    "in": "所属作品：蔚蓝档案(blue archive)"
   },
   {
     "sp": "character",
@@ -44014,6 +44026,108 @@
     "en": "encore",
     "zh": "安可",
     "in": "安可是库洛制作的游戏鸣潮(wuthering waves)的登场角色。"
+  },
+  {
+    "sp": "character",
+    "en": "nayuki minase",
+    "zh": "水濑名雪",
+    "in": "水濑名雪是Key出品的Galgame《Kanon》的登场人物，女主角之一。"
+  },
+  {
+    "sp": "character",
+    "en": "taira no kagekiyo",
+    "zh": "平景清",
+    "in": "游戏《Fate/Grand Order》的登场人物，Avenger职阶的从者。"
+  },
+  {
+    "sp": "character",
+    "en": "misora nagare",
+    "zh": "流美空",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "akino toudou",
+    "zh": "藤堂秋乃",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "kuuka tomi",
+    "zh": "远见空花",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "yori kazemiya",
+    "zh": "风宫依里",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "hindenburg",
+    "zh": "兴登堡",
+    "in": "《战舰世界》的德国X级银币重巡洋舰"
+  },
+  {
+    "sp": "character",
+    "en": "renge fuwa",
+    "zh": "不破莲华",
+    "in": "所属作品：蔚蓝档案(blue archive)"
+  },
+  {
+    "sp": "character",
+    "en": "dio brando",
+    "zh": "迪奥·布兰度",
+    "in": "迪奥·布兰度（日语：ディオ・ブランドー；英语：Dio Brando）（第一部）/DIO（日语：ディオ）（第三部以后）是由荒木飞吕彦所创作漫画《JOJO的奇妙冒险》及其衍生作品的登场角色，系列第一部《幻影之血》和第三部《星尘斗士》的最终BOSS。"
+  },
+  {
+    "sp": "character",
+    "en": "jotaro kujo",
+    "zh": "空条承太郎",
+    "in": "空条承太郎（日语：空条（くうじょう）承太郎（じょうたろう））是荒木飞吕彦所创作的漫画《JOJO的奇妙冒险》及其衍生作品的登场角色，系列第三部《星尘斗士》的主角。"
+  },
+  {
+    "sp": "character",
+    "en": "jolyne kujo",
+    "zh": "空条徐伦",
+    "in": "空条徐伦（日语：空条（くうじょう）徐倫（じょりん）；英语：Jolyne Cujoh）是由荒木飞吕彦所创作的漫画《JOJO的奇妙冒险》及其衍生作品的登场角色，系列第六部《石之海》的主角。"
+  },
+  {
+    "sp": "character",
+    "en": "noriaki kakyoin",
+    "zh": "花京院典明",
+    "in": "花京院典明（花京院（かきょういん）典明（のりあき））是由荒木飞吕彦所创作的漫画《JOJO的奇妙冒险》及其衍生动画的登场角色。"
+  },
+  {
+    "sp": "character",
+    "en": "josuke higashikata",
+    "zh": "东方仗助",
+    "in": "东方仗助（日语：ひがしかた じょうすけ）是荒木飞吕彦所创作的漫画《JOJO的奇妙冒险（舅舅的奇妙冒险）》及其衍生作品的登场角色，系列第四部《不灭钻石》的主角。"
+  },
+  {
+    "sp": "character",
+    "en": "okuyasu nijimura",
+    "zh": "虹村亿泰",
+    "in": "虹村亿泰是由荒木飞吕彦所创作漫画《JOJO的奇妙冒险》及其衍生作品的登场角色。"
+  },
+  {
+    "sp": "character",
+    "en": "aoi sakurai",
+    "zh": "樱井葵",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "orochimaru",
+    "zh": "大蛇丸",
+    "in": "火影忍者早期反派\n大蛇丸是第三代火影猿飞日斩的徒弟，和自来也、纲手并称为传说中的“三忍”，被三代称为几十年一遇的天才忍者"
+  },
+  {
+    "sp": "character",
+    "en": "hanabishi haruka",
+    "zh": "花菱春香",
+    "in": "花菱春香（日语：花菱（はなびし） はるか）是小野中彰大所创作的漫画《憧憬成为魔法少女》及其衍生作品的登场角色。"
   },
   {
     "sp": "group",
@@ -120612,6 +120726,36 @@
     "in": ""
   },
   {
+    "sp": "group",
+    "en": "ikkyuu nyuukon",
+    "zh": "一球入魂",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "meichougijuku",
+    "zh": "鳴鳥義塾",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "marumitei",
+    "zh": "まる巳亭",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "madakoya",
+    "zh": "まだ子屋",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "4c-fantasy",
+    "zh": "四色绮想",
+    "in": "4C-Fantasy（四色绮想）是VIONA私人名义成立的综合同人社团，以游戏主题同人绘本、桌游、周边为主要内容开展企划，工作内容包括自主企划制作、设计印刷制作业务、代理服务，全国各大展会直参（含港台）。"
+  },
+  {
     "sp": "artist",
     "en": "2",
     "zh": "2",
@@ -185018,7 +185162,7 @@
   {
     "sp": "artist",
     "en": "tatsuya",
-    "zh": "tatsuya",
+    "zh": "立つ屋",
     "in": ""
   },
   {
@@ -197820,6 +197964,60 @@
     "in": ""
   },
   {
+    "sp": "artist",
+    "en": "idaten funisuke",
+    "zh": "いだ天ふにすけ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "yasiro osa",
+    "zh": "やしろおさ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "murai toyo",
+    "zh": "むらいとよ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "kaitou nyanko",
+    "zh": "解凍にゃんこ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "toki garasu",
+    "zh": "時烏",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "ichino milk",
+    "zh": "いちのみるく",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "madako",
+    "zh": "まだ子",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "osakana arichi",
+    "zh": "御魚ありち",
+    "in": "作者推特头像"
+  },
+  {
+    "sp": "artist",
+    "en": "suzusimo",
+    "zh": "すずしも",
+    "in": "作者推特头像"
+  },
+  {
     "sp": "cosplayer",
     "en": "otohara an",
     "zh": "乙原あん",
@@ -198394,6 +198592,24 @@
     "en": "potato godzilla",
     "zh": "Potato Godzilla",
     "in": ""
+  },
+  {
+    "sp": "cosplayer",
+    "en": "miyamoto sakura",
+    "zh": "宮本桜",
+    "in": ""
+  },
+  {
+    "sp": "cosplayer",
+    "en": "kokuhui",
+    "zh": "玉汇",
+    "in": ""
+  },
+  {
+    "sp": "cosplayer",
+    "en": "feng jiang jiang",
+    "zh": "封疆疆",
+    "in": "中国coser"
   },
   {
     "sp": "male",
