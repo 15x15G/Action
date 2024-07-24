@@ -2618,6 +2618,20 @@ UID:FFF518FE-E983-4775-B700-E9A92F44101C
 URL;VALUE=URI:
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20240724T010607Z
+SUMMARY:C-艾欧泽亚通行证（迷你弗利多、68元的煎蛋动作+林地守护者）
+DESCRIPTION:活动页面：\nhttps://actff1.web.sdo.com/20240621_eorzea/index.html#
+ /index\n\n【打27天的副本就可以拿满奖励（13500），活动期间共56天】\n每日任务要求：当天内通关一次任意副本，完成后可获得500
+ 经验值，每日仅统计一次，当日未领取的经验值可在活动结束前任意一天领取。\n\n【演技教材·煎蛋和林地守护者套装将会活动结束3个月后按照4800点
+ 券和12800点券上架道具商城】
+TZID:Asia/Shanghai
+SEQUENCE:0
+UID:a0f6fc61-a3f4-4233-a5cf-98c83a359fd4
+CREATED:20240724T010607Z
+DTSTART;TZID=Asia/Shanghai:20240723T000000
+DTEND;TZID=Asia/Shanghai:20240916T235900
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20240607T100417Z
 SUMMARY:C-「莫古莫古★大收集 ~新次元的创世Part1~」
 DESCRIPTION:【持续时间到6.58为止（有具体时间后会更新）】\n\n活动页面：\nhttps://actff1.web.sdo.com
