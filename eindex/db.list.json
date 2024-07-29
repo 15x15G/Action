@@ -2493,7 +2493,7 @@
     "sp": "parody",
     "en": "guilty crown",
     "zh": "罪恶王冠",
-    "in": ""
+    "in": "《罪恶王冠》（日语：ギルティクラウン）是2011年10月放送的一部以“超能力。少女。乱斗。”为题材的原创动画。"
   },
   {
     "sp": "parody",
@@ -14020,6 +14020,24 @@
     "en": "girls band cry",
     "zh": "少女哭泣乐队",
     "in": "《GIRLS BAND CRY》（日语：ガールズバンドクライ），简称gbc或少哭（日语：ガルクラ），是由东映动画、agehasprings和环球音乐联合策划制作的一部原创动画，以及衍生跨媒体企划。"
+  },
+  {
+    "sp": "parody",
+    "en": "helldivers",
+    "zh": "绝地潜兵",
+    "in": "《绝地潜兵》（Helldivers）是由Arrowhead Game Studios开发，Sony Computer Entertainment出版的俯视角射击游戏。"
+  },
+  {
+    "sp": "parody",
+    "en": "tokidoki bosotto russia-go de dereru tonari no aalya-san",
+    "zh": "不时轻声地以俄语遮羞的邻座艾莉同学",
+    "in": "《不时轻声地以俄语遮羞的邻座艾莉同学》（日语：時々ボソッとロシア語でデレる隣のアーリャさん，简称ろしでれ）是由燦々SUN所撰写， ももこ负责插画，KADOKAWA出版的一部小说，并有动画等衍生作品。"
+  },
+  {
+    "sp": "parody",
+    "en": "cross core",
+    "zh": "交错战线",
+    "in": "一款机甲科幻题材的二次元风格手游"
   },
   {
     "sp": "character",
@@ -31545,7 +31563,7 @@
     "sp": "character",
     "en": "kallen stadtfeld",
     "zh": "卡莲·休坦菲尔特",
-    "in": ""
+    "in": "《叛逆的鲁鲁修》女角色之一。"
   },
   {
     "sp": "character",
@@ -37281,7 +37299,7 @@
     "sp": "character",
     "en": "ahri",
     "zh": "阿狸",
-    "in": ""
+    "in": "阿狸是游戏《英雄联盟》的登场英雄。"
   },
   {
     "sp": "character",
@@ -41517,7 +41535,7 @@
     "sp": "character",
     "en": "kyouko kirigiri",
     "zh": "雾切响子",
-    "in": ""
+    "in": "《弹丸论破》女主角之一。超高校级的侦探"
   },
   {
     "sp": "character",
@@ -44125,9 +44143,87 @@
   },
   {
     "sp": "character",
-    "en": "hanabishi haruka",
+    "en": "haruka hanabishi",
     "zh": "花菱春香",
     "in": "花菱春香（日语：花菱（はなびし） はるか）是小野中彰大所创作的漫画《憧憬成为魔法少女》及其衍生作品的登场角色。"
+  },
+  {
+    "sp": "character",
+    "en": "hiro shinosawa",
+    "zh": "筱泽广",
+    "in": "篠泽广是由QualiArts与万代南梦宫娱乐共同开发、运营的偶像大师系列手机游戏《学园偶像大师》及其衍生作品的登场角色。"
+  },
+  {
+    "sp": "character",
+    "en": "yan qing",
+    "zh": "燕青",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "kaede akamatsu",
+    "zh": "赤松枫",
+    "in": "赤松 楓\n《弹丸论破V3》女主角，超高校级的钢琴演奏家"
+  },
+  {
+    "sp": "character",
+    "en": "chiaki nanami",
+    "zh": "七海千秋",
+    "in": "《超级弹丸论破2：再會了絕望學園》的女角色"
+  },
+  {
+    "sp": "character",
+    "en": "briar",
+    "zh": "贝蕾亚",
+    "in": "贝蕾亚是网络游戏《英雄联盟》及其衍生作品的登场角色。"
+  },
+  {
+    "sp": "character",
+    "en": "soda",
+    "zh": "索达",
+    "in": "索达，手游《胜利女神：妮姬》中的角色。"
+  },
+  {
+    "sp": "character",
+    "en": "zhu yuan",
+    "zh": "朱鸢",
+    "in": "朱鸢是由米哈游所制作的游戏绝区零(zenless zone zero)及其衍生作品的登场角色。"
+  },
+  {
+    "sp": "character",
+    "en": "inori yuzuriha",
+    "zh": "楪祈",
+    "in": "楪祈（Yè Qí）是动画《罪恶王冠》及其衍生作品的登场人物。"
+  },
+  {
+    "sp": "character",
+    "en": "kotone fujita",
+    "zh": "藤田琴音",
+    "in": "藤田琴音是由QualiArts与万代南梦宫娱乐共同开发、运营的偶像大师系列手机游戏《学园偶像大师》及其衍生作品的登场角色。"
+  },
+  {
+    "sp": "character",
+    "en": "acheron",
+    "zh": "黄泉",
+    "in": "黄泉是米哈游制作的游戏《崩坏：星穹铁道》及其衍生作品的登场角色。"
+  },
+  {
+    "sp": "character",
+    "en": "asanagi",
+    "zh": "朝凪",
+    "in": "朝凪是由蛮啾网络、勇仕网络联合研发的移动设备游戏《碧蓝航线》及其衍生作品的登场角色。"
+  },
+  {
+    "sp": "character",
+    "en": "toji fushiguro",
+    "zh": "伏黑甚尔",
+    "in": "伏黑甚尔（日语：伏黒（ふしぐろ） 甚爾（とうじ））是由芥见下下所创作的漫画《咒术回战》及其衍生作品的登场角色。"
+  },
+  {
+    "sp": "character",
+    "en": "curtana",
+    "zh": "卡提那",
+    "in": "二次元游戏《交错战线》中的一个角色"
   },
   {
     "sp": "group",
@@ -120756,6 +120852,36 @@
     "in": "4C-Fantasy（四色绮想）是VIONA私人名义成立的综合同人社团，以游戏主题同人绘本、桌游、周边为主要内容开展企划，工作内容包括自主企划制作、设计印刷制作业务、代理服务，全国各大展会直参（含港台）。"
   },
   {
+    "sp": "group",
+    "en": "mekimekitei",
+    "zh": "めきめき亭",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "anmitsutei",
+    "zh": "あんみつ亭",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "tokumei kibounu",
+    "zh": "匿名キボンヌ",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "poipoi ramen",
+    "zh": "ぽいぽいラーメン",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "ore no sasakure",
+    "zh": "俺のささくれ",
+    "in": ""
+  },
+  {
     "sp": "artist",
     "en": "2",
     "zh": "2",
@@ -191870,7 +191996,7 @@
   {
     "sp": "artist",
     "en": "yurikawa",
-    "zh": "ゆりかわ",
+    "zh": "百合川",
     "in": ""
   },
   {
@@ -193863,7 +193989,7 @@
     "sp": "artist",
     "en": "sanjiro",
     "zh": "さんじろ♨",
-    "in": ""
+    "in": "人外/魔物娘本画师"
   },
   {
     "sp": "artist",
@@ -198018,6 +198144,96 @@
     "in": "作者推特头像"
   },
   {
+    "sp": "artist",
+    "en": "sima",
+    "zh": "志真",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "yumeki banana",
+    "zh": "夢木ばなな",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "ruutyan",
+    "zh": "るち餡",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "announ",
+    "zh": "暗ノ吽",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "shien",
+    "zh": "しえん",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "kibi anmitsu",
+    "zh": "吉備あんみつ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "nozora yuzu",
+    "zh": "望宙ゆず",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "aburi saamon maru",
+    "zh": "炙りサーモン丸",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "shiranai hitoshi",
+    "zh": "しらないひとし",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "setagaya 45rou",
+    "zh": "せたがや四五郎",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "fujisaki",
+    "zh": "ふじさき",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "shinraku kogome",
+    "zh": "聖 コゴメ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "consome",
+    "zh": "紺そめ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "fuuzasa",
+    "zh": "ウラザサ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "yukinpo dida",
+    "zh": "ゆきんぽでぃだ",
+    "in": ""
+  },
+  {
     "sp": "cosplayer",
     "en": "otohara an",
     "zh": "乙原あん",
@@ -198610,6 +198826,30 @@
     "en": "feng jiang jiang",
     "zh": "封疆疆",
     "in": "中国coser"
+  },
+  {
+    "sp": "cosplayer",
+    "en": "baozoumoziaa",
+    "zh": "抱走莫子",
+    "in": "中国Coser"
+  },
+  {
+    "sp": "cosplayer",
+    "en": "xia xia zi",
+    "zh": "夏夏子",
+    "in": ""
+  },
+  {
+    "sp": "cosplayer",
+    "en": "caomeiyuyi",
+    "zh": "草莓羽衣",
+    "in": ""
+  },
+  {
+    "sp": "cosplayer",
+    "en": "purinpuppy",
+    "zh": "屿鱼",
+    "in": ""
   },
   {
     "sp": "male",
