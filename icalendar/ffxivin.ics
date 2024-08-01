@@ -986,6 +986,19 @@ DTSTART;TZID=Asia/Tokyo:20230301T170000
 DTEND;TZID=Asia/Tokyo:20230315T235900
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20240801T084207Z
+SUMMARY:J-红莲节「大きなうちわで暑気払い！」
+DESCRIPTION:活动奖励：\n情感动作-「大うちわで扇ぐ」\n家具-桌上（不可染色）-「バウンシング・ボムバルーン」\n\n活动页面：\n
+ https://jp.finalfantasyxiv.com/lodestone/special/2024/Moonfire_Faire/vk0
+ 9iygn4m
+TZID:Asia/Tokyo
+SEQUENCE:0
+UID:7775dee6-e22a-4bad-b0d2-151866779747
+CREATED:20240801T084207Z
+DTSTART;TZID=Asia/Tokyo:20240808T170000
+DTEND;TZID=Asia/Tokyo:20240826T235900
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20240508T082442Z
 SUMMARY:J-金碟庆典「遊技場に新たなマスコット現る!?」
 DESCRIPTION:活动期间金碟币1.5倍。\n\n活动奖励：\n防具-「アーマーガッパ・ヘッド」、「アーマーガッパ・スーツ」（河童套，共两件
