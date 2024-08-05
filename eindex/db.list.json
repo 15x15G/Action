@@ -2257,9 +2257,21 @@
   },
   {
     "sp": "parody",
-    "en": "fire emblem if",
-    "zh": "火焰之纹章 if",
+    "en": "gintama",
+    "zh": "银魂",
     "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "panty and stocking with garterbelt",
+    "zh": "吊带袜天使",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "fire emblem fates",
+    "zh": "火焰之纹章 if",
+    "in": "日版名：ファイアーエムブレムif，英文版名：Fire Emblem Fates"
   },
   {
     "sp": "parody",
@@ -2281,7 +2293,7 @@
   },
   {
     "sp": "parody",
-    "en": "fire emblem seisen no keifu",
+    "en": "fire emblem genealogy of the holy war",
     "zh": "火焰之纹章 圣战之系谱",
     "in": ""
   },
@@ -2293,13 +2305,13 @@
   },
   {
     "sp": "parody",
-    "en": "fire emblem fuuin no tsurugi",
+    "en": "fire emblem the binding blade",
     "zh": "火焰之纹章 封印之剑",
     "in": ""
   },
   {
     "sp": "parody",
-    "en": "fire emblem rekka no ken",
+    "en": "fire emblem the blazing blade",
     "zh": "火焰之纹章 烈火之剑",
     "in": ""
   },
@@ -2335,15 +2347,15 @@
   },
   {
     "sp": "parody",
-    "en": "gintama",
-    "zh": "银魂",
+    "en": "fire emblem three houses",
+    "zh": "火焰之纹章 风花雪月",
     "in": ""
   },
   {
     "sp": "parody",
-    "en": "panty and stocking with garterbelt",
-    "zh": "吊带袜天使",
-    "in": ""
+    "en": "fire emblem engage",
+    "zh": "火焰之纹章 结合",
+    "in": "火焰之纹章 结合（日语：ファイアーエムブレム エンゲージ，英语：Fire Emblem Engage）是Intelligent Systems开发、任天堂发行的策略角色扮演游戏，于2023年1月20日在Nintendo Switch平台发售。"
   },
   {
     "sp": "parody",
@@ -9163,12 +9175,6 @@
   },
   {
     "sp": "parody",
-    "en": "fire emblem three houses",
-    "zh": "火焰之纹章 风花雪月",
-    "in": ""
-  },
-  {
-    "sp": "parody",
     "en": "kanojo okarishimasu",
     "zh": "租借女友",
     "in": "《租借女友》（日语：彼女、お借りします）是由宫岛礼吏创作的一部漫画。于漫画杂志《周刊少年Magazine》2017年32号开始连载。TV动画于2020年7月10日开始播出。"
@@ -13219,12 +13225,6 @@
   },
   {
     "sp": "parody",
-    "en": "fire emblem engage",
-    "zh": "火焰之纹章 结合",
-    "in": "火焰之纹章 结合（日语：ファイアーエムブレム エンゲージ，英语：Fire Emblem Engage）是Intelligent Systems开发、任天堂发行的策略角色扮演游戏，于2023年1月20日在Nintendo Switch平台发售。"
-  },
-  {
-    "sp": "parody",
     "en": "watashi no yuri wa oshigoto desu",
     "zh": "我的百合乃工作是也！",
     "in": ""
@@ -14103,7 +14103,7 @@
     "sp": "character",
     "en": "leo",
     "zh": "丽王 | 利昂",
-    "in": "火焰之纹章 if(fire emblem if) 角色"
+    "in": "火焰之纹章 if(fire emblem fates) 角色"
   },
   {
     "sp": "character",
@@ -33147,7 +33147,7 @@
     "sp": "character",
     "en": "eunectes",
     "zh": "森蚺",
-    "in": ""
+    "in": "森蚺，本名祖玛玛，是游戏《明日方舟》及其衍生作品的登场角色。"
   },
   {
     "sp": "character",
@@ -33314,7 +33314,7 @@
   {
     "sp": "character",
     "en": "hanako kuroe",
-    "zh": "黑江花子(克罗依)",
+    "zh": "黑江花子（克罗依）",
     "in": ""
   },
   {
@@ -33835,7 +33835,7 @@
   },
   {
     "sp": "character",
-    "en": "kokawa asuka",
+    "en": "asuka koukawa",
     "zh": "甲河明日香",
     "in": "小粉红，主角的人棍义肢小忠犬，阿莎姬的养女。于《对魔忍阿莎姬3》作为女二首次登场。对魔忍位面中男主首次探险便救下的女忍，也是第1个跟主角本垒后就同意为其生育后代的女忍。心中其实很渴望获得家人的关爱。(凭借其强大个人暗杀技能帮助主角稳住了内部危机，进而得到了主角的更多强化与关怀，为日后重返《对魔忍》位面完成最终复仇 奠定了基础)"
   },
@@ -34659,7 +34659,7 @@
     "sp": "character",
     "en": "captain nemo",
     "zh": "尼莫船长",
-    "in": ""
+    "in": "尼莫是TYPE-MOON旗下游戏《Fate/Grand Order》及其衍生作品的登场角色。"
   },
   {
     "sp": "character",
@@ -43347,7 +43347,7 @@
     "sp": "character",
     "en": "aesc the savior",
     "zh": "救世主梣",
-    "in": ""
+    "in": "救世主梣（雨之魔女梣）是TYPE-MOON旗下手机游戏《Fate/Grand Order》的八周年活动从者，职阶为魔术师。"
   },
   {
     "sp": "character",
@@ -44224,6 +44224,36 @@
     "en": "curtana",
     "zh": "卡提那",
     "in": "二次元游戏《交错战线》中的一个角色"
+  },
+  {
+    "sp": "character",
+    "en": "alisa mikhailovna kujou",
+    "zh": "艾莉莎·米哈伊罗夫纳·九条",
+    "in": "艾莉莎·米哈伊罗夫纳·九条（日语：アリサ・ミハイロヴナ・九条）是轻小说《不时轻声地以俄语遮羞的邻座艾莉同学》及其衍生作品的登场角色。"
+  },
+  {
+    "sp": "character",
+    "en": "lingyang",
+    "zh": "凌阳",
+    "in": "凌阳是库洛制作的游戏《鸣潮》及的登场角色。"
+  },
+  {
+    "sp": "character",
+    "en": "atalanta alter",
+    "zh": "阿塔兰忒〔Alter〕",
+    "in": "阿塔兰忒是TYPE-MOON旗下的《Fate系列》及其衍生作品的登场角色，在轻小说《Fate/Apocrypha》中初次登场。\n\n用自身的宝具卡吕冬毛皮变身后的模样。也叫阿塔兰忒·变身。"
+  },
+  {
+    "sp": "character",
+    "en": "surcouf",
+    "zh": "絮库夫",
+    "in": "絮库夫（速科夫，Surcouf，シュルクーフ，쉬르쿠프 ）是由蛮啾网络、勇仕网络联合研发的移动设备游戏《碧蓝航线》及其衍生作品的登场角色。\n\n其原型为自由法国海军的巡洋潜艇“絮库夫”号(French submarine Surcouf)。"
+  },
+  {
+    "sp": "character",
+    "en": "yunli",
+    "zh": "云璃",
+    "in": "云璃是米哈游制作的游戏《崩坏：星穹铁道》及其衍生作品的登场角色。"
   },
   {
     "sp": "group",
@@ -86942,7 +86972,7 @@
   {
     "sp": "group",
     "en": "lilium",
-    "zh": "LILIUM",
+    "zh": "りーりうむ",
     "in": ""
   },
   {
@@ -120882,6 +120912,60 @@
     "in": ""
   },
   {
+    "sp": "group",
+    "en": "akasa seiheki kenkyuujo",
+    "zh": "赤佐性癖研究所",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "aheazif",
+    "zh": "アヘアジフ",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "temperature",
+    "zh": "テンプレチャー",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "teriniku",
+    "zh": "テリにく",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "sesame dou",
+    "zh": "せさみ堂",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "fujikane haruyo",
+    "zh": "藤鉄はるよ",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "mochi to shiawase",
+    "zh": "モチと幸せ",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "awaya",
+    "zh": "あわや",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "mumumu",
+    "zh": "むむむ",
+    "in": ""
+  },
+  {
     "sp": "artist",
     "en": "2",
     "zh": "2",
@@ -132391,7 +132475,7 @@
   },
   {
     "sp": "artist",
-    "en": "sato daiji",
+    "en": "armadillo daiji",
     "zh": "大慈",
     "in": ""
   },
@@ -182263,8 +182347,8 @@
   },
   {
     "sp": "artist",
-    "en": "skpresents",
-    "zh": "skpresents",
+    "en": "katochin",
+    "zh": "カトチン",
     "in": ""
   },
   {
@@ -198234,6 +198318,288 @@
     "in": ""
   },
   {
+    "sp": "artist",
+    "en": "garasu hokou",
+    "zh": "硝子歩行",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "hoshitani kyo",
+    "zh": "星谷京",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "higashimidou hisagi",
+    "zh": "東御堂ひさぎ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "tsuruga",
+    "zh": "鹤贺",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "taira rurit",
+    "zh": "平るりっと",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "ishi no shita",
+    "zh": "石の下",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "okusaka maeue",
+    "zh": "奥坂前上",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "fujizarashi",
+    "zh": "ふじざらし",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "ogino satoshi",
+    "zh": "オギノサトシ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "oekaki ojisan",
+    "zh": "お絵かきおじさん",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "pochitaro",
+    "zh": "ぽちたろ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "siokaze sango",
+    "zh": "潮風サンゴ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "kanzaki kureha",
+    "zh": "神崎紅葉",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "shiyuu secchuu",
+    "zh": "雌雄折衷",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "saitoh maho",
+    "zh": "斎藤まほ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "liyoosa",
+    "zh": "りゆさ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "oekaki kaki",
+    "zh": "おえかきかき",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "horori",
+    "zh": "horori",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "non-sugar",
+    "zh": "ノンシュガー",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "niui",
+    "zh": "niui",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "almondman",
+    "zh": "アーモンドマン",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "yawano yawa",
+    "zh": "柔乃やわ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "efuri",
+    "zh": "えふり",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "suzushiro nerita",
+    "zh": "鈴白ねりた",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "momoshika fujiko",
+    "zh": "ももしか藤子",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "kidoban",
+    "zh": "木户番",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "nekoshoko",
+    "zh": "猫しょこ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "usagihara kuro",
+    "zh": "兎原クロ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "aiga",
+    "zh": "アイガ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "hoshino minami",
+    "zh": "星乃みなみ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "ema",
+    "zh": "えま",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "bodoyama",
+    "zh": "ボド山",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "maruco",
+    "zh": "マルコ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "contllenge",
+    "zh": "コントレンジ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "guusuka",
+    "zh": "ぐうすか",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "dekigokoro",
+    "zh": "出来心",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "binetsu",
+    "zh": "びねつ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "nishimoto rou",
+    "zh": "西本ろう",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "shiroi yoru",
+    "zh": "白い夜",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "edachi hoho",
+    "zh": "えだちほほ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "yuzhe s",
+    "zh": "愚者s",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "sango",
+    "zh": "参号",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "yoshinao",
+    "zh": "よしなお",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "romm",
+    "zh": "ろむむ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "kasuya mako",
+    "zh": "粕谷まこ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "tsuruta bungaku",
+    "zh": "鶴田文学",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "nanase makoto",
+    "zh": "七瀬真琴",
+    "in": ""
+  },
+  {
     "sp": "cosplayer",
     "en": "otohara an",
     "zh": "乙原あん",
@@ -205839,7 +206205,7 @@
     "sp": "other",
     "en": "full color",
     "zh": "全彩",
-    "in": "正文每一页都是彩色的。少数非故事页的非彩色图片不算在内。不用于 CG 集、图集(imageset)和3D(3d)图库。"
+    "in": "正文每一页都是彩色的。少数非故事页的非彩色图片不算在内。\n不用于非画集(artbook)CG 集（无论是否为西方(western)CG 集）、图集(imageset)和3D(3d)图库，因为非彩色图像很少出现。"
   },
   {
     "sp": "other",
@@ -206049,7 +206415,7 @@
     "sp": "other",
     "en": "artbook",
     "zh": "画集",
-    "in": "有特定标题的图像集合的出版书籍，非官方的收集图不算。不用于缺页(incomplete)的作品。"
+    "in": "已出版书籍中关于某一主题的图像集合，通常强调艺术家的角色或设计元素，而不是性或故事内容。\n源于亚洲的色情艺术书籍归入画师CG(artistcg)类别。"
   },
   {
     "sp": "other",
