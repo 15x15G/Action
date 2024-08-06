@@ -1412,6 +1412,21 @@ DTSTART;TZID=Asia/Shanghai:20220111T070000
 DTEND;TZID=Asia/Shanghai:20220111T093000
 END:VEVENT
 BEGIN:VEVENT
+CREATED:20240806T022753Z
+DESCRIPTION:更新笔记：\nhttp://ff.sdo.com/web8/index.html#/newstab/newscont/36
+ 3182
+DTEND;TZID=Asia/Shanghai:20240806T170000
+DTSTAMP:20240806T023009Z
+DTSTART;TZID=Asia/Shanghai:20240806T130000
+LAST-MODIFIED:20240806T023008Z
+SEQUENCE:0
+SUMMARY:C-6.58版本更新维护（24人低保可换武器药等）
+UID:89C3AB4D-476C-4F21-B722-48BFCF7B55DF
+URL;VALUE=URI:
+X-APPLE-CREATOR-IDENTITY:com.apple.mobilecal
+X-APPLE-CREATOR-TEAM-IDENTITY:0000000000
+END:VEVENT
+BEGIN:VEVENT
 CREATED:20240406T143905Z
 DESCRIPTION:官方b站直播间：\nhttps://live.bilibili.com/h5/5225\n\n【同时还有14小时生放送，时
  间表可看微博https://weibo.com/u/1489227017】\n\n介绍7.0版本「黄金之遗产」最新情报以及围绕FFXIV统计数据
@@ -2678,6 +2693,23 @@ UID:c3114b1e-8e8a-4699-b7e6-48e5ec29a058
 CREATED:20240319T165034Z
 DTSTART;TZID=Asia/Shanghai:20240324T000000
 DTEND;TZID=Asia/Shanghai:20240324T020000
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240805T085751Z
+SUMMARY:C-FF16联动
+DESCRIPTION:（需要打完50级主线究极神兵（就是会给幻想药的那个任务））\n\n活动奖励：\n美狄亚套（共四件）-「メティアン・ベスト」
+ 、「メティアン・ガントレット」、「メティアン・ショース」、「メティアン・ソルレット」\n坐骑-「トルガルの魔笛」\n宠物-「トルガル・パピー」\
+ n幻卡-「カード:クライヴ・ロズフィールド」（20w金碟币）\n管弦乐琴乐谱（共十张）-《Tonitrua ex Machina》、《Idyll
+ s of the Empire》、《Forevermore - The Grand Duchy of Rosaria》、《Before the 
+ Storm - Caer Norvent》、《The State of the Realm》、《Who I Really Am》、《Away（R
+ efrain）》、《To Sail Forbidden Seas》、《Find the Flame》、《Land of Eikons》（一张2w
+ 金碟币，总计又是20w金碟币）\n\n活动页面：\n
+TZID:Asia/Shanghai
+SEQUENCE:0
+UID:d1eb442f-97ee-4e2e-801f-0e3b47685596
+CREATED:20240805T085751Z
+DTSTART;TZID=Asia/Shanghai:20240821T160000
+DTEND;TZID=Asia/Shanghai:20240921T160000
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20240223T100531Z
