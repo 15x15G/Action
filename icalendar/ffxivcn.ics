@@ -2695,19 +2695,17 @@ DTSTART;TZID=Asia/Shanghai:20240324T000000
 DTEND;TZID=Asia/Shanghai:20240324T020000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240805T085751Z
+DTSTAMP:20240806T075355Z
 SUMMARY:C-FF16联动
-DESCRIPTION:（需要打完50级主线究极神兵（就是会给幻想药的那个任务））\n\n活动奖励：\n美狄亚套（共四件）-「メティアン・ベスト」
+DESCRIPTION:（需要打完50级主线究极神兵（就是会给幻想药的那个任务））\n\n活动奖励：\n美堤亚套（共四件）-「メティアン・ベスト」
  、「メティアン・ガントレット」、「メティアン・ショース」、「メティアン・ソルレット」\n坐骑-「トルガルの魔笛」\n宠物-「トルガル・パピー」\
- n幻卡-「カード:クライヴ・ロズフィールド」（20w金碟币）\n管弦乐琴乐谱（共十张）-《Tonitrua ex Machina》、《Idyll
- s of the Empire》、《Forevermore - The Grand Duchy of Rosaria》、《Before the 
- Storm - Caer Norvent》、《The State of the Realm》、《Who I Really Am》、《Away（R
- efrain）》、《To Sail Forbidden Seas》、《Find the Flame》、《Land of Eikons》（一张2w
- 金碟币，总计又是20w金碟币）\n\n活动页面：\n
+ n幻卡-「幻卡：克莱夫·罗斯菲尔德」（20w金碟币）\n管弦乐琴乐谱（共十张）-《解围之雷》、《皇国田园》、《永远-罗扎利亚公国》、《风暴之前-
+ 诺旺堡》、《世界局势》、《真正的自我》、《向远方（副歌）》、《禁海危航》、《寻火》、《召唤兽之地》（一张2w金碟币，总计又是20w金碟币）\n\
+ n活动页面：\n
 TZID:Asia/Shanghai
 SEQUENCE:0
 UID:d1eb442f-97ee-4e2e-801f-0e3b47685596
-CREATED:20240805T085751Z
+CREATED:20240806T075355Z
 DTSTART;TZID=Asia/Shanghai:20240821T160000
 DTEND;TZID=Asia/Shanghai:20240921T160000
 END:VEVENT
