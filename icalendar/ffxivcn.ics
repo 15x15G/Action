@@ -1287,16 +1287,17 @@ DTSTART;TZID=Asia/Shanghai:20230831T130100
 DTEND;TZID=Asia/Shanghai:20230907T130000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240808T151410Z
-SUMMARY:（预测）C-新生祭
-DESCRIPTION:【持续时间应该也会很长？】\n活动奖励：\n坐骑-「重生・不死鸟号角」\n家具（墙上）-「新生祭的海报」\n管弦乐谱-「オ
- ーケストリオン譜:新生の鼓動」、「オーケストリオン譜:天より降りしポンポン」\n
-TZID:Asia/Tokyo
+DTSTAMP:20240819T092234Z
+SUMMARY:C-新生祭「为曾经的旅途致以感谢，为将来的旅途献上祝福」
+DESCRIPTION:活动奖励：\n坐骑-「新生不死鸟角笛」\n家具（墙上）-「新生庆典宣传海报」\n管弦乐谱-「管弦乐琴乐谱：重生的大地」、「
+ 管弦乐琴乐谱：天降之绒」\n\n活动页面：\nhttps://actff1.web.sdo.com/project/20240816theris
+ ing/\n
+TZID:Asia/Shanghai
 SEQUENCE:0
 UID:84039AAE-63FB-47FF-92AC-00D8D598726C
-CREATED:20240808T151410Z
-DTSTART;VALUE=DATE:20240822
-DTEND;VALUE=DATE:20240823
+CREATED:20240819T092234Z
+DTSTART;TZID=Asia/Shanghai:20240821T140000
+DTEND;TZID=Asia/Shanghai:20240905T140000
 END:VEVENT
 BEGIN:VEVENT
 CREATED:20220613T033916Z
