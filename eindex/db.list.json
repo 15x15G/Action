@@ -14029,12 +14029,6 @@
   },
   {
     "sp": "parody",
-    "en": "tokidoki bosotto russia-go de dereru tonari no aalya-san",
-    "zh": "不时轻声地以俄语遮羞的邻座艾莉同学",
-    "in": "《不时轻声地以俄语遮羞的邻座艾莉同学》（日语：時々ボソッとロシア語でデレる隣のアーリャさん，简称ろしでれ）是由燦々SUN所撰写， ももこ负责插画，KADOKAWA出版的一部小说，并有动画等衍生作品。"
-  },
-  {
-    "sp": "parody",
     "en": "cross core",
     "zh": "交错战线",
     "in": "一款机甲科幻题材的二次元风格手游"
@@ -14079,6 +14073,18 @@
     "sp": "parody",
     "en": "the flash",
     "zh": "闪电侠",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "wonderful precure",
+    "zh": "美妙宠物 光之美少女",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "katsute mahou shoujo to aku wa tekitai shite ita.",
+    "zh": "魔法少女与邪恶曾经敌对。",
     "in": ""
   },
   {
@@ -28303,7 +28309,7 @@
   },
   {
     "sp": "character",
-    "en": "sister cleaire",
+    "en": "sister claire",
     "zh": "修女克蕾雅",
     "in": ""
   },
@@ -44216,8 +44222,8 @@
   {
     "sp": "character",
     "en": "briar",
-    "zh": "贝蕾亚",
-    "in": "贝蕾亚是网络游戏《英雄联盟》及其衍生作品的登场角色。"
+    "zh": "贝蕾亚 | 白蕾雅",
+    "in": "贝蕾亚是网络游戏《英雄联盟》及其衍生作品的登场角色。\n\n白蕾雅（日文︰ブライア，英文︰Briar）是《朱／紫》中的登场角色。"
   },
   {
     "sp": "character",
@@ -85723,12 +85729,6 @@
   },
   {
     "sp": "group",
-    "en": "kosuko teikoku",
-    "zh": "こすこ帝国",
-    "in": ""
-  },
-  {
-    "sp": "group",
     "en": "kosuru buta",
     "zh": "こする豚",
     "in": ""
@@ -107629,7 +107629,7 @@
   },
   {
     "sp": "group",
-    "en": "silverrice",
+    "en": "silver rice",
     "zh": "シルバーライス",
     "in": ""
   },
@@ -119793,7 +119793,7 @@
     "sp": "group",
     "en": "hakutamayu",
     "zh": "白玉汤",
-    "in": ""
+    "in": "エロ漫画描いてます！ 『俺の上京性生活』などなど！"
   },
   {
     "sp": "group",
@@ -120260,7 +120260,7 @@
   {
     "sp": "group",
     "en": "touketsu shamen",
-    "zh": "卜ウケツ斜面",
+    "zh": "トウケツ斜面",
     "in": ""
   },
   {
@@ -139136,7 +139136,7 @@
   {
     "sp": "artist",
     "en": "midorinocha",
-    "zh": "みどりのちゃ",
+    "zh": "みどりのちや",
     "in": ""
   },
   {
@@ -151339,9 +151339,9 @@
   },
   {
     "sp": "artist",
-    "en": "done",
-    "zh": "どね",
-    "in": ""
+    "en": "babalilo",
+    "zh": "ばばりろ",
+    "in": "どね"
   },
   {
     "sp": "artist",
@@ -179317,7 +179317,7 @@
   },
   {
     "sp": "artist",
-    "en": "ruri tsubame",
+    "en": "rurien",
     "zh": "瑠璃燕",
     "in": ""
   },
@@ -196298,7 +196298,7 @@
   {
     "sp": "artist",
     "en": "touketsu",
-    "zh": "卜ウケツ",
+    "zh": "トウケツ",
     "in": ""
   },
   {
@@ -200370,6 +200370,24 @@
     "in": ""
   },
   {
+    "sp": "artist",
+    "en": "geboku kazuaki",
+    "zh": "げぼくカズアキ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "momota tetsu",
+    "zh": "桃田テツ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "nise neko",
+    "zh": "偽猫",
+    "in": "东方project同人作者。"
+  },
+  {
     "sp": "cosplayer",
     "en": "otohara an",
     "zh": "乙原あん",
@@ -202579,6 +202597,12 @@
   },
   {
     "sp": "male",
+    "en": "navel birth",
+    "zh": "肚脐出产",
+    "in": "生物通过肚脐分娩。通常发生在怀孕(pregnant)之后。图库只需要包含一张这种性质的图片就需要打上此标签。不应用于产卵(eggs)。"
+  },
+  {
+    "sp": "male",
     "en": "navel fuck",
     "zh": "肚脐奸",
     "in": "插入肚脐。"
@@ -203755,9 +203779,21 @@
   },
   {
     "sp": "male",
+    "en": "blackmail",
+    "zh": "要挟",
+    "in": "通过威胁或披露信息迫使他人提供性爱的行为。"
+  },
+  {
+    "sp": "male",
     "en": "chikan",
     "zh": "痴汉",
     "in": "以性方式抚摸别人的行为。经常在火车或公共汽车上发生。"
+  },
+  {
+    "sp": "male",
+    "en": "confinement",
+    "zh": "监禁",
+    "in": "一个人被强行关押在室内环境中，并被强行用于各种性目的。此场景必须由至少一名俘虏故意创造，并且必须持续至少两个晚上。不用于自愿被监禁的情况。被监禁者必须在某个时候意识到这种情况。如果上下文提示没有明确表明囚禁时间，则不应使用标签。"
   },
   {
     "sp": "male",
@@ -204049,12 +204085,6 @@
   },
   {
     "sp": "male",
-    "en": "blackmail",
-    "zh": "要挟",
-    "in": "通过威胁或披露信息迫使他人提供性爱的行为。"
-  },
-  {
-    "sp": "male",
     "en": "coach",
     "zh": "教练",
     "in": "身体训练的指导者。"
@@ -204262,6 +204292,12 @@
     "en": "low guro",
     "zh": "低存在猎奇",
     "in": "表示猎奇(guro)的情况没有通过存在规则(presence rule)。需要猎奇(guro)标签。"
+  },
+  {
+    "sp": "male",
+    "en": "low incest",
+    "zh": "低存在乱伦",
+    "in": "表示乱伦(incest)的情况没有通过存在规则(presence rule)。需要乱伦(incest)标签。"
   },
   {
     "sp": "male",
@@ -205939,6 +205975,12 @@
   },
   {
     "sp": "female",
+    "en": "navel birth",
+    "zh": "肚脐出产",
+    "in": "生物通过肚脐分娩。通常发生在怀孕(pregnant)之后。图库只需要包含一张这种性质的图片就需要打上此标签。不应用于产卵(eggs)。"
+  },
+  {
+    "sp": "female",
     "en": "navel fuck",
     "zh": "肚脐奸",
     "in": "插入肚脐。"
@@ -207235,9 +207277,21 @@
   },
   {
     "sp": "female",
+    "en": "blackmail",
+    "zh": "要挟",
+    "in": "通过威胁或披露信息迫使他人提供性爱的行为。"
+  },
+  {
+    "sp": "female",
     "en": "chikan",
     "zh": "痴汉",
     "in": "以性方式抚摸别人的行为。经常在火车或公共汽车上发生。"
+  },
+  {
+    "sp": "female",
+    "en": "confinement",
+    "zh": "监禁",
+    "in": "一个人被强行关押在室内环境中，并被强行用于各种性目的。此场景必须由至少一名俘虏故意创造，并且必须持续至少两个晚上。不用于自愿被监禁的情况。被监禁者必须在某个时候意识到这种情况。如果上下文提示没有明确表明囚禁时间，则不应使用标签。"
   },
   {
     "sp": "female",
@@ -207553,12 +207607,6 @@
   },
   {
     "sp": "female",
-    "en": "blackmail",
-    "zh": "要挟",
-    "in": "通过威胁或披露信息迫使他人提供性爱的行为。"
-  },
-  {
-    "sp": "female",
     "en": "coach",
     "zh": "教练",
     "in": "身体训练的指导者。"
@@ -207781,6 +207829,12 @@
   },
   {
     "sp": "female",
+    "en": "low incest",
+    "zh": "低存在乱伦",
+    "in": "表示乱伦(incest)的情况没有通过存在规则(presence rule)。需要乱伦(incest)标签。"
+  },
+  {
+    "sp": "female",
     "en": "low lolicon",
     "zh": "低存在萝莉",
     "in": "表示萝莉(lolicon)的情况没有通过存在规则(presence rule)。需要萝莉(lolicon)标签。"
@@ -207940,6 +207994,12 @@
     "en": "inseki",
     "zh": "姻亲",
     "in": "无血缘关系的亲属之间的性行为。需要乱伦(incest)标签。"
+  },
+  {
+    "sp": "mixed",
+    "en": "low incest",
+    "zh": "低存在乱伦",
+    "in": "表示乱伦(incest)的情况没有通过存在规则(presence rule)。需要乱伦(incest)标签。"
   },
   {
     "sp": "other",
