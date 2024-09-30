@@ -14112,6 +14112,12 @@
     "in": ""
   },
   {
+    "sp": "parody",
+    "en": "shikanoko nokonoko koshitantan",
+    "zh": "鹿乃子乃子虎视眈眈",
+    "in": "《鹿乃子乃子虎视眈眈》（日语：しかのこのこのここしたんたん）是おしおしお创作的一部搞笑漫画，有动画等衍生作品。"
+  },
+  {
     "sp": "character",
     "en": "alice",
     "zh": "爱丽丝",
@@ -21105,7 +21111,7 @@
     "sp": "character",
     "en": "angelene",
     "zh": "安洁莉娜",
-    "in": ""
+    "in": "魔法禁书目录"
   },
   {
     "sp": "character",
@@ -31232,8 +31238,8 @@
   {
     "sp": "character",
     "en": "ray",
-    "zh": "雷",
-    "in": "《约定的梦幻岛》主角三人组——男主角之一"
+    "zh": "莱伊",
+    "in": "明日方舟六星猎手"
   },
   {
     "sp": "character",
@@ -34509,7 +34515,7 @@
     "sp": "character",
     "en": "surtr",
     "zh": "史尔特尔",
-    "in": "明日方舟角色"
+    "in": "明日方舟六星术战者"
   },
   {
     "sp": "character",
@@ -45336,6 +45342,54 @@
     "in": "月村手毬是由QualiArts开发、万代南梦宫娱乐发行的偶像大师系列手机游戏《学园偶像大师》及其衍生作品的登场角色。"
   },
   {
+    "sp": "character",
+    "en": "futaba igarashi",
+    "zh": "五十岚双叶",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "wanderer",
+    "zh": "流浪者",
+    "in": "流浪者是游戏《原神》及其衍生作品的登场角色。"
+  },
+  {
+    "sp": "character",
+    "en": "horn",
+    "zh": "号角",
+    "in": "明日方舟六星重装干员号角"
+  },
+  {
+    "sp": "character",
+    "en": "whisperain",
+    "zh": "絮雨",
+    "in": "明日方舟五星疗养师"
+  },
+  {
+    "sp": "character",
+    "en": "andreana",
+    "zh": "安哲拉",
+    "in": "明日方舟五星神射手"
+  },
+  {
+    "sp": "character",
+    "en": "degenbrecher",
+    "zh": "锏",
+    "in": "明日方舟六星剑豪"
+  },
+  {
+    "sp": "character",
+    "en": "saileach",
+    "zh": "琴柳",
+    "in": "明日方舟六星执旗手"
+  },
+  {
+    "sp": "character",
+    "en": "pekoras mother",
+    "zh": "佩克拉妈妈",
+    "in": ""
+  },
+  {
     "sp": "group",
     "en": "1",
     "zh": "1",
@@ -49532,7 +49586,7 @@
   {
     "sp": "group",
     "en": "tinker bell",
-    "zh": "てぃんかーべる",
+    "zh": "てぃんかーべる(白夜茶会)",
     "in": ""
   },
   {
@@ -122442,6 +122496,12 @@
     "in": ""
   },
   {
+    "sp": "group",
+    "en": "tamima-ya",
+    "zh": "たみま屋",
+    "in": ""
+  },
+  {
     "sp": "artist",
     "en": "2",
     "zh": "2",
@@ -123566,8 +123626,8 @@
   {
     "sp": "artist",
     "en": "sakurazaka tsuchiyu",
-    "zh": "樱坂つちゆ",
-    "in": ""
+    "zh": "樱坂千由",
+    "in": "桜坂 つちゆ，日本男性插画师，游戏原画师，隶属MOONSTONE（月光石）。百合爱好者"
   },
   {
     "sp": "artist",
@@ -137084,7 +137144,7 @@
   {
     "sp": "artist",
     "en": "tokiwa midori",
-    "zh": "常磐緑",
+    "zh": "常磐绿",
     "in": ""
   },
   {
@@ -145064,8 +145124,8 @@
   {
     "sp": "artist",
     "en": "ace",
-    "zh": "エース",
-    "in": ""
+    "zh": "A士",
+    "in": "台湾画师"
   },
   {
     "sp": "artist",
@@ -164936,7 +164996,7 @@
   {
     "sp": "artist",
     "en": "kotatsu",
-    "zh": "虎龍",
+    "zh": "虎龍(小龍)",
     "in": ""
   },
   {
@@ -196275,7 +196335,7 @@
     "sp": "artist",
     "en": "menbou",
     "zh": "めんぼー",
-    "in": ""
+    "in": "作者推特头像"
   },
   {
     "sp": "artist",
@@ -200787,6 +200847,90 @@
     "sp": "artist",
     "en": "kamo naberou",
     "zh": "加茂なべ郎",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "hanakage alt",
+    "zh": "花影あると",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "clara.v",
+    "zh": "clara鳴晴",
+    "in": "来自台湾，女性插画师。邮箱：vincent.orz@gmail.com"
+  },
+  {
+    "sp": "artist",
+    "en": "shipuoru",
+    "zh": "しぷおる",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "mochiji",
+    "zh": "モチヂ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "mushipan",
+    "zh": "むしパン",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "kiriha",
+    "zh": "桐叶",
+    "in": "桐叶是日本的Galgame原画师，曾隶属于UGUISU KAGURA。2022年10月21日宣布8月时已从UGUISU KAGURA退社，并不再以“桐叶”名义活动。同人社团桐一葉的主宰。"
+  },
+  {
+    "sp": "artist",
+    "en": "nakata yumi",
+    "zh": "中田由美",
+    "in": "女性画师，从成人向转为了一般向"
+  },
+  {
+    "sp": "artist",
+    "en": "tamima",
+    "zh": "たみま",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "amaki",
+    "zh": "あまき",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "puru",
+    "zh": "puru",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "sheryama",
+    "zh": "シャーやま",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "hoshara",
+    "zh": "ほしゃら",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "panna",
+    "zh": "ぱんな",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "sabuustar",
+    "zh": "さぶ～☆",
     "in": ""
   },
   {
