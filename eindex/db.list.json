@@ -14118,6 +14118,24 @@
     "in": "《鹿乃子乃子虎视眈眈》（日语：しかのこのこのここしたんたん）是おしおしお创作的一部搞笑漫画，有动画等衍生作品。"
   },
   {
+    "sp": "parody",
+    "en": "tensei shitara dainana ouji datta node kimama ni majutsu o kiwamemasu",
+    "zh": "转生七王子的魔法全解",
+    "in": "《转生七王子的魔法全解》（日语：転生したら第七王子だったので、気ままに魔術を極めます）是由谦虚なサークル著作，发布于成为小说家吧的小说，并有漫画、动画改编作品。"
+  },
+  {
+    "sp": "parody",
+    "en": "dandadan",
+    "zh": "当哒当",
+    "in": "《当哒当》是由龙幸伸创作的一部漫画。原名《ダンダダン》\n常见译名：\n超自然武装当哒当\n胆大党\nDAN DA DAN"
+  },
+  {
+    "sp": "parody",
+    "en": "the coffin of andy and leyley",
+    "zh": "安迪和莱利的棺材",
+    "in": "《安迪和莱利的棺材》是一款由 Nemlei 开发并由 Kit9 Studio 为Microsoft Windows发行的心理恐怖冒险游戏。该游戏最初是在Itch.io上发布的演示版，后来在Steam上进行了扩展并以抢先体验状态发布。游戏的当前版本包含四个计划剧集中的两个，后两个目前正在开发中。该剧讲述了安德鲁·格雷夫斯和阿什利·格雷夫斯兄弟姐妹的故事，他们在试图在反乌托邦世界中生存的同时犯下了各种罪行，发现自己与彼此处于一种相互依赖的关系。"
+  },
+  {
     "sp": "character",
     "en": "alice",
     "zh": "爱丽丝",
@@ -34629,7 +34647,7 @@
     "sp": "character",
     "en": "mordred",
     "zh": "莫德雷德",
-    "in": "所属作品 Fate/Grand Order(fate grand order)"
+    "in": ""
   },
   {
     "sp": "character",
@@ -40622,8 +40640,8 @@
   {
     "sp": "character",
     "en": "pp-90",
-    "zh": "PP-90",
-    "in": "少女前线(girls frontline)"
+    "zh": "PP-90 | 乌琪",
+    "in": "少女前线(girls frontline)\n\n少女前线2:追放\n乌琪即将登场"
   },
   {
     "sp": "character",
@@ -40850,8 +40868,8 @@
   {
     "sp": "character",
     "en": "tmp",
-    "zh": "TMP",
-    "in": "少女前线(girls frontline)"
+    "zh": "TMP | 哈卜茜",
+    "in": "少女前线(girls frontline)\n\n少女前线2:追放\n哈卜茜即将登场"
   },
   {
     "sp": "character",
@@ -45388,6 +45406,126 @@
     "en": "pekoras mother",
     "zh": "佩克拉妈妈",
     "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "unzen",
+    "zh": "云仙",
+    "in": "1941年丸六计划重巡洋舰"
+  },
+  {
+    "sp": "character",
+    "en": "pp90",
+    "zh": "PP90 | 乌琪",
+    "in": "少女前线(girls frontline)\n\n少女前线2:追放\n乌琪即将登场"
+  },
+  {
+    "sp": "character",
+    "en": "mualani",
+    "zh": "玛拉妮",
+    "in": "米哈游研发的游戏《原神》及其衍生作品的登场角色。"
+  },
+  {
+    "sp": "character",
+    "en": "shiori fujisaki",
+    "zh": "藤崎诗织",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "kiwi araga",
+    "zh": "阿良河基维",
+    "in": "阿良河基维（日语：阿良河（あらが） キウィ）是小野中彰大所创作的漫画《憧憬成为魔法少女》及其衍生作品的登场角色。"
+  },
+  {
+    "sp": "character",
+    "en": "ririsa amano",
+    "zh": "天乃莉莉紗",
+    "in": "天乃莉莉纱（天乃（あまの） リリサ）是由桥本悠创作的一部漫画《2.5次元的誘惑》中的登场人物。（日語：2.5次元の誘惑（リリサ））"
+  },
+  {
+    "sp": "character",
+    "en": "lloyd de saloum",
+    "zh": "罗伊德·迪·萨卢姆",
+    "in": "「第七王子」罗伊德·迪·萨卢姆（ロイド·ディ·サルーム（Lloyd-di-Salume）)"
+  },
+  {
+    "sp": "character",
+    "en": "reina aharen",
+    "zh": "阿波连玲奈",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "suzune horikita",
+    "zh": "堀北铃音",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "fauna",
+    "zh": "塞莱希·法娜",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "momo ayase",
+    "zh": "綾瀬桃",
+    "in": "绫濑桃（モモ），日本漫画《当哒当》（日文《ダンダダン》）及其衍生作品中的女主角。"
+  },
+  {
+    "sp": "character",
+    "en": "andrew graves",
+    "zh": "安德鲁·格雷夫斯",
+    "in": "《安迪和莱利的棺材》中男主角，阿什利·格雷夫斯的哥哥"
+  },
+  {
+    "sp": "character",
+    "en": "mrs. graves",
+    "zh": "格雷夫斯太太",
+    "in": "《安迪和莱利的棺材》中兄妹的母亲"
+  },
+  {
+    "sp": "character",
+    "en": "ashley graves",
+    "zh": "阿什利·格雷夫斯",
+    "in": "《安迪和莱利的棺材》中的女主，安德鲁·格雷夫斯的妹妹"
+  },
+  {
+    "sp": "character",
+    "en": "greythroat",
+    "zh": "灰喉",
+    "in": "【代号】灰喉\n【性别】女\n【战斗经验】三年\n【出身地】未公开\n【生日】11月14日\n【种族】黎博利\n【身高】162cm\n【矿石病感染情况】\n参照医学检测报告，确认为非感染者"
+  },
+  {
+    "sp": "character",
+    "en": "pepe",
+    "zh": "佩佩",
+    "in": "【代号】佩佩\n【性别】女\n【战斗经验】三年\n【出身地】萨尔贡\n【生日】6月12日\n【种族】菲林\n【身高】155cm\n【矿石病感染情况】\n参照医学检测报告，确认为非感染者。"
+  },
+  {
+    "sp": "character",
+    "en": "proviso",
+    "zh": "但书",
+    "in": "【代号】但书\n【性别】女\n【战斗经验】没有战斗经验\n【出身地】卡西米尔\n【生日】10月30日\n【种族】库兰塔\n【身高】165cm\n【矿石病感染情况】\n参照医学检测报告，确认为非感染者。"
+  },
+  {
+    "sp": "character",
+    "en": "ines",
+    "zh": "伊内丝",
+    "in": "【代号】伊内丝\n【性别】女\n【战斗经验】十九年\n【出身地】卡兹戴尔\n【生日】2月19日\n【种族】未公开\n【身高】168cm\n【矿石病感染情况】\n参照医学检测报告，确认为感染者。"
+  },
+  {
+    "sp": "character",
+    "en": "qiubai",
+    "zh": "仇白",
+    "in": "【代号】仇白\n【性别】女\n【战斗经验】十年\n【出身地】炎\n【生日】5月14日\n【种族】埃拉菲亚\n【身高】178cm\n【矿石病感染情况】\n参照医学检测报告，确认为非感染者。"
+  },
+  {
+    "sp": "character",
+    "en": "gundo mirei",
+    "zh": "郡道美玲",
+    "in": "郡道美玲（Gundou Mirei）是隶属于彩虹社的虚拟YouTuber，男校的数学教师。将粉丝称为猪仔（子豚）。"
   },
   {
     "sp": "group",
@@ -99266,7 +99404,7 @@
   {
     "sp": "group",
     "en": "otokonoko daisuki iinchou",
-    "zh": "男の娘大好き委員長",
+    "zh": "ショタモブモム",
     "in": ""
   },
   {
@@ -122502,6 +122640,72 @@
     "in": ""
   },
   {
+    "sp": "group",
+    "en": "yotsuba no suisou",
+    "zh": "四ツ葉ノ水槽",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "gamanuntaka",
+    "zh": "がまぬんたか",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "kisei toukyoku",
+    "zh": "規制当局",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "houkago highball land",
+    "zh": "放課後ハイボールランド",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "meifu madou",
+    "zh": "めーふまどー",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "nani kashira no shokushu",
+    "zh": "なにかしらの触手",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "satsuki no usa koya",
+    "zh": "サツキのウサ小屋",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "jikabi baisen",
+    "zh": "直火焙煎",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "junk food",
+    "zh": "じゃんくふぅど",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "jiko moratorium",
+    "zh": "自己モラトリアム",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "buster app",
+    "zh": "ばすたーあっぷ",
+    "in": ""
+  },
+  {
     "sp": "artist",
     "en": "2",
     "zh": "2",
@@ -124460,7 +124664,7 @@
   {
     "sp": "artist",
     "en": "misaki takahiro",
-    "zh": "三崎高博",
+    "zh": "はぶらえる",
     "in": ""
   },
   {
@@ -138734,7 +138938,7 @@
   {
     "sp": "artist",
     "en": "sajipen",
-    "zh": "さじペん",
+    "zh": "さじぺん",
     "in": ""
   },
   {
@@ -153542,7 +153746,7 @@
   {
     "sp": "artist",
     "en": "fumio",
-    "zh": "ふみお",
+    "zh": "フミオ",
     "in": ""
   },
   {
@@ -200931,6 +201135,138 @@
     "sp": "artist",
     "en": "sabuustar",
     "zh": "さぶ～☆",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "mokuyama hito",
+    "zh": "木山ひと",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "kurotsuki machi",
+    "zh": "黒月マチ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "mameneko",
+    "zh": "まめ猫",
+    "in": "这是一只起水泡的吸塑猫。"
+  },
+  {
+    "sp": "artist",
+    "en": "richard bahman",
+    "zh": "リヒャルト・バフマン",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "boukoku daitouryou",
+    "zh": "某国大統領",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "yuuki fuumi",
+    "zh": "有機風味",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "nonohara miki",
+    "zh": "野々原幹(野野原干)",
+    "in": "维基百科\n维基百科（日语）\nhttps://dyon.sakura.ne.jp/dyondiary/"
+  },
+  {
+    "sp": "artist",
+    "en": "yumejidake",
+    "zh": "ユメジダケ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "morino koala",
+    "zh": "森乃こあら",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "genmai",
+    "zh": "玄米",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "satsuki usa",
+    "zh": "サツキのウサ小屋",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "kamishiro piyo",
+    "zh": "神代ぴよ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "tachibana kou",
+    "zh": "橘こお",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "kutsushita danshaku",
+    "zh": "靴下男爵",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "taniyama-san",
+    "zh": "谷山さん",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "kannagi rei",
+    "zh": "かんなぎれい",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "luicent",
+    "zh": "るいせんと",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "dnwls3010",
+    "zh": "ふわり",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "rucaco",
+    "zh": "るかこ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "kazesaki furea",
+    "zh": "風咲ふれあ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "teritama potekora",
+    "zh": "照玉ぽてこら",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "akabane aomori",
+    "zh": "赤羽アオモリ",
     "in": ""
   },
   {
