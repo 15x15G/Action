@@ -372,6 +372,22 @@ TZID:Asia/Tokyo
 UID:2b077b56-e782-461e-baf8-567dff6068ad
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20241011T093416Z
+SUMMARY:J-「モグモグ★コレクション ～黄金の魔典～」
+DESCRIPTION:【开到7.1开始维护的时间，等有具体时间会再改，暂定11月中旬】\n\n主要奖励：\n甜甜圈耳坠（100点）\n水蛇戒指（
+ 50点）\n\n奖励列表翻译（来自微博@止水ShinwaRyu）：\nhttps://weibo.com/1489227017/OABtakbN
+ j\n\n活动页面：\nhttps://jp.finalfantasyxiv.com/lodestone/special/mogmog-coll
+ ection/202410/ik3ur7rfxb\n
+TZID:Asia/Tokyo
+SEQUENCE:0
+UID:2bbc2af2-1d3c-467a-8bd1-ea0fd7b48cb6
+CREATED:20241011T093416Z
+DTSTART;TZID=Asia/Tokyo:20241015T170000
+DTEND;TZID=Asia/Tokyo:20241119T180000
+URL:https://jp.finalfantasyxiv.com/lodestone/special/mogmog-collection/20
+ 2410/ik3ur7rfxb
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20230113T054518Z
 SUMMARY:J-「モグモグ★コレクション ～万物の記憶～」
 DESCRIPTION:【持续到6.3更新维护，有6.3的具体时间后会再修改结束时间】\n\n对象迷宫概述（获得多少石头）：\n7石头-影之国、最
@@ -852,6 +868,20 @@ UID:64BFF39F-9086-488A-9551-5982B4AD131F
 CREATED:20220514T034928Z
 DTSTART;TZID=Asia/Tokyo:20220516T110000
 DTEND;TZID=Asia/Tokyo:20220516T190000
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241011T093037Z
+SUMMARY:J-「最大96時間 無料ログインキャンペーン」
+DESCRIPTION:活动页面：\nhttps://jp.finalfantasyxiv.com/lodestone/special/freel
+ ogincampaign/\n\n30天未契约以上的玩家在这段时间内登录游戏端就可以获得最多3天（可以一直玩到登录那天2天后的23:59）的免费
+ 游戏时长\n
+TZID:Asia/Tokyo
+SEQUENCE:0
+UID:6628d17a-e81c-48cc-98ec-edcb59a3f8be
+CREATED:20241011T093037Z
+DTSTART;TZID=Asia/Tokyo:20241011T170000
+DTEND;TZID=Asia/Tokyo:20241031T235900
+URL:https://jp.finalfantasyxiv.com/lodestone/special/freelogincampaign/
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20241011T092702Z
