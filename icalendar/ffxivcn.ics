@@ -2764,6 +2764,20 @@ DTSTART;TZID=Asia/Tokyo:20240516T200000
 DTEND;TZID=Asia/Tokyo:20240516T220000
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20241011T093843Z
+SUMMARY:C-艾欧泽亚通行证 #仙子猪大王的试炼#
+DESCRIPTION:和之前包含煎蛋的通行证同样的通行证模式。对老玩家来说多半是已经拥有过的奖励了。\n详情可进活动页面看。\n\n每日任务要求
+ ：当天内通关一次任意副本，完成后可获得500经验值，每日仅统计一次，当日未领取的经验值可在活动结束前任意一天领取。\n\n活动页面：\nhttp
+ s://actff1.web.sdo.com/20240621_C2_eorzea/index.html#/index
+TZID:Asia/Shanghai
+SEQUENCE:0
+UID:f4f5a90a-d82d-4171-8795-c2dd69c53337
+CREATED:20241011T093843Z
+DTSTART;TZID=Asia/Shanghai:20240927T000000
+DTEND;TZID=Asia/Shanghai:20241107T235900
+URL:https://actff1.web.sdo.com/20240621_C2_eorzea/index.html#/index
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20240202T125127Z
 SUMMARY:C-雇员改名限时优惠
 DESCRIPTION:额外雇员原价120元，现价96元。\n改名服务原价100元，现价50元。\n\n后勤补给站页面：\nhttps://act
