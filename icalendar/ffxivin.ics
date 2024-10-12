@@ -870,15 +870,15 @@ DTSTART;TZID=Asia/Tokyo:20220516T110000
 DTEND;TZID=Asia/Tokyo:20220516T190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241011T093037Z
+DTSTAMP:20241012T064752Z
 SUMMARY:J-「最大96時間 無料ログインキャンペーン」
 DESCRIPTION:活动页面：\nhttps://jp.finalfantasyxiv.com/lodestone/special/freel
  ogincampaign/\n\n30天未契约以上的玩家在这段时间内登录游戏端就可以获得最多3天（可以一直玩到登录那天2天后的23:59）的免费
- 游戏时长\n
+ 游戏时长\n*时间是从输完密码点击更新游戏那一刻开始算的。\n
 TZID:Asia/Tokyo
 SEQUENCE:0
 UID:6628d17a-e81c-48cc-98ec-edcb59a3f8be
-CREATED:20241011T093037Z
+CREATED:20241012T064752Z
 DTSTART;TZID=Asia/Tokyo:20241011T170000
 DTEND;TZID=Asia/Tokyo:20241031T235900
 URL:https://jp.finalfantasyxiv.com/lodestone/special/freelogincampaign/
