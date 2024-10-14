@@ -1185,7 +1185,7 @@
     "sp": "parody",
     "en": "pripara",
     "zh": "美妙天堂",
-    "in": "又译《星光乐园》，游戏不了解"
+    "in": "《美妙天堂》（日语：プリパラ；英语：PriPara[1]）是由TAKARA TOMY A.R.T.S和syn Sophia共同开发的一款街机游戏，并有漫画、电视动画、电影动画等衍生作品。本作为《美妙系列》的第二作。"
   },
   {
     "sp": "parody",
@@ -14136,6 +14136,24 @@
     "in": "《安迪和莱利的棺材》是一款由 Nemlei 开发并由 Kit9 Studio 为Microsoft Windows发行的心理恐怖冒险游戏。该游戏最初是在Itch.io上发布的演示版，后来在Steam上进行了扩展并以抢先体验状态发布。游戏的当前版本包含四个计划剧集中的两个，后两个目前正在开发中。该剧讲述了安德鲁·格雷夫斯和阿什利·格雷夫斯兄弟姐妹的故事，他们在试图在反乌托邦世界中生存的同时犯下了各种罪行，发现自己与彼此处于一种相互依赖的关系。"
   },
   {
+    "sp": "parody",
+    "en": "kanpani girls",
+    "zh": "企业少女",
+    "in": "《企业少女》日语：かんぱに☆ガールズ，简称《社长》，是由DMM GAMES开发、DMM.com提供及营运中的网页游戏。"
+  },
+  {
+    "sp": "parody",
+    "en": "tenkafuma",
+    "zh": "天下布魔",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "kaitou tenshi twin angel",
+    "zh": "快盗天使双胞胎",
+    "in": "《快盗天使双胞胎》（日语：快盗天使ツインエンジェル；英语：Kaito Tenshi Twin Angel，时常简称为快盗天使）是由TRIVY公司制作的角子机。机台的看板娘便是最初快盗天使角色的原型。后随着机台型号的演变而甚至有了漫画的连载及动画的制作。"
+  },
+  {
     "sp": "character",
     "en": "alice",
     "zh": "爱丽丝",
@@ -23829,7 +23847,7 @@
     "sp": "character",
     "en": "hayate yagami",
     "zh": "八神疾风",
-    "in": ""
+    "in": "八神疾风是《魔法少女奈叶》系列作品及其衍生作品的登场角色。\n\n八神疾风是暗之书事件的中心人物，时空管理局的魔导师，擅长贝尔卡式广域·远程魔法，拥有庞大的魔力，但并不擅长魔力的精密控制。"
   },
   {
     "sp": "character",
@@ -27027,7 +27045,7 @@
     "sp": "character",
     "en": "cynthia",
     "zh": "竹兰 | 辛西娅",
-    "in": ""
+    "in": "竹兰（又译希罗娜，日文︰シロナ Shirona，英文︰Cynthia）是GAME FREAK旗下的游戏《宝可梦系列》及其衍生作品的登场角色。"
   },
   {
     "sp": "character",
@@ -28179,7 +28197,7 @@
     "sp": "character",
     "en": "dawn",
     "zh": "小光",
-    "in": "精灵宝可梦，钻石&珍珠（女主角）"
+    "in": "小光（日文︰ヒカリ，英文︰Dawn）是Game Freak旗下的游戏《宝可梦系列》及其衍生作品的登场角色，动画《宝可梦 钻石＆珍珠》的女主角之一。"
   },
   {
     "sp": "character",
@@ -45526,6 +45544,96 @@
     "en": "gundo mirei",
     "zh": "郡道美玲",
     "in": "郡道美玲（Gundou Mirei）是隶属于彩虹社的虚拟YouTuber，男校的数学教师。将粉丝称为猪仔（子豚）。"
+  },
+  {
+    "sp": "character",
+    "en": "catura",
+    "zh": "夏托拉",
+    "in": "日文名：シャトラ"
+  },
+  {
+    "sp": "character",
+    "en": "korisu morino",
+    "zh": "杜乃可莉丝",
+    "in": "杜乃可莉丝（日语：杜乃（もりの） こりす）是小野中彰大所创作的漫画《憧憬成为魔法少女》及其衍生作品的登场角色。"
+  },
+  {
+    "sp": "character",
+    "en": "heian maru",
+    "zh": "平安丸",
+    "in": "平安丸是《舰队收藏》中的角色。\n\n（日语：平安丸／へいあんまる Heian-maru）曾为日本邮船公司所有之货客兼用轮船。于1951年已经建造有第2代货物船“平安丸”，本项只解说第1代的“平安丸”货客船。\n2021年5月8日，与活动一起实装，由潜水母舰与潜艇一起消耗道具发动的特殊攻击"
+  },
+  {
+    "sp": "character",
+    "en": "reinforce zwei",
+    "zh": "琳芙斯II",
+    "in": "日本动画《魔法少女奈叶A's》及其衍生作品中角色\n\n琳芙斯Ⅱ是日本动画《魔法少女奈叶A’s》及其衍生作品中的角色，由野上由加奈配音。\n琳芙斯II是暗之书事件结束之后出生的“融合骑”，是八神家最小的孩子。特殊情况时，会辅助疾风的魔法来行使。"
+  },
+  {
+    "sp": "character",
+    "en": "seiko yoshida",
+    "zh": "吉田清子",
+    "in": "吉田清子是由伊藤いづも所创作的漫画《街角魔族》及其衍生作品中的登场角色。"
+  },
+  {
+    "sp": "character",
+    "en": "arthur pendragon",
+    "zh": "亚瑟·潘德拉贡",
+    "in": "亚瑟·潘德拉贡是TYPE-MOON旗下《Fate系列》及其衍生作品的登场角色。在《Fate/Prototype》及前传《Fate/Prototype 苍银的碎片》中登场。"
+  },
+  {
+    "sp": "character",
+    "en": "inutade",
+    "zh": "犬蓼",
+    "in": "犬蓼（イヌタデ），《迷宫饭》（ダンジョン飯；Delicious in Dungeon）中的登场角色。\n\n巨魔女性，身材高大的怪力少女，以狼牙棒为武器。"
+  },
+  {
+    "sp": "character",
+    "en": "nina iseri",
+    "zh": "井芹仁菜",
+    "in": "井芹仁菜（日语：井芹（いせり） 仁菜（にな））是由东映动画策划的原创动画《iGIRLS BAND CRY》及其衍生作品的登场角色。代表色为红色。"
+  },
+  {
+    "sp": "character",
+    "en": "subaru awa",
+    "zh": "安和昴",
+    "in": "安和昴（日语：安和（あわ） すばる）是由东映动画策划的原创动画《GIRLS BAND CRY》及其衍生作品的登场角色。代表色为绿色。"
+  },
+  {
+    "sp": "character",
+    "en": "momoka kawaragi",
+    "zh": "河原木桃香",
+    "in": "河原木桃香（日语：河原木（かわらぎ） 桃香（ももか））是由东映动画策划的原创动画《GIRLS BAND CRY》及其衍生作品的登场角色。代表色为浅蓝色。"
+  },
+  {
+    "sp": "character",
+    "en": "rupa",
+    "zh": "RUPA",
+    "in": "RUPA是由东映动画策划的原创动画《GIRLS BAND CRY》及其衍生作品的登场角色。代表色为黄色。"
+  },
+  {
+    "sp": "character",
+    "en": "tomo ebizuka",
+    "zh": "海老冢智",
+    "in": "海老冢智（日语：海老塚（えびづか） 智（とも））是由东映动画策划的原创动画《GIRLS BAND CRY》及其衍生作品的登场角色。代表色为粉红色。"
+  },
+  {
+    "sp": "character",
+    "en": "yukari ayase",
+    "zh": "绫濑由加莉",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "hiromi seki",
+    "zh": "关裕美",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "swiftsure",
+    "zh": "确捷",
+    "in": ""
   },
   {
     "sp": "group",
@@ -122703,6 +122811,90 @@
     "sp": "group",
     "en": "buster app",
     "zh": "ばすたーあっぷ",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "ofuro haitta erai",
+    "zh": "お風呂入ったえらい",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "187 seibutsu",
+    "zh": "187生物",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "futari bocchi no solitude",
+    "zh": "ふたりぼっちのSolitude",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "sarukome",
+    "zh": "サルコメ",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "unidentified flying baumkuchen",
+    "zh": "未確認飛行ばーむくーへん",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "setsugetsuhuuka",
+    "zh": "雪月楓花",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "putama koubou",
+    "zh": "ぷ玉工房",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "natsukian",
+    "zh": "七月庵",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "kikiki no kikki",
+    "zh": "きききのきっき",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "nekomaya",
+    "zh": "ねこまや",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "kurage no suizou",
+    "zh": "くらげのすいそう",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "neko no youchuu kansatsukai",
+    "zh": "猫の幼虫観察会",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "fumotonoya",
+    "zh": "梺乃屋",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "yorunineru",
+    "zh": "ヨルニネル",
     "in": ""
   },
   {
@@ -201270,6 +201462,228 @@
     "in": ""
   },
   {
+    "sp": "artist",
+    "en": "yusano",
+    "zh": "ゆさの",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "yukiko",
+    "zh": "雪子",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "shintarou",
+    "zh": "しんたろー",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "nanohana kohina",
+    "zh": "なのはなこひな",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "annin doufu",
+    "zh": "杏仁豆腐",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "surada mami",
+    "zh": "すらだまみ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "oomiya",
+    "zh": "お一みや",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "hatopopoko",
+    "zh": "ハトポポコ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "shinjou ruru",
+    "zh": "新条るる",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "chochomi",
+    "zh": "チョチョミ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "ikamatsu",
+    "zh": "烏賊松",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "yodogawa yuo",
+    "zh": "淀川ゆお",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "washuu",
+    "zh": "わしゅう",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "annin musou",
+    "zh": "杏仁無双",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "take shinshi",
+    "zh": "たけ紳士",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "nanase kokono",
+    "zh": "七瀬玖",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "matsumoto kichidi",
+    "zh": "松本きちぢ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "tachikawa natsuki",
+    "zh": "太刀川七月",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "kotakemaru",
+    "zh": "小竹丸",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "nekomugi",
+    "zh": "猫麦",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "yuyuco",
+    "zh": "ゆゆこ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "karya",
+    "zh": "かりゃー",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "kanora",
+    "zh": "かのら",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "metako",
+    "zh": "めた子",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "hiroki00",
+    "zh": "Hiro潶",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "keganin",
+    "zh": "毛蟹ん",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "yuzu kiro",
+    "zh": "ゆずきいろ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "nekoma kotomitsu",
+    "zh": "猫間ことみつ | 猫間ことみ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "particular",
+    "zh": "ぱてくらー",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "karashina en",
+    "zh": "カラシナ円",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "hagakure kurage",
+    "zh": "葉隠くらげ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "tamon sakaki",
+    "zh": "多紋サカキ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "asano tooru",
+    "zh": "あさの透",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "uiri",
+    "zh": "ういり",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "fujiyoshi",
+    "zh": "ふじよし",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "harumachi uro",
+    "zh": "春待うろ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "yorune",
+    "zh": "ヨルネ",
+    "in": ""
+  },
+  {
     "sp": "cosplayer",
     "en": "otohara an",
     "zh": "乙原あん",
@@ -201471,7 +201885,7 @@
     "sp": "cosplayer",
     "en": "hoshilily",
     "zh": "星之迟迟",
-    "in": ""
+    "in": "墨白影画工作室成员，COSER\n喜欢扮演游戏明日方舟、碧蓝航线里面的角色，还原的也非常棒！\n星之迟迟，知名动漫博主，93年甘肃妹子，也是一位coser，活跃微博人气不错。\n（资料来源于网上，可能已经过时）"
   },
   {
     "sp": "cosplayer",
@@ -201909,6 +202323,12 @@
     "sp": "cosplayer",
     "en": "tao liang azhai",
     "zh": "桃良阿宅",
+    "in": ""
+  },
+  {
+    "sp": "cosplayer",
+    "en": "guaxichan",
+    "zh": "瓜希酱",
     "in": ""
   },
   {
