@@ -1117,17 +1117,18 @@ DTSTART;TZID=Asia/Shanghai:20210608T120000
 DTEND;TZID=Asia/Shanghai:20210608T160000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241017T084859Z
+DTSTAMP:20241021T073451Z
 SUMMARY:C-7.01版本更新维护（至天之座阿卡迪亚更新，下礼拜更新零式和HQ等）
-DESCRIPTION:公告页面：\nhttps://ff.web.sdo.com/web8/index.html#/newstab/newsco
- nt/366212
+DESCRIPTION:更新笔记：\nhttps://ff.web.sdo.com/web8/index.html#/newstab/newsco
+ nt/366229\n\n公告页面：\nhttps://ff.web.sdo.com/web8/index.html#/newstab/news
+ cont/366212
 TZID:Asia/Tokyo
 SEQUENCE:0
 UID:6cb52974-7cbd-4c2b-8861-4e5100b98b2d
-CREATED:20241017T084859Z
+CREATED:20241021T073451Z
 DTSTART;VALUE=DATE:20241022
 DTEND;VALUE=DATE:20241023
-URL:https://ff.web.sdo.com/web8/index.html#/newstab/newscont/366212
+URL:https://ff.web.sdo.com/web8/index.html#/newstab/newscont/366229
 END:VEVENT
 BEGIN:VEVENT
 CREATED:20220519T084302Z
@@ -1634,15 +1635,17 @@ DTSTART;TZID=Asia/Shanghai:20230519T140000
 DTEND;TZID=Asia/Shanghai:20230522T140000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231020T175026Z
-SUMMARY:（预测）C-守护天节
-DESCRIPTION:活动奖励：\n情感动作-「守護天節のおまじない」\n家具-墙上-「ウォールヴァンパイアバットオブジェ」\n
-TZID:Asia/Tokyo
+DTSTAMP:20241021T073433Z
+SUMMARY:C-守护天节「人类的心情是何种滋味？」
+DESCRIPTION:活动页面：\nhttps://actff1.web.sdo.com/project/20241025AllSaintsWa
+ ke/\n\n活动奖励：\n情感动作-「守护天节的魔咒」\n家具-墙上-「壁挂式吸血蝙蝠装饰」\n
+TZID:Asia/Shanghai
 SEQUENCE:0
 UID:9EC0FE92-4EEA-4050-AE10-7AF06C7F2D63
-CREATED:20231020T175026Z
-DTSTART;VALUE=DATE:20241029
-DTEND;VALUE=DATE:20241030
+CREATED:20241021T073433Z
+DTSTART;TZID=Asia/Shanghai:20241025T140000
+DTEND;TZID=Asia/Shanghai:20241108T140000
+URL:https://actff1.web.sdo.com/project/20241025AllSaintsWake/
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20240622T023226Z
