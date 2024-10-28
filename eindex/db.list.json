@@ -14079,7 +14079,7 @@
     "sp": "parody",
     "en": "wonderful precure",
     "zh": "美妙宠物 光之美少女",
-    "in": ""
+    "in": "《美妙宠物 光之美少女》（日语：わんだふるぷりきゅあ！，英语：WonderfulPrecure!，简称“わんぷり”）是由东堂泉制作的魔法少女动画，\n为“光之美少女系列”第二十一作，第十九代光之美少女，2024年2月4日在全日本新闻网的电视台播放。"
   },
   {
     "sp": "parody",
@@ -14152,6 +14152,12 @@
     "en": "kaitou tenshi twin angel",
     "zh": "快盗天使双胞胎",
     "in": "《快盗天使双胞胎》（日语：快盗天使ツインエンジェル；英语：Kaito Tenshi Twin Angel，时常简称为快盗天使）是由TRIVY公司制作的角子机。机台的看板娘便是最初快盗天使角色的原型。后随着机台型号的演变而甚至有了漫画的连载及动画的制作。"
+  },
+  {
+    "sp": "parody",
+    "en": "kaijin kaihatsubu no kuroitsu-san",
+    "zh": "怪人开发部的黑井津",
+    "in": "《怪人开发部的黑井津》（日语：怪人開発部の黒井津さん；英语：Miss Kuroitsu from the Monster Development Department）是水崎弘明于2019年4月17日在网络漫画平台COMIC Meteor上发表的单篇漫画，并于2020年10月7日起在同网站上开始正式连载。本作亦有改编动画。"
   },
   {
     "sp": "character",
@@ -37142,8 +37148,8 @@
   {
     "sp": "character",
     "en": "kokona sunohara",
-    "zh": "春原心菜",
-    "in": "春原心菜（日语：春原 ココナ）是Nexon发行的游戏《蔚蓝档案》及其衍生作品中的登场角色。"
+    "zh": "春原心奈",
+    "in": "春原心奈（日语：春原 ココナ）是Nexon发行的游戏《蔚蓝档案》及其衍生作品中的登场角色。"
   },
   {
     "sp": "character",
@@ -45433,12 +45439,6 @@
   },
   {
     "sp": "character",
-    "en": "pp90",
-    "zh": "PP90 | 乌琪",
-    "in": "少女前线(girls frontline)\n\n少女前线2:追放\n乌琪即将登场"
-  },
-  {
-    "sp": "character",
     "en": "mualani",
     "zh": "玛拉妮",
     "in": "米哈游研发的游戏《原神》及其衍生作品的登场角色。"
@@ -45520,12 +45520,6 @@
     "en": "pepe",
     "zh": "佩佩",
     "in": "【代号】佩佩\n【性别】女\n【战斗经验】三年\n【出身地】萨尔贡\n【生日】6月12日\n【种族】菲林\n【身高】155cm\n【矿石病感染情况】\n参照医学检测报告，确认为非感染者。"
-  },
-  {
-    "sp": "character",
-    "en": "proviso",
-    "zh": "但书",
-    "in": "【代号】但书\n【性别】女\n【战斗经验】没有战斗经验\n【出身地】卡西米尔\n【生日】10月30日\n【种族】库兰塔\n【身高】165cm\n【矿石病感染情况】\n参照医学检测报告，确认为非感染者。"
   },
   {
     "sp": "character",
@@ -46106,8 +46100,170 @@
   {
     "sp": "character",
     "en": "miku emori",
-    "zh": "絵守未來",
-    "in": "待っているなら沸かすぜフォロワー！美少女アートと革新技術\"X ART\"のマスコットキャラクター。 主に絵師さん向けの「絵を描く仕事を創る仕事」をしています。 FANBOXで全てをさらけ出しています。"
+    "zh": "绘守未来",
+    "in": "待っているなら沸かすぜフォロワー！美少女アートと革新技術\"X ART\"のマスコットキャラクター。 主に絵師さん向けの「絵を描く仕事を創る仕事」をしています。 FANBOXで全てをさらけ出しています。\n\n\"絵守未來\"（Emori Mirai）是一个虚拟角色，而不是现实中的画师。\"絵守未來\"是由日本的「pixiv」推出的虚拟YouTuber（VTuber），她的角色设计与背景是由 pixiv 官方策划与运营的。她的名字中“絵守”可以理解为“守护画作”的意思，这与她的定位有关，她象征着支持艺术创作者，特别是插画师和画师社区。她经常与创作者们进行互动，并通过她的频道分享与艺术相关的内容。\n\n因此，她的存在更多是作为一个虚拟形象，用于推广与支持艺术创作的相关活动。"
+  },
+  {
+    "sp": "character",
+    "en": "shimiko endou",
+    "zh": "圆堂志美子",
+    "in": "圆堂志美子是 Nexon 发行的游戏《蔚蓝档案》及其衍生作品中的登场角色。"
+  },
+  {
+    "sp": "character",
+    "en": "melissa mao",
+    "zh": "梅丽莎·毛",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "diane",
+    "zh": "黛安娜",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "rappa",
+    "zh": "乱破",
+    "in": "乱破是米哈游制作的游戏《崩坏：星穹铁道》及其衍生作品的登场角色。"
+  },
+  {
+    "sp": "character",
+    "en": "lingsha",
+    "zh": "灵砂",
+    "in": "灵砂是米哈游制作的游戏崩坏：星穹铁道及其衍生作品的登场角色。"
+  },
+  {
+    "sp": "character",
+    "en": "mikoto uchiha",
+    "zh": "宇智波美琴",
+    "in": "![宇智波美琴]\n()\n鼬和佐助的母親，宇智波富岳的妻子，漩渦玖辛奈的好友"
+  },
+  {
+    "sp": "character",
+    "en": "rin nohara",
+    "zh": "野原琳",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "obito uchiha",
+    "zh": "宇智波带土",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "karin uzumaki",
+    "zh": "漩涡香燐",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "suigetsu hozuki",
+    "zh": "鬼灯水月",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "kaguya ootsutsuki",
+    "zh": "大筒木辉夜",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "konohamaru sarutobi",
+    "zh": "猿飞木叶丸",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "sumire kakei",
+    "zh": "笕堇",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "iruka umino",
+    "zh": "海野伊鲁卡",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "kabuto yakushi",
+    "zh": "药师兜",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "might guy",
+    "zh": "迈特凯",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "rock lee",
+    "zh": "洛克李",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "kankuro",
+    "zh": "勘九郎",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "gaara",
+    "zh": "我爱罗",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "neji hyuga",
+    "zh": "日向宁次",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "shino aburame",
+    "zh": "油女志乃",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "kin tsuchi",
+    "zh": "琴·槌",
+    "in": "《火影忍者》及其衍生作品中的女性角色，音隐村的下忍。"
+  },
+  {
+    "sp": "character",
+    "en": "haku",
+    "zh": "白",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "zabuza momochi",
+    "zh": "桃地再不斩",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "veldora tempest",
+    "zh": "维鲁德拉·特恩佩斯特",
+    "in": "维鲁德拉·特恩佩斯特是伏濑所创作的小说《关于我转生变成史莱姆这档事》及其衍生作品的登场角色。"
+  },
+  {
+    "sp": "character",
+    "en": "mavuika",
+    "zh": "玛薇卡",
+    "in": "玛薇卡是米哈游创作的游戏《原神》及其衍生作品的登场角色。"
+  },
+  {
+    "sp": "character",
+    "en": "misuzu hataya",
+    "zh": "秦谷美铃",
+    "in": "秦谷美铃（Hataya Misuzu  ）是手机游戏《学园偶像大师》中的角色之一。"
   },
   {
     "sp": "group",
@@ -55496,7 +55652,7 @@
   {
     "sp": "group",
     "en": "murakami suigun no yakata",
-    "zh": "村上水軍の館",
+    "zh": "村上水军の馆",
     "in": ""
   },
   {
@@ -57416,7 +57572,7 @@
   {
     "sp": "group",
     "en": "toushitu catapult",
-    "zh": "糖質過多ぱると",
+    "zh": "糖质过多ぱると",
     "in": ""
   },
   {
@@ -59420,7 +59576,7 @@
   {
     "sp": "group",
     "en": "junjou harinezumi",
-    "zh": "純情ハリネズミ",
+    "zh": "纯情ハリネズミ",
     "in": ""
   },
   {
@@ -69687,7 +69843,7 @@
     "sp": "group",
     "en": "cotton candy",
     "zh": "Cotton Candy",
-    "in": ""
+    "in": "こっとんきゃんでぃ"
   },
   {
     "sp": "group",
@@ -72075,12 +72231,6 @@
     "sp": "group",
     "en": "doushin chaya",
     "zh": "童心茶屋",
-    "in": ""
-  },
-  {
-    "sp": "group",
-    "en": "doutei shokudou",
-    "zh": "童貞食堂",
     "in": ""
   },
   {
@@ -75104,7 +75254,7 @@
   {
     "sp": "group",
     "en": "fushinsya guilty",
-    "zh": "不審者罪",
+    "zh": "不审者罪",
     "in": ""
   },
   {
@@ -80233,7 +80383,7 @@
   },
   {
     "sp": "group",
-    "en": "hiyashi chuuka hajimemashita",
+    "en": "hiyashi chuuka owarimashita",
     "zh": "冷し中華おわりました",
     "in": ""
   },
@@ -80780,7 +80930,7 @@
   {
     "sp": "group",
     "en": "hoshi ni kaeru",
-    "zh": "星に帰る!",
+    "zh": "星に归る!",
     "in": ""
   },
   {
@@ -81464,7 +81614,7 @@
   {
     "sp": "group",
     "en": "ichiokunen wakusei",
-    "zh": "1億年惑星",
+    "zh": "1亿年惑星",
     "in": ""
   },
   {
@@ -84722,7 +84872,7 @@
   {
     "sp": "group",
     "en": "kasou genjitsu",
-    "zh": "禍葬現実",
+    "zh": "祸葬现实",
     "in": ""
   },
   {
@@ -93464,7 +93614,7 @@
   {
     "sp": "group",
     "en": "mochi dog laboratory",
-    "zh": "餅犬製作所",
+    "zh": "餅犬製作所饼犬",
     "in": ""
   },
   {
@@ -112351,12 +112501,6 @@
   },
   {
     "sp": "group",
-    "en": "takeyamaya",
-    "zh": "茸山屋",
-    "in": ""
-  },
-  {
-    "sp": "group",
     "en": "takimoto doujou",
     "zh": "滝本道場",
     "in": ""
@@ -113919,7 +114063,7 @@
     "sp": "group",
     "en": "tk jesus",
     "zh": "TKジーザス",
-    "in": ""
+    "in": "茸山屋"
   },
   {
     "sp": "group",
@@ -116972,7 +117116,7 @@
   {
     "sp": "group",
     "en": "vagina dentata",
-    "zh": "有齒女陰",
+    "zh": "有齿女阴",
     "in": ""
   },
   {
@@ -120992,7 +121136,7 @@
   {
     "sp": "group",
     "en": "jikahatsudensho",
-    "zh": "自家発電処",
+    "zh": "自家发电处",
     "in": ""
   },
   {
@@ -122000,7 +122144,7 @@
   {
     "sp": "group",
     "en": "shiosai",
-    "zh": "潮騒",
+    "zh": "潮骚",
     "in": ""
   },
   {
@@ -122408,7 +122552,7 @@
   {
     "sp": "group",
     "en": "ginshio honpo",
-    "zh": "銀しお本舗",
+    "zh": "银しお本铺",
     "in": ""
   },
   {
@@ -122997,7 +123141,7 @@
     "sp": "group",
     "en": "hatome honpo",
     "zh": "はとめ本舗",
-    "in": "はとめ本舗 是 はとめ 老师所在社团名称"
+    "in": "はとめ本舗 是 はとめ(hatome) 老师所在社团名称"
   },
   {
     "sp": "group",
@@ -123212,8 +123356,8 @@
   {
     "sp": "group",
     "en": "urasujibeya",
-    "zh": "裏筋部屋",
-    "in": ""
+    "zh": "里筋部屋",
+    "in": "画师里筋侍(urasuji samurai)所属社团"
   },
   {
     "sp": "group",
@@ -123429,6 +123573,222 @@
     "sp": "group",
     "en": "koharu biyori",
     "zh": "こはるびより",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "kemomimi-chan ya",
+    "zh": "ケモミミちゃん屋",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "fukurasuzume",
+    "zh": "ふくらすずめ",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "fuuzen lamp",
+    "zh": "風前ランプ",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "tokyo manga kenkyuujo",
+    "zh": "東京漫画研究所",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "rockydou",
+    "zh": "ロッキー堂",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "gyuutan teishoku e no koi",
+    "zh": "牛タン定食への恋",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "omuretsu server",
+    "zh": "オムレツサーバー",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "kanons november",
+    "zh": "Kanon's November",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "sanbalkin",
+    "zh": "サンバルキン",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "muramura murason",
+    "zh": "むらむら村ソン",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "doushoku",
+    "zh": "どうしょく",
+    "in": "童貞食堂"
+  },
+  {
+    "sp": "group",
+    "en": "platinum cape",
+    "zh": "プラチナケイプ",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "unadondon",
+    "zh": "うな井井",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "tabibitto",
+    "zh": "たびびっと",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "hakutoutei",
+    "zh": "白桃亭",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "iyashiyu",
+    "zh": "愈し汤",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "yumemizato",
+    "zh": "夢見里",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "chidori ashi",
+    "zh": "ちどりあし",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "shounen brief kenkyuujo",
+    "zh": "少年ブリーフ研究所",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "rotstudio",
+    "zh": "Rot Studio",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "ayrt koubou",
+    "zh": "えあと工房",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "showa shojo",
+    "zh": "昭和少女",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "tankonbu.",
+    "zh": "たんこんぶ。",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "tamani wa shinruchuu",
+    "zh": "たまには杏露酒",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "tamamo-ya",
+    "zh": "たまも屋",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "teruterugirl",
+    "zh": "天乃辉",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "shimanami",
+    "zh": "しまなみ",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "rakure cheese koubou",
+    "zh": "らくれチーズ工房",
+    "in": "画师甜米らくれ(umagome rakure)所属社团"
+  },
+  {
+    "sp": "group",
+    "en": "akatsuki oboezu",
+    "zh": "あかつきおぼえず",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "katugi-ya",
+    "zh": "かつぎ屋",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "mad capsule",
+    "zh": "MAD CAPSULE",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "juicy hassaku",
+    "zh": "ジューシーはっさく",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "ichinichi futsuka",
+    "zh": "いちにちふつか",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "peanuts koubou",
+    "zh": "ピーナッツ工房",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "mizuarai no kai",
+    "zh": "水洗いの会",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "senpuku basho",
+    "zh": "潜伏場所",
     "in": ""
   },
   {
@@ -124515,7 +124875,7 @@
     "sp": "artist",
     "en": "ouma tokiichi",
     "zh": "逢魔刻壹",
-    "in": ""
+    "in": "逢魔刻壱"
   },
   {
     "sp": "artist",
@@ -130892,7 +131252,7 @@
   {
     "sp": "artist",
     "en": "kurokawa otogi",
-    "zh": "黒川おとぎ",
+    "zh": "黑川おとぎ",
     "in": ""
   },
   {
@@ -130958,7 +131318,7 @@
   {
     "sp": "artist",
     "en": "kokonoki nao",
-    "zh": "ここのき奈緒",
+    "zh": "ここのき奈绪",
     "in": ""
   },
   {
@@ -132932,8 +133292,8 @@
   {
     "sp": "artist",
     "en": "karube guri",
-    "zh": "軽部ぐり",
-    "in": ""
+    "zh": "轻部ぐり",
+    "in": "作者推特头像"
   },
   {
     "sp": "artist",
@@ -136982,7 +137342,7 @@
   {
     "sp": "artist",
     "en": "kiiroi tamago",
-    "zh": "黄色的蛋",
+    "zh": "きいろいたまご",
     "in": "きいろいたまご\n成人向漫画家。\n\n作者推特头像\n单行本《性春ホリック》"
   },
   {
@@ -137966,7 +138326,7 @@
   {
     "sp": "artist",
     "en": "murakami suigun",
-    "zh": "村上水軍",
+    "zh": "村上水军",
     "in": ""
   },
   {
@@ -138050,7 +138410,7 @@
   {
     "sp": "artist",
     "en": "haguruma",
-    "zh": "歯車",
+    "zh": "齿车",
     "in": ""
   },
   {
@@ -141980,7 +142340,7 @@
   {
     "sp": "artist",
     "en": "nogiwa kaede",
-    "zh": "野際かえで",
+    "zh": "野际かえで",
     "in": ""
   },
   {
@@ -142106,7 +142466,7 @@
   {
     "sp": "artist",
     "en": "kameyama shiruko",
-    "zh": "亀山しるこ",
+    "zh": "龟山しるこ",
     "in": "作者推特头像\n\n\n\n作品"
   },
   {
@@ -142304,8 +142664,8 @@
   {
     "sp": "artist",
     "en": "himuro shunsuke",
-    "zh": "氷室しゅんすけ",
-    "in": ""
+    "zh": "冰室しゅんすけ",
+    "in": "作者推特头像"
   },
   {
     "sp": "artist",
@@ -143036,8 +143396,8 @@
   {
     "sp": "artist",
     "en": "tsuruyama mito",
-    "zh": "鶴山ミト",
-    "in": "鶴山ミト 是日本漫画家，作品主要为成人向萝莉(lolicon)系漫画。\n\n作者推特头像\n单行本《ちびっこふぇろもん》"
+    "zh": "鹤山ミト",
+    "in": "作品"
   },
   {
     "sp": "artist",
@@ -146654,7 +147014,7 @@
   {
     "sp": "artist",
     "en": "akane",
-    "zh": "あかね",
+    "zh": "茜",
     "in": ""
   },
   {
@@ -147950,7 +148310,7 @@
   {
     "sp": "artist",
     "en": "anma",
-    "zh": "安間",
+    "zh": "安间",
     "in": ""
   },
   {
@@ -156908,7 +157268,7 @@
   {
     "sp": "artist",
     "en": "hasekura noise",
-    "zh": "支倉ノイズ",
+    "zh": "支仓ノイズ",
     "in": ""
   },
   {
@@ -158156,8 +158516,8 @@
   {
     "sp": "artist",
     "en": "hirota masatane",
-    "zh": "廣田眞胤",
-    "in": ""
+    "zh": "广田真胤",
+    "in": "作者推特头像\n\n社团有齿女阴(vagina dentata)主笔画师"
   },
   {
     "sp": "artist",
@@ -159368,7 +159728,7 @@
   {
     "sp": "artist",
     "en": "ichiokunen wakusei",
-    "zh": "1億年惑星",
+    "zh": "ichi",
     "in": ""
   },
   {
@@ -159650,7 +160010,7 @@
   {
     "sp": "artist",
     "en": "ikue fuji",
-    "zh": "幾枝風児",
+    "zh": "几枝风儿",
     "in": ""
   },
   {
@@ -164582,7 +164942,7 @@
   {
     "sp": "artist",
     "en": "kirin kakeru",
-    "zh": "木鈴カケル",
+    "zh": "木铃カケル",
     "in": ""
   },
   {
@@ -165926,8 +166286,8 @@
   {
     "sp": "artist",
     "en": "kotatsu",
-    "zh": "虎龍(小龍)",
-    "in": ""
+    "zh": "小龍",
+    "in": "こたつ"
   },
   {
     "sp": "artist",
@@ -176990,7 +177350,7 @@
   {
     "sp": "artist",
     "en": "ohara makoto",
-    "zh": "おはら誠",
+    "zh": "おはら诚",
     "in": ""
   },
   {
@@ -188912,7 +189272,7 @@
   {
     "sp": "artist",
     "en": "tomiyama akiji",
-    "zh": "兎耳山アキジ",
+    "zh": "兔耳山アキジ",
     "in": ""
   },
   {
@@ -191804,7 +192164,7 @@
   {
     "sp": "artist",
     "en": "watanuki lon",
-    "zh": "綿貫ろん",
+    "zh": "棉贯ろん",
     "in": ""
   },
   {
@@ -194150,7 +194510,7 @@
   {
     "sp": "artist",
     "en": "yukimi",
-    "zh": "由木彌",
+    "zh": "由木弥",
     "in": ""
   },
   {
@@ -199160,8 +199520,8 @@
   {
     "sp": "artist",
     "en": "nagase tooru",
-    "zh": "長瀬 徹",
-    "in": ""
+    "zh": "长濑彻",
+    "in": "作者X头像"
   },
   {
     "sp": "artist",
@@ -199898,7 +200258,7 @@
   {
     "sp": "artist",
     "en": "ginen",
-    "zh": "銀塩",
+    "zh": "银盐",
     "in": ""
   },
   {
@@ -200642,7 +201002,7 @@
   {
     "sp": "artist",
     "en": "osakana arichi",
-    "zh": "御魚ありち",
+    "zh": "御鱼ありち",
     "in": "作者推特头像"
   },
   {
@@ -201764,8 +202124,8 @@
   {
     "sp": "artist",
     "en": "urasuji samurai",
-    "zh": "裏筋侍",
-    "in": ""
+    "zh": "里筋侍",
+    "in": "作者推特头像\n\n社团里筋部屋(urasujibeya)所属画师"
   },
   {
     "sp": "artist",
@@ -202347,6 +202707,312 @@
     "sp": "artist",
     "en": "sencha bashira",
     "zh": "煎茶柱",
+    "in": "作者推特头像"
+  },
+  {
+    "sp": "artist",
+    "en": "kisaragi ai",
+    "zh": "如月藍",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "sunaba suzume",
+    "zh": "砂場すずめ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "nerima hakase",
+    "zh": "練馬博士",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "imotarou",
+    "zh": "いもたろう",
+    "in": "作者推特头像"
+  },
+  {
+    "sp": "artist",
+    "en": "kasetsu makoto",
+    "zh": "霞雪诚",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "chomoran",
+    "zh": "チョモラン",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "kanonhou",
+    "zh": "加农炮",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "miki chika",
+    "zh": "みきちか",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "enoka",
+    "zh": "江ノカ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "hako reema",
+    "zh": "箱れぇま",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "kohri",
+    "zh": "こーり",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "poruna",
+    "zh": "poruna",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "sankurowa",
+    "zh": "サンクロワ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "tatapopo",
+    "zh": "tatapopo",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "tsuruomi",
+    "zh": "つるおみ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "zutako",
+    "zh": "づ蛸",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "ae",
+    "zh": "ae",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "egaki numa",
+    "zh": "江垣沼",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "akitsu tombo",
+    "zh": "秋津Tombo!",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "cotton",
+    "zh": "コットン",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "tabiguchi kouji",
+    "zh": "旅口工路",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "takezumi",
+    "zh": "ケケ炭",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "tsuyuno minaduki",
+    "zh": "梅雨野みなづき",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "baku p",
+    "zh": "ばくP",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "fangqiao yepo",
+    "zh": "坊桥夜泊",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "denji houniki",
+    "zh": "電磁砲二期",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "mozukuzu",
+    "zh": "もずくず",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "amamoru",
+    "zh": "あまもる",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "rot",
+    "zh": "ろっと",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "pizza yorozu",
+    "zh": "ピザ萬",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "airt",
+    "zh": "えあとかいり",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "tankobu",
+    "zh": "Tankobu",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "kumajiro",
+    "zh": "くまじろ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "amano teru",
+    "zh": "天乃辉",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "archipelago",
+    "zh": "あーきぺらご",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "umagome rakure",
+    "zh": "甜米らくれ",
+    "in": "作者推特头像"
+  },
+  {
+    "sp": "artist",
+    "en": "suzuki shungyou",
+    "zh": "铃木春晓",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "shion katsugi",
+    "zh": "紫苑かつぎ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "imamori",
+    "zh": "今森",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "natsuo tsunao",
+    "zh": "夏生ツナオ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "tsunao",
+    "zh": "つなお",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "kokonoka toka",
+    "zh": "九日とおか",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "ice reizou",
+    "zh": "爱须冷藏",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "annomike",
+    "zh": "あんのみけ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "shiono kou",
+    "zh": "汐乃コウ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "katsu aki",
+    "zh": "克亚树",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "keoya",
+    "zh": "ケオヤ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "kuga tsuniya",
+    "zh": "玖珂ツニヤ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "yukimuramaru",
+    "zh": "ゆきむら丸",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "mr.peanut",
+    "zh": "Mr.Peanut",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "hannin b",
+    "zh": "犯人B",
     "in": ""
   },
   {
