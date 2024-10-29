@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//caldav.icloud.com//CALDAVJ 2427B558//EN
+PRODID:-//caldav.icloud.com//CALDAVJ 2427B581//EN
 X-WR-CALNAME:国服(最终幻想14)
 X-APPLE-CALENDAR-COLOR:#ff9500
 BEGIN:VEVENT
@@ -1117,15 +1117,15 @@ DTSTART;TZID=Asia/Shanghai:20210608T120000
 DTEND;TZID=Asia/Shanghai:20210608T160000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241021T073451Z
-SUMMARY:C-7.01版本更新维护（至天之座阿卡迪亚更新，下礼拜更新零式和HQ等）
+DTSTAMP:20241028T131237Z
+SUMMARY:C-7.01版本更新维护（至天之座阿卡迪亚更新，下下礼拜更新零式和HQ等）
 DESCRIPTION:更新笔记：\nhttps://ff.web.sdo.com/web8/index.html#/newstab/newsco
  nt/366229\n\n公告页面：\nhttps://ff.web.sdo.com/web8/index.html#/newstab/news
  cont/366212
 TZID:Asia/Tokyo
 SEQUENCE:0
 UID:6cb52974-7cbd-4c2b-8861-4e5100b98b2d
-CREATED:20241021T073451Z
+CREATED:20241028T131237Z
 DTSTART;VALUE=DATE:20241022
 DTEND;VALUE=DATE:20241023
 URL:https://ff.web.sdo.com/web8/index.html#/newstab/newscont/366229
