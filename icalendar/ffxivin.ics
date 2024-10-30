@@ -1312,6 +1312,20 @@ DTSTART;TZID=Asia/Tokyo:20210827T210000
 DTEND;TZID=Asia/Tokyo:20210827T235900
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20241030T120421Z
+SUMMARY:J-「第84回 FFXIV PLL」
+DESCRIPTION:内容：\n7.1实装前瞻特集Part2\n其他通知\n\nYoutube-https://www.youtube.com/
+ live/pp5OGIamHDU\nNiconico-https://live.nicovideo.jp/watch/lv346003562\n
+ Twitch-https://www.twitch.tv/finalfantasyxiv
+TZID:Asia/Tokyo
+SEQUENCE:0
+UID:8c2bfe30-2954-42a3-9b0f-ee8688aeaa24
+CREATED:20241030T120421Z
+DTSTART;TZID=Asia/Tokyo:20241101T200000
+DTEND;TZID=Asia/Tokyo:20241101T220000
+URL:https://www.youtube.com/live/pp5OGIamHDU
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20221211T100022Z
 SUMMARY:J-「第75回 FFXIV PLL」
 DESCRIPTION:6.3「天の祝祭、地の鳴動」前瞻第二部分。
