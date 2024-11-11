@@ -14190,6 +14190,18 @@
     "in": ""
   },
   {
+    "sp": "parody",
+    "en": "kowarekake no orgel",
+    "zh": "快要坏掉的八音盒",
+    "in": "《萌单》作者POP的另一原创作品"
+  },
+  {
+    "sp": "parody",
+    "en": "koikishi purely kiss",
+    "zh": "恋骑士Purely☆Kiss",
+    "in": "《恋骑士 Purely☆Kiss》是AKABEiSOFT2公司的分公司エフォルダムソフト在2011年9月30日发售的恋爱冒险类型成人游戏。2014年4月エフォルダムソフト宣告解散，游戏的版权移交给AKABEiSOFT2公司的AKABEiSOFT3。OVA则是由PinkPineapple在2013年7月26日开始发售."
+  },
+  {
     "sp": "character",
     "en": "alice",
     "zh": "爱丽丝",
@@ -28485,7 +28497,7 @@
     "sp": "character",
     "en": "kirika akatsuki",
     "zh": "晓切歌",
-    "in": ""
+    "in": "晓切歌是《战姬绝唱Symphogear(senki zesshou symphogear)》及其衍生作品的登场角色。"
   },
   {
     "sp": "character",
@@ -33807,25 +33819,25 @@
     "sp": "character",
     "en": "shirabe tsukuyomi",
     "zh": "月读调",
-    "in": ""
+    "in": "月读调是《战姬绝唱Symphogear(senki zesshou symphogear)》及其衍生作品的登场角色。"
   },
   {
     "sp": "character",
     "en": "chris yukine",
     "zh": "雪音克莉丝",
-    "in": ""
+    "in": "雪音克莉丝是《战姬绝唱Symphogear(senki zesshou symphogear)》及其衍生作品的登场角色。"
   },
   {
     "sp": "character",
     "en": "hibiki tachibana",
     "zh": "立花响",
-    "in": ""
+    "in": "立花响是《战姬绝唱Symphogear(senki zesshou symphogear)》及其衍生作品的登场角色。"
   },
   {
     "sp": "character",
     "en": "miku kohinata",
     "zh": "小日向未来",
-    "in": ""
+    "in": "小日向未来是《战姬绝唱Symphogear(senki zesshou symphogear)》及其衍生作品的登场角色。"
   },
   {
     "sp": "character",
@@ -36878,8 +36890,8 @@
   {
     "sp": "character",
     "en": "carol malus dienheim",
-    "zh": "卡萝·马尔斯·狄恩海姆",
-    "in": "所属作品: 战姬绝唱Symphogear(senki zesshou symphogear)"
+    "zh": "卡萝·玛尔斯·丁海姆",
+    "in": "卡萝·玛尔斯·丁海姆是《战姬绝唱Symphogear(senki zesshou symphogear)》及其衍生作品的登场角色。"
   },
   {
     "sp": "character",
@@ -40448,7 +40460,7 @@
   {
     "sp": "character",
     "en": "p90",
-    "zh": "P90",
+    "zh": "P90 | 米蒂尔",
     "in": "少女前线(girls frontline)"
   },
   {
@@ -40478,13 +40490,13 @@
   {
     "sp": "character",
     "en": "ak-12",
-    "zh": "AK-12",
+    "zh": "AK-12 | 露契娅",
     "in": "少女前线(girls frontline)"
   },
   {
     "sp": "character",
     "en": "an-94",
-    "zh": "AN-94",
+    "zh": "AN-94 | 安提娅",
     "in": "少女前线(girls frontline)"
   },
   {
@@ -40730,19 +40742,19 @@
   {
     "sp": "character",
     "en": "m16a1",
-    "zh": "M16A1",
+    "zh": "M16A1 | 白烨戈",
     "in": "少女前线(girls frontline)"
   },
   {
     "sp": "character",
     "en": "ak-15",
-    "zh": "AK-15",
+    "zh": "AK-15 | 艾尔文",
     "in": "少女前线(girls frontline)"
   },
   {
     "sp": "character",
     "en": "rpk-16",
-    "zh": "RPK-16",
+    "zh": "RPK-16 | 蕾娜特",
     "in": "少女前线(girls frontline)"
   },
   {
@@ -45675,7 +45687,7 @@
     "sp": "character",
     "en": "tsubasa kazanari",
     "zh": "风鸣翼",
-    "in": ""
+    "in": "风鸣翼是《战姬绝唱Symphogear(senki zesshou symphogear)》及其衍生作品的登场角色。"
   },
   {
     "sp": "character",
@@ -46722,6 +46734,66 @@
     "in": "安养寺姬芽（日语：安養寺 姫芽，罗马字：Anyoji Hime）是企划《莲之空女学院学园偶像俱乐部》及其衍生作品的登场角色。"
   },
   {
+    "sp": "character",
+    "en": "ophelia phamrsolone",
+    "zh": "奥菲莉娅·法姆索罗涅",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "sigurd",
+    "zh": "齐格鲁德",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "mao arimura",
+    "zh": "有村麻央",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "soldier 11",
+    "zh": "11号",
+    "in": "米哈游所制作的游戏《绝区零》及其衍生作品的登场角色。"
+  },
+  {
+    "sp": "character",
+    "en": "alexandrina sebastiane",
+    "zh": "亚历山德丽娜·莎芭丝缇安",
+    "in": "米哈游所制作的游戏《绝区零》及其衍生作品的登场角色。\n别号\t丽娜"
+  },
+  {
+    "sp": "character",
+    "en": "maizuru",
+    "zh": "舞鹤",
+    "in": "舞鹤（日语：マイヅル）是由九井谅子所创作的漫画《迷宫饭》及其衍生作品的登场角色。"
+  },
+  {
+    "sp": "character",
+    "en": "yanagi tsukishiro",
+    "zh": "月城柳",
+    "in": "米哈游制作的游戏《绝区零》及其衍生作品的登场角色。"
+  },
+  {
+    "sp": "character",
+    "en": "maria cadenzavna eve",
+    "zh": "玛丽亚·卡登扎夫娜·伊芙",
+    "in": "玛丽亚·卡登扎夫娜·伊芙是《战姬绝唱Symphogear(senki zesshou symphogear)》及其衍生作品的登场角色。"
+  },
+  {
+    "sp": "character",
+    "en": "elfnein",
+    "zh": "艾芙奈恩",
+    "in": "艾芙奈恩是《战姬绝唱Symphogear(senki zesshou symphogear)》及其衍生作品的登场角色。"
+  },
+  {
+    "sp": "character",
+    "en": "taoqi",
+    "zh": "桃祈",
+    "in": "桃祈是库洛制作的游戏鸣潮(wuthering waves)的登场角色。"
+  },
+  {
     "sp": "group",
     "en": "1",
     "zh": "1",
@@ -47096,7 +47168,7 @@
   {
     "sp": "group",
     "en": "asa project",
-    "zh": "ASa Project",
+    "zh": "ASa Project/颜艺社",
     "in": ""
   },
   {
@@ -47540,7 +47612,7 @@
   {
     "sp": "group",
     "en": "tsf no f",
-    "zh": "TSF的F",
+    "zh": "TSFのF",
     "in": "以F为中心的“TSF的F社团”，以变身性转换作品为主"
   },
   {
@@ -124326,6 +124398,126 @@
     "in": ""
   },
   {
+    "sp": "group",
+    "en": "torino sunakimo",
+    "zh": "とりのすなきも",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "tonburi",
+    "zh": "とんぶり",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "rei-mei nordlingen",
+    "zh": "黎明ネルトリンゲン",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "banjimas",
+    "zh": "ばんじます",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "ookina gomibako",
+    "zh": "おおきなごみ箱",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "kotori no shokuji",
+    "zh": "小鳥の食事",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "tororo kombu",
+    "zh": "とろろ昆布",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "densetsu no udon",
+    "zh": "でんせつのうどん",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "nekodofu",
+    "zh": "ねこどうふ",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "torikago step",
+    "zh": "とりかごすてっぷ",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "petit keroq",
+    "zh": "ぷちけろ/プチケロQ",
+    "in": "keroq的迷你独立附属社团，但很久没有新作品了。风格具有keroq和makura的中间过渡感。"
+  },
+  {
+    "sp": "group",
+    "en": "benimaru suisan",
+    "zh": "べにまる水産",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "sakurarium",
+    "zh": "サクラリウム",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "soranekoyohou",
+    "zh": "そらねこよほう",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "motsunuki hormone",
+    "zh": "もつぬきほるもん",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "teikuu ms combo",
+    "zh": "低空MSコンボ",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "katakori youtsuu dry eye",
+    "zh": "肩こり腰痛ドライアイ",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "miracle syrup",
+    "zh": "みらくるしろっぷ",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "fukkaru tiger",
+    "zh": "フッ軽タイガー",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "uten kekkou",
+    "zh": "雨天決行",
+    "in": ""
+  },
+  {
     "sp": "artist",
     "en": "2",
     "zh": "2",
@@ -124563,7 +124755,7 @@
     "sp": "artist",
     "en": "yukiu con",
     "zh": "雪雨こん",
-    "in": ""
+    "in": "作者X头像"
   },
   {
     "sp": "artist",
@@ -128876,7 +129068,7 @@
   {
     "sp": "artist",
     "en": "kijima daisyarin",
-    "zh": "鬼岛大车轮",
+    "zh": "鬼島大車輪",
     "in": ""
   },
   {
@@ -134672,7 +134864,7 @@
   {
     "sp": "artist",
     "en": "bai asuka",
-    "zh": "呗飞鸟",
+    "zh": "唄飛鳥",
     "in": ""
   },
   {
@@ -145418,7 +145610,7 @@
   {
     "sp": "artist",
     "en": "hizuki akira",
-    "zh": "绯月Akira",
+    "zh": "緋月アキラ",
     "in": ""
   },
   {
@@ -203703,6 +203895,174 @@
     "sp": "artist",
     "en": "becchan",
     "zh": "べっちゃん",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "nekono fuguri",
+    "zh": "猫乃ふぐり",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "bajitohfu",
+    "zh": "馬耳東風",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "yomosugara",
+    "zh": "よもすがら",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "kishuu yuki",
+    "zh": "稀周悠希",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "kuroi mimei",
+    "zh": "黒井みめい",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "miyoshi hiromi",
+    "zh": "三好ひろみ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "natsuzame",
+    "zh": "ナツザメ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "gouta",
+    "zh": "ゴウタ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "oki nagomi",
+    "zh": "大吉なごみ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "satoimoya",
+    "zh": "さといも屋",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "yozuki mofu",
+    "zh": "夜月もふ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "kirizuki reika",
+    "zh": "桐月レイカ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "haruhiruri",
+    "zh": "はるひるり",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "ebihara beniko",
+    "zh": "海老原べにこ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "sacro",
+    "zh": "さくろ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "komizuki",
+    "zh": "古弥月",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "pukyunosuke",
+    "zh": "ぷきゅのすけ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "motsunuki",
+    "zh": "もつぬき",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "nakamori ai",
+    "zh": "中森 愛",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "goto kasumi",
+    "zh": "五藤加純",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "harenochi sakana",
+    "zh": "晴のちsakana",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "echihiro",
+    "zh": "えちひろ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "shitimirin",
+    "zh": "七味鈴",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "fujisaki fujiko",
+    "zh": "藤咲ふじこ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "arurumo",
+    "zh": "あるるも",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "yukitora",
+    "zh": "ゆきトラ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "kurisaki king",
+    "zh": "栗崎きんぐ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "utsumi iota",
+    "zh": "内海ι",
     "in": ""
   },
   {
