@@ -710,7 +710,7 @@
   {
     "sp": "parody",
     "en": "angel beats",
-    "zh": "Angel Beats!❤",
+    "zh": "Angel Beats!❤/天使的心跳",
     "in": "麻枝准原创动画第一部"
   },
   {
@@ -14214,6 +14214,12 @@
     "in": ""
   },
   {
+    "sp": "parody",
+    "en": "ura sekai picnic",
+    "zh": "里世界郊游",
+    "in": "《里世界郊游》（日语：裏世界ピクニック）是宫泽伊织（著作）和shirakaba（插画）创作的以都市传说为基础的SF百合冒险小说，并有漫画、动画形式的衍生作品。"
+  },
+  {
     "sp": "character",
     "en": "alice",
     "zh": "爱丽丝",
@@ -14235,7 +14241,7 @@
     "sp": "character",
     "en": "yui",
     "zh": "由依 | 结衣",
-    "in": "Angel Beats!❤(angel beats) 角色\n\n刀剑神域(sword art online)角色，男女主的义女"
+    "in": "Angel Beats!❤/天使的心跳(angel beats) 角色\n\n刀剑神域(sword art online)角色，男女主的义女"
   },
   {
     "sp": "character",
@@ -28431,7 +28437,7 @@
     "sp": "character",
     "en": "sister claire",
     "zh": "修女克蕾雅",
-    "in": ""
+    "in": "修女·克蕾雅（日语：シスター・クレア / Sister Cleaire）是一名从2018年6月5日在YouTube开始活动的VTuber，业界团体彩虹社的成员。原SEEDs一期出身。"
   },
   {
     "sp": "character",
@@ -39723,7 +39729,7 @@
     "sp": "character",
     "en": "kagura mea",
     "zh": "神乐Mea",
-    "in": "神乐Mea（日语：神楽めあ英语：Kagura Mea）是一名VTuber"
+    "in": "神乐Mea（日语：神楽めあ 英语：Kagura Mea）是一名VTuber"
   },
   {
     "sp": "character",
@@ -42705,13 +42711,13 @@
     "sp": "character",
     "en": "megumi fujishima",
     "zh": "藤岛慈",
-    "in": ""
+    "in": "藤岛慈（日语：藤島 慈，罗马字：Fujishima Megumi）是企划《莲之空女学院学园偶像俱乐部》及其衍生作品的登场角色。"
   },
   {
     "sp": "character",
     "en": "rurino osawa",
     "zh": "大泽瑠璃乃",
-    "in": ""
+    "in": "大泽瑠璃乃（日语：大沢 瑠璃乃，罗马字：Osawa Rurino）是企划《莲之空女学院学园偶像俱乐部》及其衍生作品的登场角色。"
   },
   {
     "sp": "character",
@@ -46876,6 +46882,66 @@
     "en": "caper",
     "zh": "跃跃",
     "in": "明日方舟干员"
+  },
+  {
+    "sp": "character",
+    "en": "superman",
+    "zh": "超人",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "sethos",
+    "zh": "赛索斯",
+    "in": "赛索斯是米哈游研发的游戏《原神》及其衍生作品的登场角色。"
+  },
+  {
+    "sp": "character",
+    "en": "triss merigold",
+    "zh": "特莉丝·梅莉葛德",
+    "in": "萌娘百科"
+  },
+  {
+    "sp": "character",
+    "en": "yennefer",
+    "zh": "叶奈法",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "ciri",
+    "zh": "希里",
+    "in": "希里，即希里雅·菲欧娜·艾伦·丽安伦（英语：Cirilla Fiona Elen Riannon），是安杰伊·萨普科夫斯基所著系列小说《猎魔人》以及CD Projekt RED所制作的改编游戏《巫师3:狂猎》及其衍生作品的登场角色。"
+  },
+  {
+    "sp": "character",
+    "en": "mizuchi miyadeguchi",
+    "zh": "宫出口瑞灵",
+    "in": "宫出口瑞灵是东方Project系列中的官方角色，首次登场于东方智灵奇传，担任智灵奇传的反派角色。"
+  },
+  {
+    "sp": "character",
+    "en": "kaori miyazono",
+    "zh": "宫园薰",
+    "in": "宫园薰（宮園（みやぞの） かをり）是新川直司所创作的漫画《四月是你的谎言》及其衍生作品的登场角色。(也是我老婆）"
+  },
+  {
+    "sp": "character",
+    "en": "nayuta tenkawa",
+    "zh": "天川那由多",
+    "in": "（日语：天川（てんかわ） なゆた）\n猫豆腐创作的漫画《别当欧尼酱了！》及其衍生作品的登场角色。"
+  },
+  {
+    "sp": "character",
+    "en": "lucy heartfilia",
+    "zh": "露西·哈特菲利亚",
+    "in": "《妖精的尾巴》中的女主角"
+  },
+  {
+    "sp": "character",
+    "en": "sakuya sumeragi",
+    "zh": "皇咲夜",
+    "in": ""
   },
   {
     "sp": "group",
@@ -58652,7 +58718,7 @@
   {
     "sp": "group",
     "en": "kuromahou kenkyuujo",
-    "zh": "黒魔法研究所",
+    "zh": "黑魔法研究所",
     "in": ""
   },
   {
@@ -59486,7 +59552,7 @@
   {
     "sp": "group",
     "en": "ryuukakusan nodoame",
-    "zh": "龙角散喉糖",
+    "zh": "りゅうかくさんのどあめ",
     "in": ""
   },
   {
@@ -84446,7 +84512,7 @@
   {
     "sp": "group",
     "en": "kagura hitsuji",
-    "zh": "神楽ひつじ",
+    "zh": "神乐ひつじ",
     "in": ""
   },
   {
@@ -124716,6 +124782,60 @@
     "in": ""
   },
   {
+    "sp": "group",
+    "en": "sanshoku nerune",
+    "zh": "三食ねるね",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "j9 kagekidan",
+    "zh": "J9歌剧团",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "tatahot",
+    "zh": "TATAHOT",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "higashikoiwa hutomomo uchuu kenkyuujo",
+    "zh": "东小岩ふともも宇宙研究所",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "tai doujinshi doukoukai",
+    "zh": "タイ同人誌同好会",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "kure no genki na goaisatsu",
+    "zh": "暮れの元气なご挨拶",
+    "in": "画师暮林あさ美(kurebayashi asami)所属社团"
+  },
+  {
+    "sp": "group",
+    "en": "wakuwaku dining",
+    "zh": "WAKUWAKU DINING",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "asakatsu",
+    "zh": "あさかつ",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "komatsuna salad",
+    "zh": "小松菜サラダ",
+    "in": ""
+  },
+  {
     "sp": "artist",
     "en": "2",
     "zh": "2",
@@ -126770,7 +126890,7 @@
   {
     "sp": "artist",
     "en": "hatomugi munmun",
-    "zh": "鳩麦月々",
+    "zh": "鳩麦むんむん",
     "in": ""
   },
   {
@@ -129026,7 +129146,7 @@
   {
     "sp": "artist",
     "en": "hoshino ryuichi",
-    "zh": "星野龙一",
+    "zh": "星野竜一",
     "in": ""
   },
   {
@@ -129182,7 +129302,7 @@
   {
     "sp": "artist",
     "en": "ameyama denshin",
-    "zh": "雨山电信",
+    "zh": "雨山電信",
     "in": ""
   },
   {
@@ -132020,7 +132140,7 @@
   {
     "sp": "artist",
     "en": "kagura moromi",
-    "zh": "神楽もろみ",
+    "zh": "神乐もろみ",
     "in": ""
   },
   {
@@ -142460,8 +142580,8 @@
   {
     "sp": "artist",
     "en": "nukaji",
-    "zh": "ぬかじ（wizakun）",
-    "in": ""
+    "zh": "ぬかじ",
+    "in": "曾用笔名：wizakun"
   },
   {
     "sp": "artist",
@@ -142743,7 +142863,7 @@
     "sp": "artist",
     "en": "kurebayashi asami",
     "zh": "暮林あさ美",
-    "in": ""
+    "in": "作者X头像"
   },
   {
     "sp": "artist",
@@ -143546,8 +143666,8 @@
   {
     "sp": "artist",
     "en": "mikuni mizuki",
-    "zh": "みくに瑞貴",
-    "in": ""
+    "zh": "みくに瑞贵",
+    "in": "作者X头像\n\n上岸笔名：四叶真"
   },
   {
     "sp": "artist",
@@ -143606,7 +143726,7 @@
   {
     "sp": "artist",
     "en": "kagura nanaki",
-    "zh": "神楽七姫",
+    "zh": "神乐七姬",
     "in": ""
   },
   {
@@ -162974,43 +163094,43 @@
   {
     "sp": "artist",
     "en": "kagura",
-    "zh": "神楽",
+    "zh": "神乐",
     "in": ""
   },
   {
     "sp": "artist",
     "en": "kagura kazuto",
-    "zh": "神楽一刀",
+    "zh": "神乐一刀",
     "in": ""
   },
   {
     "sp": "artist",
     "en": "kagura momiji",
-    "zh": "神楽紅葉",
+    "zh": "神乐红叶",
     "in": ""
   },
   {
     "sp": "artist",
     "en": "kagura nisiki",
-    "zh": "神楽弐式",
+    "zh": "神乐贰式",
     "in": ""
   },
   {
     "sp": "artist",
     "en": "kagura takeshi",
-    "zh": "神楽武志",
+    "zh": "神乐武志",
     "in": ""
   },
   {
     "sp": "artist",
     "en": "kagura tsukune",
-    "zh": "神楽つくね",
+    "zh": "神乐つくね",
     "in": ""
   },
   {
     "sp": "artist",
     "en": "kagura yutakamaru",
-    "zh": "神楽雄隆丸",
+    "zh": "神乐雄隆丸",
     "in": ""
   },
   {
@@ -163022,19 +163142,19 @@
   {
     "sp": "artist",
     "en": "kagura yuuto",
-    "zh": "神楽優人",
+    "zh": "神乐优人",
     "in": ""
   },
   {
     "sp": "artist",
     "en": "kagurazaka nagu",
-    "zh": "神楽坂なぐ",
+    "zh": "神乐坂なぐ",
     "in": ""
   },
   {
     "sp": "artist",
     "en": "kagurazaka saki",
-    "zh": "神楽坂沙希",
+    "zh": "神乐坂沙希",
     "in": ""
   },
   {
@@ -167372,7 +167492,7 @@
   {
     "sp": "artist",
     "en": "kouguchi moto",
-    "zh": "工口本",
+    "zh": "こうぐちもと",
     "in": ""
   },
   {
@@ -194900,8 +195020,8 @@
   {
     "sp": "artist",
     "en": "yoshiki",
-    "zh": "YOSHIKI",
-    "in": "遠藤良危"
+    "zh": "遠藤良危",
+    "in": ""
   },
   {
     "sp": "artist",
@@ -197642,7 +197762,7 @@
   {
     "sp": "artist",
     "en": "kagura kurumi",
-    "zh": "神楽くるみ",
+    "zh": "神乐くるみ",
     "in": ""
   },
   {
@@ -204465,6 +204585,210 @@
     "sp": "artist",
     "en": "urashima totasu",
     "zh": "浦島とーたす",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "proudbanana",
+    "zh": "驕傲香蕉",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "yingyi xsu",
+    "zh": "影依望远镜",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "sanshoku nerune",
+    "zh": "三食ねるね",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "lillly",
+    "zh": "Lillly",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "fukemachi",
+    "zh": "ふけまち",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "yamamoto ahiru",
+    "zh": "山本AHIRU",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "yahagi wakahiko",
+    "zh": "矢矧稚彦",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "ksyum",
+    "zh": "けーしむ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "deco",
+    "zh": "で子",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "piro mayu",
+    "zh": "ぴろまゆ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "amano shuninta",
+    "zh": "天野しゅにんた",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "kaoming",
+    "zh": "カオミン",
+    "in": "作者X头像"
+  },
+  {
+    "sp": "artist",
+    "en": "x36marubox",
+    "zh": "X36丸ボックス",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "hazakura satsuki",
+    "zh": "はざくらさつき",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "tata",
+    "zh": "たた",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "shinonome 108",
+    "zh": "東雲108",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "creep",
+    "zh": "苦怕Creep",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "kabu usagi",
+    "zh": "カブウサギ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "mabo nasu",
+    "zh": "麻婆ナス",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "uwa bami",
+    "zh": "卯和馬実",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "ajura",
+    "zh": "あじゅら",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "sugina miki",
+    "zh": "杉菜水姬",
+    "in": "Innocent Grey的代表，喜欢神秘题材，但更喜欢内心温柔、略微S倾向的黑长直女性。"
+  },
+  {
+    "sp": "artist",
+    "en": "ichikawa saasha",
+    "zh": "市川小纱",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "seishoujo",
+    "zh": "圣少女",
+    "in": "ゲームクリエイター（原画家、シナリオライター）。京都府京都市出身。"
+  },
+  {
+    "sp": "artist",
+    "en": "krdsan",
+    "zh": "KRDsan",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "polier",
+    "zh": "POLIER",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "ragii",
+    "zh": "裸戏慰",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "tenno",
+    "zh": "转ノ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "wakuwaku kitchen",
+    "zh": "わくわくキッチン",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "asakatsu teishoku",
+    "zh": "あさかつ定食",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "hazuki ten",
+    "zh": "叶月テン",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "pdxen",
+    "zh": "PDXen",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "psyche",
+    "zh": "プシュケーLo",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "tachi iyashi",
+    "zh": "館いやし",
     "in": ""
   },
   {
