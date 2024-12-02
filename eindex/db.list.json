@@ -14220,6 +14220,12 @@
     "in": "《里世界郊游》（日语：裏世界ピクニック）是宫泽伊织（著作）和shirakaba（插画）创作的以都市传说为基础的SF百合冒险小说，并有漫画、动画形式的衍生作品。"
   },
   {
+    "sp": "parody",
+    "en": "gyakuten majo saiban",
+    "zh": "逆转魔女裁判",
+    "in": ""
+  },
+  {
     "sp": "character",
     "en": "alice",
     "zh": "爱丽丝",
@@ -40868,8 +40874,8 @@
   {
     "sp": "character",
     "en": "mp5",
-    "zh": "MP5",
-    "in": "少女前线(girls frontline)"
+    "zh": "MP5 | 佩莉",
+    "in": "少女前线(girls frontline)\n\n少女前线2:追放\n佩莉"
   },
   {
     "sp": "character",
@@ -46942,6 +46948,36 @@
     "en": "sakuya sumeragi",
     "zh": "皇咲夜",
     "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "the shorekeeper",
+    "zh": "守岸人",
+    "in": "《鸣潮》角色"
+  },
+  {
+    "sp": "character",
+    "en": "yuuki sakuna",
+    "zh": "结城昨奈/結城さくな",
+    "in": "结城昨奈（日语：結城さくな/Yuuki Sakuna）是一名从2024年10月27日在YouTube开始活动的个人势Vtuber。"
+  },
+  {
+    "sp": "character",
+    "en": "noko shikanoko",
+    "zh": "鹿乃子乃子",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "torako koshi",
+    "zh": "虎视虎子",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "shangri-la",
+    "zh": "香格里拉",
+    "in": "香格里拉是由蛮啾网络、勇仕网络联合研发的移动设备游戏《碧蓝航线》及其衍生作品中的登场角色"
   },
   {
     "sp": "group",
@@ -60465,7 +60501,7 @@
     "sp": "group",
     "en": "momojiru teien",
     "zh": "桃汁庭园",
-    "in": "画师桃云(momokumo)所属社团"
+    "in": "画师桃雲(momokumo)所属社团"
   },
   {
     "sp": "group",
@@ -124836,6 +124872,18 @@
     "in": ""
   },
   {
+    "sp": "group",
+    "en": "takeno no nedoko",
+    "zh": "竹野の寝床",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "yamatomochi",
+    "zh": "ヤマともち",
+    "in": ""
+  },
+  {
     "sp": "artist",
     "en": "2",
     "zh": "2",
@@ -126224,8 +126272,8 @@
   {
     "sp": "artist",
     "en": "shibasaki syouzi",
-    "zh": "柴崎しょうじ（柴崎ショージ）",
-    "in": ""
+    "zh": "柴崎ショージ",
+    "in": "其他笔名：柴崎しょうじ"
   },
   {
     "sp": "artist",
@@ -131240,7 +131288,7 @@
   {
     "sp": "artist",
     "en": "hashimura aoki",
-    "zh": "桥村青树",
+    "zh": "橋村青樹",
     "in": ""
   },
   {
@@ -131456,7 +131504,7 @@
   {
     "sp": "artist",
     "en": "pon takahanada",
-    "zh": "ポン贵花田",
+    "zh": "ポン貴花田",
     "in": ""
   },
   {
@@ -134618,7 +134666,7 @@
   {
     "sp": "artist",
     "en": "murata range",
-    "zh": "村田莲尔",
+    "zh": "村田蓮爾",
     "in": "村田莲尔（1968年10月2日－），是日本的插画家兼设计师。出身于大阪府。其作品喜欢强调复古的质感和设计，尤其偏爱装饰艺术时期的风格。人物方面，最常描绘的则是短发美少女和苦涩的中年男子。"
   },
   {
@@ -139706,7 +139754,7 @@
   {
     "sp": "artist",
     "en": "ootori mahiro",
-    "zh": "鳳まひろ",
+    "zh": "凤まひろ",
     "in": ""
   },
   {
@@ -140162,7 +140210,7 @@
   {
     "sp": "artist",
     "en": "wantan meo",
-    "zh": "云吞めお",
+    "zh": "雲呑めお",
     "in": "作者推特头像\n\ncomic快乐天作者，曾分别以“担々めお（一般向作品）”，“雲呑めお（成年向作品）”为名活动，现统一使用“雲呑めお”的笔名。"
   },
   {
@@ -142976,7 +143024,7 @@
   {
     "sp": "artist",
     "en": "torichamaru",
-    "zh": "鸟茶丸",
+    "zh": "鳥茶丸",
     "in": "鳥茶丸"
   },
   {
@@ -144392,7 +144440,7 @@
   {
     "sp": "artist",
     "en": "asahina makoto",
-    "zh": "朝比奈诚",
+    "zh": "朝比奈まこと",
     "in": "朝比奈 まこと是日本漫画家。在成年向漫画杂志上发表作品。\n\n作品以小学生或中学生的少女为对象的萝莉(lolicon)系为主。描写凌辱、强奸、轮奸等男性单方面进行强迫的性行为的作品较多。\n\n单行本《まる見え少女銭湯》"
   },
   {
@@ -144926,7 +144974,7 @@
   {
     "sp": "artist",
     "en": "kameyoshi ichiko",
-    "zh": "亀吉いちこ",
+    "zh": "龟吉いちこ",
     "in": "单行本《えっち大好き成長期》"
   },
   {
@@ -145040,7 +145088,7 @@
   {
     "sp": "artist",
     "en": "tsugumi suzuma",
-    "zh": "亚美寿真",
+    "zh": "亜美寿真",
     "in": "作者推特头像（也是本人vtuber形象）\n\n擅长画与自己年龄相仿的御姐系角色的美女画师，喜欢玩apex并开设了YouTube频道，每周都有直播游戏，喜欢老师的同学可以关注下。"
   },
   {
@@ -146558,7 +146606,7 @@
   {
     "sp": "artist",
     "en": "random",
-    "zh": "兰田梦",
+    "zh": "蘭田夢",
     "in": ""
   },
   {
@@ -146786,7 +146834,7 @@
   {
     "sp": "artist",
     "en": "momokumo",
-    "zh": "桃云",
+    "zh": "桃雲",
     "in": "作者推特头像\n\n社团桃汁庭园(momojiru teien)主笔"
   },
   {
@@ -197324,7 +197372,7 @@
   {
     "sp": "artist",
     "en": "tamada heijun",
-    "zh": "玉田平准",
+    "zh": "玉田平準",
     "in": ""
   },
   {
@@ -202298,7 +202346,7 @@
   {
     "sp": "artist",
     "en": "kidoban",
-    "zh": "木户番",
+    "zh": "木戸番",
     "in": ""
   },
   {
@@ -204789,6 +204837,108 @@
     "sp": "artist",
     "en": "tachi iyashi",
     "zh": "館いやし",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "ririko",
+    "zh": "粉红黏黏怪",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "minami fumika",
+    "zh": "南文夏",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "kuse",
+    "zh": "くせ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "tebasaki chikin",
+    "zh": "手羽咲ちきん",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "shiniku haguki",
+    "zh": "歯肉はぐき",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "torimune",
+    "zh": "とりむね",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "sunaba yuu",
+    "zh": "砂場遊",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "garoudo",
+    "zh": "ガロウド",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "nanamachi",
+    "zh": "ナナマチ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "ayase mio",
+    "zh": "綾瀬水音",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "niizuma potepu",
+    "zh": "新妻ぽてぷ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "kikuazami kaoru",
+    "zh": "菊薊薫",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "pupunezumi",
+    "zh": "ぷぷねずみ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "zero jirou",
+    "zh": "ぜろじろう",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "ashida ex",
+    "zh": "芦田 EX",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "onoda barao",
+    "zh": "斧田ばら男",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "batsu kakeru peke",
+    "zh": "ばつかけるぺけ",
     "in": ""
   },
   {
