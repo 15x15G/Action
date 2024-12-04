@@ -878,6 +878,20 @@ DTSTART;TZID=Asia/Shanghai:20231218T060000
 DTEND;TZID=Asia/Shanghai:20240102T050000
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20241203T064220Z
+SUMMARY:C-艾欧泽亚通行证（巧克力小妖）
+DESCRIPTION:详情可进活动页面看。\n\n每日任务要求：当天内通关一次任意副本，完成后可获得500经验值，每日仅统计一次，当日未领取的经
+ 验值可在活动结束前任意一天领取。\n\n活动页面：\nhttps://actff1.web.sdo.com/20240621_eorzea/in
+ dex.html#/index
+TZID:Asia/Shanghai
+SEQUENCE:0
+UID:55eb4782-3d59-458f-b1e3-01e0477703c5
+CREATED:20241203T064220Z
+DTSTART;TZID=Asia/Shanghai:20241119T000000
+DTEND;TZID=Asia/Shanghai:20241228T115900
+URL:https://actff1.web.sdo.com/20240621_eorzea/index.html#/index
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20240124T155421Z
 SUMMARY:C-降神祭「辰龙可爱福运来」-龙
 DESCRIPTION:活动奖励：\n宠物-「辰龙巧儿陆行鸟」\n\n活动网址：\nhttps://actff1.web.sdo.com/proj
