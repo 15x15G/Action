@@ -14226,6 +14226,18 @@
     "in": ""
   },
   {
+    "sp": "parody",
+    "en": "luminous witches",
+    "zh": "光辉魔女",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "ninja slayer",
+    "zh": "忍者杀手",
+    "in": "《忍者杀手》（英语：Ninja Slayer，日语：ニンジャスレイヤー）是由Bradley Bond与Philip Ninj@ Morzez两人共同撰写的一部赛博朋克忍者动作小说。"
+  },
+  {
     "sp": "character",
     "en": "alice",
     "zh": "爱丽丝",
@@ -35504,8 +35516,8 @@
   {
     "sp": "character",
     "en": "katarina claes",
-    "zh": "卡塔莉娜·库莱耶思",
-    "in": ""
+    "zh": "卡塔莉娜·克拉艾斯",
+    "in": "カタリナ・クラエス\n山口悟所创作的小说《转生成为了只有乙女游戏破灭Flag的邪恶大小姐》及其衍生作品的登场角色，女主角。"
   },
   {
     "sp": "character",
@@ -46980,6 +46992,84 @@
     "in": "香格里拉是由蛮啾网络、勇仕网络联合研发的移动设备游戏《碧蓝航线》及其衍生作品中的登场角色"
   },
   {
+    "sp": "character",
+    "en": "hiyori sarugaki",
+    "zh": "猿柿日世里",
+    "in": "猿柿日世里，日本漫画《境·界》及其衍生作品中的角色。原护廷十三队十二番队副队长，技术开发局研究室主任。百余年前遭蓝染惣右介等人陷害而隐居在现世，成为假面军势的成员之一。讨厌死神，所以在空座町大战落幕后拒绝回归尸魂界。"
+  },
+  {
+    "sp": "character",
+    "en": "makoto tamasaka",
+    "zh": "玉坂真琴",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "archetto",
+    "zh": "空弦",
+    "in": "所属作品 明日方舟(arknights)"
+  },
+  {
+    "sp": "character",
+    "en": "aisha",
+    "zh": "爱莎",
+    "in": "艾尔之光游戏角色"
+  },
+  {
+    "sp": "character",
+    "en": "reze",
+    "zh": "蕾塞",
+    "in": "レゼ\n藤本树创作的漫画《电锯人》及其衍生作品的登场角色。"
+  },
+  {
+    "sp": "character",
+    "en": "lexington",
+    "zh": "列克星敦",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "chikagi katsuragi",
+    "zh": "桂木千键",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "hibiki hibino",
+    "zh": "日比乃响",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "kazuradrop",
+    "zh": "糖果藤蔓",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "tutankhamun",
+    "zh": "图坦卡蒙",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "tony tony chopper",
+    "zh": "乔巴",
+    "in": "托尼托尼·乔巴，日本漫画《航海王》及其衍生作品中的角色。"
+  },
+  {
+    "sp": "character",
+    "en": "nancy lee",
+    "zh": "南希·李",
+    "in": "南希·李（日语：ナンシー・リー）是由Bradley Bond与Philip Ninj@ Morzez两人共同撰写的小说《忍者杀手》及其衍生作品的登场角色。"
+  },
+  {
+    "sp": "character",
+    "en": "dragon yukano",
+    "zh": "龙·由佳乃",
+    "in": "龙·由佳乃（日语：ドラゴン・ユカノ）是由Bradley Bond与Philip Ninj@ Morzez两人共同撰写的小说《忍者杀手》及其衍生作品的登场角色。"
+  },
+  {
     "sp": "group",
     "en": "1",
     "zh": "1",
@@ -47354,8 +47444,8 @@
   {
     "sp": "group",
     "en": "asa project",
-    "zh": "ASa Project/颜艺社",
-    "in": ""
+    "zh": "ASa Project",
+    "in": "颜艺社"
   },
   {
     "sp": "group",
@@ -124884,6 +124974,48 @@
     "in": ""
   },
   {
+    "sp": "group",
+    "en": "amai shoujo koubou",
+    "zh": "アマイ少女工房",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "kakao pod",
+    "zh": "カカオポッド",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "purupuru tamagodoufu",
+    "zh": "ぷるぷる卵豆腐",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "honnokimochiya",
+    "zh": "ホンノキモチヤ",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "ebizoridan",
+    "zh": "えびぞり団",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "junsei chuurenpoutou",
+    "zh": "纯正九莲宝灯",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "nagosuzu infinity",
+    "zh": "ナゴスズ∞",
+    "in": ""
+  },
+  {
     "sp": "artist",
     "en": "2",
     "zh": "2",
@@ -130419,7 +130551,7 @@
     "sp": "artist",
     "en": "esuke",
     "zh": "えーすけ",
-    "in": "作者推特头像\n\ncomic快乐天作者，擅长描绘眼神迷离、色气的女高中生。至今已出版4册单行本。\n\n\n\n单行本 (查看封面需登录pixiv)"
+    "in": "作者推特头像\n\ncomic快乐天作者，擅长描绘眼神迷离、色气的女高中生。至今已出版6册单行本。\n\n\n\n单行本 (查看封面需登录pixiv)"
   },
   {
     "sp": "artist",
@@ -140594,8 +140726,8 @@
   {
     "sp": "artist",
     "en": "yano mitsuki",
-    "zh": "夜ノみつき",
-    "in": ""
+    "zh": "夜之美月",
+    "in": "夜ノみつき"
   },
   {
     "sp": "artist",
@@ -145088,7 +145220,7 @@
   {
     "sp": "artist",
     "en": "tsugumi suzuma",
-    "zh": "亜美寿真",
+    "zh": "亚美寿真",
     "in": "作者推特头像（也是本人vtuber形象）\n\n擅长画与自己年龄相仿的御姐系角色的美女画师，喜欢玩apex并开设了YouTube频道，每周都有直播游戏，喜欢老师的同学可以关注下。"
   },
   {
@@ -152882,7 +153014,7 @@
   {
     "sp": "artist",
     "en": "chou shippaisaku",
-    "zh": "超失敗作",
+    "zh": "超失败作",
     "in": ""
   },
   {
@@ -186524,7 +186656,7 @@
   {
     "sp": "artist",
     "en": "soso",
-    "zh": "そそ",
+    "zh": "そそ/ソソ",
     "in": ""
   },
   {
@@ -200684,7 +200816,7 @@
   {
     "sp": "artist",
     "en": "810eru",
-    "zh": "草葉える",
+    "zh": "草叶える",
     "in": ""
   },
   {
@@ -204942,6 +205074,144 @@
     "in": ""
   },
   {
+    "sp": "artist",
+    "en": "yagicom",
+    "zh": "ヤギコム",
+    "in": "作者X头像"
+  },
+  {
+    "sp": "artist",
+    "en": "xuemian dousha",
+    "zh": "雪绵豆沙",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "thalia",
+    "zh": "Thalia",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "ceo neet",
+    "zh": "neet社长/ニート社長",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "kokureki",
+    "zh": "黒礫",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "ookami hika",
+    "zh": "绯华/緋華",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "kakao rantan",
+    "zh": "カカオ・ランタン",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "goulianlian",
+    "zh": "狗脸脸dogface",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "rea loixacra",
+    "zh": "REA Loixacra",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "watage modoki",
+    "zh": "わたげもどき",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "kurashiki teruko",
+    "zh": "めきめき",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "2c equals galore",
+    "zh": "2C=がろあ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "hashimoto mitsu",
+    "zh": "ハシモトミツ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "runoba umiya",
+    "zh": "Runoba海屋",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "doco",
+    "zh": "Doco",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "basoba",
+    "zh": "ばそば",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "shittori bouzu",
+    "zh": "しっとりボウズ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "tukigi kousuke",
+    "zh": "月木浩介（月木）",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "nakamura taiyaki",
+    "zh": "中村たいやき",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "payochiyo",
+    "zh": "ぱょちょ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "otoduki moduku",
+    "zh": "音月もづく",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "akisaka yamoka",
+    "zh": "あきさかやもか",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "kuma pantsu",
+    "zh": "くまパンツ",
+    "in": ""
+  },
+  {
     "sp": "cosplayer",
     "en": "otohara an",
     "zh": "乙原あん",
@@ -205606,6 +205876,12 @@
     "en": "oni hitomi",
     "zh": "鬼瞳",
     "in": "台湾Coser"
+  },
+  {
+    "sp": "cosplayer",
+    "en": "hualing hana",
+    "zh": "花玲",
+    "in": "花铃"
   },
   {
     "sp": "male",
