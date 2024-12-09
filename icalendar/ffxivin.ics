@@ -280,6 +280,22 @@ DTSTART;TZID=Asia/Tokyo:20220125T130000
 DTEND;TZID=Asia/Tokyo:20220125T190000
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20241209T125217Z
+SUMMARY:J-星芒祭「市場でわけあう、心の温もり」
+DESCRIPTION:活动奖励：\n鸟甲-「スターライトストール・バード」\n家具-桌上-食物-「スターライト・キンダープンシュ」\n家具-桌上
+ -「スターライト・マグカップセット」（不可染色）\n家具-壁挂-「星芒祭のポスター2024」\n管弦乐谱-「オーケストリオン譜:雪降る森に温もり
+ を」\n\n活动页面：\nhttps://jp.finalfantasyxiv.com/lodestone/special/2024/Starl
+ ight_Celebration/2w4vdz8s0c
+TZID:Asia/Tokyo
+SEQUENCE:0
+UID:22d5c854-b231-424a-9d64-210d3482ca6f
+CREATED:20241209T125217Z
+DTSTART;TZID=Asia/Tokyo:20241216T170000
+DTEND;TZID=Asia/Tokyo:20241231T235900
+URL:https://jp.finalfantasyxiv.com/lodestone/special/2024/Starlight_Celeb
+ ration/2w4vdz8s0c
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20210820T082201Z
 SUMMARY:5.58 Hotfix维护
 LOCATION:
