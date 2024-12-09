@@ -2467,6 +2467,21 @@ DTSTART;TZID=Asia/Tokyo:20240228T170000
 DTEND;TZID=Asia/Tokyo:20240313T235900
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20241209T130517Z
+SUMMARY:J-Twitch订阅活动（紫色雪人坐骑）
+DESCRIPTION:活动要求：\n在活动期间内购入3个FF14主播的订阅\n（类似于阿萨桑一个月是700日元/34块人民币）\n\n活动奖励：
+ \n一个换色雪人坐骑+50个传送优惠券\n\n公告页面：\nhttps://jp.finalfantasyxiv.com/lodestone/t
+ opics/detail/5f00ea42fb4e62f92adcd60b23cf40eefd838745
+TZID:Asia/Tokyo
+SEQUENCE:0
+UID:cb5a05c7-f24c-4171-b5f2-d2370c14bb16
+CREATED:20241209T130517Z
+DTSTART;TZID=Asia/Tokyo:20241216T170000
+DTEND;TZID=Asia/Tokyo:20241231T235900
+URL:https://jp.finalfantasyxiv.com/lodestone/topics/detail/5f00ea42fb4e62
+ f92adcd60b23cf40eefd838745
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20240605T092550Z
 SUMMARY:J-各类冒险录道具50%off
 DESCRIPTION:参考价格：\n主线叮（2.0~5.0）1375日元约64元人民币\n职业叮（80级）1375日元约64元人民币\n雇员叮（
