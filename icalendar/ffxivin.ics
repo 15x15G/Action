@@ -1039,15 +1039,19 @@ UID:6d9f96f1-db4e-4566-bf8b-17831c29ddb5
 URL;VALUE=URI:https://jp.finalfantasyxiv.com/lodestone/special/fallguys/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241112T070440Z
+DTSTAMP:20241217T082023Z
 SUMMARY:J-7.15版本更新（新老主顾、7.0生采统合任务、调查员）
-DESCRIPTION:【7.15一周后】极团本\n【7.16】7.0职能任务统合任务\n\n来源PLL
+DESCRIPTION:【7.15一周后】极团本\n【7.16】7.0职能任务统合任务\n\n7.15更新笔记（日）：\nhttps://jp.f
+ inalfantasyxiv.com/lodestone/topics/detail/dfbc510152d601b725c4fbeab61e5
+ fe71dc025d9\n\n\n来源PLL
 TZID:Asia/Tokyo
 SEQUENCE:0
 UID:6db68648-27c2-4b55-9b28-5c08c3f580d0
-CREATED:20241112T070440Z
+CREATED:20241217T082023Z
 DTSTART;VALUE=DATE:20241217
 DTEND;VALUE=DATE:20241218
+URL:https://jp.finalfantasyxiv.com/lodestone/topics/detail/dfbc510152d601
+ b725c4fbeab61e5fe71dc025d9
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20220823T072532Z
