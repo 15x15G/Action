@@ -1095,6 +1095,20 @@ DTSTART;TZID=Asia/Tokyo:20220413T170000
 DTEND;TZID=Asia/Tokyo:20220427T235900
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20241222T160329Z
+SUMMARY:J-cdk30%off折扣
+DESCRIPTION:コンプリートパック（包含2.0~7.0）：6380日元→4466日元，也就是298rmb→208rmb，还送张月卡\n\n
+ 根据之前经验，不急的话最好等一个50%off的时候再入比较划算\n\n活动页面：\nhttps://www.finalfantasyxiv.co
+ m/sale/
+TZID:Asia/Tokyo
+SEQUENCE:0
+UID:72c469aa-3b45-4cc1-9f65-77fedaf2861a
+CREATED:20241222T160329Z
+DTSTART;TZID=Asia/Tokyo:20241220T180000
+DTEND;TZID=Asia/Tokyo:20250107T020000
+URL:https://www.finalfantasyxiv.com/sale/
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20220829T063113Z
 SUMMARY:J-全服维护
 DESCRIPTION:公告地址：\nhttps://jp.finalfantasyxiv.com/lodestone/news/detail/7
