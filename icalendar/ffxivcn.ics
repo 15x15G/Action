@@ -1695,17 +1695,18 @@ DTSTART;TZID=Asia/Shanghai:20240621T140000
 DTEND;TZID=Asia/Shanghai:20240626T140000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241217T084241Z
-SUMMARY:C-（预测）星芒节
-DESCRIPTION:活动奖励：\n正统圣诞老人套（5件）-「オーソドックスセイント・キャップ」、「オーソドックスセイント・ハーフローブ」、「オ
- ーソドックスセイント・グローブ」、「オーソドックスセイント・ボトム」、「オーソドックスセイント・ロングブーツ」\n庭具-「イルミネーテッド・チョ
- コボトピアリー」（不可染色）\n
-TZID:Asia/Tokyo
+DTSTAMP:20241222T155213Z
+SUMMARY:C-星芒节「传递微笑与羁绊的礼物」
+DESCRIPTION:活动奖励：\n正统圣人套（5件）-「正统圣人帽」、「正统圣人短袍」、「正统圣人手套」、「正统圣人打底裤」、「正统圣人长靴」
+ \n庭具-「陆行鸟照明灌木」（不可染色）\n\n活动页面：\nhttps://actff1.web.sdo.com/project/202412
+ 23Starlight/\n
+TZID:Asia/Shanghai
 SEQUENCE:0
 UID:9c7eda69-bd98-48a9-89a0-3417f7f6b081
-CREATED:20241217T084241Z
-DTSTART;VALUE=DATE:20241224
-DTEND;VALUE=DATE:20241225
+CREATED:20241222T155213Z
+DTSTART;TZID=Asia/Shanghai:20241223T140000
+DTEND;TZID=Asia/Shanghai:20250106T140000
+URL:https://actff1.web.sdo.com/project/20241223Starlight/
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20210809T043406Z
