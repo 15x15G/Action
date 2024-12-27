@@ -1518,14 +1518,19 @@ DTSTART;TZID=Asia/Tokyo:20230201T170000
 DTEND;TZID=Asia/Tokyo:20230215T235900
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241112T071246Z
-SUMMARY:J-降神祭-蛇
+DTSTAMP:20241227T042033Z
+SUMMARY:J-降神祭-蛇「白蛇？ツチノコ？縁起もの！」
+DESCRIPTION:活动奖励：\n宠物-「東方の白ツチノコ？」（东方的白色土龙？）\n家具-桌上「オリエンタル・ニューイヤーディッシュ」（东方
+ 新年佳肴）（可染色）\n家具-壁挂-「迎春扇子飾」（迎春扇子）（不可染色）\n\n活动页面：\nhttps://jp.finalfantasyx
+ iv.com/lodestone/special/2025/Heavensturn/xhy9z0p5ev
 TZID:Asia/Tokyo
 SEQUENCE:0
 UID:95c0a395-20ab-4f14-b2d2-13d14e05a11f
-CREATED:20241112T071246Z
-DTSTART;VALUE=DATE:20250101
-DTEND;VALUE=DATE:20250102
+CREATED:20241227T042033Z
+DTSTART;TZID=Asia/Tokyo:20250101T000000
+DTEND;TZID=Asia/Tokyo:20250116T235900
+URL:https://jp.finalfantasyxiv.com/lodestone/special/2025/Heavensturn/xhy
+ 9z0p5ev
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20230626T101246Z
