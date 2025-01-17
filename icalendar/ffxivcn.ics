@@ -2845,6 +2845,19 @@ DTSTART;TZID=Asia/Shanghai:20240324T000000
 DTEND;TZID=Asia/Shanghai:20240324T020000
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20250116T081450Z
+SUMMARY:C-「莫古莫古★大收集 ~黄金的魔典~」
+DESCRIPTION:【开到7.1开始维护的时间，等有具体时间会再改】\n\n主要奖励：\n甜甜圈耳坠（100点）\n水蛇戒指（50点）\n\n
+ 活动页面：\nhttps://actff1.web.sdo.com/project/20250106mogmog/index.html
+TZID:Asia/Shanghai
+SEQUENCE:0
+UID:c5769c78-92dc-41b1-9af5-8bc8a161a053
+CREATED:20250116T081450Z
+DTSTART;TZID=Asia/Shanghai:20250121T160000
+DTEND;TZID=Asia/Shanghai:20250218T170000
+URL:https://actff1.web.sdo.com/project/20250106mogmog/index.html
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20240816T045848Z
 SUMMARY:C-FF16联动
 DESCRIPTION:（需要打完50级主线究极神兵（就是会给幻想药的那个任务））\n\n活动奖励：\n美堤亚套（共四件）-「美堤亚上衣」、「美堤
