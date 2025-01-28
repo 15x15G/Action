@@ -2405,6 +2405,22 @@ DTSTART;TZID=Asia/Tokyo:20220615T170000
 DTEND;TZID=Asia/Tokyo:20220630T235900
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20250128T051934Z
+SUMMARY:J-「第85回 FFXIV PLL」
+DESCRIPTION:放送内容：\n版本7.2实装内容特集Part1\n\nYoutube-https://www.youtube.com/li
+ ve/cVQWDewBrfQ\nNiconico-https://live.nicovideo.jp/watch/lv346836491\nTw
+ itch-https://www.twitch.tv/finalfantasyxiv\n\n公告页面：\nhttps://jp.finalfan
+ tasyxiv.com/lodestone/topics/detail/5adb52f22c28017d45a47de2b945deed3682
+ c084
+TZID:Asia/Tokyo
+SEQUENCE:0
+UID:a223d0c8-82b1-4797-bc0d-6ccfd0733ea8
+CREATED:20250128T051934Z
+DTSTART;TZID=Asia/Tokyo:20250207T200000
+DTEND;TZID=Asia/Tokyo:20250207T220000
+URL:https://www.youtube.com/live/cVQWDewBrfQ
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20240131T113312Z
 SUMMARY:J-恋人节「愛の秘策はハート型？」
 DESCRIPTION:活动奖励：\n情感动作-「ハートポーズ」（比心）\n家具-可染色-「ヴァレンティオン・ハートチェア」（情人节爱心椅子）\n
@@ -2615,6 +2631,21 @@ UID:fa71cb75-892d-403c-a8ca-0fb0fa880fda
 CREATED:20240523T110802Z
 DTSTART;TZID=Asia/Tokyo:20240523T170000
 DTEND;TZID=Asia/Tokyo:20240620T235900
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250128T051612Z
+SUMMARY:J-恋人节「伝統の薔薇に想いを込めて」
+DESCRIPTION:活动奖励：\n情感动作-「花束を贈る」\n家具-壁挂-「ヴァレンティオンデー・ポスター2025」\n\n活动页面：\nht
+ tps://jp.finalfantasyxiv.com/lodestone/special/2025/Valentiones_Day/xe76
+ ytdwz8
+TZID:Asia/Tokyo
+SEQUENCE:0
+UID:fe6ed4ec-b782-4e41-abbc-6f2c909dd266
+CREATED:20250128T051612Z
+DTSTART;TZID=Asia/Tokyo:20250203T170000
+DTEND;TZID=Asia/Tokyo:20250217T235900
+URL:https://jp.finalfantasyxiv.com/lodestone/special/2025/Valentiones_Day
+ /xe76ytdwz8
 END:VEVENT
 BEGIN:VTIMEZONE
 TZID:Asia/Tokyo
