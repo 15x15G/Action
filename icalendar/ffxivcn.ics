@@ -1360,15 +1360,17 @@ DTEND;TZID=Asia/Shanghai:20250207T140000
 URL:https://actff1.web.sdo.com/project/141028dgf/index.html
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241112T071359Z
-SUMMARY:C-（预测）恋人节
-DESCRIPTION:活动奖励：\n情感动作-「ハートポーズ」（比心）\n家具-可染色-「ヴァレンティオン・ハートチェア」（情人节爱心椅子）
-TZID:Asia/Tokyo
+DTSTAMP:20250208T180347Z
+SUMMARY:C-恋人节「爱的秘诀是心形？」
+DESCRIPTION:活动奖励：\n情感动作-「比心」\n家具-可染色-「恋人节心形椅」\n\n活动页面：\nhttps://actff1.we
+ b.sdo.com/project/20250210ValentionesDay/
+TZID:Asia/Shanghai
 SEQUENCE:0
 UID:7bdbd4a6-a245-4f90-8a44-7ea19be3fa55
-CREATED:20241112T071359Z
-DTSTART;VALUE=DATE:20250214
-DTEND;VALUE=DATE:20250215
+CREATED:20250208T180347Z
+DTSTART;TZID=Asia/Shanghai:20250214T140000
+DTEND;TZID=Asia/Shanghai:20250224T140000
+URL:https://actff1.web.sdo.com/project/20250210ValentionesDay/
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20230603T105843Z
