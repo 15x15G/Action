@@ -1642,6 +1642,21 @@ DTSTART;TZID=Asia/Shanghai:20230213T140000
 DTEND;TZID=Asia/Shanghai:20230215T140000
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20250217T120846Z
+SUMMARY:C-幻梦寻宝旅人（挖宝送宝图活动）
+DESCRIPTION:单个角色解读任意7张寻宝地图的冒险者，可在活动期间领取【陈旧的狞豹革地图】藏宝图2张。\n\n全区全服共计解读次数达到1\
+ ,000\,000次时，已完成任务1的冒险者可额外领取【陈旧的狞豹革地图】藏宝图3张。\n\n具体的GM活动和丝瓜活动请自行参照活动页面。\n\
+ n活动页面：\nhttps://actff1.web.sdo.com/20250218_DreamTraveler/index.html#/in
+ dex
+TZID:Asia/Shanghai
+SEQUENCE:0
+UID:95d44074-0670-4130-ab5b-40e40afb9e8a
+CREATED:20250217T120846Z
+DTSTART;TZID=Asia/Shanghai:20250218T160000
+DTEND;TZID=Asia/Shanghai:20250302T235900
+URL:https://actff1.web.sdo.com/20250218_DreamTraveler/index.html#/index
+END:VEVENT
+BEGIN:VEVENT
 CREATED:20240803T095838Z
 DESCRIPTION:7.0更新笔记（翻译来源微博@止水ShinwaRyu）：\nhttps://weibo.com/1489227017/50
  49517267223834\n\n公告地址（包含7.0完整客户端）：\nhttps://ff.web.sdo.com/web8/index.h
@@ -2904,16 +2919,16 @@ DTSTART;TZID=Asia/Shanghai:20240324T000000
 DTEND;TZID=Asia/Shanghai:20240324T020000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250116T081450Z
+DTSTAMP:20250217T101500Z
 SUMMARY:C-「莫古莫古★大收集 ~黄金的魔典~」
-DESCRIPTION:【开到7.1开始维护的时间，等有具体时间会再改】\n\n主要奖励：\n甜甜圈耳坠（100点）\n水蛇戒指（50点）\n\n
- 活动页面：\nhttps://actff1.web.sdo.com/project/20250106mogmog/index.html
+DESCRIPTION:【开到7.1开始维护的时间】\n\n主要奖励：\n甜甜圈耳坠（100点）\n水蛇戒指（50点）\n\n活动页面：\nhtt
+ ps://actff1.web.sdo.com/project/20250106mogmog/index.html
 TZID:Asia/Shanghai
 SEQUENCE:0
 UID:c5769c78-92dc-41b1-9af5-8bc8a161a053
-CREATED:20250116T081450Z
+CREATED:20250217T101500Z
 DTSTART;TZID=Asia/Shanghai:20250121T160000
-DTEND;TZID=Asia/Shanghai:20250218T170000
+DTEND;TZID=Asia/Shanghai:20250218T120000
 URL:https://actff1.web.sdo.com/project/20250106mogmog/index.html
 END:VEVENT
 BEGIN:VEVENT
@@ -2956,6 +2971,20 @@ UID:e39ffb34-31c5-4cf7-9872-7621a0e5c561
 CREATED:20240223T100531Z
 DTSTART;TZID=Asia/Shanghai:20240301T190000
 DTEND;TZID=Asia/Shanghai:20240301T210000
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250217T101743Z
+SUMMARY:C-7.1版本更新维护（新主线、新团本、新友好部族、幻白虎、收藏柜功能、画质升级《注意去森都领限时幻想药》等）
+DESCRIPTION:更新笔记：\nhttps://ff.web.sdo.com/web8/index.html#/newstab/newsco
+ nt/371127\n\n公告地址：\nhttps://ff.web.sdo.com/web8/index.html#/newstab/news
+ cont/371173
+TZID:Asia/Shanghai
+SEQUENCE:0
+UID:e494a629-dde4-48eb-88a1-b9b750e199ca
+CREATED:20250217T101743Z
+DTSTART;TZID=Asia/Shanghai:20250218T120000
+DTEND;TZID=Asia/Shanghai:20250218T170000
+URL:https://ff.web.sdo.com/web8/index.html#/newstab/newscont/371173
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20240507T100741Z
