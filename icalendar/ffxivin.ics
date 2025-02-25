@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//caldav.icloud.com//CALDAVJ 2428B596//EN
+PRODID:-//caldav.icloud.com//CALDAVJ 2506B545//EN
 X-WR-CALNAME:国际服(Final Fantasy XIV)
 X-APPLE-CALENDAR-COLOR:#cc73e1
 BEGIN:VEVENT
@@ -1603,6 +1603,22 @@ UID:97E0C46F-AD10-4B65-BC6B-2025C92C5B7D
 CREATED:20220802T153825Z
 DTSTART;TZID=Asia/Tokyo:20220803T120000
 DTEND;TZID=Asia/Tokyo:20220803T140000
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250225T080339Z
+SUMMARY:J-女儿节「誰かに贈る、親愛の歌」
+DESCRIPTION:总管王子/执事王子一套（共5件，可双染色）-「セネシャルプリンス・ヘッドセット」、「セネシャルプリンス・ジャケット」、「セ
+ ネシャルプリンス・グローブ」、「セネシャルプリンス・トラウザー」、「セネシャルプリンス・ロングブーツ」\n\n活动页面：\nhttps://jp
+ .finalfantasyxiv.com/lodestone/special/2025/Little_Ladies_Day/7eeibemc8p
+ 
+TZID:Asia/Tokyo
+SEQUENCE:0
+UID:9932dcae-fe90-4acb-9163-2397972f3506
+CREATED:20250225T080339Z
+DTSTART;TZID=Asia/Tokyo:20250303T170000
+DTEND;TZID=Asia/Tokyo:20250317T235900
+URL:https://jp.finalfantasyxiv.com/lodestone/special/2025/Little_Ladies_D
+ ay/7eeibemc8p
 END:VEVENT
 BEGIN:VEVENT
 CREATED:20230329T172817Z
