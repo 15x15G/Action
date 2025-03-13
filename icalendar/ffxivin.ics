@@ -332,6 +332,20 @@ DTSTART;VALUE=DATE:20240605
 DTEND;VALUE=DATE:20240621
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20250313T105357Z
+SUMMARY:J-「第86回 FFXIV PLL」
+DESCRIPTION:放送内容：\n版本7.2实装内容特集Part2\n\nYoutube：\nhttps://www.youtube.com/
+ live/fydpys-4P4w\n\nNiconico：\nhttps://live.nicovideo.jp/watch/lv3471235
+ 19\n\nTwitch：\nhttps://www.twitch.tv/finalfantasyxiv
+TZID:Asia/Tokyo
+SEQUENCE:0
+UID:260a0c52-14e4-4afc-8b2e-c64f5ca65006
+CREATED:20250313T105357Z
+DTSTART;TZID=Asia/Tokyo:20250314T190000
+DTEND;TZID=Asia/Tokyo:20250314T220000
+URL:https://www.youtube.com/live/fydpys-4P4w
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20231031T104747Z
 SUMMARY:J-糖豆人联动
 DESCRIPTION:活动联动特设页面：\nhttps://jp.finalfantasyxiv.com/lodestone/special/f
