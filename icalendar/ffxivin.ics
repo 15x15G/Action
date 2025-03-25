@@ -2598,18 +2598,19 @@ URL:https://jp.finalfantasyxiv.com/lodestone/topics/detail/5f00ea42fb4e62
  f92adcd60b23cf40eefd838745
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250321T090738Z
+DTSTAMP:20250325T081107Z
 SUMMARY:J-7.2版本更新维护（持续24小时，更新新主线、朱雀幻巧战、至天之座5-8、战职新HQ绿装等）
-DESCRIPTION:更新笔记（先行，日版）：\nhttps://jp.finalfantasyxiv.com/lodestone/topics
- /detail/e585524292d09e637965f6acd92a250461b2028f\n\n公告页面：\nhttps://jp.fi
- nalfantasyxiv.com/lodestone/news/detail/508b7a230b9c2db343f52da1568396bf
- 3dcd6c7c
+DESCRIPTION:更新笔记（翻译来源@止水ShinwaRyu）：\nhttps://weibo.com/1489227017/Pk8QLeb
+ 9u\n\n更新笔记（日版）：\nhttps://jp.finalfantasyxiv.com/lodestone/topics/detail/
+ 272e3ae76b2663ef84b4d5833441597813e29d75\n\n公告页面：\nhttps://jp.finalfanta
+ syxiv.com/lodestone/news/detail/508b7a230b9c2db343f52da1568396bf3dcd6c7c
+ 
 TZID:Asia/Tokyo
 SEQUENCE:0
 UID:cc1ef8a4-2678-4adc-8311-e05aaee156fa
-CREATED:20250321T090738Z
+CREATED:20250325T081107Z
 DTSTART;TZID=Asia/Tokyo:20250324T190000
-DTEND;TZID=Asia/Tokyo:20250325T190000
+DTEND;TZID=Asia/Tokyo:20250325T171500
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20240605T092550Z
