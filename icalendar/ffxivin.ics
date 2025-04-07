@@ -145,6 +145,20 @@ DTSTART;TZID=Asia/Tokyo:20220827T160000
 DTEND;TZID=Asia/Tokyo:20220912T235900
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20250407T074536Z
+SUMMARY:J-猎蛋节「タマゴと傘の不思議な出会い」
+DESCRIPTION:活动奖励：\n时尚配饰-「预言蛋阳伞」\n\n活动页面：\nhttps://jp.finalfantasyxiv.com/
+ lodestone/special/2025/Hatching_tide/ta6u6e9be7
+TZID:Asia/Tokyo
+SEQUENCE:0
+UID:0e9b0261-9cdd-452c-870f-0e47d0818631
+CREATED:20250407T074536Z
+DTSTART;TZID=Asia/Tokyo:20250409T170000
+DTEND;TZID=Asia/Tokyo:20250424T235900
+URL:https://jp.finalfantasyxiv.com/lodestone/special/2025/Hatching_tide/t
+ a6u6e9be7
+END:VEVENT
+BEGIN:VEVENT
 CREATED:20230506T095513Z
 DESCRIPTION:6.4版本特集Part2\n\nyoutube直播间：\nhttps://www.youtube.com/watch?v=
  4i8PijfPKIs&ab_channel=FINALFANTASYXIV
