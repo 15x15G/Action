@@ -965,14 +965,14 @@ DTEND;TZID=Asia/Shanghai:20241228T115900
 URL:https://actff1.web.sdo.com/20240621_eorzea/index.html#/index
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250415T072943Z
-SUMMARY:C-7.15版本更新维护
+DTSTAMP:20250415T074040Z
+SUMMARY:C-7.15版本更新维护（合并了7.15~7.18，新老主顾、7.0生采/战斗统合任务、调查员、灭暗黑之云等）
 DESCRIPTION:公告页面：\nhttps://ff.web.sdo.com/web8/index.html#/newstab/newsco
  nt/373338
 TZID:Asia/Tokyo
 SEQUENCE:0
 UID:56283a0c-d3da-405d-83a1-63e06521f78d
-CREATED:20250415T072943Z
+CREATED:20250415T074040Z
 DTSTART;VALUE=DATE:20250422
 DTEND;VALUE=DATE:20250423
 URL:https://ff.web.sdo.com/web8/index.html#/newstab/newscont/373338
