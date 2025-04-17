@@ -2989,6 +2989,20 @@ DTEND;TZID=Asia/Shanghai:20250311T170000
 URL:https://ff.web.sdo.com/web8/index.html#/newstab/newscont/371841
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20250417T071117Z
+SUMMARY:C-女儿节「致予某人的亲爱之歌」
+DESCRIPTION:活动奖励：\n管家王子一套（共5件，可双染色）-「管家王子头戴式拾音器」、「管家王子外套」、「管家王子手套」、「管家王子长
+ 裤」、「管家王子长靴」\n\n活动页面：\nhttps://actff1.web.sdo.com/project/20250424LittleL
+ adiesDay/
+TZID:Asia/Shanghai
+SEQUENCE:0
+UID:cf4017d8-c5be-4a9e-b405-2655713d8076
+CREATED:20250417T071117Z
+DTSTART;TZID=Asia/Shanghai:20250424T140000
+DTEND;TZID=Asia/Shanghai:20250508T140000
+URL:https://actff1.web.sdo.com/project/20250424LittleLadiesDay/
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20240816T045848Z
 SUMMARY:C-FF16联动
 DESCRIPTION:（需要打完50级主线究极神兵（就是会给幻想药的那个任务））\n\n活动奖励：\n美堤亚套（共四件）-「美堤亚上衣」、「美堤
