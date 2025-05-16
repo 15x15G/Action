@@ -2640,6 +2640,21 @@ DTSTART;TZID=Asia/Tokyo:20240531T120000
 DTEND;TZID=Asia/Tokyo:20240621T155900
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20250516T082313Z
+SUMMARY:J-金碟庆典「ゴールデンな仲間と、ゴールデンなひとときを」
+DESCRIPTION:活动奖励：\n情感动作-「大げさに驚く」\n九宫幻卡-「カード:キングのエルマー」\n\n活动页面：\nhttps://j
+ p.finalfantasyxiv.com/lodestone/special/2025/the_make_it_rain_campaign/p
+ P1HUSgIHI
+TZID:Asia/Tokyo
+SEQUENCE:0
+UID:da376c66-c38d-44ff-ad26-976dd4f0c2a3
+CREATED:20250516T082313Z
+DTSTART;TZID=Asia/Tokyo:20250519T170000
+DTEND;TZID=Asia/Tokyo:20250611T235900
+URL:https://jp.finalfantasyxiv.com/lodestone/special/2025/the_make_it_rai
+ n_campaign/pP1HUSgIHI
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20240605T091737Z
 SUMMARY:J-cdk60%off折扣（7.0前最终折扣）
 DESCRIPTION:活动页面：\nhttps://www.finalfantasyxiv.com/sale/
