@@ -557,6 +557,21 @@ DTSTART;TZID=Asia/Shanghai:20220111T100000
 DTEND;TZID=Asia/Shanghai:20220120T140000
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20250516T082005Z
+SUMMARY:C-金碟庆典「游乐场里的新吉祥物！？」
+DESCRIPTION:活动奖励：\n防具-头部-「河童蓑衣头套」\n防具-身体-「河童蓑衣套装」\n\n家具-桌台-「仙人刺餐桌」（不可染色）\
+ n庭具-「仙人刺先生时钟」（不可染色）\n\n活动页面：\nhttps://actff1.web.sdo.com/project/2025052
+ 0thegoldsaucer/\n公告地址：\nhttps://ff.web.sdo.com/web8/index.html#/newstab/
+ newscont/374469
+TZID:Asia/Shanghai
+SEQUENCE:0
+UID:2b57fa6b-2d99-4651-b950-582b9ec9e74e
+CREATED:20250516T082005Z
+DTSTART;TZID=Asia/Shanghai:20250520T140000
+DTEND;TZID=Asia/Shanghai:20250603T140000
+URL:https://actff1.web.sdo.com/project/20250520thegoldsaucer/
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20240222T153035Z
 SUMMARY:C-艾欧泽亚大冒险
 DESCRIPTION:打本获得抽奖机会的活动。\n抽100次必定有稀有奖品。\n日常在每天0点刷新，周常在每周一0点刷新。\n总共持续：46天，
