@@ -3086,6 +3086,19 @@ DTEND;TZID=Asia/Shanghai:20250218T170000
 URL:https://ff.web.sdo.com/web8/index.html#/newstab/newscont/371173
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20250526T021911Z
+SUMMARY:C-「莫古莫古★大收集 ~与幻想邂逅~」
+DESCRIPTION:【开到7.2开始维护的时间】\n\n主要奖励：\n猴面雀耳坠（100点）\n迷你赫拉斯瓦尔格（50点）\n\n活动页面：\
+ nhttps://actff1.web.sdo.com/project/20250508mogmog/index.html
+TZID:Asia/Shanghai
+SEQUENCE:0
+UID:f07b04ff-10d9-4f7c-ad8a-07294b527b4c
+CREATED:20250526T021911Z
+DTSTART;TZID=Asia/Shanghai:20250527T170000
+DTEND;TZID=Asia/Shanghai:20250624T180000
+URL:https://actff1.web.sdo.com/project/20250508mogmog/index.html
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20240507T100741Z
 SUMMARY:C-第81回PLL转播（技改特辑）
 DESCRIPTION:官方b站直播间：\nhttps://live.bilibili.com/5225
