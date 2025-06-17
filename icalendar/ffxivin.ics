@@ -1107,15 +1107,15 @@ URL:https://jp.finalfantasyxiv.com/lodestone/topics/detail/dfbc510152d601
  b725c4fbeab61e5fe71dc025d9
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250611T120642Z
+DTSTAMP:20250617T083729Z
 SUMMARY:J-「第87回 FFXIV PLL」
-DESCRIPTION:版本7.3实装内容特集Part1。\n\nYoutube-https://www.youtube.com/live/Zg-
- LRoukGVo\nNiconico-https://live.nicovideo.jp/watch/lv347910777\nTwitch-h
- ttps://www.twitch.tv/finalfantasyxiv
+DESCRIPTION:回答宇宙探索/新月岛的玩家反馈。\n版本7.3实装内容特集Part1。\n\nYoutube-https://www.yo
+ utube.com/live/Zg-LRoukGVo\nNiconico-https://live.nicovideo.jp/watch/lv3
+ 47910777\nTwitch-https://www.twitch.tv/finalfantasyxiv
 TZID:Asia/Tokyo
 SEQUENCE:0
 UID:717737ea-71d5-4e12-96fc-702fb6827323
-CREATED:20250611T120642Z
+CREATED:20250617T083729Z
 DTSTART;TZID=Asia/Tokyo:20250620T200000
 DTEND;TZID=Asia/Tokyo:20250620T220000
 URL:https://www.youtube.com/live/Zg-LRoukGVo
