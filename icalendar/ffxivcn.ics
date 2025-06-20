@@ -766,6 +766,17 @@ DTEND;TZID=Asia/Shanghai:20250207T235900
 URL:https://qu.sdo.com/personal-center?merchantId=1#giftcardindex
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20250620T065323Z
+SUMMARY:C-超域传送先行体验开启
+DESCRIPTION:具体查看官网公告。
+TZID:Asia/Tokyo
+SEQUENCE:0
+UID:44b927ab-1a0f-4b11-85b8-8d8a3407cd09
+CREATED:20250620T065323Z
+DTSTART;VALUE=DATE:20250626
+DTEND;VALUE=DATE:20250627
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20250111T135420Z
 SUMMARY:C-糖豆人联动复刻
 DESCRIPTION:活动页面：\nhttps://actff1.web.sdo.com/project/20240401ff14fallguy
@@ -3169,16 +3180,18 @@ DTEND;TZID=Asia/Shanghai:20250311T170000
 URL:https://ff.web.sdo.com/web8/index.html#/newstab/newscont/371841
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250613T113208Z
+DTSTAMP:20250620T065149Z
 SUMMARY:C-7.2+7.21版本更新维护（【各大区时长合并】更新新主线、朱雀幻巧战、至天之座5-8、战职新HQ绿装、宇宙探索等）
-DESCRIPTION:【7.21是宇宙探索】\n\n7.2更新笔记（翻译来源@止水ShinwaRyu）：\nhttps://weibo.com/
- 1489227017/Pk8QLeb9u
+DESCRIPTION:【7.21是宇宙探索】\n7.2更新笔记（官网）：\nhttps://ff.web.sdo.com/web8/index.
+ html#/newstab/newscont/375723\n\n7.2更新笔记（翻译来源@止水ShinwaRyu）：\nhttps://wei
+ bo.com/1489227017/Pk8QLeb9u
 TZID:Asia/Tokyo
 SEQUENCE:0
 UID:c6a3b7b6-1798-455d-bfd3-6eb191a38fbc
-CREATED:20250613T113208Z
+CREATED:20250620T065149Z
 DTSTART;VALUE=DATE:20250624
 DTEND;VALUE=DATE:20250625
+URL:https://ff.web.sdo.com/web8/index.html#/newstab/newscont/375723
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20250613T115902Z
@@ -3322,15 +3335,18 @@ DTEND;TZID=Asia/Shanghai:20250624T180000
 URL:https://actff1.web.sdo.com/project/20250508mogmog/index.html
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250613T112559Z
+DTSTAMP:20250620T065356Z
 SUMMARY:C-超域传送先行体验招募（跨大区）
-DESCRIPTION:来源PLL。
+DESCRIPTION:来源PLL。\n\n公告地址：\nhttps://ff.web.sdo.com/web8/index.html#/news
+ tab/newscont/375600\n\n活动页面：\nhttps://ffact.web.sdo.com/project/20191110
+ _Race/#/index
 TZID:Asia/Shanghai
 SEQUENCE:0
 UID:f26c5ec5-a3fb-4908-9722-9a6068fd97d2
-CREATED:20250613T112559Z
+CREATED:20250620T065356Z
 DTSTART;TZID=Asia/Shanghai:20250618T140000
 DTEND;TZID=Asia/Shanghai:20250623T100000
+URL:https://ffact.web.sdo.com/project/20191110_Race/#/index
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20240507T100741Z
