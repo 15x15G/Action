@@ -3180,18 +3180,20 @@ DTEND;TZID=Asia/Shanghai:20250311T170000
 URL:https://ff.web.sdo.com/web8/index.html#/newstab/newscont/371841
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250620T065149Z
-SUMMARY:C-7.2+7.21版本更新维护（【各大区时长合并】更新新主线、朱雀幻巧战、至天之座5-8、战职新HQ绿装、宇宙探索等）
-DESCRIPTION:【7.21是宇宙探索】\n7.2更新笔记（官网）：\nhttps://ff.web.sdo.com/web8/index.
- html#/newstab/newscont/375723\n\n7.2更新笔记（翻译来源@止水ShinwaRyu）：\nhttps://wei
- bo.com/1489227017/Pk8QLeb9u
-TZID:Asia/Tokyo
-SEQUENCE:0
-UID:c6a3b7b6-1798-455d-bfd3-6eb191a38fbc
 CREATED:20250620T065149Z
-DTSTART;VALUE=DATE:20250624
-DTEND;VALUE=DATE:20250625
-URL:https://ff.web.sdo.com/web8/index.html#/newstab/newscont/375723
+DESCRIPTION:维护时间长达32小时。\n【7.21是宇宙探索】\n7.2更新笔记（官网）：\nhttps://ff.web.sdo.co
+ m/web8/index.html#/newstab/newscont/375723\n\n7.2更新笔记（翻译来源@止水ShinwaRyu）：
+ \nhttps://weibo.com/1489227017/Pk8QLeb9u
+DTEND;TZID=Asia/Shanghai:20250624T180000
+DTSTAMP:20250620T094411Z
+DTSTART;TZID=Asia/Shanghai:20250623T100000
+LAST-MODIFIED:20250620T094411Z
+SEQUENCE:1
+SUMMARY:C-7.2+7.21版本更新维护（【各大区时长合并】更新新主线、朱雀幻巧战、至天之座5-8、战职新HQ绿装、宇宙探索等）
+TZID:Asia/Tokyo
+UID:c6a3b7b6-1798-455d-bfd3-6eb191a38fbc
+URL;VALUE=URI:https://ff.web.sdo.com/web8/index.html#/newstab/newscont/37
+ 5723
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20250613T115902Z
