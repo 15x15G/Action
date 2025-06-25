@@ -3287,16 +3287,18 @@ DTSTART;VALUE=DATE:20250923
 DTEND;VALUE=DATE:20250924
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250613T120835Z
+DTSTAMP:20250624T170822Z
 SUMMARY:C-FF14 X B站 光之创作狂欢节（紫色雪人）
-DESCRIPTION:【17:00开始活动】\n暂时不知道结束时间，详情等之后更新。\n\n投喂FF14专属礼物“玉米大人”或获得5个“玉米大人
- ”投喂，可领取坐骑“陪伴雪人”。
-TZID:Asia/Tokyo
+DESCRIPTION:活动页面：\nhttps://live.bilibili.com/blackboard/era/YzdEXKopHSjEi
+ sjk.html\n\n投喂FF14专属礼物“玉米大人”或获得5个“玉米大人”投喂，可领取坐骑“陪伴雪人”。\n\n还有活动积分可换飞隼号启动钥
+ 匙、传送网使用券和陆行鸟巧克力&莫古莫古曲奇x10。
+TZID:Asia/Shanghai
 SEQUENCE:0
 UID:e37aaa79-5e3d-4971-bb04-e4d933274488
-CREATED:20250613T120835Z
-DTSTART;VALUE=DATE:20250624
-DTEND;VALUE=DATE:20250625
+CREATED:20250624T170822Z
+DTSTART;TZID=Asia/Shanghai:20250624T170000
+DTEND;TZID=Asia/Shanghai:20250724T235900
+URL:https://live.bilibili.com/blackboard/era/YzdEXKopHSjEisjk.html
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20240223T100531Z
