@@ -717,15 +717,17 @@ DTEND;TZID=Asia/Shanghai:20250326T140000
 URL:https://actff1.web.sdo.com/project/20250312ValentionesDay/index.html
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250613T115822Z
-SUMMARY:C-红莲节（鲶鱼扇子动作）
-DESCRIPTION:活动奖励：\n情感动作-「扇大团扇」\n家具-桌上（不可染色）-「爆弹怪气球」
+DTSTAMP:20250704T064558Z
+SUMMARY:C-红莲节「用大团扇扇走热气吧！」
+DESCRIPTION:活动奖励：\n情感动作-「扇大团扇」\n家具-桌上（不可染色）-「爆弹怪气球」\n\n活动页面：\nhttps://act
+ ff1.web.sdo.com/project/20250710MoonfireFaire/j57hwXRS8L/
 TZID:Asia/Shanghai
 SEQUENCE:0
 UID:41750697-bf3a-4b8c-84b0-2ffa957c766a
-CREATED:20250613T115822Z
+CREATED:20250704T064558Z
 DTSTART;TZID=Asia/Shanghai:20250710T140000
 DTEND;TZID=Asia/Shanghai:20250724T140000
+URL:https://actff1.web.sdo.com/project/20250710MoonfireFaire/j57hwXRS8L/
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20220407T052340Z
