@@ -2655,6 +2655,20 @@ DTSTART;TZID=Asia/Tokyo:20250324T190000
 DTEND;TZID=Asia/Tokyo:20250325T171500
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20250704T064433Z
+SUMMARY:J-「モグモグ★コレクション ～奇譚の探求者～」
+DESCRIPTION:【到7.3更新时候结束。】\n\n活动页面：\nhttps://jp.finalfantasyxiv.com/lodest
+ one/special/mogmog-collection/202507/5jc8r6hlb2
+TZID:Asia/Tokyo
+SEQUENCE:0
+UID:cc9845f6-6d08-4305-8427-c48592dac0ef
+CREATED:20250704T064433Z
+DTSTART;TZID=Asia/Tokyo:20250708T170000
+DTEND;TZID=Asia/Tokyo:20250805T180000
+URL:https://jp.finalfantasyxiv.com/lodestone/special/mogmog-collection/20
+ 2507/5jc8r6hlb2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20240605T092550Z
 SUMMARY:J-各类冒险录道具50%off
 DESCRIPTION:参考价格：\n主线叮（2.0~5.0）1375日元约64元人民币\n职业叮（80级）1375日元约64元人民币\n雇员叮（
