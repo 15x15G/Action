@@ -2682,6 +2682,22 @@ DTSTART;TZID=Asia/Tokyo:20240531T120000
 DTEND;TZID=Asia/Tokyo:20240621T155900
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20250713T133532Z
+SUMMARY:J-「第88回 FFXIV PLL」
+DESCRIPTION:放送内容：\n版本7.3实装内容特集Part2\n\n公告地址：\nhttps://jp.finalfantasyxiv.
+ com/lodestone/topics/detail/ca8216bffd0acabe966c3db6df1e848a6e094826\n\n
+ Youtube：https://www.youtube.com/live/fKRcsU6FTA4\nNiconico：https://live.
+ nicovideo.jp/watch/lv348190606\nTwitch：https://www.twitch.tv/finalfantas
+ yxiv\n
+TZID:Asia/Tokyo
+SEQUENCE:0
+UID:d50852a5-ae4b-4e03-92a9-dccea55ba609
+CREATED:20250713T133532Z
+DTSTART;TZID=Asia/Tokyo:20250724T190000
+DTEND;TZID=Asia/Tokyo:20250724T220000
+URL:https://www.youtube.com/live/fKRcsU6FTA4
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20250516T082313Z
 SUMMARY:J-金碟庆典「ゴールデンな仲間と、ゴールデンなひとときを」
 DESCRIPTION:活动奖励：\n情感动作-「大げさに驚く」\n九宫幻卡-「カード:キングのエルマー」\n\n活动页面：\nhttps://j
