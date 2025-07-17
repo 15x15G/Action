@@ -969,6 +969,20 @@ DTSTART;TZID=Asia/Shanghai:20230724T120000
 DTEND;TZID=Asia/Shanghai:20230807T140000
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20250717T072634Z
+SUMMARY:C-「日随签到领好礼」（回原始大区日随的活动）（迷你零宠物等奖励）
+DESCRIPTION:期间共可以打13次日随，最大奖励为12次签到的迷你零。\n日随不包括行会令。\n具体奖励进活动页面自行查看。\n统计周期为
+ 当日23:00~次日22:59:59。\n\n活动页面：\nhttps://actff1.web.sdo.com/20250711_Sign/#
+ /index
+TZID:Asia/Shanghai
+SEQUENCE:0
+UID:4f0cd49d-0e4a-421e-9be2-f6135202d2cf
+CREATED:20250717T072634Z
+DTSTART;TZID=Asia/Shanghai:20250717T230000
+DTEND;TZID=Asia/Shanghai:20250803T225900
+URL:https://actff1.web.sdo.com/20250711_Sign/#/index
+END:VEVENT
+BEGIN:VEVENT
 CREATED:20231202T113818Z
 DESCRIPTION:更新笔记：\nhttps://ff.web.sdo.com/web8/index.html#/newstab/newsco
  nt/355780
