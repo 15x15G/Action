@@ -2501,6 +2501,20 @@ DTEND;TZID=Asia/Tokyo:20250207T220000
 URL:https://www.youtube.com/live/cVQWDewBrfQ
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20250727T051608Z
+SUMMARY:J-7.3版本更新维护（新主线、新24人本、青龙幻巧战、新月岛优化、兔大猫头部装备适配、新宝物库等）
+DESCRIPTION:来源PLL。\n宇宙探索和新战斗肝武要7.31。\n新深层迷宫、调查员和友好部族（生产）要7.35。\n\n具体内容可看：
+ \n2025年7月24日 国际服第88回制作人来信(7.3PLL Part2)图文信息整理(已竣工) NGA玩家社区（来源@阳光雨陌）\nhtt
+ ps://bbs.nga.cn/read.php?tid=44692186\n\n\n微博ppt图文总结（来源@止水ShinwaRyu）\nht
+ tps://weibo.com/1489227017/PCNrRhjCZ\n\n\n更新笔记（日）：
+TZID:Asia/Tokyo
+SEQUENCE:0
+UID:a85a93ad-a18f-4e36-98f9-55607d62734a
+CREATED:20250727T051608Z
+DTSTART;VALUE=DATE:20250805
+DTEND;VALUE=DATE:20250806
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20240131T113312Z
 SUMMARY:J-恋人节「愛の秘策はハート型？」
 DESCRIPTION:活动奖励：\n情感动作-「ハートポーズ」（比心）\n家具-可染色-「ヴァレンティオン・ハートチェア」（情人节爱心椅子）\n
@@ -2655,14 +2669,14 @@ DTSTART;TZID=Asia/Tokyo:20250324T190000
 DTEND;TZID=Asia/Tokyo:20250325T171500
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250704T064433Z
-SUMMARY:J-「モグモグ★コレクション ～奇譚の探求者～」
+DTSTAMP:20250727T051751Z
+SUMMARY:J-「モグモグ★コレクション ～奇譚の探求者～」（咖啡杯耳环）
 DESCRIPTION:【到7.3更新时候结束。】\n\n活动页面：\nhttps://jp.finalfantasyxiv.com/lodest
  one/special/mogmog-collection/202507/5jc8r6hlb2
 TZID:Asia/Tokyo
 SEQUENCE:0
 UID:cc9845f6-6d08-4305-8427-c48592dac0ef
-CREATED:20250704T064433Z
+CREATED:20250727T051751Z
 DTSTART;TZID=Asia/Tokyo:20250708T170000
 DTEND;TZID=Asia/Tokyo:20250805T180000
 URL:https://jp.finalfantasyxiv.com/lodestone/special/mogmog-collection/20
