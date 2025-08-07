@@ -1477,6 +1477,21 @@ DTSTART;VALUE=DATE:20241126
 DTEND;VALUE=DATE:20241127
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20250807T034930Z
+SUMMARY:J-红莲节「船上で常夏のひとときを」
+DESCRIPTION:活动奖励：\nマリタイム套（共四件，头身裤鞋，都可双染色）-「マリタイム・ミラーサングラス」、「マリタイム・ラッシュガード
+ 」、「マリタイム・ハーフタイツ」、「マリタイム・ビーチサンダル」\n\n\n活动页面：\nhttps://jp.finalfantasyxiv.
+ com/lodestone/special/2025/Moonfire_Faire/mldbn7bcai
+TZID:Asia/Tokyo
+SEQUENCE:0
+UID:8aa06b44-e8c3-415b-bf61-890f071029a0
+CREATED:20250807T034930Z
+DTSTART;TZID=Asia/Tokyo:20250813T170000
+DTEND;TZID=Asia/Tokyo:20250826T235900
+URL:https://jp.finalfantasyxiv.com/lodestone/special/2025/Moonfire_Faire/
+ mldbn7bcai
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20241030T120421Z
 SUMMARY:J-「第84回 FFXIV PLL」
 DESCRIPTION:内容：\n7.1实装前瞻特集Part2\n其他通知\n\nYoutube-https://www.youtube.com/
@@ -2501,7 +2516,7 @@ DTEND;TZID=Asia/Tokyo:20250207T220000
 URL:https://www.youtube.com/live/cVQWDewBrfQ
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250727T051608Z
+DTSTAMP:20250807T035200Z
 SUMMARY:J-7.3版本更新维护（新主线、新24人本、青龙幻巧战、新月岛优化、兔大猫头部装备适配、新宝物库等）
 DESCRIPTION:来源PLL。\n宇宙探索和新战斗肝武要7.31。\n新深层迷宫、调查员和友好部族（生产）要7.35。\n\n具体内容可看：
  \n2025年7月24日 国际服第88回制作人来信(7.3PLL Part2)图文信息整理(已竣工) NGA玩家社区（来源@阳光雨陌）\nhtt
@@ -2510,9 +2525,9 @@ DESCRIPTION:来源PLL。\n宇宙探索和新战斗肝武要7.31。\n新深层迷
 TZID:Asia/Tokyo
 SEQUENCE:0
 UID:a85a93ad-a18f-4e36-98f9-55607d62734a
-CREATED:20250727T051608Z
-DTSTART;VALUE=DATE:20250805
-DTEND;VALUE=DATE:20250806
+CREATED:20250807T035200Z
+DTSTART;TZID=Asia/Tokyo:20250805T100000
+DTEND;TZID=Asia/Tokyo:20250805T174000
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20240131T113312Z
