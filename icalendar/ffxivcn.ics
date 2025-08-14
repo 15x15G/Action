@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//caldav.icloud.com//CALDAVJ 2518B626//EN
+PRODID:-//caldav.icloud.com//CALDAVJ 2530B837//EN
 X-WR-CALNAME:国服(最终幻想14)
 X-APPLE-CALENDAR-COLOR:#ff9500
 BEGIN:VEVENT
@@ -400,6 +400,21 @@ UID:1E913227-54CD-4F7F-A486-412D36D436E6
 CREATED:20211029T052502Z
 DTSTART;TZID=Asia/Shanghai:20211104T000000
 DTEND;TZID=Asia/Shanghai:20211104T160000
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250813T081720Z
+SUMMARY:C-喊出你的爱（喊话得演技教材·吃炸鸡）
+DESCRIPTION:在任意游戏主城使用喊话频道，喊话内容需包含：\n「最终幻想14十一周年快乐！」\n1天内喊话1次即算当日签到成功。累计签到
+ 3天克获得演技教材·吃炸鸡。\n\n活动页面：\nhttps://actff1.web.sdo.com/project/20250729anni
+ versaryexchange/uwu6kv911r364oe506zaw2e6i08151/index.html#/quest
+TZID:Asia/Shanghai
+SEQUENCE:0
+UID:1b1d4ea9-21f0-4a0e-a9a6-83ae1d311a6c
+CREATED:20250813T081720Z
+DTSTART;TZID=Asia/Shanghai:20250814T000000
+DTEND;TZID=Asia/Shanghai:20250829T235900
+URL:https://actff1.web.sdo.com/project/20250729anniversaryexchange/uwu6kv
+ 911r364oe506zaw2e6i08151/index.html#/quest
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20230710T112217Z
@@ -3284,16 +3299,19 @@ DTSTART;TZID=Asia/Shanghai:20240821T160000
 DTEND;TZID=Asia/Shanghai:20240921T160000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250811T071714Z
-SUMMARY:（预测）C-新生祭（新式可露儿宠物）
-DESCRIPTION:PLL说是8月中。\n\n活动奖励：\n宠物-「ニュー・クルル」（新式可露儿）\n家具-桌上-「ライジング・テーブルランプ
- 」
-TZID:Asia/Tokyo
+DTSTAMP:20250813T081350Z
+SUMMARY:C-新生祭「在海都绽放的花朵，与思念同在」（新型迷你可露儿宠物）
+DESCRIPTION:活动奖励：\n宠物-「新型迷你可露儿」\n家具-桌上-「新生桌面台灯」\n\n活动页面：\nhttps://actff1.
+ web.sdo.com/project/20250728therising/jo988iz9a8p1x5jr52cs4716471mk5/ind
+ ex.html
+TZID:Asia/Shanghai
 SEQUENCE:0
 UID:d3ec1fa8-2d5c-4feb-9cd7-dfb3a8368d60
-CREATED:20250811T071714Z
-DTSTART;VALUE=DATE:20250819
-DTEND;VALUE=DATE:20250820
+CREATED:20250813T081350Z
+DTSTART;TZID=Asia/Shanghai:20250814T140000
+DTEND;TZID=Asia/Shanghai:20250829T140000
+URL:https://actff1.web.sdo.com/project/20250728therising/jo988iz9a8p1x5jr
+ 52cs4716471mk5/index.html
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20250313T111228Z
@@ -3385,6 +3403,19 @@ CREATED:20250526T021911Z
 DTSTART;TZID=Asia/Shanghai:20250527T170000
 DTEND;TZID=Asia/Shanghai:20250624T180000
 URL:https://actff1.web.sdo.com/project/20250508mogmog/index.html
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250813T082006Z
+SUMMARY:C-大国防联军后勤补给站优惠（雇员8折，改名5折）
+DESCRIPTION:商城页面：\nhttps://actff1.web.sdo.com/project/141028dgf/index.htm
+ l
+TZID:Asia/Shanghai
+SEQUENCE:0
+UID:f0f80463-2378-43ff-a2e2-4f474600e4a0
+CREATED:20250813T082006Z
+DTSTART;TZID=Asia/Shanghai:20250814T140000
+DTEND;TZID=Asia/Shanghai:20250829T140000
+URL:https://actff1.web.sdo.com/project/141028dgf/index.html
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20250620T065356Z
