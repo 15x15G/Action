@@ -1338,6 +1338,19 @@ DTSTART;TZID=Asia/Tokyo:20240614T200000
 DTEND;TZID=Asia/Tokyo:20240614T220000
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20250821T153611Z
+SUMMARY:J-cdk40%off夏日折扣
+DESCRIPTION:コンプリートパック（包含2.0~7.0）：6380日元→3828日元，也就是309rmb→185rmb，还送张月卡。\n\
+ n相比之前来说这次算是加上7.0cdk的史低。\n\n活动页面：\nhttps://www.finalfantasyxiv.com/sale/
+TZID:Asia/Tokyo
+SEQUENCE:0
+UID:7d03db78-43d6-4e25-9880-939149d06d5a
+CREATED:20250821T153611Z
+DTSTART;VALUE=DATE:20250813
+DTEND;VALUE=DATE:20250828
+URL:https://www.finalfantasyxiv.com/sale/
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20230519T155458Z
 SUMMARY:J-6.4版本更新维护（新主线、新万魔殿、塔塔露大商店、无人岛等）
 DESCRIPTION:【一星期后开万魔殿天狱篇零式。6.45有青魔等级上限、新多变/异闻迷宫、调查员、新肝武/生产肝武后续】\n\n更新笔记（先
