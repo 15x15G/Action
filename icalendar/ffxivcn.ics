@@ -3259,6 +3259,20 @@ URL;VALUE=URI:https://ff.web.sdo.com/web8/index.html#/newstab/newscont/37
  5723
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20250821T153647Z
+SUMMARY:C-莫古莫古★大收集 ~奇谈探究者~（咖啡杯耳坠）
+DESCRIPTION:【到7.3更新时候结束。】\n\n活动页面：\nhttps://actff1.web.sdo.com/project/20
+ 250811mogmog/qnk2008e3tng/index.html
+TZID:Asia/Shanghai
+SEQUENCE:0
+UID:c8ee4e5e-2b76-408b-a16f-7f648bd7d52d
+CREATED:20250821T153647Z
+DTSTART;TZID=Asia/Shanghai:20250819T170000
+DTEND;TZID=Asia/Shanghai:20250916T180000
+URL:https://actff1.web.sdo.com/project/20250811mogmog/qnk2008e3tng/index.
+ html
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20250613T115902Z
 SUMMARY:（预测）C-金碟庆典（oh-my-god动作）
 DESCRIPTION:PLL说是11月。\n\n活动奖励：\n情感动作-「大げさに驚く」\n九宫幻卡-「カード:キングのエルマー」
@@ -3342,13 +3356,14 @@ URL:https://actff1.web.sdo.com/project/20240909shoponlinev6a7d7d2/index.h
  tml#/index
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250613T121756Z
-SUMMARY:（预测）C-新生祭典2025
-DESCRIPTION:来源PLL说9月下，国际服还没出，占位！
+DTSTAMP:20250822T041519Z
+SUMMARY:（预测）C-新生祭典2025（古鲁加加宠物）
+DESCRIPTION:来源PLL说9月下，国际服还没出，占位！\n\n活动奖励：\n宠物-「マメット・グルージャジャ」（古鲁加加）\n\n活动页
+ 面：\n
 TZID:Asia/Tokyo
 SEQUENCE:0
 UID:e128d2d0-e172-4536-a506-6200e33f1dc1
-CREATED:20250613T121756Z
+CREATED:20250822T041519Z
 DTSTART;VALUE=DATE:20250923
 DTEND;VALUE=DATE:20250924
 END:VEVENT

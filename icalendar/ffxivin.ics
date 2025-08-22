@@ -204,15 +204,15 @@ DTSTART;TZID=Asia/Tokyo:20220823T150000
 DTEND;TZID=Asia/Tokyo:20220823T170000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250109T095706Z
+DTSTAMP:20250822T041353Z
 SUMMARY:J-「最大96時間 無料ログインキャンペーン」
 DESCRIPTION:活动页面：\nhttps://jp.finalfantasyxiv.com/lodestone/special/freel
- ogincampaign/\n\n30天未契约以上的玩家在这段时间内登录游戏端就可以获得最多3天（可以一直玩到登录那天2天后的23:59）的免费
+ ogincampaign/\n\n30天未契约以上的玩家在这段时间内登录游戏端就可以获得最多4天（可以一直玩到登录那天2天后的23:59）的免费
  游戏时长\n*时间是从输完密码点击更新游戏那一刻开始算的。
 TZID:Asia/Tokyo
 SEQUENCE:0
 UID:15df610d-e66c-4918-8ce8-94b775fb93af
-CREATED:20250109T095706Z
+CREATED:20250822T041353Z
 DTSTART;TZID=Asia/Tokyo:20250109T170000
 DTEND;TZID=Asia/Tokyo:20250206T235900
 URL:https://jp.finalfantasyxiv.com/lodestone/special/freelogincampaign/
@@ -951,15 +951,15 @@ DTSTART;TZID=Asia/Tokyo:20220516T110000
 DTEND;TZID=Asia/Tokyo:20220516T190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241012T064752Z
+DTSTAMP:20250822T041410Z
 SUMMARY:J-「最大96時間 無料ログインキャンペーン」
 DESCRIPTION:活动页面：\nhttps://jp.finalfantasyxiv.com/lodestone/special/freel
- ogincampaign/\n\n30天未契约以上的玩家在这段时间内登录游戏端就可以获得最多3天（可以一直玩到登录那天2天后的23:59）的免费
+ ogincampaign/\n\n30天未契约以上的玩家在这段时间内登录游戏端就可以获得最多4天（可以一直玩到登录那天2天后的23:59）的免费
  游戏时长\n*时间是从输完密码点击更新游戏那一刻开始算的。\n
 TZID:Asia/Tokyo
 SEQUENCE:0
 UID:6628d17a-e81c-48cc-98ec-edcb59a3f8be
-CREATED:20241012T064752Z
+CREATED:20250822T041410Z
 DTSTART;TZID=Asia/Tokyo:20241011T170000
 DTEND;TZID=Asia/Tokyo:20241031T235900
 URL:https://jp.finalfantasyxiv.com/lodestone/special/freelogincampaign/
@@ -2790,15 +2790,15 @@ DTSTART;TZID=Asia/Tokyo:20240808T150000
 DTEND;TZID=Asia/Tokyo:20240808T190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250821T153101Z
+DTSTAMP:20250822T041226Z
 SUMMARY:J-「最大96時間 無料ログインキャンペーン」
 DESCRIPTION:活动页面：\nhttps://jp.finalfantasyxiv.com/lodestone/special/freel
- ogincampaign/\n\n30天未契约以上的玩家在这段时间内登录游戏端就可以获得最多3天（可以一直玩到登录那天2天后的23:59）的免费
+ ogincampaign/\n\n30天未契约以上的玩家在这段时间内登录游戏端就可以获得最多4天（可以一直玩到登录那天2天后的23:59）的免费
  游戏时长\n*时间是从输完密码点击更新游戏那一刻开始算的。
 TZID:Asia/Tokyo
 SEQUENCE:0
 UID:df4b42a1-48be-4876-abf5-0b6c9aa684a5
-CREATED:20250821T153101Z
+CREATED:20250822T041226Z
 DTSTART;TZID=Asia/Tokyo:20250821T170000
 DTEND;TZID=Asia/Tokyo:20250923T235900
 URL:https://jp.finalfantasyxiv.com/lodestone/special/freelogincampaign/
