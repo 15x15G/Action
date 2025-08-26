@@ -1956,16 +1956,19 @@ SUMMARY:C-红莲节「常夏的冰果与大冰兽」
 UID:985BD9A3-EA6D-4AEB-B66E-863438748DF0
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250807T035031Z
-SUMMARY:（预测）C-红莲节「船上で常夏のひとときを」
-DESCRIPTION:来源PLL说9月上，占位！\n\n活动奖励：\nマリタイム套（共四件，头身裤鞋，都可双染色）-「マリタイム・ミラーサングラ
- ス」、「マリタイム・ラッシュガード」、「マリタイム・ハーフタイツ」、「マリタイム・ビーチサンダル」\n\n\n活动页面：\n
-TZID:Asia/Tokyo
+DTSTAMP:20250825T105648Z
+SUMMARY:C-红莲节「在船上享受夏日时光」
+DESCRIPTION:活动奖励：\n滨海套（共四件，头身裤鞋，都可双染色）-「滨海镜面太阳镜」、「滨海泳衣」、「滨海紧身短裤」、「滨海沙滩凉鞋」
+ \n\n\n活动页面：\nhttps://actff1.web.sdo.com/project/20250818moonfirefaire/f8
+ h8t7cwgx4m/index.html
+TZID:Asia/Shanghai
 SEQUENCE:0
 UID:98941089-2c86-4616-9474-f8bd51c190ae
-CREATED:20250807T035031Z
-DTSTART;VALUE=DATE:20250902
-DTEND;VALUE=DATE:20250903
+CREATED:20250825T105648Z
+DTSTART;TZID=Asia/Shanghai:20250901T140000
+DTEND;TZID=Asia/Shanghai:20250917T140000
+URL:https://actff1.web.sdo.com/project/20250818moonfirefaire/f8h8t7cwgx4m
+ /index.html
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20230603T110013Z
