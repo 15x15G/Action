@@ -1077,6 +1077,19 @@ DTSTART;TZID=Asia/Tokyo:20220512T000000
 DTEND;TZID=Asia/Tokyo:20220612T115900
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20250902T141518Z
+SUMMARY:J-7.31更新维护（新星球探索、新肝武后续等）
+DESCRIPTION:更新笔记（翻译来源微博@止水ShinwaRyu）：\nhttps://weibo.com/1489227017/Q2IH2
+ glA1\n\n更新笔记（日）：https://jp.finalfantasyxiv.com/lodestone/topics/detail/0
+ a8b8b687d7cf216f6e5dc7ef4f17e55c65458f5
+TZID:Asia/Tokyo
+SEQUENCE:0
+UID:6c243a56-87ea-4be0-9949-d1ae490320a5
+CREATED:20250902T141518Z
+DTSTART;VALUE=DATE:20250902
+DTEND;VALUE=DATE:20250903
+END:VEVENT
+BEGIN:VEVENT
 CREATED:20241025T130655Z
 DESCRIPTION:【开到7.1维护，有具体时间了会再修改】\n\n公告页面：\nhttps://jp.finalfantasyxiv.com
  /lodestone/topics/detail/9e2a1b3f836cb089a967d24859cdc7bda71f269a\n\n活动页
