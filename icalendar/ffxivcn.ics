@@ -467,6 +467,18 @@ DTSTART;TZID=Asia/Shanghai:20221115T120000
 DTEND;TZID=Asia/Shanghai:20221115T160000
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20250911T054348Z
+SUMMARY:C-7.3更新维护
+DESCRIPTION:更新内容包含了国际服的7.31。\n\n更新笔记（翻译来源微博@止水ShinwaRyu）：\nhttps://weibo.
+ com/1489227017/Q2IH2glA1\n
+TZID:Asia/Tokyo
+SEQUENCE:0
+UID:20a3284b-64ec-4b2d-b88a-55076ba1b74e
+CREATED:20250911T054348Z
+DTSTART;VALUE=DATE:20250916
+DTEND;VALUE=DATE:20250917
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20240319T132629Z
 SUMMARY:C-猎蛋节「惊吓冬贝利、快来保护彩蛋！」
 DESCRIPTION:奖励：\n冬贝利套装（共5件）-「冬贝利头套」、「冬贝利身体」、「冬贝利手套」、「冬贝利短裤」、「冬贝利短靴」\n情感动作
@@ -3357,6 +3369,21 @@ DTSTART;TZID=Asia/Shanghai:20241106T000000
 DTEND;TZID=Asia/Shanghai:20241117T235900
 URL:https://actff1.web.sdo.com/project/20240909shoponlinev6a7d7d2/index.h
  tml#/index
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250911T054540Z
+SUMMARY:C-7.3助力大礼包
+DESCRIPTION:月卡助力礼包，详情看官网公告。\n\n包含30天月卡+8800点券优惠券+传送网使用券x50+礼物盒x1\n\n88优惠券
+ 的有效期至2025年10月31日为止。\n\n活动页面：\nhttps://actff1.web.sdo.com/project/2025090
+ 9patchstbage/index.html#/index
+TZID:Asia/Shanghai
+SEQUENCE:0
+UID:dcf1b553-a3fc-4948-9ab8-688cb2b0e63e
+CREATED:20250911T054540Z
+DTSTART;TZID=Asia/Shanghai:20250910T000000
+DTEND;TZID=Asia/Shanghai:20250923T140000
+URL:https://actff1.web.sdo.com/project/20250909patchstbage/index.html#/in
+ dex
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20250822T041519Z
