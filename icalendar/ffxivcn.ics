@@ -3401,16 +3401,18 @@ URL:https://actff1.web.sdo.com/project/20250909patchstbage/index.html#/in
  dex
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250822T041519Z
-SUMMARY:（预测）C-新生祭典2025（古鲁加加宠物）
-DESCRIPTION:来源PLL说9月下，国际服还没出，占位！\n\n活动奖励：\n宠物-「マメット・グルージャジャ」（古鲁加加）\n\n活动页
- 面：\n
-TZID:Asia/Tokyo
+DTSTAMP:20250923T065751Z
+SUMMARY:C-新生祭典「带着笑容的旅途记忆」（古鲁加加宠物）
+DESCRIPTION:活动奖励：\n宠物-「迷你古鲁加加」\n\n活动页面：\nhttps://actff1.web.sdo.com/proje
+ ct/20250912therising/gdx2t316l329/index.html
+TZID:Asia/Shanghai
 SEQUENCE:0
 UID:e128d2d0-e172-4536-a506-6200e33f1dc1
-CREATED:20250822T041519Z
-DTSTART;VALUE=DATE:20250923
-DTEND;VALUE=DATE:20250924
+CREATED:20250923T065751Z
+DTSTART;TZID=Asia/Shanghai:20250925T140000
+DTEND;TZID=Asia/Shanghai:20251009T140000
+URL:https://actff1.web.sdo.com/project/20250912therising/gdx2t316l329/ind
+ ex.html
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20250624T170822Z
