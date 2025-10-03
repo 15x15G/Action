@@ -1809,17 +1809,19 @@ X-APPLE-CREATOR-IDENTITY:com.apple.mobilecal
 X-APPLE-CREATOR-TEAM-IDENTITY:0000000000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250613T120015Z
-SUMMARY:（预测）C-守护天节（夜魔套）
-DESCRIPTION:PLL说是守护天节会连开。\n\n活动奖励：\n时装-ナイトデビル（夜魔一套，左边5件，均可双染色）-「ナイトデビル・ホー
- ン」、「ナイトデビル・シャツ」、「ナイトデビル・フィンガレスグローブ」、「ナイトデビル・トラウザー」、「ナイトデビル・ブーツ」\n家具-桌上-「
- フライング・パンプキンバット」（不可染色）\n
+DTSTAMP:20251002T105430Z
+SUMMARY:C-守护天节「魔物的庆典，谨致谢意」（夜魔套）
+DESCRIPTION:PLL说是守护天节会连开。\n\n活动奖励：\n时装-ナイトデビル（夜魔一套，左边5件，均可双染色）-「夜魔角」、「夜魔衬
+ 衫」、「夜魔露指护手」、「夜魔长裤」、「夜魔短靴」\n家具-桌上-「蝙蝠南瓜」（不可染色）\n\n活动页面：\nhttps://actff1.w
+ eb.sdo.com/project/20250923allsaintswake/5o04q05328eg/index.html
 TZID:Asia/Tokyo
 SEQUENCE:0
 UID:8a7c2fdb-f4f0-4917-b4a0-bfad5f2e47a5
-CREATED:20250613T120015Z
-DTSTART;VALUE=DATE:20251014
-DTEND;VALUE=DATE:20251015
+CREATED:20251002T105430Z
+DTSTART;TZID=Asia/Tokyo:20251010T140000
+DTEND;TZID=Asia/Tokyo:20251024T140000
+URL:https://actff1.web.sdo.com/project/20250923allsaintswake/5o04q05328eg
+ /index.html
 END:VEVENT
 BEGIN:VEVENT
 CREATED:20240406T143905Z
