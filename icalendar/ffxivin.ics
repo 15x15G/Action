@@ -2605,6 +2605,22 @@ DTEND;VALUE=DATE:20260426
 URL:https://fanfest.finalfantasyxiv.com/
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20251007T045157Z
+SUMMARY:J-7.35更新维护（新深宫、调查员、巨人友好部族、MH联动等）
+DESCRIPTION:更新笔记（日）：\nhttps://jp.finalfantasyxiv.com/lodestone/topics/det
+ ail/b9a065a686da7f371c82365151861aded5ef3ccf\n\n公告网页：\nhttps://jp.finalf
+ antasyxiv.com/lodestone/news/detail/ae62be399d294d4b4e4f91f2d447377d41a3
+ d3d1
+TZID:Asia/Tokyo
+SEQUENCE:0
+UID:ab21969a-b3e3-4a65-808d-7af5e6eab1fb
+CREATED:20251007T045157Z
+DTSTART;TZID=Asia/Tokyo:20251007T130000
+DTEND;TZID=Asia/Tokyo:20251007T190000
+URL:https://jp.finalfantasyxiv.com/lodestone/news/detail/ae62be399d294d4b
+ 4e4f91f2d447377d41a3d3d1
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20240507T100527Z
 SUMMARY:J-「モグモグ★コレクション ～新次元の創世 Part2～」（大奖是宝石兽耳坠这期）
 DESCRIPTION:活动网页：\nhttps://jp.finalfantasyxiv.com/lodestone/special/mogmo
