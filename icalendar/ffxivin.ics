@@ -145,6 +145,23 @@ DTSTART;TZID=Asia/Tokyo:20220827T160000
 DTEND;TZID=Asia/Tokyo:20220912T235900
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20251019T060754Z
+SUMMARY:J-「第89回 FFXIV PLL」
+DESCRIPTION:放送内容：\n版本7.4实装内容特集Part1。\n\n公告地址：\nhttps://jp.finalfantasyxiv
+ .com/lodestone/topics/detail/4905591404ceacbd1d25b6a7a4280bde7662fb8e\n\
+ nYoutube：https://www.youtube.com/live/VaCPpiqmAUs\nNiconico：https://live
+ .nicovideo.jp/watch/lv348859462\nTwitch：https://www.twitch.tv/finalfanta
+ syxiv\n
+TZID:Asia/Tokyo
+SEQUENCE:0
+UID:0df9da34-9064-4ce0-94c3-789e7ff65d25
+CREATED:20251019T060754Z
+DTSTART;TZID=Asia/Tokyo:20251031T200000
+DTEND;TZID=Asia/Tokyo:20251031T230000
+URL:https://jp.finalfantasyxiv.com/lodestone/topics/detail/4905591404ceac
+ bd1d25b6a7a4280bde7662fb8e
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20250407T074536Z
 SUMMARY:J-猎蛋节「タマゴと傘の不思議な出会い」
 DESCRIPTION:活动奖励：\n时尚配饰-「预言蛋阳伞」\n\n活动页面：\nhttps://jp.finalfantasyxiv.com/
@@ -333,6 +350,21 @@ DTSTART;TZID=Asia/Tokyo:20241216T170000
 DTEND;TZID=Asia/Tokyo:20241231T235900
 URL:https://jp.finalfantasyxiv.com/lodestone/special/2024/Starlight_Celeb
  ration/2w4vdz8s0c
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251019T060430Z
+SUMMARY:J-守护天节「人もマモノも大騒ぎ！」
+DESCRIPTION:活动奖励：\n坐骑-「パンプキンウォーカー」\n家具-墙上-「守護天節のポスター2025」\n\n活动页面：\nhttps
+ ://jp.finalfantasyxiv.com/lodestone/special/2025/All_Saints_Wake/385oefp
+ gjf
+TZID:Asia/Tokyo
+SEQUENCE:0
+UID:24537119-8f9b-4909-aecc-55500cb09130
+CREATED:20251019T060430Z
+DTSTART;TZID=Asia/Tokyo:20251017T170000
+DTEND;TZID=Asia/Tokyo:20251104T235900
+URL:https://jp.finalfantasyxiv.com/lodestone/special/2025/All_Saints_Wake
+ /385oefpgjf
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20210820T082201Z
