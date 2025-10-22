@@ -3400,6 +3400,20 @@ DTEND;TZID=Asia/Tokyo:20250314T220000
 URL:https://live.bilibili.com/5225
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20251021T153159Z
+SUMMARY:C-守护天节「人与魔物共欢腾」
+DESCRIPTION:活动奖励：\n坐骑-「南瓜行者」\n家具-墙上-「守护天节的海报2025」\n\n活动页面：https://actff1.
+ web.sdo.com/project/20251010allsaintswake/f2ea0zmn786v/index.html
+TZID:Asia/Shanghai
+SEQUENCE:0
+UID:dacc07b7-96d1-4563-8bea-8834d81b6b28
+CREATED:20251021T153159Z
+DTSTART;TZID=Asia/Shanghai:20251025T140000
+DTEND;TZID=Asia/Shanghai:20251108T140000
+URL:https://actff1.web.sdo.com/project/20251010allsaintswake/f2ea0zmn786v
+ /index.html
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20241112T070147Z
 SUMMARY:C-道具商城双十一限时惠
 DESCRIPTION:公告地址：\nhttps://ff.web.sdo.com/web8/index.html#/newstab/newsco
