@@ -2085,6 +2085,19 @@ DTSTART;TZID=Asia/Shanghai:20240621T140000
 DTEND;TZID=Asia/Shanghai:20240626T140000
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20251028T062759Z
+SUMMARY:C-7.35版本更新维护（新深宫、调查员、巨人友好部族、MH联动等）
+DESCRIPTION:同时也包含了国际服7.38的内容。（等于同步了）\n\n公告页面：\nhttps://ff.web.sdo.com/web
+ 8/index.html#/newstab/newscont/380529
+TZID:Asia/Tokyo
+SEQUENCE:0
+UID:9b326712-3d3f-4883-b57a-1fd3a0d0514b
+CREATED:20251028T062759Z
+DTSTART;VALUE=DATE:20251104
+DTEND;VALUE=DATE:20251105
+URL:https://ff.web.sdo.com/web8/index.html#/newstab/newscont/380529
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20241222T155213Z
 SUMMARY:C-星芒节「传递微笑与羁绊的礼物」
 DESCRIPTION:活动奖励：\n正统圣人套（5件）-「正统圣人帽」、「正统圣人短袍」、「正统圣人手套」、「正统圣人打底裤」、「正统圣人长靴」
