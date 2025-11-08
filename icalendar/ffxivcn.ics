@@ -3352,15 +3352,19 @@ URL:https://actff1.web.sdo.com/project/20250811mogmog/qnk2008e3tng/index.
  html
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250613T115902Z
-SUMMARY:（预测）C-金碟庆典（oh-my-god动作）
-DESCRIPTION:PLL说是11月。\n\n活动奖励：\n情感动作-「大げさに驚く」\n九宫幻卡-「カード:キングのエルマー」
-TZID:Asia/Tokyo
+DTSTAMP:20251108T052855Z
+SUMMARY:C-金碟庆典「与黄金同伴共度黄金时光」（oh-my-god动作）
+DESCRIPTION:活动期间在金碟游乐场中获得的金碟币增长到1.5倍。\n\n活动奖励：\n情感动作-「大惊小怪」\n九宫幻卡-「九宫幻卡：幻
+ 卡王埃尔默」\n\n活动页面：\nhttps://actff1.web.sdo.com/project/20251105themakeitrai
+ ncampaign/thk8d9406nls/index.html
+TZID:Asia/Shanghai
 SEQUENCE:0
 UID:cc92dddf-e53e-46ad-a366-d7ddd7d0950b
-CREATED:20250613T115902Z
-DTSTART;VALUE=DATE:20251111
-DTEND;VALUE=DATE:20251112
+CREATED:20251108T052855Z
+DTSTART;TZID=Asia/Shanghai:20251113T140000
+DTEND;TZID=Asia/Shanghai:20251127T140000
+URL:https://actff1.web.sdo.com/project/20251105themakeitraincampaign/thk8
+ d9406nls/index.html
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20250417T071117Z
