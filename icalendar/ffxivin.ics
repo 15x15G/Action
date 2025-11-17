@@ -2872,6 +2872,20 @@ DTSTART;VALUE=DATE:20251111
 DTEND;VALUE=DATE:20251112
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20251117T144617Z
+SUMMARY:J-「モグモグ★コレクション ～黙示への道標～」（包子耳坠）
+DESCRIPTION:【到7.4更新时候结束。】\n\n活动页面：\nhttps://jp.finalfantasyxiv.com/lodest
+ one/special/mogmog-collection/202511/a0fymw99rl
+TZID:Asia/Tokyo
+SEQUENCE:0
+UID:d8c2378b-1118-4cb3-b779-af47ae6ba2c6
+CREATED:20251117T144617Z
+DTSTART;TZID=Asia/Tokyo:20251118T170000
+DTEND;TZID=Asia/Tokyo:20251216T170000
+URL:https://jp.finalfantasyxiv.com/lodestone/special/mogmog-collection/20
+ 2511/a0fymw99rl
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20250516T082313Z
 SUMMARY:J-金碟庆典「ゴールデンな仲間と、ゴールデンなひとときを」
 DESCRIPTION:活动奖励：\n情感动作-「大げさに驚く」\n九宫幻卡-「カード:キングのエルマー」\n\n活动页面：\nhttps://j
