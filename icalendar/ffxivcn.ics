@@ -192,6 +192,20 @@ DTSTART;TZID=Asia/Shanghai:20220701T190000
 DTEND;TZID=Asia/Shanghai:20220701T220000
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20251117T144354Z
+SUMMARY:C-莫古莫古★大收集 ~默示的路标~（包子耳坠）
+DESCRIPTION:【到7.4更新时候结束。】\n\n活动页面：\nhttps://actff1.web.sdo.com/project/20
+ 251111mogmog/s3u897x08ue8/index.html
+TZID:Asia/Shanghai
+SEQUENCE:0
+UID:0bfacf2d-5352-4666-b9ac-67556997626a
+CREATED:20251117T144354Z
+DTSTART;TZID=Asia/Shanghai:20251118T160000
+DTEND;TZID=Asia/Shanghai:20251216T160000
+URL:https://actff1.web.sdo.com/project/20251111mogmog/s3u897x08ue8/index.
+ html
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20220728T100949Z
 SUMMARY:C-第三届光之NPC“晓月之终途”人气总决选「海选投票」
 DESCRIPTION:【海选】每个账号每天登陆可获得10张票，可为10位NPC各投一票，也可将10张都投给同一位NPC。当日不使用的投票机会，超
