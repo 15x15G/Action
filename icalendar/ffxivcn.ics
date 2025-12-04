@@ -1126,17 +1126,20 @@ DTSTART;TZID=Asia/Shanghai:20211217T140000
 DTEND;TZID=Asia/Shanghai:20220117T140000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250613T120032Z
-SUMMARY:（预测）C-星芒节（新鸟甲、乐谱）
+DTSTAMP:20251204T065012Z
+SUMMARY:C-星芒节「在星芒市场传递温暖」（新鸟甲、乐谱）
 DESCRIPTION:PLL说是星芒节连开。\n\n活动奖励：\n鸟甲-「スターライトストール・バード」\n家具-桌上-食物-「スターライト・キ
  ンダープンシュ」\n家具-桌上-「スターライト・マグカップセット」（不可染色）\n家具-壁挂-「星芒祭のポスター2024」\n管弦乐谱-「オーケ
- ストリオン譜:雪降る森に温もりを」
-TZID:Asia/Tokyo
+ ストリオン譜:雪降る森に温もりを」\n\n活动页面：\nhttps://actff1.web.sdo.com/project/20251124s
+ tarlight/e948a95u0x03/index.html
+TZID:Asia/Shanghai
 SEQUENCE:0
 UID:547b4ade-1f71-43d1-b30e-fff318e9eba2
-CREATED:20250613T120032Z
-DTSTART;VALUE=DATE:20251216
-DTEND;VALUE=DATE:20251217
+CREATED:20251204T065012Z
+DTSTART;TZID=Asia/Shanghai:20251201T140000
+DTEND;TZID=Asia/Shanghai:20251215T140000
+URL:https://actff1.web.sdo.com/project/20251124starlight/e948a95u0x03/ind
+ ex.html
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20231218T131505Z
@@ -3548,6 +3551,19 @@ CREATED:20250217T101743Z
 DTSTART;TZID=Asia/Shanghai:20250218T120000
 DTEND;TZID=Asia/Shanghai:20250218T170000
 URL:https://ff.web.sdo.com/web8/index.html#/newstab/newscont/371173
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251204T064800Z
+SUMMARY:C-「第90回 FFXIV PLL」转播
+DESCRIPTION:放送内容：\n版本7.4实装内容特集Part2\n\nB站直播间地址：\nhttps://live.bilibili.co
+ m/5225
+TZID:Asia/Tokyo
+SEQUENCE:0
+UID:e7d0f626-435b-480d-ab73-29b2f9fc0142
+CREATED:20251204T064800Z
+DTSTART;TZID=Asia/Tokyo:20251205T200000
+DTEND;TZID=Asia/Tokyo:20251205T220000
+URL:https://live.bilibili.com/5225
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20250526T021911Z

@@ -101,6 +101,23 @@ DTSTART;TZID=Asia/Tokyo:20230301T170000
 DTEND;TZID=Asia/Tokyo:20230327T155900
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20251204T064718Z
+SUMMARY:J-「第90回 FFXIV PLL」
+DESCRIPTION:放送内容：\n版本7.4实装内容特集Part2\n\nYoutube-https://www.youtube.com/li
+ ve/5PrMcKUqQU4\nNiconico-https://live.nicovideo.jp/watch/lv349202020\nTw
+ itch-https://www.twitch.tv/finalfantasyxiv\n\n公告地址：\nhttps://jp.finalfan
+ tasyxiv.com/lodestone/topics/detail/efc6a29852e36d15d3644a95a39a3802f899
+ febc
+TZID:Asia/Tokyo
+SEQUENCE:0
+UID:09292b31-dfd2-4ff0-8f8a-e66a6bc33e0d
+CREATED:20251204T064718Z
+DTSTART;TZID=Asia/Tokyo:20251205T200000
+DTEND;TZID=Asia/Tokyo:20251205T220000
+URL:https://jp.finalfantasyxiv.com/lodestone/topics/detail/efc6a29852e36d
+ 15d3644a95a39a3802f899febc
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20220927T015636Z
 SUMMARY:J-「第73回 FFXIV PLL」
 DESCRIPTION:同时也是「第8回 14時間生放送」的一部分。\n内容大致有回顾6.2、预告6.25，和剧本组的工作内容介绍。\n\n详细1
