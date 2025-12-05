@@ -1126,20 +1126,21 @@ DTSTART;TZID=Asia/Shanghai:20211217T140000
 DTEND;TZID=Asia/Shanghai:20220117T140000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251204T065012Z
-SUMMARY:C-星芒节「在星芒市场传递温暖」（新鸟甲、乐谱）
-DESCRIPTION:PLL说是星芒节连开。\n\n活动奖励：\n鸟甲-「スターライトストール・バード」\n家具-桌上-食物-「スターライト・キ
- ンダープンシュ」\n家具-桌上-「スターライト・マグカップセット」（不可染色）\n家具-壁挂-「星芒祭のポスター2024」\n管弦乐谱-「オーケ
- ストリオン譜:雪降る森に温もりを」\n\n活动页面：\nhttps://actff1.web.sdo.com/project/20251124s
- tarlight/e948a95u0x03/index.html
-TZID:Asia/Shanghai
-SEQUENCE:0
-UID:547b4ade-1f71-43d1-b30e-fff318e9eba2
 CREATED:20251204T065012Z
-DTSTART;TZID=Asia/Shanghai:20251201T140000
+DESCRIPTION:PLL说是星芒节连开。\n\n活动奖励：\n鸟甲-「星芒市场装甲」\n家具-桌上-食物-「星芒儿童潘趣特饮」\n家具-桌上
+ -「星芒马克杯套装」（不可染色）\n家具-壁挂-「星芒节的海报2025」\n管弦乐谱-「管弦乐琴乐谱:为雪林带来温暖」\n\n活动页面：\nht
+ tps://actff1.web.sdo.com/project/20251124starlight/e948a95u0x03/index.ht
+ ml
 DTEND;TZID=Asia/Shanghai:20251215T140000
-URL:https://actff1.web.sdo.com/project/20251124starlight/e948a95u0x03/ind
- ex.html
+DTSTAMP:20251204T073433Z
+DTSTART;TZID=Asia/Shanghai:20251201T140000
+LAST-MODIFIED:20251204T073432Z
+SEQUENCE:0
+SUMMARY:C-星芒节「在星芒市场传递温暖」（新鸟甲、乐谱）
+TZID:Asia/Shanghai
+UID:547b4ade-1f71-43d1-b30e-fff318e9eba2
+URL;VALUE=URI:https://actff1.web.sdo.com/project/20251124starlight/e948a9
+ 5u0x03/index.html
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20231218T131505Z
