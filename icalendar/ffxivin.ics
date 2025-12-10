@@ -1667,6 +1667,24 @@ DTSTART;TZID=Asia/Tokyo:20220104T140000
 DTEND;TZID=Asia/Tokyo:20220104T190000
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20251210T090324Z
+SUMMARY:J-星芒节「星降る夜に、ほっと一息」
+DESCRIPTION:活动奖励：\n情感动作-「森都風マグカップで飲む」\n情感动作-「砂都風マグカップで飲む」\n情感动作-「海都風マグカップ
+ で飲む」\n情感动作-「森都風マグカップで飲み続ける」\n情感动作-「砂都風マグカップで飲み続ける」\n情感动作-「海都風マグカップで飲み続ける
+ 」\n\n家具-桌上-食物-「スターライト・ウルダハンプンシュ」\n家具-桌上-食物-「スターライト・ロミンサンプンシュ」\n家具-桌上-「スタ
+ ーライト・ウルダハンマグカップセット」（不可染色）\n家具-桌上-「スターライト・ロミンサンマグカップセット」（不可染色）\n\n活动页面：\n
+ https://jp.finalfantasyxiv.com/lodestone/special/2025/Starlight_Celebrat
+ ion/1zy049rho1
+TZID:Asia/Tokyo
+SEQUENCE:0
+UID:929a44eb-e36a-4c43-86b7-1a1aebcb276d
+CREATED:20251210T090324Z
+DTSTART;TZID=Asia/Tokyo:20251217T170000
+DTEND;TZID=Asia/Tokyo:20251231T235900
+URL:https://jp.finalfantasyxiv.com/lodestone/special/2025/Starlight_Celeb
+ ration/1zy049rho1
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20210820T075240Z
 SUMMARY:红莲祭「常夏の氷菓と大氷獣」
 DESCRIPTION:活动页面：\nhttps://jp.finalfantasyxiv.com/lodestone/special/2021/
