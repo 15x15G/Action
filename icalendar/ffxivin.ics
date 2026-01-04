@@ -340,6 +340,20 @@ DTSTART;TZID=Asia/Tokyo:20220428T170000
 DTEND;TZID=Asia/Tokyo:20220518T235900
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260104T120142Z
+SUMMARY:J-降神节（马）「絆を結ぶは角持つ白馬？」
+DESCRIPTION:活动奖励：\n宠物-「午のユニコルト」\n家具-「金屏風」\n\n活动页面：\nhttps://jp.finalfanta
+ syxiv.com/lodestone/special/2026/Heavensturn/xqnas3t3m1
+TZID:Asia/Tokyo
+SEQUENCE:0
+UID:2216202e-3d8a-4974-8598-50a3a741cc3d
+CREATED:20260104T120142Z
+DTSTART;TZID=Asia/Tokyo:20260101T000000
+DTEND;TZID=Asia/Tokyo:20260115T235900
+URL:https://jp.finalfantasyxiv.com/lodestone/special/2026/Heavensturn/xqn
+ as3t3m1
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20220125T074257Z
 SUMMARY:J-6.08维护更新
 DESCRIPTION:提高了部分战斗职业的数值。（只改数值，改技能要等到6.1）\n\n更新笔记（日）：\nhttps://jp.finalfa
@@ -2945,6 +2959,19 @@ UID:da5bfb7f-bf1e-4408-8068-a3eded6c8a6c
 CREATED:20240605T091737Z
 DTSTART;TZID=Asia/Tokyo:20240605T120000
 DTEND;TZID=Asia/Tokyo:20240619T235900
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260104T120451Z
+SUMMARY:J-cdk50%off冬日折扣
+DESCRIPTION:コンプリートパック（包含2.0~7.0）：6380日元→3190日元，也就是284rmb→142rmb，还送张月卡。\n\
+ n相比之前来说这次算是加上7.0cdk的史低。\n\n活动页面：\nhttps://www.finalfantasyxiv.com/sale/
+TZID:Asia/Tokyo
+SEQUENCE:0
+UID:de44f3b7-273f-4fd3-bf0b-6049a02b1ff9
+CREATED:20260104T120451Z
+DTSTART;VALUE=DATE:20251222
+DTEND;VALUE=DATE:20260108
+URL:https://www.finalfantasyxiv.com/sale/
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20240806T120123Z
