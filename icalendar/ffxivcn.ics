@@ -455,6 +455,20 @@ URL:https://actff1.web.sdo.com/project/20250729anniversaryexchange/uwu6kv
  911r364oe506zaw2e6i08151/index.html#/quest
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260104T115252Z
+SUMMARY:C-降神节（马）「友谊的象征是有角的白马？」
+DESCRIPTION:活动奖励：\n宠物-「午马独角幼兽」\n家具-「金屏风」（不可染色）\n\n活动页面：\nhttps://actff1.w
+ eb.sdo.com/project/20251222heavensturn/kqz4jmx6lw8w/index.html
+TZID:Asia/Shanghai
+SEQUENCE:0
+UID:1c9ddc34-1abc-4fa7-a3dd-59d2afb71a8b
+CREATED:20260104T115252Z
+DTSTART;TZID=Asia/Shanghai:20251231T230000
+DTEND;TZID=Asia/Shanghai:20260115T225900
+URL:https://actff1.web.sdo.com/project/20251222heavensturn/kqz4jmx6lw8w/i
+ ndex.html
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20230710T112217Z
 SUMMARY:C-6.35更新维护（深层迷宫正统优雷卡、调查员、曼武、莫雯工具(生产肝武)、新友好部族兔兔族等）
 DESCRIPTION:更新笔记：\nhttps://ff.web.sdo.com/web8/index.html#/newstab/newsco
