@@ -563,6 +563,20 @@ DTSTART;TZID=Asia/Tokyo:20220803T141500
 DTEND;TZID=Asia/Tokyo:20220817T235900
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260127T163014Z
+SUMMARY:J-7.41版本更新维护（宇宙探索、幻境武器等）
+DESCRIPTION:更新笔记（日）：\nhttps://jp.finalfantasyxiv.com/lodestone/topics/det
+ ail/97d89805adac177c2fc5e8fcbaf19778f53bd639
+TZID:Asia/Tokyo
+SEQUENCE:0
+UID:31b036b4-6755-4095-bf0c-dce63277e61e
+CREATED:20260127T163014Z
+DTSTART;TZID=Asia/Tokyo:20260127T130000
+DTEND;TZID=Asia/Tokyo:20260127T180000
+URL:https://jp.finalfantasyxiv.com/lodestone/topics/detail/97d89805adac17
+ 7c2fc5e8fcbaf19778f53bd639
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20250911T055257Z
 SUMMARY:J-日本东京FanFest
 DESCRIPTION:官方网站：\nhttps://fanfest.finalfantasyxiv.com/
@@ -591,6 +605,25 @@ UID:37302038-B6BB-48A9-B331-54EE1CF02836
 CREATED:20231009T131250Z
 DTSTART;TZID=Asia/Shanghai:20231021T170000
 DTEND;TZID=Asia/Shanghai:20231023T030000
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260127T163745Z
+SUMMARY:J-恋人节「大きなケーキに宿る愛」
+DESCRIPTION:活动奖励：\n温暖恋人套（共4件）-「ヴァレンティオンコージー・ベレー」、「ヴァレンティオンコージー・カーディガン」、「ヴ
+ ァレンティオンコージー・スラックス」、「ヴァレンティオンコージー・シューズ」\n舒心恋人套（共3件，鞋子的命名和温暖恋人套是一样的）-「ヴァレン
+ ティオンカンフィー・ベレー」、「ヴァレンティオンカンフィー・カーディガン」、「ヴァレンティオンカンフィー・スカート」\n管弦乐琴乐谱（共3张）-
+ 「最高のケーキを作るクポ」、「ラブは素敵な隠し味クポ」、「想いを込めて仕上げクポ」\n家具-「ヴァレンティオン・チェア」（可染色）\n家具-桌台
+ -「ヴァレンティオン・ラウンドテーブル」（可染色）\n家具-地毯-「ヴァレンティオン・ラグ」（不可染色）\n家具-桌上-「ヴァレンティオン・ロラ
+ ンベリーケーキ」（食物）\n家具-壁挂-「ヴァレンティオンデーのポスター2025」\n\n\n活动页面：\nhttps://jp.finalfa
+ ntasyxiv.com/lodestone/special/2026/Valentiones_Day/wenbvnlh6s
+TZID:Asia/Tokyo
+SEQUENCE:0
+UID:37a92552-77cd-453b-b3da-a185f5d52949
+CREATED:20260127T163745Z
+DTSTART;TZID=Asia/Tokyo:20260202T170000
+DTEND;TZID=Asia/Tokyo:20260216T235900
+URL:https://jp.finalfantasyxiv.com/lodestone/special/2026/Valentiones_Day
+ /wenbvnlh6s
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20221221T075004Z
