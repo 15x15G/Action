@@ -3474,6 +3474,19 @@ URL:https://actff1.web.sdo.com/project/20250728therising/jo988iz9a8p1x5jr
  52cs4716471mk5/index.html
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260127T162819Z
+SUMMARY:C-7.41版本更新维护（宇宙探索、幻境武器等）
+DESCRIPTION:更新笔记：\nhttps://ff.web.sdo.com/web8/index.html#/newstab/newsco
+ nt/383894
+TZID:Asia/Shanghai
+SEQUENCE:0
+UID:d65b114e-a652-4ec6-b5b5-224e23fd1bdf
+CREATED:20260127T162819Z
+DTSTART;TZID=Asia/Shanghai:20260127T130000
+DTEND;TZID=Asia/Shanghai:20260127T180000
+URL:https://ff.web.sdo.com/web8/index.html#/newstab/newscont/383894
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20251014T064257Z
 SUMMARY:C-艾欧泽亚通行证（乐谱：月读命之歌（交响乐版）、宠物坐骑抵用券）
 DESCRIPTION:详情可进活动页面看。\n\n每日任务要求：当天内通关一次任意副本，完成后可获得500经验值，每日仅统计一次，当日未领取的经
@@ -3610,6 +3623,24 @@ CREATED:20251204T064800Z
 DTSTART;TZID=Asia/Tokyo:20251205T200000
 DTEND;TZID=Asia/Tokyo:20251205T220000
 URL:https://live.bilibili.com/5225
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260127T164126Z
+SUMMARY:C-恋人节「倾注于大蛋糕之中的爱」
+DESCRIPTION:活动奖励：\n温暖恋人套（共4件）-「温暖恋人贝雷帽」、「温暖恋人开襟毛衫」、「温暖恋人长裤」、「温暖恋人皮靴」\n舒心恋
+ 人套（共3件，鞋子的命名和温暖恋人套是一样的）-「舒心恋人贝雷帽」、「舒心恋人开襟毛衫」、「舒心恋人短裙」\n管弦乐琴乐谱（共3张）-「制作最好
+ 的蛋糕库啵」、「爱是绝佳的秘密调味库啵」、「倾注心意完成库啵」\n家具-「恋人节座椅」（可染色）\n家具-桌台-「恋人节圆桌」（可染色）\n家具
+ -地毯-「恋人节地毯」（不可染色）\n家具-桌上-「恋人节罗兰莓蛋糕」（食物）\n家具-壁挂-「恋人节2025-2」\n\n\n活动页面：\nh
+ ttps://actff1.web.sdo.com/project/20260121Valentiones_Day/2fdzflijp3ka/i
+ ndex.html
+TZID:Asia/Shanghai
+SEQUENCE:0
+UID:ea11b84b-e714-457b-bb0e-c4f7aed21eb9
+CREATED:20260127T164126Z
+DTSTART;TZID=Asia/Shanghai:20260202T160000
+DTEND;TZID=Asia/Shanghai:20260216T225900
+URL:https://actff1.web.sdo.com/project/20260121Valentiones_Day/2fdzflijp3
+ ka/index.html
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20250526T021911Z
