@@ -922,6 +922,21 @@ DTSTART;VALUE=DATE:20210401
 DTEND;VALUE=DATE:20210410
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260213T074858Z
+SUMMARY:C-贺新春日随签到领好礼（乐谱：今夕何夕、乐谱：终途旅人-足迹（嘉年华版））
+DESCRIPTION:活动期间，进行随机任务并获得一次随机任务奖励（不包含行会令）即可签到成功。统计时间以获得随机任务奖励的时间为准。\n\n活
+ 动期间共26天，签到奖励共需要12天才能全部拿完。\n\n活动页面：\nhttps://actff1.web.sdo.com/20260114_
+ Act_BieCai_QD_NewSign/index.html#/index
+TZID:Asia/Shanghai
+SEQUENCE:0
+UID:469facb5-6ba8-44ae-b757-bcf8790aa5e9
+CREATED:20260213T074858Z
+DTSTART;TZID=Asia/Shanghai:20260211T230000
+DTEND;TZID=Asia/Shanghai:20260309T225900
+URL:https://actff1.web.sdo.com/20260114_Act_BieCai_QD_NewSign/index.html#
+ /index
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20240428T135654Z
 SUMMARY:C-玩家调研问卷（填完有自选虚拟道具奖励）
 DESCRIPTION:问卷地址：\nhttps://survey.dw.sdo.com/3nyA3\n\n※盛趣账号请输入账号密码登录，微信we
@@ -3347,6 +3362,19 @@ DTSTART;TZID=Asia/Shanghai:20240324T000000
 DTEND;TZID=Asia/Shanghai:20240324T020000
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260213T074501Z
+SUMMARY:C-新春活动特辑-雇员/改名优惠
+DESCRIPTION:额外雇员原价120元，现价96元。\n改名服务原价100元，现价50元。\n\n活动页面：\nhttps://actff1
+ .web.sdo.com/project/141028dgf/index.html
+TZID:Asia/Shanghai
+SEQUENCE:0
+UID:c4d5c190-65a5-4323-b7eb-9f9c3e2633ce
+CREATED:20260213T074501Z
+DTSTART;TZID=Asia/Shanghai:20260212T000000
+DTEND;TZID=Asia/Shanghai:20260225T140000
+URL:https://actff1.web.sdo.com/project/141028dgf/index.html
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20251019T060746Z
 SUMMARY:C-「第89回 FFXIV PLL」转播
 DESCRIPTION:版本7.4实装内容特集Part1。\n\nB站直播间：https://live.bilibili.com/5225
@@ -3428,6 +3456,22 @@ DTSTART;TZID=Asia/Shanghai:20251113T140000
 DTEND;TZID=Asia/Shanghai:20251127T140000
 URL:https://actff1.web.sdo.com/project/20251105themakeitraincampaign/thk8
  d9406nls/index.html
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260213T074337Z
+SUMMARY:C-新春活动特辑-道具商城优惠券/日历满额赠送
+DESCRIPTION:礼品码：\nCN26\n\n每次使用礼品码可获得4张优惠券，每个账户可用10次。\n优惠券分别是满50减10元、满200减
+ 45元、满400减100元、满1000减300元。\n不可使用的商品请进详细页面自行查看。\n\n在【虚拟道具】商城实付满300元可领取2026
+ 年日历一本。\n\n活动页面：\nhttps://actff1.web.sdo.com/project/202606202n2e4f5tw6e7
+ syear/index.html
+TZID:Asia/Shanghai
+SEQUENCE:0
+UID:cd3671d2-0e97-4468-8451-88a5f47e9495
+CREATED:20260213T074337Z
+DTSTART;TZID=Asia/Shanghai:20260212T000000
+DTEND;TZID=Asia/Shanghai:20260225T235900
+URL:https://actff1.web.sdo.com/project/202606202n2e4f5tw6e7syear/index.ht
+ ml
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20250417T071117Z
