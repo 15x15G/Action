@@ -420,6 +420,20 @@ DTSTART;VALUE=DATE:20240605
 DTEND;VALUE=DATE:20240621
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260226T123045Z
+SUMMARY:J-7.45版本更新维护（多变迷宫、调查员等）
+DESCRIPTION:通知页面：\nhttps://jp.finalfantasyxiv.com/lodestone/topics/detail
+ /0b3d747b59d0bfe4c8cd512425fb8c52c141716f
+TZID:Asia/Tokyo
+SEQUENCE:0
+UID:25d77df6-bd92-47e8-874b-9618d121997a
+CREATED:20260226T123045Z
+DTSTART;VALUE=DATE:20260303
+DTEND;VALUE=DATE:20260304
+URL:https://jp.finalfantasyxiv.com/lodestone/topics/detail/0b3d747b59d0bf
+ e4c8cd512425fb8c52c141716f
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20250313T105357Z
 SUMMARY:J-「第86回 FFXIV PLL」
 DESCRIPTION:放送内容：\n版本7.2实装内容特集Part2\n\nYoutube：\nhttps://www.youtube.com/
@@ -698,6 +712,24 @@ UID:40A17CE2-3B0A-46DD-8FA2-5B7FC5EF5B85
 CREATED:20210422T092054Z
 DTSTART;TZID=Asia/Tokyo:20210516T130000
 DTEND;TZID=Asia/Tokyo:20210516T140000
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260226T122513Z
+SUMMARY:J-女儿节「花咲く笑顔と歌声と」
+DESCRIPTION:活动奖励：\n装备（共4件）-「ウララ・デイリーチュニック:オーバーサイズ」、「マシャ・デイリーチュニック:オーバーサイズ
+ 」、「ナルミ・デイリーチュニック:オーバーサイズ」、「ピコット・デイリーチュニック:オーバーサイズ」（均可单染色）\n情感动作（共6件）-「声援
+ リズム：赤/紫/白」、「声援スロウ：黄/青/緑」\n管弦乐琴乐谱-「スウィートドリーム」\n家具-壁挂-「プリンセスデーのポスター2018」\n
+ 家具-壁挂-「プリンセスデーのポスター2025」\n家具-桌上-「プリンセスデーの卓上絵画2025」（可染色）\n庭具-「ウィーピング・チェリー
+ ツリー」（不可染色）\n\n活动页面：\nhttps://jp.finalfantasyxiv.com/lodestone/special/20
+ 26/Little_Ladies_Day/ivf88rc2gm
+TZID:Asia/Tokyo
+SEQUENCE:0
+UID:41690bb1-9b31-41f2-bcd7-1eac2428f377
+CREATED:20260226T122513Z
+DTSTART;TZID=Asia/Tokyo:20260226T170000
+DTEND;TZID=Asia/Tokyo:20260312T235900
+URL:https://jp.finalfantasyxiv.com/lodestone/special/2026/Little_Ladies_D
+ ay/ivf88rc2gm
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20230108T124413Z
