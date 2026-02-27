@@ -44,6 +44,19 @@ DTEND;TZID=Asia/Shanghai:20251221T235900
 URL:https://actff1.web.sdo.com/20251127_Time3D/index.html#/index
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260226T123004Z
+SUMMARY:C-7.45版本更新维护（多变迷宫、调查员等）
+DESCRIPTION:通知页面：\nhttps://ff.web.sdo.com/web8/index.html#/newstab/newsco
+ nt/385347
+TZID:Asia/Tokyo
+SEQUENCE:0
+UID:0443e7fc-fe54-48c0-ad9a-abd5e85acaf8
+CREATED:20260226T123004Z
+DTSTART;VALUE=DATE:20260303
+DTEND;VALUE=DATE:20260304
+URL:https://ff.web.sdo.com/web8/index.html#/newstab/newscont/385347
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20211218T050110Z
 SUMMARY:C-罗森联动文件夹集点活动
 DESCRIPTION:凭罗森点点会员卡购买指定对象商品/消费满一定金额，集点兑换。\n同时线下有开罗森限时主题店。\n\n活动详情页：\nhtt
@@ -317,6 +330,23 @@ CREATED:20250213T131420Z
 DTSTART;TZID=Asia/Shanghai:20250214T190000
 DTEND;TZID=Asia/Shanghai:20250214T210000
 URL:https://live.bilibili.com/5225
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260226T122856Z
+SUMMARY:C-女儿节「繁花般的笑容与歌声」
+DESCRIPTION:活动奖励：\n装备（共4件）-「大码乌拉拉文化衫」、「大码马霞文化衫」、「大码鸣海文化衫」、「大码皮科特文化衫」（均可单染
+ 色）\n情感动作（共6件）-「节拍声援小红/小紫/小白」、「摇摆声援小黄/小蓝/小绿」\n管弦乐琴乐谱-「甜美的梦」\n家具-壁挂-「女儿节海报
+ 2019」\n家具-壁挂-「女儿节海报2025」\n家具-桌上-「女儿节桌面海报2025」（可染色）\n庭具-「垂枝樱花树」（不可染色）\n\n
+ 活动页面：\nhttps://actff1.web.sdo.com/project/20260213Little_Ladies_Day/ugjt
+ e6r0ngdt/index.html
+TZID:Asia/Shanghai
+SEQUENCE:0
+UID:1682bd81-5a54-4fd2-a8f5-90a0cd712cd8
+CREATED:20260226T122856Z
+DTSTART;TZID=Asia/Shanghai:20260226T160000
+DTEND;TZID=Asia/Shanghai:20260312T225900
+URL:https://actff1.web.sdo.com/project/20260213Little_Ladies_Day/ugjte6r0
+ ngdt/index.html
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20211029T052339Z
