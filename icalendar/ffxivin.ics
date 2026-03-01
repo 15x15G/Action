@@ -1287,15 +1287,17 @@ DTSTART;TZID=Asia/Tokyo:20220823T110000
 DTEND;TZID=Asia/Tokyo:20220823T190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260301T094220Z
+DTSTAMP:20260301T094306Z
 SUMMARY:J-「第91回 FFXIV PLL」
-DESCRIPTION:Youtube-https://www.youtube.com/live/JxR-gTLJmzM\nNiconico-ht
- tps://live.nicovideo.jp/watch/lv349962241\nTwitch-https://www.twitch.tv/
- finalfantasyxiv
+DESCRIPTION:放送内容：\n版本7.5实装内容特集Part1\n\nYoutube-https://www.youtube.com/li
+ ve/JxR-gTLJmzM\nNiconico-https://live.nicovideo.jp/watch/lv349962241\nTw
+ itch-https://www.twitch.tv/finalfantasyxiv\n\n公告地址：\nhttps://jp.finalfan
+ tasyxiv.com/lodestone/topics/detail/b2f9282e9d3d0fa0a1cc5505bee561e2f048
+ fac7
 TZID:Asia/Tokyo
 SEQUENCE:0
 UID:71a1fc4d-4bcd-4176-b1f9-7a6327c71a21
-CREATED:20260301T094220Z
+CREATED:20260301T094306Z
 DTSTART;TZID=Asia/Tokyo:20260313T200000
 DTEND;TZID=Asia/Tokyo:20260313T220000
 URL:https://www.youtube.com/live/JxR-gTLJmzM
