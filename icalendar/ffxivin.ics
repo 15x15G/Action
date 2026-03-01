@@ -1287,6 +1287,20 @@ DTSTART;TZID=Asia/Tokyo:20220823T110000
 DTEND;TZID=Asia/Tokyo:20220823T190000
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260301T094220Z
+SUMMARY:J-「第91回 FFXIV PLL」
+DESCRIPTION:Youtube-https://www.youtube.com/live/JxR-gTLJmzM\nNiconico-ht
+ tps://live.nicovideo.jp/watch/lv349962241\nTwitch-https://www.twitch.tv/
+ finalfantasyxiv
+TZID:Asia/Tokyo
+SEQUENCE:0
+UID:71a1fc4d-4bcd-4176-b1f9-7a6327c71a21
+CREATED:20260301T094220Z
+DTSTART;TZID=Asia/Tokyo:20260313T200000
+DTEND;TZID=Asia/Tokyo:20260313T220000
+URL:https://www.youtube.com/live/JxR-gTLJmzM
+END:VEVENT
+BEGIN:VEVENT
 CREATED:20240521T000121Z
 DESCRIPTION:活动页面：\nhttps://jp.finalfantasyxiv.com/lodestone/special/fallg
  uys/
