@@ -44,17 +44,18 @@ DTEND;TZID=Asia/Shanghai:20251221T235900
 URL:https://actff1.web.sdo.com/20251127_Time3D/index.html#/index
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260226T123004Z
+DTSTAMP:20260304T083007Z
 SUMMARY:C-7.45版本更新维护（多变迷宫、调查员等）
-DESCRIPTION:通知页面：\nhttps://ff.web.sdo.com/web8/index.html#/newstab/newsco
- nt/385347
+DESCRIPTION:更新笔记：\nhttps://ff.web.sdo.com/web8/index.html#/newstab/newsco
+ nt/385438\n\n通知页面：\nhttps://ff.web.sdo.com/web8/index.html#/newstab/news
+ cont/385347
 TZID:Asia/Tokyo
 SEQUENCE:0
 UID:0443e7fc-fe54-48c0-ad9a-abd5e85acaf8
-CREATED:20260226T123004Z
+CREATED:20260304T083007Z
 DTSTART;VALUE=DATE:20260303
 DTEND;VALUE=DATE:20260304
-URL:https://ff.web.sdo.com/web8/index.html#/newstab/newscont/385347
+URL:https://ff.web.sdo.com/web8/index.html#/newstab/newscont/385438
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20211218T050110Z
