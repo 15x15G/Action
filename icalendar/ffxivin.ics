@@ -948,6 +948,22 @@ SUMMARY:J-金碟庆典「勝ち取れ、ゴールデンな取材権！」
 UID:4E8EB5B2-290E-42FD-8CA7-ACA93244B271
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260406T132701Z
+SUMMARY:J-「第92回 FFXIV PLL」
+DESCRIPTION:放送内容：\n版本7.5实装内容特集Part2\n\nYoutube-https://www.youtube.com/li
+ ve/1oEuG6Xj6AU\nNiconico-https://live.nicovideo.jp/watch/lv350203378\nTw
+ itch-https://www.twitch.tv/finalfantasyxiv\n\n公告地址：\nhttps://jp.finalfan
+ tasyxiv.com/lodestone/topics/detail/f5b7dfa524a45a099beb199265f9d876aead
+ 316d
+TZID:Asia/Tokyo
+SEQUENCE:0
+UID:50f7c82b-eb35-4220-8625-46f315e797d3
+CREATED:20260406T132701Z
+DTSTART;TZID=Asia/Tokyo:20260417T200000
+DTEND;TZID=Asia/Tokyo:20260417T230000
+URL:https://www.youtube.com/live/1oEuG6Xj6AU
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20220410T162412Z
 SUMMARY:J-6.1版本更新维护
 TZID:Asia/Tokyo
@@ -3134,6 +3150,20 @@ UID:e3ce84ee-60f2-45a1-9c64-d2fae0d451a8
 CREATED:20240331T115515Z
 DTSTART;TZID=Asia/Tokyo:20240402T120000
 DTEND;TZID=Asia/Tokyo:20240402T160000
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260406T132330Z
+SUMMARY:J-「モグモグ★コレクション ～霧の中の経典～」（采矿工耳坠）
+DESCRIPTION:【到7.5更新时候结束。】\n\n活动页面：\nhttps://jp.finalfantasyxiv.com/lodest
+ one/special/mogmog-collection/202603/lba1j4i815
+TZID:Asia/Tokyo
+SEQUENCE:0
+UID:e58b58be-de11-47b8-ba98-fe61076bb2c0
+CREATED:20260406T132330Z
+DTSTART;TZID=Asia/Tokyo:20260331T170000
+DTEND;TZID=Asia/Tokyo:20260428T170000
+URL:https://jp.finalfantasyxiv.com/lodestone/special/mogmog-collection/20
+ 2603/lba1j4i815
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20250319T140630Z
