@@ -626,6 +626,23 @@ URL:https://jp.finalfantasyxiv.com/lodestone/topics/detail/97d89805adac17
  7c2fc5e8fcbaf19778f53bd639
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260525T055919Z
+SUMMARY:J-金碟庆典「ウソウソ宣伝大使、登場？」
+DESCRIPTION:活动期间金碟币1.5倍。\n\n活动奖励：\n宠物-「セニョールウソウソ」（獭獭先生）\n时尚配饰-「セニョールウソウソ・
+ パック」（獭獭先生背包）\n\n家具-壁挂-「GSフェスティバルのポスター2025」（不可染色）（金碟嘉年华海报2025-2）\n家具-壁挂-「
+ GSフェスティバルのポスター2024」（不可染色）（金碟嘉年华海报2025）\n家具-桌上-「GSフェスティバルの卓上絵画2025」（可单染色）
+ （金碟嘉年华桌面海报2025-2）\n\n活动页面：\nhttps://jp.finalfantasyxiv.com/lodestone/spe
+ cial/2026/the_make_it_rain_campaign/NX0yR0viwE
+TZID:Asia/Tokyo
+SEQUENCE:0
+UID:32e9e976-d02e-4fe0-b427-4fd2ba6e88c7
+CREATED:20260525T055919Z
+DTSTART;TZID=Asia/Tokyo:20260529T170000
+DTEND;TZID=Asia/Tokyo:20260624T235900
+URL:https://jp.finalfantasyxiv.com/lodestone/special/2026/the_make_it_rai
+ n_campaign/NX0yR0viwE
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20250911T055257Z
 SUMMARY:J-日本东京FanFest
 DESCRIPTION:官方网站：\nhttps://fanfest.finalfantasyxiv.com/
@@ -1104,6 +1121,20 @@ UID:5F767B8E-E656-4571-8A17-89434F2401F1
 CREATED:20230818T143710Z
 DTSTART;TZID=Asia/Tokyo:20230827T160000
 DTEND;TZID=Asia/Tokyo:20231003T160000
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260525T060650Z
+SUMMARY:J-cdk50%off
+DESCRIPTION:コンプリートパック（包含2.0~7.0）：6380日元→3190日元，也就是273rmb→136rmb，还送张月卡。\n豪
+ 华版（コレクターズエディション，包含2.0~7.0的所有商城特典）也一起打折：14960日元→7480日元\n\n和最近一次一样，这次算是加上7
+ .0cdk的史低，应该不会再低了。\n\n活动页面：\nhttps://www.finalfantasyxiv.com/sale/
+TZID:Asia/Tokyo
+SEQUENCE:0
+UID:5d0df9f9-ae4b-4126-8aca-ccf61e47ff5e
+CREATED:20260525T060650Z
+DTSTART;TZID=Asia/Tokyo:20260513T180000
+DTEND;TZID=Asia/Tokyo:20260527T235900
+URL:https://www.finalfantasyxiv.com/sale/
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20240826T134852Z
@@ -2012,6 +2043,20 @@ UID:9E7B8CD0-9FF0-4E59-805B-4D7FAD40A657
 CREATED:20210927T070146Z
 DTSTART;TZID=Asia/Tokyo:20210928T110000
 DTEND;TZID=Asia/Tokyo:20210928T190000
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260525T060125Z
+SUMMARY:J-「最大96時間 無料ログインキャンペーン」
+DESCRIPTION:活动页面：\nhttps://jp.finalfantasyxiv.com/lodestone/special/freel
+ ogincampaign/\n\n30天未契约以上的玩家在这段时间内登录游戏端就可以获得最多4天（可以一直玩到登录那天2天后的23:59）的免费
+ 游戏时长\n*时间是从输完密码点击更新游戏那一刻开始算的。
+TZID:Asia/Tokyo
+SEQUENCE:0
+UID:9ca79218-283c-4596-94eb-6969618d742a
+CREATED:20260525T060125Z
+DTSTART;TZID=Asia/Tokyo:20260515T170000
+DTEND;TZID=Asia/Tokyo:20260614T235900
+URL:https://jp.finalfantasyxiv.com/lodestone/special/freelogincampaign/
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20240323T165829Z
