@@ -1557,6 +1557,20 @@ DTSTART;TZID=Asia/Shanghai:20230427T190000
 DTEND;TZID=Asia/Shanghai:20230427T210000
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260525T054403Z
+SUMMARY:C-「星尘祈愿」（自选奖池抽奖活动）
+DESCRIPTION:活动规则和详情请直接查看官网。\n\n参考攻略：\n【【FF14】最新活动「星尘祈愿」玩法规则详解】 （来源bilibil
+ i@顾跑跑）\nhttps://www.bilibili.com/video/BV1wWGn6hE2m/\n\n活动页面：\nhttps://a
+ ctff1.web.sdo.com/20260301__StarPray/index.html#/index
+TZID:Asia/Shanghai
+SEQUENCE:0
+UID:69f31483-43f9-4e31-81a0-420192c02455
+CREATED:20260525T054403Z
+DTSTART;TZID=Asia/Shanghai:20260526T230000
+DTEND;TZID=Asia/Shanghai:20260609T225900
+URL:https://actff1.web.sdo.com/20260301__StarPray/index.html#/index
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20211015T125152Z
 SUMMARY:C-FanArt主题作品征集比赛投稿时间
 DESCRIPTION:FanArt官网：\nhttps://actff1.web.sdo.com/Fans2021/index.html#/fa
@@ -3896,6 +3910,22 @@ UID:f33382db-e37a-45de-8346-ab97d46aeac8
 CREATED:20240507T100741Z
 DTSTART;TZID=Asia/Tokyo:20240516T200000
 DTEND;TZID=Asia/Tokyo:20240516T220000
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260525T053957Z
+SUMMARY:C-金碟庆典「獭獭宣传大使登场？」
+DESCRIPTION:活动期间金碟币1.5倍。\n\n活动奖励：\n宠物-「獭獭先生」\n时尚配饰-「獭獭先生背包」\n\n家具-壁挂-「金碟嘉
+ 年华海报2025-2」（不可染色）\n家具-壁挂-「金碟嘉年华海报2025」（不可染色）\n家具-桌上-「金碟嘉年华桌面海报2025-2」（可单
+ 染色）\n\n活动页面：\nhttps://actff1.web.sdo.com/project/20260519the_make_it_rai
+ n_campaign/86z02yp9k67o/index.html
+TZID:Asia/Shanghai
+SEQUENCE:0
+UID:f48830c7-3a77-4db6-b1bf-54b3cba780f8
+CREATED:20260525T053957Z
+DTSTART;TZID=Asia/Shanghai:20260529T160000
+DTEND;TZID=Asia/Shanghai:20260624T225900
+URL:https://actff1.web.sdo.com/project/20260519the_make_it_rain_campaign/
+ 86z02yp9k67o/index.html
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20241011T093843Z
