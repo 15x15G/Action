@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
   repository_dispatch:
   schedule:
-    - cron: "0 23 * * *" # at 23:00 per day
+    - cron: "0 23 * * 5" # at 23:00 per week
 
 jobs:
   rule-job:
