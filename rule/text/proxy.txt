@@ -149,7 +149,6 @@ dlmobilegarena-a.akamaihd.net
 dmqdd6hw24ucf.cloudfront.net
 docker-images-prod.6aa30f8b08e16409b46e0173d6de2f56.r2.cloudflarestorage.com
 docker-pinata-support.s3.amazonaws.com
-download.visualstudio.microsoft.com
 dqd0jw5gvbchn.cloudfront.net
 dqrpb9wgowsf5.cloudfront.net
 ds-linear-abematv.akamaized.net
@@ -210,6 +209,8 @@ github-production-repository-image-32fea6.s3.amazonaws.com
 github-production-upload-manifest-file-7fdce7.s3.amazonaws.com
 github-production-user-asset-6210df.s3.amazonaws.com
 gitlab-assets.oss-cn-hongkong.aliyuncs.com
+gog-cdn-lumen.secure2.footprint.net
+gog-cdn.akamaized.net
 google-ohttp-relay-safebrowsing.fastly-edge.com
 hamivideo.hinet.net
 hammerandchisel.ssl.zendesk.com
@@ -711,6 +712,7 @@ wwis-dubc1-vip97.adobe.com
 wwis-dubc1-vip98.adobe.com
 wwis-dubc1-vip99.adobe.com
 www-cdn.icloud.com.akadns.net
+www.microsoft.com
 www.quora.com.cdn.cloudflare.net
 yangzhi.app
 yt3.googleusercontent.com
@@ -2122,6 +2124,7 @@ zftksc.launches.appsflyersdk.com
 +.allspyclips.com
 +.allswingersclubs.org
 +.allthefallen.moe
++.almalinux.org
 +.alohatube.com
 +.alotporn.com
 +.alphabet.asia
@@ -5363,6 +5366,7 @@ zftksc.launches.appsflyersdk.com
 +.bustyoldsluts.com
 +.bustysammieblack.com
 +.busu.org
++.busybox.net
 +.buy-from-shanghai.com
 +.buyaapl.com
 +.buyaapl.net
@@ -6616,6 +6620,7 @@ zftksc.launches.appsflyersdk.com
 +.crazyxxxworld.com
 +.crbug.com
 +.crchina.org
++.creader.com
 +.creaders.net
 +.creamasia.com
 +.creamlemon.info
@@ -8752,6 +8757,7 @@ zftksc.launches.appsflyersdk.com
 +.exoav.com
 +.exotic-ghana.com
 +.exoticuganda.com
++.exp-tas.com
 +.expatshield.com
 +.expecthim.com
 +.expekt.com
@@ -10376,6 +10382,7 @@ zftksc.launches.appsflyersdk.com
 +.gerritcodereview.com
 +.gesoten.com
 +.get.app
++.get.dappcdn.com
 +.get.dev
 +.get.how
 +.get.new
@@ -10546,6 +10553,7 @@ zftksc.launches.appsflyersdk.com
 +.gitgud.io
 +.github.ai
 +.github.blog
++.github.career
 +.github.com
 +.github.community
 +.github.dev
@@ -10695,8 +10703,10 @@ zftksc.launches.appsflyersdk.com
 +.gofucker.com
 +.gofuckmenow.com
 +.gofundme.com
++.gog-services.com
 +.gog-statics.com
 +.gog.com
++.gogalaxy.com
 +.gogettaxi.org
 +.gogle.com
 +.gogo-load.com
@@ -14551,6 +14561,7 @@ zftksc.launches.appsflyersdk.com
 +.licensebuttons.net
 +.licenseparser.com
 +.life-global.org
++.lifeatspotify.com
 +.lifemiles.com
 +.lifeselector.com
 +.lifestyle-tec.ru
@@ -15056,6 +15067,7 @@ zftksc.launches.appsflyersdk.com
 +.manhwa24h.com
 +.manhwahentai.me
 +.maniakey.homes
++.manjaro.org
 +.manorama.com
 +.manoramanews.com
 +.manoramaonline.com
@@ -20106,6 +20118,7 @@ zftksc.launches.appsflyersdk.com
 +.rocksextube.com
 +.rockstargames.com
 +.rockstarnorth.com
++.rockylinux.org
 +.rojo.com
 +.roku.com
 +.rokutime.com
@@ -21625,6 +21638,7 @@ zftksc.launches.appsflyersdk.com
 +.spotifycharts.com
 +.spotifycodes.com
 +.spotifyforbrands.com
++.spotifyforvendors.com
 +.spotifyjobs.com
 +.spraynwash.com
 +.spreadprivacy.com
@@ -24604,7 +24618,10 @@ zftksc.launches.appsflyersdk.com
 +.vscale.ru
 +.vscode-cdn.net
 +.vscode-unpkg.net
++.vscode-webview.net
 +.vscode.dev
++.vscodeedu.app
++.vscodeedu.com
 +.vsemrabota.ru
 +.vsex.in
 +.vsezoo.com
