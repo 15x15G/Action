@@ -4,6 +4,23 @@ PRODID:-//caldav.icloud.com//CALDAVJ 2622B770//EN
 X-WR-CALNAME:国际服(Final Fantasy XIV)
 X-APPLE-CALENDAR-COLOR:#cc73e1
 BEGIN:VEVENT
+DTSTAMP:20260706T063805Z
+SUMMARY:J-DQX联动复刻（新增加有铭牌奖励）
+DESCRIPTION:活动奖励：\n头部防具-「あらくれマスク」（莽汉面具）\n头部防具-「キングスライムクラウン」（史莱姆王帽子）\n宠物-「
+ ゴレムス」（巨像丙）\n肖像教材-「ポートレート教材:ドラゴンクエストX」（肖像教材：勇者斗恶龙X）\n\n“史莱姆王帽子”和“肖像教材：勇者斗
+ 恶龙X”可以在ウルダハ：ナル回廊（乌尔达哈现世回廊）(X:8.2 Y:12.2)NPC"あらくれの女"处购买。\n\n活动页面：\nhttps:
+ //jp.finalfantasyxiv.com/lodestone/special/2026/Theres_Golems_in_Those_H
+ ills/uG8fdJUc3q
+TZID:Asia/Tokyo
+SEQUENCE:0
+UID:009e0dd7-bcc1-426e-bc86-76fa2c1803f2
+CREATED:20260706T063805Z
+DTSTART;TZID=Asia/Tokyo:20260625T170000
+DTEND;TZID=Asia/Tokyo:20260713T235900
+URL:https://jp.finalfantasyxiv.com/lodestone/special/2026/Theres_Golems_i
+ n_Those_Hills/uG8fdJUc3q
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20220113T083547Z
 SUMMARY:J-守护天节「タマシイの饗宴へ、ようこそ」
 DESCRIPTION:活动奖励：\n小丑服一套（5件）-「クラウンハット」、「クラウントップス」、「クラウンショーティ」、「クラウンボトム」、「
