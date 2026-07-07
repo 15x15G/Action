@@ -1506,6 +1506,22 @@ DTSTART;TZID=Asia/Shanghai:20240528T113000
 DTEND;TZID=Asia/Shanghai:20240528T170000
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260706T063430Z
+SUMMARY:C-DQX联动复刻（新增加有铭牌奖励）
+DESCRIPTION:活动奖励：\n头部防具-「莽汉面具」\n头部防具-「史莱姆王帽子」\n宠物-「巨像丙」\n肖像教材-「肖像教材：勇者斗恶龙
+ X」\n\n“史莱姆王帽子”和“肖像教材：勇者斗恶龙X”可以在乌尔达哈现世回廊(X:8.2 Y:12.2)NPC"粗野的女子"处购买。\n\n活
+ 动页面：\nhttps://actff1.web.sdo.com/project/20260616Theres_Golems_in_Those_
+ Hills/0gqh4ij2nlt0/index.html
+TZID:Asia/Shanghai
+SEQUENCE:0
+UID:660d2163-08ea-489e-a79f-efaa0816ec00
+CREATED:20260706T063430Z
+DTSTART;TZID=Asia/Shanghai:20260625T160000
+DTEND;TZID=Asia/Shanghai:20260713T225900
+URL:https://actff1.web.sdo.com/project/20260616Theres_Golems_in_Those_Hil
+ ls/0gqh4ij2nlt0/index.html
+END:VEVENT
+BEGIN:VEVENT
 CREATED:20220215T102124Z
 DESCRIPTION:直播间地址：\nhttps://live.bilibili.com/h5/5225
 DTEND;TZID=Asia/Shanghai:20220219T150000
