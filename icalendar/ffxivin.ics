@@ -2088,13 +2088,17 @@ DTSTART;TZID=Asia/Tokyo:20240326T090000
 DTEND;TZID=Asia/Tokyo:20240627T235900
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250911T055245Z
+DTSTAMP:20260715T042436Z
 SUMMARY:J-德国柏林FanFest
-DESCRIPTION:官方网站：\nhttps://fanfest.finalfantasyxiv.com/
+DESCRIPTION:官方直播间：\nYoutube（7/25）-https://www.youtube.com/live/C0L5kqKlGc
+ Q\nYoutube（7/26）-https://www.youtube.com/live/R6Yb4ZS3rLo\nTwitch-https:
+ //www.twitch.tv/finalfantasyxiv\n\n官方时间表：\nhttps://jp.finalfantasyxiv.co
+ m/lodestone/topics/detail/d32a8295d8b5e354856569edd79de65f74b9d8dc\n\n官方
+ 网站：\nhttps://fanfest.finalfantasyxiv.com/
 TZID:Asia/Tokyo
 SEQUENCE:0
 UID:9e8122de-0cbe-475f-a572-8b90015c39ad
-CREATED:20250911T055245Z
+CREATED:20260715T042436Z
 DTSTART;VALUE=DATE:20260725
 DTEND;VALUE=DATE:20260727
 URL:https://fanfest.finalfantasyxiv.com/
