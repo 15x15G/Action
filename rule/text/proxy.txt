@@ -565,6 +565,7 @@ time5.facebook.com
 tlmr-hamivideo2.cdn.hinet.net
 tmdb-image-prod.b-cdn.net
 tmdb-web-image-prod.b-cdn.net
+trojan-gfw.github.io
 tv.applemusic.com
 tvcastlive-hamivideo.cdn.hinet.net
 ubisoft-orbit-savegames.s3.amazonaws.com
@@ -734,6 +735,7 @@ wwis-dubc1-vip99.adobe.com
 www-cdn.icloud.com.akadns.net
 www.microsoft.com
 www.quora.com.cdn.cloudflare.net
+xtls.github.io
 yangzhi.app
 yt3.googleusercontent.com
 zeenews-fonts.s3.amazonaws.com
@@ -4090,6 +4092,7 @@ zftksc.launches.appsflyersdk.com
 +.berlinerbericht.de
 +.berlintwitterwall.com
 +.best-sex-games.com
++.best2pay.net
 +.best4bim.com
 +.bestbeats4u.com
 +.bestbhy.com
@@ -6152,6 +6155,7 @@ zftksc.launches.appsflyersdk.com
 +.cinepornogratis.com
 +.cinny.in
 +.cios.org
++.circle19.org
 +.cirosantilli.com
 +.cisco
 +.cisco-returns.com
@@ -6231,6 +6235,7 @@ zftksc.launches.appsflyersdk.com
 +.clashofclans.com
 +.clashroyale.com
 +.clashroyaleapp.com
++.clashyun.com
 +.clasporno.org
 +.classicalguitarblog.net
 +.classicnike.com
@@ -7667,6 +7672,7 @@ zftksc.launches.appsflyersdk.com
 +.docs.com
 +.docs.new
 +.docs.rs
++.docs.rw
 +.doctor-videos.com
 +.documentforce.com
 +.documentingreality.com
@@ -8838,6 +8844,8 @@ zftksc.launches.appsflyersdk.com
 +.f-droid.com
 +.f-droid.org
 +.f-secure.com
++.f1.com
++.f1tv.com
 +.f2pool.com
 +.f5pf.com
 +.f6.dev
@@ -9666,6 +9674,7 @@ zftksc.launches.appsflyersdk.com
 +.formit360.com
 +.formitfactory.com
 +.forms.new
++.formula1.com
 +.forpojie.pics
 +.forshtadt.ru
 +.fortawesome.com
@@ -12381,6 +12390,7 @@ zftksc.launches.appsflyersdk.com
 +.hutao.cloud
 +.hutianyi.net
 +.hutpromos.com
++.hva.im
 +.hwayue.org.tw
 +.hwgo.com
 +.hwslabs.com
@@ -14105,6 +14115,7 @@ zftksc.launches.appsflyersdk.com
 +.karabako-gmo.com
 +.karafarinbank.ir
 +.karayou.com
++.kards.com
 +.karechat.ai
 +.karger.com
 +.karinahart.com
@@ -14781,6 +14792,7 @@ zftksc.launches.appsflyersdk.com
 +.localpresshk.com
 +.localxlist.org
 +.lockestek.com
++.log.rw
 +.logi.com
 +.logicool.co.jp
 +.logicoolg.com
@@ -19867,8 +19879,10 @@ zftksc.launches.appsflyersdk.com
 +.rbnainternational.com
 +.rbplc.com
 +.rbrandlibrary.com
++.rbsgate.com
 +.rbsgr.com
 +.rbspeakup.com
++.rbsuat.com
 +.rbth.com
 +.rbx.com
 +.rbxcdn.com
@@ -22263,6 +22277,7 @@ zftksc.launches.appsflyersdk.com
 +.syosetu.com
 +.sysinternals.com
 +.system76.com
++.sysub.com
 +.syzbj36.xyz
 +.szabadeuropa.hu
 +.szcheapmonsterheadphones.com
@@ -22996,6 +23011,7 @@ zftksc.launches.appsflyersdk.com
 +.tok.media
 +.token.im
 +.tokenlon.im
++.tokenplus.app
 +.tokyo-hot.com
 +.tokyo-porn-tube.com
 +.tokyo-sports.co.jp
@@ -23222,6 +23238,7 @@ zftksc.launches.appsflyersdk.com
 +.truyenkk1.com
 +.truyentranh86.com
 +.truyenwk.com
++.try.rw
 +.tryalias.com
 +.tryboobs.com
 +.trycloudflare.com
@@ -26726,6 +26743,7 @@ zftksc.launches.appsflyersdk.com
 +.zenlesszonezero.com
 +.zenmate.com
 +.zenmate.com.ru
++.zenmux.ai
 +.zenodo.org
 +.zeplin.dev
 +.zeplin.io
