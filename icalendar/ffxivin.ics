@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//caldav.icloud.com//CALDAVJ 2628B761//EN
+PRODID:-//caldav.icloud.com//CALDAVJ 2630B964//EN
 X-WR-CALNAME:国际服(Final Fantasy XIV)
 X-APPLE-CALENDAR-COLOR:#cc73e1
 BEGIN:VEVENT
@@ -1940,6 +1940,24 @@ UID:952B7B5A-052D-45FA-9EF8-C9EA4CD7A4E8
 CREATED:20230125T085541Z
 DTSTART;TZID=Asia/Tokyo:20230201T170000
 DTEND;TZID=Asia/Tokyo:20230215T235900
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260820T133057Z
+SUMMARY:J-新生祭「旅路の果てに出会うのは」
+DESCRIPTION:活动奖励：\n宠物-「マメット・ウクラマト」（迷你乌克・拉玛特）\n家具-桌上-「新生祭の卓上絵画2025」（新生庆典桌面
+ 海报2025-2）（可染色）\n家具-壁挂-「新生祭のポスター2025」（新生庆典海报2025-2）\n家具-壁挂-「新生祭のポスター2024」
+ （新生庆典海报2025）\n管弦乐琴乐谱-「オーケストリオン譜:メイン・テーマ ～ マトーヤの洞窟（MODULATION）」（主题曲 ~ 玛托雅
+ 的洞穴（转调版））\n管弦乐琴乐谱-「オーケストリオン譜:悠久の風（MODULATION）」（悠久之风（转调版））\n管弦乐琴乐谱-「オーケスト
+ リオン譜:ザナルカンドにて（MODULATION）」（在札纳尔坎德（转调版））\n\n活动页面：\nhttps://jp.finalfantas
+ yxiv.com/lodestone/special/2026/The_Rising/cula62e5jx
+TZID:Asia/Tokyo
+SEQUENCE:0
+UID:95596609-d42a-4c88-abac-a7fb2e136804
+CREATED:20260820T133057Z
+DTSTART;TZID=Asia/Tokyo:20260827T160000
+DTEND;TZID=Asia/Tokyo:20260910T235900
+URL:https://jp.finalfantasyxiv.com/lodestone/special/2026/The_Rising/cula
+ 62e5jx
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20241227T042033Z
