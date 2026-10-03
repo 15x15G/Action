@@ -610,6 +610,7 @@
 +.c-est-simple.com
 +.c-span.org
 +.c-spanvideo.org
++.c.go-mpulse.net
 +.c.mi.com
 +.c2cx.com
 +.c3pool.com
@@ -1394,6 +1395,7 @@
 +.futustatic.com
 +.fututrade.com
 +.fututrustee.com
++.fuyin116.com
 +.fw.cm
 +.fxcm-chinese.com
 +.fxnetworks.com
@@ -2548,6 +2550,7 @@
 +.mubi.com
 +.mullvad.net
 +.multiply.com
++.muse.ai
 +.music.amazon.com
 +.musixmatch.com
 +.muzi.com
@@ -3023,6 +3026,7 @@
 +.qianmo.tw
 +.qiwen.lu
 +.qmp4.com
++.qobuz.com
 +.qoos.com
 +.qq.co.za
 +.qstatus.com
@@ -3262,6 +3266,7 @@
 +.simplex.chat
 +.sina.com.hk
 +.sinchew.com.my
++.sing-box.sagernet.org
 +.singaporepools.com.sg
 +.singlelogin.se
 +.singtao.com
@@ -3901,6 +3906,7 @@
 +.vansky.com
 +.vaticannews.va
 +.vatn.org
++.vava8.com
 +.vcf-online.org
 +.vcfbuilder.org
 +.veed.io
@@ -4002,6 +4008,7 @@
 +.wainao.me
 +.walletconnect.com
 +.walletconnect.org
++.wallhaven.cc
 +.wallmama.com
 +.wallpapercasa.com
 +.wallsttv.com

@@ -224,6 +224,8 @@ foxnewsplayer-a.akamaihd.net
 gamedownloads-rockstargames-com.akamaized.net
 gamer-cds.cdn.hinet.net
 gamer2-cds.cdn.hinet.net
+geminiweb-pa.clients.google.com
+geminiweb-pa.clients6.google.com
 gigabyte2.azureedge.net
 github-api.arkoselabs.com
 github-cloud.s3.amazonaws.com
@@ -5518,6 +5520,7 @@ zftksc.launches.appsflyersdk.com
 +.c-msedge.net
 +.c-span.org
 +.c-spanvideo.org
++.c.go-mpulse.net
 +.c.mi.com
 +.c0930.com
 +.c2cx.com
@@ -6295,6 +6298,7 @@ zftksc.launches.appsflyersdk.com
 +.clau.de
 +.claude.ai
 +.claude.com
++.claude.dev
 +.claudemcpclient.com
 +.claudemcpcontent.com
 +.claudeusercontent.com
@@ -10265,6 +10269,7 @@ zftksc.launches.appsflyersdk.com
 +.fututrade.com
 +.fututrustee.com
 +.fuxporn.com
++.fuyin116.com
 +.fuzokudx.com
 +.fw.cm
 +.fxcm-chinese.com
@@ -12385,6 +12390,7 @@ zftksc.launches.appsflyersdk.com
 +.huaren.us
 +.huarenav.com
 +.huarenporn.com
++.huarun.win
 +.huashangnews.com
 +.huashundg.com
 +.huati.cc
@@ -15667,6 +15673,7 @@ zftksc.launches.appsflyersdk.com
 +.met-nude.com
 +.meta.ai
 +.meta.com
++.metaaivm.com
 +.metabora.io
 +.metabrainz.org
 +.metacloud.com
@@ -16676,6 +16683,7 @@ zftksc.launches.appsflyersdk.com
 +.muscache.com
 +.muscdn.com
 +.musclegirlflix.com
++.muse.ai
 +.mushroomtrack.com
 +.mushymush.tv
 +.musical.ly
@@ -18143,6 +18151,7 @@ zftksc.launches.appsflyersdk.com
 +.openbook.org.tw
 +.opencas.io
 +.openclaw.ai
++.opencode.ai
 +.opencollective.com
 +.opencreate.org
 +.opencritic.com
@@ -24062,6 +24071,7 @@ zftksc.launches.appsflyersdk.com
 +.vaultify.info
 +.vaultify.net
 +.vaultproject.io
++.vava8.com
 +.vbcdn.com
 +.vbcdn.net
 +.vbejeyv.shop
