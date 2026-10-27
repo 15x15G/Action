@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//caldav.icloud.com//CALDAVJ 2638B987//EN
+PRODID:-//caldav.icloud.com//CALDAVJ 2640B1039//EN
 X-WR-CALNAME:国际服(Final Fantasy XIV)
 X-APPLE-CALENDAR-COLOR:#cc73e1
 BEGIN:VEVENT
@@ -1389,6 +1389,33 @@ DTSTART;VALUE=DATE:20241217
 DTEND;VALUE=DATE:20241218
 URL:https://jp.finalfantasyxiv.com/lodestone/topics/detail/dfbc510152d601
  b725c4fbeab61e5fe71dc025d9
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261027T140123Z
+SUMMARY:J-金碟游乐场「キーバウンド・ブロウラー」（魔光键影）（第一弹FF7RE系列联动）（截止至8.0）
+DESCRIPTION:活动时间：2026年10月28日16:00～8.0版本更新维护前\n（个人猜测是词库以及奖励的获取时间是到8.0版本更新前
+ ，请注意时间。）\n\n活动页面：\nhttps://jp.finalfantasyxiv.com/lodestone/special/keyb
+ ound_brawler/
+TZID:Asia/Tokyo
+SEQUENCE:0
+UID:702a31fb-364d-4854-bc86-fcf7aba5eb50
+CREATED:20261027T140123Z
+DTSTART;TZID=Asia/Tokyo:20261028T170000
+DTEND;TZID=Asia/Tokyo:20270126T180000
+URL:https://jp.finalfantasyxiv.com/lodestone/special/keybound_brawler/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261027T140932Z
+SUMMARY:J-糖豆人联动复刻
+DESCRIPTION:活动页面：\nhttps://jp.finalfantasyxiv.com/lodestone/special/fallg
+ uys/
+TZID:Asia/Tokyo
+SEQUENCE:0
+UID:7105dcc6-1ec8-4db2-951b-2467d33c6d6f
+CREATED:20261027T140932Z
+DTSTART;TZID=Asia/Tokyo:20261007T170000
+DTEND;TZID=Asia/Tokyo:20261027T235900
+URL:https://jp.finalfantasyxiv.com/lodestone/special/fallguys/
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20250617T083729Z
@@ -3011,6 +3038,24 @@ DTSTART;TZID=Asia/Tokyo:20240514T170000
 DTEND;TZID=Asia/Tokyo:20240624T235900
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261027T140826Z
+SUMMARY:J-守护天节「相対するは着ぐるみのマモノ……!?」
+DESCRIPTION:活动奖励：\n时装-狰狞熊一套（2件）-「グリムグリズリー・ヘッド」（狰狞熊头套）、「グリムグリズリー・スーツ」（狰狞熊服
+ ）\n家具-「スマイリング・ウェイクマッシュルーム」（狂笑守夜菇）、「ステアリング・ウェイクマッシュルーム」（瞪眼守夜菇）、「ウェイクゴースト・
+ バギー」（守夜鬼魂小车）（均不可染色）\n家具-壁挂-「守護天節のポスター2025」（守护天节海报2025-2）\n家具-桌上-「守護天節の卓上
+ 絵画2025」（守护天节桌面海报2025-2）\n家具-壁挂-「守護天節のポスター2016」（守护天节海报2017）\n\n活动页面：\nhtt
+ ps://jp.finalfantasyxiv.com/lodestone/special/2026/All_Saints_Wake/tfrx2
+ rkv52
+TZID:Asia/Tokyo
+SEQUENCE:0
+UID:b0249b7c-69ce-4e13-bdb2-4a4fd011b72c
+CREATED:20261027T140826Z
+DTSTART;TZID=Asia/Tokyo:20261015T170000
+DTEND;TZID=Asia/Tokyo:20261102T235900
+URL:https://jp.finalfantasyxiv.com/lodestone/special/2026/All_Saints_Wake
+ /tfrx2rkv52
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20240319T114133Z
 SUMMARY:J-6.58版本更新维护（万魔殿天狱篇超越之力）
 DESCRIPTION:更新笔记（中，来源微博@止水ShinwaRyu）：\nhttps://weibo.com/1489227017/O5HWg
@@ -3046,6 +3091,19 @@ UID:b2bc9fb0-5bb5-4c50-aab5-cac78caee84d
 CREATED:20250613T113214Z
 DTSTART;TZID=Asia/Tokyo:20250527T090000
 DTEND;TZID=Asia/Tokyo:20250527T190000
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261027T141332Z
+SUMMARY:J-FFXV联动复刻
+DESCRIPTION:活动页面：\nhttps://jp.finalfantasyxiv.com/lodestone/special/ffxv/
+ 8ghatq7szp/
+TZID:Asia/Tokyo
+SEQUENCE:0
+UID:bba26463-3b38-4424-a0da-4927d9a07805
+CREATED:20261027T141332Z
+DTSTART;TZID=Asia/Tokyo:20260924T170000
+DTEND;TZID=Asia/Tokyo:20261013T235900
+URL:https://jp.finalfantasyxiv.com/lodestone/special/ffxv/8ghatq7szp/
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20241112T070546Z
@@ -3404,6 +3462,21 @@ DTSTART;TZID=Asia/Tokyo:20260323T170000
 DTEND;TZID=Asia/Tokyo:20260406T235900
 URL:https://jp.finalfantasyxiv.com/lodestone/special/2026/Hatching_tide/w
  gtbl3kgc5
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261027T141613Z
+SUMMARY:J-「モグモグ★コレクション ～天文に至る路 Part1～」（ウォロン・ホルン）呜噜怪角笛）
+DESCRIPTION:【请注意呜噜怪角笛的获取方式同时需要呜噜怪角笛的交换票据（需要在活动期间内完成莫古莫古挑战才能获得）】\n\n活动页面：\
+ nhttps://jp.finalfantasyxiv.com/lodestone/special/mogmog-collection/2026
+ 09/lsekubsk45
+TZID:Asia/Tokyo
+SEQUENCE:0
+UID:fa50e363-c7fb-418e-ada6-2e8f7bd040cf
+CREATED:20261027T141613Z
+DTSTART;TZID=Asia/Tokyo:20260909T170000
+DTEND;TZID=Asia/Tokyo:20261019T235900
+URL:https://jp.finalfantasyxiv.com/lodestone/special/mogmog-collection/20
+ 2609/lsekubsk45
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20240523T110802Z
