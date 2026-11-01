@@ -704,7 +704,7 @@
   {
     "sp": "parody",
     "en": "kanon",
-    "zh": "Kanon❄",
+    "zh": "Kanon",
     "in": ""
   },
   {
@@ -764,8 +764,8 @@
   {
     "sp": "parody",
     "en": "higurashi no naku koro ni",
-    "zh": "寒蝉鸣泣之时🔪",
-    "in": "《寒蝉鸣泣之时》（日语：ひぐらしのなく頃に）是日本同人社团07th Expansion制作的文字冒险同人游戏，于2002年8月~2006年8月在同人志即卖会“Comic Market”上发售，并有依此改编的漫画、广播剧、动画、真人电影等衍生作。"
+    "zh": "寒蝉鸣泣之时",
+    "in": "日语：ひぐらしのなく頃に"
   },
   {
     "sp": "parody",
@@ -813,7 +813,7 @@
     "sp": "parody",
     "en": "to love-ru",
     "zh": "出包王女",
-    "in": "由长谷见沙贵负责脚本、矢吹健太朗负责作画的一部漫画，并有动画、游戏等衍生作品。"
+    "in": "作者：矢吹健太朗"
   },
   {
     "sp": "parody",
@@ -1287,7 +1287,7 @@
     "sp": "parody",
     "en": "zero no tsukaima",
     "zh": "零之使魔",
-    "in": "山口昇老师一路走好"
+    "in": "作者：山口昇（已故）"
   },
   {
     "sp": "parody",
@@ -1299,7 +1299,7 @@
     "sp": "parody",
     "en": "the melancholy of haruhi suzumiya",
     "zh": "凉宫春日的忧郁",
-    "in": ""
+    "in": "日语：涼宮ハルヒの憂鬱"
   },
   {
     "sp": "parody",
@@ -1371,7 +1371,7 @@
     "sp": "parody",
     "en": "neon genesis evangelion",
     "zh": "新世纪福音战士",
-    "in": "由GAINAX、龙之子工作室共同制作的日本动画作品，由庵野秀明担任主要编剧及总导演。\n作品以发生了“第二次冲击”大灾害的2015年的世界为舞台，主要讲述了14岁少男少女们操控巨大泛用人形决战兵器“EVA”，与袭击第3新东京市的神秘敌人“使徒”之间的战斗故事。"
+    "in": "日语： 新世紀エヴァンゲリオン"
   },
   {
     "sp": "parody",
@@ -1713,7 +1713,7 @@
     "sp": "parody",
     "en": "fate stay night",
     "zh": "Fate/stay night",
-    "in": "《Fate/stay night》（日语：フェイト/ステイナイト)，简称FSN，是TYPE-MOON发售的PC平台文字冒险游戏/视觉小说。"
+    "in": "简称FSN\n日语：フェイト/ステイナイト"
   },
   {
     "sp": "parody",
@@ -1953,7 +1953,7 @@
     "sp": "parody",
     "en": "hai to gensou no grimgar",
     "zh": "灰与幻想的格林姆迦尔",
-    "in": "主角·哈尔希洛因未知原因失去记忆，并来到了陌生而危险的异世界：格林姆迦尔。之后迫于生计而成为义勇兵，与马纳多等人组成队伍一同狩猎，大家一起在格林姆迦尔展开冒险并最终成长进步。灰幻[1]以成长为核心题材，重视团队精神和团队合作，着重表现角色心境的成长变化，是传统异世界冒险故事。"
+    "in": "日语：灰と幻想のグリムガル"
   },
   {
     "sp": "parody",
@@ -4251,7 +4251,7 @@
     "sp": "parody",
     "en": "highschool dxd",
     "zh": "恶魔高校D×D",
-    "in": "《恶魔高校D×D》（日语：ハイスクールD×D），是日本作家石踏一荣发表在富士见Fantasia文库上的轻小说作品，插画部分由美山零负责。"
+    "in": "日语：ハイスクールD×D\n作者：石踏一荣"
   },
   {
     "sp": "parody",
@@ -4263,7 +4263,7 @@
     "sp": "parody",
     "en": "mabinogi",
     "zh": "洛奇",
-    "in": "玛奇"
+    "in": "日语：マビノギ\n韩语：마비노기"
   },
   {
     "sp": "parody",
@@ -5523,7 +5523,7 @@
     "sp": "parody",
     "en": "maken-ki",
     "zh": "魔剑姬！",
-    "in": ""
+    "in": "日语：マケン姫っ!"
   },
   {
     "sp": "parody",
@@ -6171,7 +6171,7 @@
     "sp": "parody",
     "en": "fairy tail",
     "zh": "妖精的尾巴",
-    "in": "FAIRY TAIL魔导少年"
+    "in": "简称“妖尾”"
   },
   {
     "sp": "parody",
@@ -6722,8 +6722,8 @@
   {
     "sp": "parody",
     "en": "rance",
-    "zh": "兰斯",
-    "in": "《兰斯》系列（日语：ランスシリーズ）是由日本18禁游戏厂商Alicesoft公司制作发行的一系列游戏。"
+    "zh": "兰斯系列",
+    "in": "日语：ランスシリーズ"
   },
   {
     "sp": "parody",
@@ -6771,13 +6771,13 @@
     "sp": "parody",
     "en": "harry potter",
     "zh": "哈利波特",
-    "in": "《哈利波特》（英语：Harry Potter），英国作家J·K·罗琳的奇幻文学系列小说，描写主角哈利波特在霍格华兹7年学习生活中的冒险故事；该系列被翻译成75种语言，在超过两百个国家出版，所有版本的总销售量逾4～4亿5千万本（2013年7月），名列世界上最畅销小说之列，同时也是世界上印量第三高的出版物（仅次圣经和毛语录）。"
+    "in": "作者：J. K. Rowling"
   },
   {
     "sp": "parody",
     "en": "tom and jerry",
     "zh": "猫和老鼠",
-    "in": "《猫和老鼠》（Tom and Jerry）是米高梅电影公司于1939年制作的一部动画片，该片由威廉·汉纳、约瑟夫·巴伯拉编写，弗雷德·昆比制作，首部剧集《甜蜜的家》于1940年2月10日在美国首播 。"
+    "in": ""
   },
   {
     "sp": "parody",
@@ -7755,7 +7755,7 @@
     "sp": "parody",
     "en": "bang dream",
     "zh": "BanG Dream!",
-    "in": "BanG Dream!（日语：BanG Dream!／バンドリ！）是以女子乐队为主题，由Bushiroad制作的跨媒体企划。企划讲述女子高中生的乐队活动，拥有多个女子乐队组合，并以电视动画、手机音乐游戏、漫画、轻小说、广播、声优参与的现实演唱会和舞台活动等形式展开。"
+    "in": "BanG Dream!（日语：バンドリ！）是以女子乐队为主题，由Bushiroad制作的跨媒体企划。企划讲述女子高中生的乐队活动，拥有多个女子乐队组合，并以电视动画、手机音乐游戏、漫画、轻小说、广播、声优参与的现实演唱会和舞台活动等形式展开。"
   },
   {
     "sp": "parody",
@@ -8348,8 +8348,8 @@
   {
     "sp": "parody",
     "en": "tomo-chan wa onnanoko",
-    "zh": "小智是女孩啦！",
-    "in": "《小智是女孩子》（日语：トモちゃんは女の子!）是日本漫画家柳田史太所画的四格漫画。"
+    "zh": "智酱是女生！",
+    "in": "日语：トモちゃんは女の子!"
   },
   {
     "sp": "parody",
@@ -9153,7 +9153,7 @@
     "sp": "parody",
     "en": "cafe stella to shinigami no chou",
     "zh": "星光咖啡馆与死神之蝶",
-    "in": "星光咖啡馆与死神之蝶（日语：喫茶ステラと死神の蝶）是由柚子社制作的Galgame。本作是柚子社的第十一作，描述着在因缘际会之下进入了死亡螺旋中的男主角，与死神的相遇，并且在学校及咖啡店兼职之间所发生的日常恋爱故事。"
+    "in": "日语：喫茶ステラと死神の蝶"
   },
   {
     "sp": "parody",
@@ -9189,7 +9189,7 @@
     "sp": "parody",
     "en": "kanojo okarishimasu",
     "zh": "租借女友",
-    "in": "《租借女友》（日语：彼女、お借りします）是由宫岛礼吏创作的一部漫画。"
+    "in": "日语：彼女、お借りします\n作者：宫岛礼吏"
   },
   {
     "sp": "parody",
@@ -9723,13 +9723,13 @@
     "sp": "parody",
     "en": "lodoss-tou senki",
     "zh": "罗德岛战记",
-    "in": "《罗德斯岛战记》是1990年至1991年间由角川书店、丸红、东京放送、角川 Media Office所联合制作的动画，并在2006年推出复刻版DVD。\n全篇共13集，其中前8集的内容取材自水野良《罗德岛战记》第一卷《灰色的魔女》，后5集取材自《罗德岛战记》第三卷《火龙山的魔龙》。\n小说写于1988年。2013年日本地区发售25周年豪华纪念版。"
+    "in": "日语：ロードス島戦記"
   },
   {
     "sp": "parody",
     "en": "tantei wa mou shindeiru.",
     "zh": "侦探已死",
-    "in": "《侦探已死》（日语：探偵はもう、死んでいる。，又译：《侦探已经，死了。》），是二语十所著的日本轻小说，由Umibouzu（うみぼうず）担任插画，2019年11月25日起由MF文库J开始出版。改编电视动画于2021年7月4日首播，由ENGI制作。"
+    "in": "日语：探偵はもう、死んでいる"
   },
   {
     "sp": "parody",
@@ -9753,7 +9753,7 @@
     "sp": "parody",
     "en": "jujutsu kaisen",
     "zh": "咒术回战",
-    "in": "日语：呪術廻戦（じゅじゅつかいせん））\n日本漫画家芥见下下创作的一部漫画，并有动画、舞台剧、游戏等衍生作品。\n前传《咒术回战0 东京都立咒术高等专门学校》、后传《咒术回战≡》"
+    "in": "日语：呪術廻戦（じゅじゅつかいせん）\n作者：芥见下下"
   },
   {
     "sp": "parody",
@@ -10173,7 +10173,7 @@
     "sp": "parody",
     "en": "ling long incarnation",
     "zh": "灵笼:INCARNATION",
-    "in": "《灵笼:INCARNATION》是由艺画开天制作的一部原创动画。于2019年7月13日在开始在哔哩哔哩全网独家播映。\n不久的未来，人类的世界早已拥挤不堪，迈向星河、寻找新家园的行动迫在眉捷。正当一切有条不紊的推进之时，月相异动，脚下的大地爆发了长达数十年、剧烈的地质变化，人类在这场浩劫中所剩无几。当天地逐渐恢复平静，人们从废墟和深渊中重新踏上了这片熟悉而又陌生的大地。习惯了主宰一切的我们是否还是这个世界的主人？"
+    "in": ""
   },
   {
     "sp": "parody",
@@ -10281,7 +10281,7 @@
     "sp": "parody",
     "en": "toaru project",
     "zh": "魔法禁书系列",
-    "in": "魔法禁书系列世界观下的作品，如《魔法禁书目录（とある魔術の禁書目録）》和《科学超电磁炮（とある科学の超電磁砲）》 。"
+    "in": "魔法禁书系列世界观下的作品，包括但不限于：\n\n《魔法禁书目录》（とある魔術の禁書目録）\n\n《科学超电磁炮》（とある科学の超電磁砲）\n\n《某科学的一方通行》（とある科学の一方通行）"
   },
   {
     "sp": "parody",
@@ -12831,7 +12831,7 @@
     "sp": "parody",
     "en": "kage no jitsuryokusha ni naritakute",
     "zh": "想要成为影之实力者",
-    "in": "《想要成为影之实力者》（日语：陰の実力者になりたくて！）是由逢泽大介创作、东西插画的一部轻小说，并有漫画、动画等衍生作品。"
+    "in": "日语：陰の実力者になりたくて！"
   },
   {
     "sp": "parody",
@@ -12939,7 +12939,7 @@
     "sp": "parody",
     "en": "spy kyoushitsu",
     "zh": "间谍教室",
-    "in": "《间谍教室》（日语：スパイ教室）是竹町所著的日本轻小说系列，由Tomari担纲插画。2020年1月开始出版至今共12卷（本篇9卷、短篇集3卷），由KADOKAWA旗下的富士见Fantasia文库发行。第32届Fantasia大奖得奖作品。《这本轻小说真厉害！2021》文库类别以及新作类别第2位。\n英文：spy classroom"
+    "in": "日语：スパイ教室"
   },
   {
     "sp": "parody",
@@ -13263,7 +13263,7 @@
     "sp": "parody",
     "en": "honkai star rail",
     "zh": "崩坏：星穹铁道",
-    "in": "《崩坏：星穹铁道》是米哈游创作的回合制角色扮演游戏，崩坏系列的新作。"
+    "in": "简称：崩铁"
   },
   {
     "sp": "parody",
@@ -13503,7 +13503,7 @@
     "sp": "parody",
     "en": "sousou no frieren",
     "zh": "葬送的芙莉莲",
-    "in": "《葬送的芙莉莲》（日语：葬送のフリーレン）是山田钟人原作、阿部司作画的日本漫画。\n\n这是勇者一行人打倒魔王之后的故事。人类族的勇者欣梅尔、矮人族的战士艾冉、人类族的僧侣海塔、精灵族的魔法使芙莉莲，结束长达十年的冒险旅程，作为英雄凯旋归来，并接受国王表扬。他们刚好遇上50年一遇的流星雨，四人组相约50年后再度相聚观看难得一见的流星雨。但在芙莉莲和昔日的冒险伙伴依约再会欣赏流星雨的当夜，伙伴的逝世让长寿的芙莉莲感受到生死无常，也让芙莉莲开始深入探讨生命的意义。"
+    "in": "日语：葬送のフリーレン"
   },
   {
     "sp": "parody",
@@ -13857,7 +13857,7 @@
     "sp": "parody",
     "en": "kusuriya no hitorigoto",
     "zh": "药屋少女的呢喃",
-    "in": "药师少女的独语"
+    "in": "日语：薬屋のひとりごと"
   },
   {
     "sp": "parody",
@@ -14043,7 +14043,7 @@
     "sp": "parody",
     "en": "seitokai ni mo ana wa aru",
     "zh": "脑洞学生会",
-    "in": "《脑洞学生会》（日语：生徒会にも穴はある！）是由むちまろ创作的一部四格漫画。"
+    "in": "日语：生徒会にも穴はある！"
   },
   {
     "sp": "parody",
@@ -14361,7 +14361,7 @@
     "sp": "parody",
     "en": "tentacle and witches",
     "zh": "触手和巫女",
-    "in": "《触手与女巫》（Tentacle and Witches ）是Lilith Mist于2009年7月发行的一款成人游戏。\n\n这是一款成人游戏，讲述了一个因意外事件而变成触手怪物的男孩和他身边的女人的生活。虽然以日式性爱为背景，但其中有大量的极端H场景，尤其是触手场景莉莉丝专长。它被使用。本作分为百合路线和优子老师路线，前半部分以与女主角的性生活为中心，后半部分则描绘了与其他魔女和世界著名魔法师的对抗。"
+    "in": "日语：テンタクル アンド ウィッチーズ\n制作组：Lilith Mist"
   },
   {
     "sp": "parody",
@@ -14595,7 +14595,7 @@
     "sp": "parody",
     "en": "tsuki ga michibiku isekai douchuu",
     "zh": "月光下的异世界之旅",
-    "in": "由日本轻小说家あずみ圭著作的轻小说《月光下的异世界之旅》。"
+    "in": ""
   },
   {
     "sp": "parody",
@@ -14720,8 +14720,8 @@
   {
     "sp": "parody",
     "en": "dies irae",
-    "zh": "末日审判书 -查拉图斯特拉如是说-",
-    "in": "Dies irae -Also sprach Zarathustra-"
+    "zh": "神怒之日",
+    "in": ""
   },
   {
     "sp": "parody",
@@ -14961,7 +14961,7 @@
     "sp": "parody",
     "en": "kimi to boku no saigo no senjou aruiwa sekai ga hajimaru seisen",
     "zh": "你与我最后的战场，亦或是世界起始的圣战",
-    "in": "《这是你与我的最后战场，或是开创世界的圣战》（日语：キミと僕の最後の戦場、あるいは世界が始まる聖戦）是由细音启创作、猫锅苍插画的一部轻小说。\n有着高度科学力的帝国，和因「魔女之国」而被畏惧的涅比里斯皇厅。\n在这永远持续下去的战场上，少年和少女相遇了。"
+    "in": "日语：キミと僕の最後の戦場、あるいは世界が始まる聖戦"
   },
   {
     "sp": "parody",
@@ -15009,7 +15009,7 @@
     "sp": "parody",
     "en": "haite kudasai takamine-san",
     "zh": "鹰峰同学请穿上衣服",
-    "in": "柊裕一的漫画作品"
+    "in": "日语：履いてください、鷹峰さん"
   },
   {
     "sp": "parody",
@@ -15068,8 +15068,8 @@
   {
     "sp": "parody",
     "en": "eiyuu-ou bu o kiwameru tame tenseisu",
-    "zh": "英雄王，为了穷尽武道而转生～而后成为世界最强见习骑士♀～",
-    "in": ""
+    "zh": "英雄王，为了穷尽武道而转生",
+    "in": "全名：英雄王，为了穷尽武道而转生～而后成为世界最强见习骑士♀～\n日语：英雄王、武を極めるため転生す ～そして、世界最強の見習い騎士♀～"
   },
   {
     "sp": "parody",
@@ -15285,13 +15285,13 @@
     "sp": "parody",
     "en": "mamahaha no tsurego ga motokano datta",
     "zh": "继母的拖油瓶是我的前女友",
-    "in": ""
+    "in": "日语：継母の連れ子が元カノだった"
   },
   {
     "sp": "parody",
     "en": "hikikomari kyuuketsuki no monmon",
     "zh": "家里蹲吸血姬的苦闷",
-    "in": ""
+    "in": "日语：ひきこまり吸血姫の悶々"
   },
   {
     "sp": "parody",
@@ -15447,7 +15447,7 @@
     "sp": "parody",
     "en": "fuufu ijou koibito miman.",
     "zh": "夫妇以上，恋人未满",
-    "in": "金丸祐基创作的青年漫画。"
+    "in": "作者：金丸祐基"
   },
   {
     "sp": "parody",
@@ -15507,13 +15507,13 @@
     "sp": "parody",
     "en": "amakano",
     "zh": "甜蜜女友",
-    "in": "《甜蜜女友》（日语：アマカノ）是NEXTON公司的旗下品牌あざらしそふと制作，于2014年12月19日发售的恋爱冒险类型成人游戏，2022年11月24日发售任天堂Switch版。2016年10月28日发售完整版，12月22日发售扩充版《甜蜜女友＋》（アマカノ＋）。后来改编成OVA由mary jan发售共四集。"
+    "in": "日语：アマカノ"
   },
   {
     "sp": "parody",
     "en": "amakano 2",
     "zh": "甜蜜女友2",
-    "in": "《甜蜜女友》（日语：アマカノ）是NEXTON公司的旗下品牌あざらしそふと制作，于2014年12月19日发售的恋爱冒险类型成人游戏，2022年11月24日发售任天堂Switch版。2016年10月28日发售完整版，12月22日发售扩充版《甜蜜女友＋》（アマカノ＋）。后来改编成OVA由mary jan发售共四集。"
+    "in": "日语：アマカノ"
   },
   {
     "sp": "parody",
@@ -15693,7 +15693,7 @@
     "sp": "parody",
     "en": "class no daikirai na joshi to kekkon suru koto ni natta.",
     "zh": "‌我和班上最讨厌的女生结婚了",
-    "in": "（日语：クラスの大嫌いな女子と結婚することになった。；英语：I Got Married to the Girl I Hate Most in Class）是由天乃圣树创作、由成海七海担任插画的一部轻小说，并有漫画、动画等衍生作品。\n故事讲述高中生北条才人与同班同学樱森朱音因意外被迫结婚，从相互厌恶到逐渐理解彼此的成长历程。"
+    "in": "日语：クラスの大嫌いな女子と結婚することになった\n英语：I Got Married to the Girl I Hate Most in Class"
   },
   {
     "sp": "parody",
@@ -15777,7 +15777,7 @@
     "sp": "parody",
     "en": "schwarzesmarken",
     "zh": "黑之宣告",
-    "in": "故事设定在1983年的东德，该国因外星种族BETA的侵略陷入绝望的消耗战。主角少尉特奥多尔·埃贝尔巴赫所属的第666战术机中队“黑之宣告”，在执行任务时与西德军少尉卡蒂亚·瓦尔特海姆相遇，后者因亡命东德而请求加入中队。随着剧情推进，角色间的信任与背叛、战争与人性的冲突逐渐展开。 ‌"
+    "in": "日语：シュヴァルツェスマーケン"
   },
   {
     "sp": "parody",
@@ -15926,7 +15926,7 @@
   {
     "sp": "parody",
     "en": "oshioki sweetie",
-    "zh": "oshioki sweetie",
+    "zh": "调教甜心",
     "in": ""
   },
   {
@@ -16125,7 +16125,7 @@
     "sp": "parody",
     "en": "mankitsu happening",
     "zh": "漫画咖啡厅的艳遇危机",
-    "in": "日文名：漫喫ハプニング\n圭一因为特殊的体质，只能到朋友家的漫画咖啡厅打工，结果却面临青梅竹马和前辈，人气偶像的艳遇危机。"
+    "in": "日语：漫喫ハプニング"
   },
   {
     "sp": "parody",
@@ -17121,7 +17121,7 @@
     "sp": "parody",
     "en": "pragmata",
     "zh": "识质存在",
-    "in": "《识质存在》（日语：プラグマタ；英语：Pragmata；又译：虚实万像）是由日本游戏开发商卡普空开发并发行的动作冒险游戏。游戏背景设定在月球研究基地，讲述太空人休·威廉姆斯和机器人戴安娜携手对抗控制该研究站的敌对人工智能，并返回地球的故事。"
+    "in": "日语：プラグマタ；又译：虚实万像"
   },
   {
     "sp": "parody",
@@ -17565,7 +17565,7 @@
     "sp": "parody",
     "en": "nue no onmyouji",
     "zh": "鵺之阴阳师",
-    "in": "《鵺之阴阳师》 (日语：鵺の陰陽師) 是日本漫画家川江康太著作的漫画作品，于2023年5月15日《周刊少年Jump》开始连载，单行本日文版由集英社出版发行。"
+    "in": "日语：鵺の陰陽師"
   },
   {
     "sp": "parody",
@@ -18468,6 +18468,162 @@
     "in": ""
   },
   {
+    "sp": "parody",
+    "en": "dont starve",
+    "zh": "饥荒",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "otaku ni yasashii gal wa inai",
+    "zh": "哪里有温柔对待阿宅的辣妹！?",
+    "in": "《哪里有温柔对待阿宅的辣妹！？》(日语: <オタクに優しいギャルはいない！？> )是由编剧のりしろちゃん负责故事原作、漫画家魚住さかな负责作画的漫画作品。"
+  },
+  {
+    "sp": "parody",
+    "en": "ghostblade",
+    "zh": "鬼刀",
+    "in": "作者: 王凌"
+  },
+  {
+    "sp": "parody",
+    "en": "muse dash",
+    "zh": "喵斯快跑",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "fx senshi kurumi-chan",
+    "zh": "FX战士久留美",
+    "in": "日语：FX戦士くるみちゃん"
+  },
+  {
+    "sp": "parody",
+    "en": "mahou senshi lemmtear knights",
+    "zh": "魔法战士蕾姆蒂亚骑士～光之少女们～",
+    "in": "日语：魔法戦士レムティアナイツ～光の乙女たち～"
+  },
+  {
+    "sp": "parody",
+    "en": "kourin tenshi en ciel rena",
+    "zh": "光临天使 恩谢尔·蕾娜",
+    "in": "日语：光臨天使エンシェル・レナ"
+  },
+  {
+    "sp": "parody",
+    "en": "tensei kizoku kantei skill de nariagaru",
+    "zh": "转生贵族凭鉴定技能扭转人生",
+    "in": "日语：転生貴族、鑑定スキルで成り上がる"
+  },
+  {
+    "sp": "parody",
+    "en": "hanaori-san wa tensei shite mo kenka ga shitai",
+    "zh": "花织即使是转生也想打架",
+    "in": "日语：花織さんは転生しても喧嘩がしたい"
+  },
+  {
+    "sp": "parody",
+    "en": "friday night funkin",
+    "zh": "周五夜放克",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "doumo suki na hito ni horegusuri o irai sareta majo desu.",
+    "zh": "你好，我是受心上人所托来做恋爱药的魔女",
+    "in": "日语：どうも、好きな人に惚れ薬を依頼された魔女です"
+  },
+  {
+    "sp": "parody",
+    "en": "jet force gemini",
+    "zh": "喷射力量双子星",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "tenkou-saki no seiso karen na bishoujo",
+    "zh": "转学后班上的清纯可爱美少女",
+    "in": "全名：转学后班上的清纯可爱美少女，竟是小时候玩在一起的哥们儿\n日语：転校先の清楚可憐な美少女が、昔男子と思って一緒に遊んだ幼馴染だった件"
+  },
+  {
+    "sp": "parody",
+    "en": "amayo no tsuki",
+    "zh": "雨夜明月",
+    "in": "日语：雨夜の月"
+  },
+  {
+    "sp": "parody",
+    "en": "rimworld",
+    "zh": "边缘世界（环世界）",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "look back",
+    "zh": "蓦然回首",
+    "in": "日语：ルックバック"
+  },
+  {
+    "sp": "parody",
+    "en": "rinkan biyaku chuudoku",
+    "zh": "輪姦媚薬中毒",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "dark summoner to dekiteiru",
+    "zh": "黑暗召唤师在地下恋爱中",
+    "in": "日语：ダークサモナーとデキている"
+  },
+  {
+    "sp": "parody",
+    "en": "yuri ni hasamaru otoko wa shineba ii",
+    "zh": "插足百合的男人不如去死！？",
+    "in": "日语：百合にはさまる男は死ねばいい！？"
+  },
+  {
+    "sp": "parody",
+    "en": "jurassic park",
+    "zh": "侏罗纪公园",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "elvira mistress of the dark",
+    "zh": "销魂天师",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "shark tale",
+    "zh": "鲨鱼故事",
+    "in": ""
+  },
+  {
+    "sp": "parody",
+    "en": "act-age",
+    "zh": "演员夜凪景 Act-Age",
+    "in": "日语：アクタージュ act-age"
+  },
+  {
+    "sp": "parody",
+    "en": "sasaki to p-chan",
+    "zh": "佐佐木与文鸟小哔",
+    "in": "日语：佐々木とピーちゃん"
+  },
+  {
+    "sp": "parody",
+    "en": "isekai samurai",
+    "zh": "异世界武士",
+    "in": "日语：異世界サムライ"
+  },
+  {
+    "sp": "parody",
+    "en": "leadale no daichi nite",
+    "zh": "里亚德录大地",
+    "in": "日语：リアデイルの大地にて"
+  },
+  {
     "sp": "character",
     "en": "alice",
     "zh": "爱丽丝",
@@ -18921,7 +19077,7 @@
     "sp": "character",
     "en": "sanae kochiya",
     "zh": "东风谷早苗",
-    "in": ""
+    "in": "出自作品:东方Project(touhou project)"
   },
   {
     "sp": "character",
@@ -19185,7 +19341,7 @@
     "sp": "character",
     "en": "junko",
     "zh": "纯狐",
-    "in": ""
+    "in": "出自作品:东方Project(touhou project)"
   },
   {
     "sp": "character",
@@ -20025,7 +20181,7 @@
     "sp": "character",
     "en": "jintsuu",
     "zh": "神通(貎)",
-    "in": "所属作品：碧蓝航线(azur lane)\n\n旧日本海军的神通号巡洋舰(神通(轻巡洋舰))"
+    "in": "所属作品：碧蓝航线(azur lane)"
   },
   {
     "sp": "character",
@@ -20835,7 +20991,7 @@
     "sp": "character",
     "en": "richelieu",
     "zh": "黎塞留",
-    "in": "所属作品：碧蓝航线(azur lane)\n法国海军的黎塞留号战列舰"
+    "in": "所属作品：碧蓝航线(azur lane)"
   },
   {
     "sp": "character",
@@ -20859,7 +21015,7 @@
     "sp": "character",
     "en": "gangut",
     "zh": "甘古特",
-    "in": "所属作品：碧蓝航线(azur lane)\n\n\n\n原型为苏联海军的甘古特号战列舰"
+    "in": "所属作品：碧蓝航线(azur lane)"
   },
   {
     "sp": "character",
@@ -21117,7 +21273,7 @@
     "sp": "character",
     "en": "ajax",
     "zh": "阿贾克斯",
-    "in": "所属作品：碧蓝航线(azur lane)\n\n英国海军的阿贾克斯号轻巡洋舰（ HMS Ajax (22)）"
+    "in": "①\n\n所属作品：碧蓝航线(azur lane)\n——————\n②\n\n出自作品:最后的起源(last origin)"
   },
   {
     "sp": "character",
@@ -21363,7 +21519,7 @@
     "sp": "character",
     "en": "azusa miura",
     "zh": "三浦梓",
-    "in": ""
+    "in": "出自作品：偶像大师(the idolmaster)\n\n三浦梓（日語：三浦あずさ / みうらあずさ）是BNEI旗下遊戲《偶像大師》系列中的天然巨乳偶像。"
   },
   {
     "sp": "character",
@@ -23235,7 +23391,7 @@
     "sp": "character",
     "en": "hachiman hikigaya",
     "zh": "比企谷八幡",
-    "in": "出自作品：我的青春恋爱物语果然有问题(yahari ore no seishun love come wa machigatteiru)\n\n比企谷八幡是渡航创作的轻小说《我的青春恋爱物语果然有问题》及其衍生作品的登场角色。"
+    "in": "出自作品：我的青春恋爱物语果然有问题(yahari ore no seishun love come wa machigatteiru)"
   },
   {
     "sp": "character",
@@ -23469,7 +23625,7 @@
     "sp": "character",
     "en": "emilia",
     "zh": "爱蜜莉雅",
-    "in": "所属作品：Re：从零开始的异世界生活(re zero kara hajimeru isekai seikatsu)\n有着银色长直发和紫绀色眼瞳的美少女。露格尼卡王国第42代王位候选人，以罗兹瓦尔边境伯作为后盾参加王选。"
+    "in": "所属作品：Re：从零开始的异世界生活(re zero kara hajimeru isekai seikatsu)"
   },
   {
     "sp": "character",
@@ -23781,7 +23937,7 @@
     "sp": "character",
     "en": "meimei",
     "zh": "美莓 | 梅梅",
-    "in": "①美莓\n\n所属作品：闪乱神乐(senran kagura)\n\n②梅梅\n\n所属作品：药屋少女的呢喃(kusuriya no hitorigoto)"
+    "in": "①梅梅\n\n所属作品：药屋少女的呢喃(kusuriya no hitorigoto)\n——————————\n②美莓\n\n所属作品：闪乱神乐(senran kagura)"
   },
   {
     "sp": "character",
@@ -23955,7 +24111,7 @@
     "sp": "character",
     "en": "quetzalcoatl",
     "zh": "魁札尔科亚特尔",
-    "in": "魁札尔科亚特尔（Quetzalcoatl）是阿兹特克神话中的羽蛇神。牠在奥尔梅克时期就已经是神了(奥尔梅克时期比希腊化时代早1000多年)，几乎所有中美洲（直到阿兹特克）文化都以某种形式崇拜牠，甚至在特奥蒂瓦坎也有牠的金字塔。\n魁札尔科亚特尔可以指：\n魁札尔科亚特尔(露科亚/尔科亚)————《小林家的龙女仆》的登场角色。\n\n魁札尔·科亚特尔(Fate)————《Fate系列》的登场角色。\n\n魁札尔科亚特尔(Luck&Logic)————《Luck & Logic》的登场角色。"
+    "in": "①露科亚\n\n出自作品:小林家的龙女仆(kobayashi-san-chi no maid dragon)\n②魁札尔科亚特尔\n\n出自作品:Fate/Grand Order(fate grand order)"
   },
   {
     "sp": "character",
@@ -24513,7 +24669,7 @@
     "sp": "character",
     "en": "nana asta deviluke",
     "zh": "娜娜·阿斯塔·戴比路克",
-    "in": "所属作品：出包王女(to love-ru)\n菈菈的妹妹，有露出象征小恶魔的上犬齿。因为梨斗经常在不经意间对女生做出神摔而十分愤怒，一开始很讨厌梨斗，认为梨斗是“禽兽”，但后来慢慢也对梨斗开始报有好感。"
+    "in": "日语：ナナ・アスタ・デビルーク\n所属作品：出包王女(to love-ru)"
   },
   {
     "sp": "character",
@@ -24585,7 +24741,7 @@
     "sp": "character",
     "en": "erina nakiri",
     "zh": "薙切绘理奈",
-    "in": "所属作品：食戟之灵(shokugeki no soma)\n远月学园高等部一年学生。远月学园总帅的孙女。“远月十杰评议会”第十席。现为新的远月总帅。"
+    "in": "所属作品：食戟之灵(shokugeki no soma)"
   },
   {
     "sp": "character",
@@ -25089,7 +25245,7 @@
     "sp": "character",
     "en": "reine murasame",
     "zh": "村雨令音",
-    "in": "所属作品：约会大作战(date a live)\n“佛拉克西纳斯”战舰的成员，拉塔托斯克的分析官。五河士道的约会作战指导老师，兼任医护官，五河琴里的得力助手。"
+    "in": "所属作品：约会大作战(date a live)"
   },
   {
     "sp": "character",
@@ -26943,13 +27099,13 @@
     "sp": "character",
     "en": "lyria",
     "zh": "露莉亚",
-    "in": "所属作品：碧蓝幻想(granblue fantasy)\n拥有使役星晶兽能力的少女。因艾尔斯提帝国为了研究这份特殊能力而被囚禁起来。从帝国逃出后被格兰搭救，决定一起旅行。"
+    "in": "所属作品：碧蓝幻想(granblue fantasy)"
   },
   {
     "sp": "character",
     "en": "katalina aryze",
     "zh": "卡塔莉娜·亚利洁",
-    "in": "守护著露莉亚的女性骑士。艾尔斯提帝国军中是中尉的阶级，负责露莉亚的护卫与监视工作，得知帝国打算利用露莉亚来得到强大的力量后，为了帮助露莉亚逃脱而背叛帝国。露莉亚就像真正的妹妹一样重要。"
+    "in": "出自作品:碧蓝幻想(granblue fantasy)"
   },
   {
     "sp": "character",
@@ -27189,7 +27345,7 @@
     "sp": "character",
     "en": "sakura matou",
     "zh": "间桐樱",
-    "in": "所属作品：Fate/stay night(fate stay night)\n第五次圣杯战争中 Rider 真正的御主，远坂凛的亲妹妹。"
+    "in": "所属作品：Fate/stay night(fate stay night)"
   },
   {
     "sp": "character",
@@ -27207,7 +27363,7 @@
     "sp": "character",
     "en": "saber alter",
     "zh": "Saber Alter",
-    "in": "黑Saber"
+    "in": "出自作品:Fate/Grand Order(fate grand order)"
   },
   {
     "sp": "character",
@@ -27459,7 +27615,7 @@
     "sp": "character",
     "en": "astolfo",
     "zh": "阿斯托尔福",
-    "in": "阿斯托尔福是TYPE-MOON旗下《Fate》系列作品中的登场角色，在轻小说《Fate/Apocrypha(fate apocrypha)》中初次登场。\n法国经典骑士道故事——查理曼传说中的登场人物，查理曼十二圣骑士之一，也是英格兰王子。\n超级随性的人，因为理性蒸发的缘故，比起有益或无益，更注重自己心情是否愉快，相当乐天派的骑士。\n\n根据本人的要求，性别是个秘密。"
+    "in": "简称：阿福\n出自作品:Fate/Apocrypha(fate apocrypha)"
   },
   {
     "sp": "character",
@@ -27567,7 +27723,7 @@
     "sp": "character",
     "en": "circe",
     "zh": "喀耳刻",
-    "in": ""
+    "in": "出自作品:最后的起源(last origin)"
   },
   {
     "sp": "character",
@@ -28178,8 +28334,8 @@
   {
     "sp": "character",
     "en": "vita",
-    "zh": "薇塔",
-    "in": "所属作品：崩坏学园(honkai gakuen)"
+    "zh": "维塔 | 薇塔",
+    "in": "①维塔\n\n出自作品:魔法少女奈叶(mahou shoujo lyrical nanoha)\n————————\n②薇塔\n\n\n所属作品：崩坏学园(honkai gakuen)"
   },
   {
     "sp": "character",
@@ -28263,13 +28419,13 @@
     "sp": "character",
     "en": "ginga nakajima",
     "zh": "银河·中岛",
-    "in": ""
+    "in": "出自作品:魔法少女奈叶(mahou shoujo lyrical nanoha)"
   },
   {
     "sp": "character",
     "en": "subaru nakajima",
     "zh": "昴·中岛",
-    "in": ""
+    "in": "出自作品:魔法少女奈叶(mahou shoujo lyrical nanoha)"
   },
   {
     "sp": "character",
@@ -28713,7 +28869,7 @@
     "sp": "character",
     "en": "chaos",
     "zh": "卡奥斯",
-    "in": "兰斯(rance)"
+    "in": "兰斯系列(rance)"
   },
   {
     "sp": "character",
@@ -29655,7 +29811,7 @@
     "sp": "character",
     "en": "charlotte",
     "zh": "夏洛特 | 夏洛蒂",
-    "in": "1. 所属作品:圣剑传说(seiken densetsu)\n\n2. 所属作品:魔法少女小圆(puella magi madoka magica)\n\n3. 夏洛蒂(charlotte)\n所属作品:原神(genshin impact)"
+    "in": "①出自作品:原神(genshin impact)\n\n——————\n②出自作品:最后的起源(last origin)\n\n③出自作品:圣剑传说(seiken densetsu)\n\n④出自作品:魔法少女小圆(puella magi madoka magica)"
   },
   {
     "sp": "character",
@@ -29799,7 +29955,7 @@
     "sp": "character",
     "en": "sailor mars",
     "zh": "水手火星",
-    "in": "所属作品：美少女战士(sailor moon)\n火野丽（火野 レイ）"
+    "in": "本名：火野丽（火野 レイ/Rei Hino）\n所属作品：美少女战士(sailor moon)"
   },
   {
     "sp": "character",
@@ -31419,7 +31575,7 @@
     "sp": "character",
     "en": "hikaru shindo",
     "zh": "进藤光 | 狮堂光",
-    "in": ""
+    "in": "出自作品:棋魂(hikaru no go)"
   },
   {
     "sp": "character",
@@ -31611,13 +31767,13 @@
     "sp": "character",
     "en": "ochako uraraka",
     "zh": "丽日御茶子",
-    "in": "出自作品：我的英雄学院(my hero academia)\n\n丽日御茶子是堀越耕平所创作的漫画《我的英雄学院》及其衍生的动画等作品的登场角色，女主角。"
+    "in": "出自作品：我的英雄学院(my hero academia)"
   },
   {
     "sp": "character",
     "en": "tsuyu asui",
     "zh": "蛙吹梅雨",
-    "in": "出自作品：我的英雄学院(my hero academia)\n\n蛙吹梅雨（日语：蛙吹梅雨 / あすいつゆ）是堀越耕平所创作的漫画《我的英雄学院》及其衍生的动画等作品的登场角色。"
+    "in": "日语：蛙吹梅雨 / あすいつゆ\n出自作品：我的英雄学院(my hero academia)"
   },
   {
     "sp": "character",
@@ -32031,7 +32187,7 @@
     "sp": "character",
     "en": "marcille donato",
     "zh": "玛露西尔",
-    "in": "玛露西尔（日语：マルシル）是由九井谅子所创作的漫画《迷宫饭》及其衍生作品的登场角色。"
+    "in": "出自作品:迷宫饭(dungeon meshi)"
   },
   {
     "sp": "character",
@@ -32247,7 +32403,7 @@
     "sp": "character",
     "en": "misato katsuragi",
     "zh": "葛城美里",
-    "in": "所属作品：新世纪福音战士(neon genesis evangelion)\n\n葛城美里是是NERV的指挥官，碇真嗣与惣流·明日香·兰格雷的监护人。"
+    "in": "所属作品：新世纪福音战士(neon genesis evangelion)"
   },
   {
     "sp": "character",
@@ -32577,7 +32733,7 @@
     "sp": "character",
     "en": "sonia",
     "zh": "索妮亚",
-    "in": "①\n\n所属作品：宝可梦(pokemon)\n\n②\n\n日文：ソーニャ\n所属作品：火焰之纹章 烈火之剑(fire emblem the blazing blade)"
+    "in": "①\n\n所属作品：宝可梦(pokemon)\n——————\n②\n\n出自作品:最后的起源(last origin)\n——————\n③\n\n日文：ソーニャ\n所属作品：火焰之纹章 烈火之剑(fire emblem the blazing blade)"
   },
   {
     "sp": "character",
@@ -32907,7 +33063,7 @@
     "sp": "character",
     "en": "juliet persia",
     "zh": "朱丽叶·佩尔西亚",
-    "in": "漫画作品《寄宿学校的朱丽叶》的女主角，达利亚学园高中部学生，白猫宿舍本人所在年级的领导者。\n朱丽叶是威斯特公国贵族的独生女，因当时社会认定家族继承人只能由男性担任而从小磨练自己，背负了巨大压力，也因此希望改变世界法则。\n和犬冢露壬雄是从小到大的对手，喜欢犬冢露壬雄，在接受对方的告白后经常在他面前露出娇羞的表情。性格温柔，气质优雅，心地善良，平时威风凛凛，然而一见到露壬雄就……"
+    "in": "日语：ジュリエット・ペルシア\n出自作品:寄宿学校的朱丽叶(kishuku gakkou no juliet)"
   },
   {
     "sp": "character",
@@ -33003,7 +33159,7 @@
     "sp": "character",
     "en": "kanade hisaishi",
     "zh": "久石奏",
-    "in": ""
+    "in": "出自作品:吹响！上低音号(hibike euphonium)"
   },
   {
     "sp": "character",
@@ -33057,7 +33213,7 @@
     "sp": "character",
     "en": "asuka tanaka",
     "zh": "田中明日香",
-    "in": ""
+    "in": "出自作品:吹响！上低音号(hibike euphonium)"
   },
   {
     "sp": "character",
@@ -33123,7 +33279,7 @@
     "sp": "character",
     "en": "fuutarou uesugi",
     "zh": "上杉风太郎",
-    "in": "所属作品：五等分的新娘(gotoubun no hanayome)\n家境贫困的高中2年生。为弥补家用寻找兼职。\n升上高中3年级后，与中野五姐妹同班，并担任班长。"
+    "in": "所属作品：五等分的新娘(gotoubun no hanayome)"
   },
   {
     "sp": "character",
@@ -33135,7 +33291,7 @@
     "sp": "character",
     "en": "shinobu kochou",
     "zh": "蝴蝶忍",
-    "in": "胡蝶忍（英语：shinobu kochou）所属作品:鬼灭之刃(kimetsu no yaiba)\n是由吾峠呼世晴所创作的漫画《鬼灭之刃》及其衍生作品的登场角色。"
+    "in": "日语：胡蝶 しのぶ\n所属作品:鬼灭之刃(kimetsu no yaiba)"
   },
   {
     "sp": "character",
@@ -33237,7 +33393,7 @@
     "sp": "character",
     "en": "rio futaba",
     "zh": "双叶理央",
-    "in": "所属作品：青春猪头少年不会梦到兔女郎学姐(seishun buta yarou wa bunny girl senpai no yume o minai)\n峰原高中二年级学生，沉默寡言，性格冷静的理科女孩。曾在高一时与梓川咲太和国见佑真两人同班，并成为朋友。在咲太做出令人傻眼的事情时会称他为青春猪头少年，也是作品中该词汇唯一的使用者。"
+    "in": "所属作品：青春猪头少年不会梦到兔女郎学姐(seishun buta yarou wa bunny girl senpai no yume o minai)"
   },
   {
     "sp": "character",
@@ -33759,13 +33915,13 @@
     "sp": "character",
     "en": "yume",
     "zh": "梦儿",
-    "in": ""
+    "in": "出自作品:灰与幻想的格林姆迦尔(hai to gensou no grimgar)"
   },
   {
     "sp": "character",
     "en": "shihoru",
     "zh": "席赫露",
-    "in": ""
+    "in": "出自作品:灰与幻想的格林姆迦尔(hai to gensou no grimgar)"
   },
   {
     "sp": "character",
@@ -33783,7 +33939,7 @@
     "sp": "character",
     "en": "merry",
     "zh": "梅莉 | 咩栗",
-    "in": "所属作品: 灰与幻想的格林姆迦尔(hai to gensou no grimgar)\n第一卷中期加入主角队伍的神官（Priest），冰山美人。刚加入队伍时沉默寡言，不合群。后经过哈尔希洛的开导，开始融入现在的队伍。随着故事的进展，性格逐渐变得开朗起来。\n\n咩栗\nVtuber"
+    "in": "①梅莉\n\n所属作品: 灰与幻想的格林姆迦尔(hai to gensou no grimgar)\n——————\n②咩栗\n\n中国虚拟UP主，虚拟组合MeUmy成员"
   },
   {
     "sp": "character",
@@ -33999,13 +34155,13 @@
     "sp": "character",
     "en": "zeta",
     "zh": "泽塔",
-    "in": "①\n所属作品: 碧蓝幻想(granblue fantasy)\n——\n②所属作品: 想要成为影之实力者(kage no jitsuryokusha ni naritakute)\n暗影庭园「七影」的第六席。\n.."
+    "in": "①\n\n所属作品: 想要成为影之实力者(kage no jitsuryokusha ni naritakute)\n——————\n②\n\n所属作品: 碧蓝幻想(granblue fantasy)"
   },
   {
     "sp": "character",
     "en": "beatrix",
     "zh": "贝阿朵丽丝",
-    "in": "①\n\n所属作品：碧蓝幻想(granblue fantasy)\n————————\n②\n\n所属作品: 想要成为影之实力者(kage no jitsuryokusha ni naritakute)\n第一届武神祭冠军，被尊为“武神”的精灵族剑圣。"
+    "in": "①\n\n所属作品: 想要成为影之实力者(kage no jitsuryokusha ni naritakute)\n————————\n②\n\n所属作品：碧蓝幻想(granblue fantasy)"
   },
   {
     "sp": "character",
@@ -34599,7 +34755,7 @@
     "sp": "character",
     "en": "skyla",
     "zh": "风露",
-    "in": "所属作品：宝可梦(pokemon)\n《黑／白》登场，是吹寄道馆的道馆馆主。"
+    "in": "所属作品：宝可梦(pokemon)黑白"
   },
   {
     "sp": "character",
@@ -34916,8 +35072,8 @@
   {
     "sp": "character",
     "en": "echidna",
-    "zh": "艾姬多娜",
-    "in": "所属作品：Re：从零开始的异世界生活(re zero kara hajimeru isekai seikatsu)\n追求世界上所有智慧，就连死后也舍不得放弃，追求一切知识的『强欲魔女』。\n400多年前，背负着大罪之名，撼动并影响了世界的7名『魔女』之一。"
+    "zh": "艾姬多娜 | 艾奇德纳",
+    "in": "①艾姬多娜\n\n所属作品：Re：从零开始的异世界生活(re zero kara hajimeru isekai seikatsu)\n——————\n②艾奇德纳\n\n出自作品:最后的起源(last origin)"
   },
   {
     "sp": "character",
@@ -35379,7 +35535,7 @@
     "sp": "character",
     "en": "elaina",
     "zh": "伊蕾娜",
-    "in": "所属作品：魔女之旅(majo no tabitabi)"
+    "in": "日语：イレイナ\n所属作品：魔女之旅(majo no tabitabi)"
   },
   {
     "sp": "character",
@@ -36033,7 +36189,7 @@
     "sp": "character",
     "en": "flare arlgrande jioral",
     "zh": "芙列雅·艾尔格兰帝·吉欧拉尔",
-    "in": "所属作品：回复术士的重启人生(kaifuku jutsushi no yarinaoshi)\n【术】之勇者。吉欧拉尔王国第一公主。"
+    "in": "所属作品：回复术士的重启人生(kaifuku jutsushi no yarinaoshi)"
   },
   {
     "sp": "character",
@@ -36225,13 +36381,13 @@
     "sp": "character",
     "en": "eula lawrence",
     "zh": "优菈·劳伦斯",
-    "in": "所属作品:原神(genshin impact)\n古老家族出身的「浪花骑士」，西风骑士团游击小队队长。身为旧贵族后裔却加入了堪称死对头的西风骑士团，该事件至今仍是蒙德一大谜团。"
+    "in": "所属作品:原神(genshin impact)"
   },
   {
     "sp": "character",
     "en": "barbara pegg",
     "zh": "芭芭拉·佩奇",
-    "in": "所属作品:原神(genshin impact)\n蒙德城的大家都喜欢芭芭拉。「偶像」这个词是她从一本杂志里看到的。"
+    "in": "所属作品:原神(genshin impact)"
   },
   {
     "sp": "character",
@@ -36375,7 +36531,7 @@
     "sp": "character",
     "en": "yanfei",
     "zh": "烟绯",
-    "in": "所属作品:原神(genshin impact)\n活跃在璃月港的知名律法咨询师，混有仙兽血脉的精明少女。"
+    "in": "所属作品:原神(genshin impact)"
   },
   {
     "sp": "character",
@@ -36471,7 +36627,7 @@
     "sp": "character",
     "en": "akari fujisaki",
     "zh": "藤崎明",
-    "in": ""
+    "in": "出自作品:棋魂(hikaru no go)"
   },
   {
     "sp": "character",
@@ -36495,7 +36651,7 @@
     "sp": "character",
     "en": "yuki mitani",
     "zh": "三谷祐辉",
-    "in": ""
+    "in": "出自作品:棋魂(hikaru no go)"
   },
   {
     "sp": "character",
@@ -36681,49 +36837,49 @@
     "sp": "character",
     "en": "mio kisaki",
     "zh": "希咲美樱",
-    "in": "所属作品：少女骑士物语(walkure romanze)\n是在水野贵弘留学之前就已经认识的老友，是青梅竹马。\n有既是同学，又是邻居，还是每天都会上门叫他起床的亲密关系。"
+    "in": "所属作品：少女骑士物语(walkure romanze)"
   },
   {
     "sp": "character",
     "en": "lisa eostre",
     "zh": "丽莎·埃奥斯托雷",
-    "in": "所属作品：少女骑士物语(walkure romanze)\n有着出类拔萃的马术才能，身为1年级学生就已是新秀。\n在同学年中无人能与她匹敌，就算是高年级生，能与她媲美的也只有极少数人而已。"
+    "in": "所属作品：少女骑士物语(walkure romanze)"
   },
   {
     "sp": "character",
     "en": "bertille althusser",
     "zh": "贝尔缇优·阿鲁奇赛尔",
-    "in": ""
+    "in": "出自作品:少女骑士物语(walkure romanze)"
   },
   {
     "sp": "character",
     "en": "takahiro mizuno",
     "zh": "水野贵弘",
-    "in": "所属作品：少女骑士物语(walkure romanze)\n在祖国同年代的马术骑手中是一个天才，战不无胜，没有失败过。\n为了更高目标进发变得更强，他来到世界第一的长枪马术学校，然而由于一次比赛意外受伤，不得不从此黯然隐退。"
+    "in": "所属作品：少女骑士物语(walkure romanze)"
   },
   {
     "sp": "character",
     "en": "shinonome",
     "zh": "东云",
-    "in": ""
+    "in": "出自作品:少女骑士物语(walkure romanze)"
   },
   {
     "sp": "character",
     "en": "noel marres ascot",
     "zh": "诺埃尔·穆利斯·阿斯科特",
-    "in": "所属作品：少女骑士物语(walkure romanze)\n身为侯爵家的千金大小姐，但是开朗乐观又平易近人。\n一直接受父亲的严格教导，她的言行举止有着浓厚的贵族味道。"
+    "in": "所属作品：少女骑士物语(walkure romanze)"
   },
   {
     "sp": "character",
     "en": "celia cumani aintree",
     "zh": "苏利亚·库玛尼·安特里",
-    "in": "所属作品：少女骑士物语(walkure romanze)\n作品中同龄人公认的金发肤白的巨乳黑丝长腿年轻美女。中等身高，一头长到大腿的金发，底部和前面有紧卷发，长刘海、蓝眼睛，身材非常有料。"
+    "in": "所属作品：少女骑士物语(walkure romanze)"
   },
   {
     "sp": "character",
     "en": "ayako hiiragi",
     "zh": "柊木绫子",
-    "in": ""
+    "in": "出自作品:少女骑士物语(walkure romanze)"
   },
   {
     "sp": "character",
@@ -37227,7 +37383,7 @@
     "sp": "character",
     "en": "ayaka kamisato",
     "zh": "神里绫华",
-    "in": "所属作品:原神(genshin impact)\n稻妻「社奉行」神里家的大小姐。端庄而文雅，聪慧又坚韧。"
+    "in": "所属作品:原神(genshin impact)"
   },
   {
     "sp": "character",
@@ -37347,7 +37503,7 @@
     "sp": "character",
     "en": "saint louis",
     "zh": "路易九世",
-    "in": "原型是法国海军的C5方案舰：路易九世"
+    "in": "出自作品:碧蓝航线(azur lane)"
   },
   {
     "sp": "character",
@@ -37863,7 +38019,7 @@
     "sp": "character",
     "en": "shenhe",
     "zh": "申鹤",
-    "in": "所属作品:原神(genshin impact)\n气质出尘的仙家子弟。隐修在璃月群山之间，个性也如仙人般淡漠疏离。"
+    "in": "所属作品:原神(genshin impact)"
   },
   {
     "sp": "character",
@@ -37899,7 +38055,7 @@
     "sp": "character",
     "en": "nozomi sumizome",
     "zh": "墨染希",
-    "in": ""
+    "in": "出自作品:星光咖啡馆与死神之蝶(cafe stella to shinigami no chou)"
   },
   {
     "sp": "character",
@@ -38229,7 +38385,7 @@
     "sp": "character",
     "en": "siesta",
     "zh": "谢丝塔",
-    "in": "谢丝塔（日语：シエスタ）是由二语十所创作的轻小说《侦探已死》及其衍生作品的登场角色。“谢丝塔”是她的代号，意为西班牙语“午睡”(Siesta)。"
+    "in": "日语：シエスタ\n出自作品:侦探已死(tantei wa mou shindeiru.)"
   },
   {
     "sp": "character",
@@ -38325,7 +38481,7 @@
     "sp": "character",
     "en": "takanashi kiara",
     "zh": "小鸟游琪亚拉",
-    "in": "日语：小鳥遊 キアラ\n隶属于Hololive(hololive) HoloEn 的虚拟主播(vtuber)"
+    "in": "日语：小鳥遊 キアラ\n所属社团:Hololive(hololive)"
   },
   {
     "sp": "character",
@@ -38499,7 +38655,7 @@
     "sp": "character",
     "en": "shishiro botan",
     "zh": "狮白牡丹",
-    "in": ""
+    "in": "日语：獅白ぼたん\n所属社团:Hololive(hololive)"
   },
   {
     "sp": "character",
@@ -38613,7 +38769,7 @@
     "sp": "character",
     "en": "shigure ui",
     "zh": "时雨羽衣",
-    "in": "时雨羽衣是一名日本的插画家、漫画家。同时以个人势VTuber身份从2019年5月18日在YouTube开展相关活动。"
+    "in": ""
   },
   {
     "sp": "character",
@@ -38841,7 +38997,7 @@
     "sp": "character",
     "en": "belle",
     "zh": "铃 | 贝儿",
-    "in": "①铃\n\n所属作品：绝区零(zenless zone zero)\n\n②贝尔，出处：美女与野兽(beauty and the beast)"
+    "in": "①铃\n\n所属作品：绝区零(zenless zone zero)\n————————\n②贝尔\n所属作品：美女与野兽(beauty and the beast)"
   },
   {
     "sp": "character",
@@ -38889,7 +39045,7 @@
     "sp": "character",
     "en": "mai kawasumi",
     "zh": "川澄舞",
-    "in": "所属作品：Kanon❄(kanon)"
+    "in": "所属作品：Kanon(kanon)"
   },
   {
     "sp": "character",
@@ -38997,7 +39153,7 @@
     "sp": "character",
     "en": "sakamata chloe",
     "zh": "沙花叉库洛艾",
-    "in": "所属社团：Hololive"
+    "in": "日语：沙花叉クロヱ\n所属社团:Hololive(hololive)"
   },
   {
     "sp": "character",
@@ -39495,7 +39651,7 @@
     "sp": "character",
     "en": "yoruichi shihoin",
     "zh": "四枫院夜一",
-    "in": "《死神(bleach)》中的角色，原护廷十三队二番队队长兼前隐秘机动总司令，同第一分队刑军总括军团长，也是尸魂界四大贵族之一四枫院家的第二十二代当家。"
+    "in": "出自作品:死神(bleach)"
   },
   {
     "sp": "character",
@@ -39645,7 +39801,7 @@
     "sp": "character",
     "en": "ouro kronii",
     "zh": "奥罗·克洛尼",
-    "in": "奥罗·克洛尼(英语:ouro kronii) 所属社团:Hololive(hololive)\n是一名VTuber"
+    "in": "日语：オーロ・クロニー\n所属社团:Hololive(hololive)"
   },
   {
     "sp": "character",
@@ -40179,7 +40335,7 @@
     "sp": "character",
     "en": "orihime inoue",
     "zh": "井上织姬",
-    "in": "所属作品: 死神(bleach)\n\n本作的主角之一。性格单纯温柔、天然呆又无厘头，总有很多奇思异想，是一个喜好和平的女孩，也总是能给人带来轻松和笑声。拥有敏锐的灵力感知和细致的灵压掌控技巧，能力是头上发夹中的\"盾舜六花\"（拒绝之力）。"
+    "in": "所属作品: 死神(bleach)"
   },
   {
     "sp": "character",
@@ -40767,7 +40923,7 @@
     "sp": "character",
     "en": "sajuna inui",
     "zh": "乾纱寿叶",
-    "in": "所属作品: 更衣人偶坠入爱河(sono bisque doll wa koi o suru)\n以「珠珠」为名义活动的高人气coser。\n外表年幼的少女。最初被新菜、薰、喜多川误认为是初中生甚至是小学生。"
+    "in": "所属作品: 更衣人偶坠入爱河(sono bisque doll wa koi o suru)"
   },
   {
     "sp": "character",
@@ -41115,7 +41271,7 @@
     "sp": "character",
     "en": "dobrynya nikitich",
     "zh": "多布雷尼亚·尼基季奇",
-    "in": ""
+    "in": "日语：ドブルイニャ・ニキチッチ\n出自作品：Fate/Grand Order(fate grand order)"
   },
   {
     "sp": "character",
@@ -41397,7 +41553,7 @@
     "sp": "character",
     "en": "shinoa hiiragi",
     "zh": "柊筱娅",
-    "in": ""
+    "in": "日语：柊 シノア\n出自作品:终结的炽天使(owari no seraph)"
   },
   {
     "sp": "character",
@@ -41733,7 +41889,7 @@
     "sp": "character",
     "en": "moona hoshinova",
     "zh": "暮娜·惑星诺瓦",
-    "in": "Moona Hoshinova（日语：ムーナ・ホシノヴァ），是Hololive印度尼西亚（Hololive ID）一期生虚拟UP主中的一员，于2020年4月开始活动。"
+    "in": "日语：ムーナ・ホシノヴァ\n所属社团:Hololive(hololive)"
   },
   {
     "sp": "character",
@@ -41889,7 +42045,7 @@
     "sp": "character",
     "en": "natsumi kurobe",
     "zh": "黑部夏美",
-    "in": "黑部夏美是由しろまんた创作的漫画《前辈有够烦》及其衍生作品的登场角色。"
+    "in": "出自作品:关于前辈很烦人的事(senpai ga uzai kouhai no hanashi)"
   },
   {
     "sp": "character",
@@ -42837,7 +42993,7 @@
     "sp": "character",
     "en": "alexia midgar",
     "zh": "阿莱克西亚·米德嘉尔",
-    "in": "..\n所属作品: 想要成为影之实力者(kage no jitsuryokusha ni naritakute)\n米德加尔王国的第二王女。"
+    "in": "所属作品: 想要成为影之实力者(kage no jitsuryokusha ni naritakute)"
   },
   {
     "sp": "character",
@@ -42945,7 +43101,7 @@
     "sp": "character",
     "en": "mio naruse",
     "zh": "成濑澪",
-    "in": "所属作品：新妹魔王的契约者(shinmai maou no testament)。\n和名义上的妹妹成濑万理亚一起，企图欺骗东城迅，却遇到了勇者一族东城刃更，还因为缔结主仆契约意外成为了刃更的奴隶，从此受尽哥哥蹂躏调教。![]"
+    "in": "所属作品：新妹魔王的契约者(shinmai maou no testament)"
   },
   {
     "sp": "character",
@@ -42975,7 +43131,7 @@
     "sp": "character",
     "en": "carol olston",
     "zh": "卡洛儿·奥尔斯顿",
-    "in": "出自作品：小智是女孩啦！(tomo-chan wa onnanoko)\n\n漫画《智酱是女生！》的登场角色。"
+    "in": "出自作品：智酱是女生！(tomo-chan wa onnanoko)\n\n漫画《智酱是女生！》的登场角色。"
   },
   {
     "sp": "character",
@@ -43719,7 +43875,7 @@
     "sp": "character",
     "en": "rika furude",
     "zh": "古手梨花",
-    "in": "圭一的学妹，和沙都子同为小学6年级。古手神社的独生女，雏见泽御三家之一，古手家的最后一人。在每年6月的绵流祭担当巫女，被认为是御社神大人的转世，兼具冷静与神秘性，受到村人的喜爱与崇敬。"
+    "in": "出自作品:寒蝉鸣泣之时(higurashi no naku koro ni)"
   },
   {
     "sp": "character",
@@ -43809,7 +43965,7 @@
     "sp": "character",
     "en": "emu otori",
     "zh": "凤笑梦",
-    "in": ""
+    "in": "出自作品:世界计划(project sekai)"
   },
   {
     "sp": "character",
@@ -43821,7 +43977,7 @@
     "sp": "character",
     "en": "honami mochizuki",
     "zh": "望月穗波",
-    "in": ""
+    "in": "所属作品:世界计划(project sekai)"
   },
   {
     "sp": "character",
@@ -43845,7 +44001,7 @@
     "sp": "character",
     "en": "nene kusanagi",
     "zh": "草薙宁宁",
-    "in": ""
+    "in": "出自作品:世界计划(project sekai)"
   },
   {
     "sp": "character",
@@ -44001,7 +44157,7 @@
     "sp": "character",
     "en": "kirari momobami",
     "zh": "桃喰绮罗莉",
-    "in": "桃喰绮罗莉，所属作品:狂赌之渊(kakegurui)\n是《狂赌之渊》系列及其衍生作品的登场角色。"
+    "in": "所属作品:狂赌之渊(kakegurui)"
   },
   {
     "sp": "character",
@@ -44361,19 +44517,19 @@
     "sp": "character",
     "en": "tomo aizawa",
     "zh": "相泽智",
-    "in": "所属作品: 小智是女孩啦！(tomo-chan wa onnanoko)\n\n女主角，上野水高中1年A班学生。从小就在老家的空手道道场坚持锻炼，现在隶属于男子空手道部。擅长体育和格斗，外表和性格非常男孩子气。喜欢青梅竹马久保田淳一郎。"
+    "in": "所属作品: 智酱是女生！(tomo-chan wa onnanoko)\n\n女主角，上野水高中1年A班学生。从小就在老家的空手道道场坚持锻炼，现在隶属于男子空手道部。擅长体育和格斗，外表和性格非常男孩子气。喜欢青梅竹马久保田淳一郎。"
   },
   {
     "sp": "character",
     "en": "junichirou kubota",
     "zh": "久保田淳一郎",
-    "in": "所属作品: 小智是女孩啦！(tomo-chan wa onnanoko)\n\n男主角，上野水高中1年A班学生。从小学时期开始与智交往，曾长期以为对方是男生，和她像好哥们一样相处。虽然平时有些冷淡，但在智面前会表现出天真和孩子气的一面。"
+    "in": "所属作品: 智酱是女生！(tomo-chan wa onnanoko)\n\n男主角，上野水高中1年A班学生。从小学时期开始与智交往，曾长期以为对方是男生，和她像好哥们一样相处。虽然平时有些冷淡，但在智面前会表现出天真和孩子气的一面。"
   },
   {
     "sp": "character",
     "en": "misuzu gundou",
     "zh": "群堂美铃",
-    "in": "所属作品: 小智是女孩啦！(tomo-chan wa onnanoko)\n\n智和淳一郎的发小，上野水高中1年A班学生。沉着冷静，学业优秀，成绩一直在年级前几名。有非常毒舌的一面，经常对朋友提出辛辣的建议。和淳一郎水火不容。淳一郎初中时的女友，但交往三天就受不了淳一郎的过度健身约会而分手"
+    "in": "日语：群堂 みすず\n所属作品: 智酱是女生！(tomo-chan wa onnanoko)"
   },
   {
     "sp": "character",
@@ -44613,7 +44769,7 @@
     "sp": "character",
     "en": "clorinde",
     "zh": "克洛琳德",
-    "in": "克洛琳德(clorinde)所属作品:原神(genshin impact)\n不败的决斗代理人。以手中的剑维护着枫丹廷的「公义」。"
+    "in": "所属作品:原神(genshin impact)"
   },
   {
     "sp": "character",
@@ -45477,7 +45633,7 @@
     "sp": "character",
     "en": "fern",
     "zh": "菲伦",
-    "in": "漫画《葬送的芙莉莲》及其衍生作品角色，出自漫画第2话。芙莉莲的徒弟，和她一起旅行的魔法使。被海塔抚养长大的战灾孤儿。冷静的少女，仿佛母亲一般照顾生活方面懒散的芙莉莲。"
+    "in": "日语：フェルン\n出自作品:葬送的芙莉莲(sousou no frieren)"
   },
   {
     "sp": "character",
@@ -46011,7 +46167,7 @@
     "sp": "character",
     "en": "misha necron",
     "zh": "米夏·涅库罗",
-    "in": "所属作品：魔王学院的不适任者(maou gakuin no futekigousha)"
+    "in": "日语：ミーシャ・ネクロン\n所属作品：魔王学院的不适任者(maou gakuin no futekigousha)"
   },
   {
     "sp": "character",
@@ -46161,7 +46317,7 @@
     "sp": "character",
     "en": "ruan mei",
     "zh": "阮·梅",
-    "in": "所属作品: 崩坏：星穹铁道(honkai star rail)\n气质温婉优雅的学者，「天才俱乐部」#81号会员，生命科学领域的专家。"
+    "in": "所属作品: 崩坏：星穹铁道(honkai star rail)"
   },
   {
     "sp": "character",
@@ -46185,7 +46341,7 @@
     "sp": "character",
     "en": "dantoudai no aura",
     "zh": "阿乌拉",
-    "in": "所属作品: 葬送的芙莉莲(sousou no frieren)\n\n魔王直接下属的“七崩贤”之一，绰号“断头台阿乌拉”的魔族。"
+    "in": "所属作品: 葬送的芙莉莲(sousou no frieren)"
   },
   {
     "sp": "character",
@@ -46245,7 +46401,7 @@
     "sp": "character",
     "en": "delta",
     "zh": "德尔塔",
-    "in": "①所属作品: 想要成为影之实力者(kage no jitsuryokusha ni naritakute)\n\n日语：デルタ，暗影庭园「七影」的第四席。\n\n②德尔塔是由米哈游旗下的《崩坏学园(honkai gakuen)》及其衍生作品的登场角色。"
+    "in": "①\n\n日语：デルタ\n所属作品: 想要成为影之实力者(kage no jitsuryokusha ni naritakute)\n————————\n②所属作品:崩坏学园(honkai gakuen)"
   },
   {
     "sp": "character",
@@ -46413,7 +46569,7 @@
     "sp": "character",
     "en": "kyoka jiro",
     "zh": "耳郎响香",
-    "in": "《我的英雄学院》女英雄"
+    "in": "出自作品:我的英雄学院(my hero academia)"
   },
   {
     "sp": "character",
@@ -46653,7 +46809,7 @@
     "sp": "character",
     "en": "stark",
     "zh": "休塔尔克",
-    "in": "出自作品：葬送的芙莉莲(sousou no frieren)\n\n休塔尔克是由山田钟人原作、阿部司作画的漫画《葬送的芙莉莲》及其衍生作品的登场角色。"
+    "in": "出自作品：葬送的芙莉莲(sousou no frieren)"
   },
   {
     "sp": "character",
@@ -46784,8 +46940,8 @@
   {
     "sp": "character",
     "en": "indomitable",
-    "zh": "不挠 | 不屈",
-    "in": "①不挠\n\n所属作品：碧蓝航线(azur lane)\n其原型为英国皇家海军光辉级航空母舰4号舰不挠号。\n②不屈之玛丽\n\n所属作品：最后的起源(last origin)"
+    "zh": "不挠",
+    "in": "所属作品：碧蓝航线(azur lane)"
   },
   {
     "sp": "character",
@@ -47373,7 +47529,7 @@
     "sp": "character",
     "en": "ubel",
     "zh": "尤贝尔",
-    "in": "尤贝尔是由山田钟人原作、アベツカサ作画的漫画葬送的芙莉莲(sousou no frieren)及其衍生作品的登场角色。"
+    "in": "日语：ユーベル\n出自作品:葬送的芙莉莲(sousou no frieren)"
   },
   {
     "sp": "character",
@@ -47859,7 +48015,7 @@
     "sp": "character",
     "en": "habetrot",
     "zh": "哈贝特洛特",
-    "in": "（哈贝喵）"
+    "in": "出自作品:最后的起源(last origin)"
   },
   {
     "sp": "character",
@@ -47973,7 +48129,7 @@
     "sp": "character",
     "en": "yangyang",
     "zh": "秧秧",
-    "in": "所属作品:鸣潮(wuthering waves)\n夜归下设临时调查员，秧秧。雀鸟迎风而行、飞向远方，受家境庇护顺遂成长的少女，如今正试图成为保护他人的力量。"
+    "in": "所属作品:鸣潮(wuthering waves)"
   },
   {
     "sp": "character",
@@ -48093,13 +48249,13 @@
     "sp": "character",
     "en": "tom",
     "zh": "汤姆",
-    "in": ""
+    "in": "出自作品:猫和老鼠(tom and jerry)"
   },
   {
     "sp": "character",
     "en": "jerry",
     "zh": "杰瑞",
-    "in": ""
+    "in": "出自作品:猫和老鼠(tom and jerry)"
   },
   {
     "sp": "character",
@@ -48141,7 +48297,7 @@
     "sp": "character",
     "en": "downes",
     "zh": "唐斯",
-    "in": "马汉级十二号舰唐斯号"
+    "in": "出自作品:碧蓝航线(azur lane)"
   },
   {
     "sp": "character",
@@ -48309,7 +48465,7 @@
     "sp": "character",
     "en": "yinlin",
     "zh": "吟霖",
-    "in": "所属作品：鸣潮(wuthering waves)\n吟霖是天生的共鸣者，也曾是治安署的优秀巡尉。但现在却因为一起案件被消去了夜归身份，只能在暗处独自调查着潜藏的罪恶。"
+    "in": "所属作品：鸣潮(wuthering waves)"
   },
   {
     "sp": "character",
@@ -48321,7 +48477,7 @@
     "sp": "character",
     "en": "jinhsi",
     "zh": "今汐",
-    "in": "所属作品：鸣潮(wuthering waves)\n今令尹今汐，万丈天光被她化作点点辉芒，温柔地照亮人们的愿望。\n命运向她指明神灵的方向，但她脚下的道路，仍然通向人类的未来。"
+    "in": "所属作品：鸣潮(wuthering waves)"
   },
   {
     "sp": "character",
@@ -48357,7 +48513,7 @@
     "sp": "character",
     "en": "verina",
     "zh": "维里奈",
-    "in": "维里奈是库洛制作的游戏鸣潮(wuthering waves)的登场角色。\n具有丰富植物知识储备的育种员维里奈，总是微笑，始终温柔，用她的治愈之力呵护每一个朋友，希望所有的花朵都拥有生命的奇迹。"
+    "in": "出自作品:鸣潮(wuthering waves)"
   },
   {
     "sp": "character",
@@ -48447,7 +48603,7 @@
     "sp": "character",
     "en": "encore",
     "zh": "安可",
-    "in": "所属作品：鸣潮(wuthering waves)\n与黑白羊咩玩偶为伴的小女孩，黑海岸客卿安可，渴望用糖果、童话和幻想创造有着幸福结局的故事。"
+    "in": "所属作品：鸣潮(wuthering waves)"
   },
   {
     "sp": "character",
@@ -48633,13 +48789,13 @@
     "sp": "character",
     "en": "alisa mikhailovna kujou",
     "zh": "艾莉莎·米哈伊罗夫纳·九条",
-    "in": "所属作品：不时轻声地以俄语遮羞的邻座艾莉同学(tokidoki bosotto russia-go de dereru tonari no alya-san)\n\n以学年成绩第一为傲，担任学生会会计的优等生。\n是学年的两大美人之一，别名“孤傲的公主大人”。\n因为某些过往对邻座的政近抱有兴趣，不时用俄语戏弄他，自认为他听不懂。"
+    "in": "日语：アリサ・ミハイロヴナ・九条\n所属作品：不时轻声地以俄语遮羞的邻座艾莉同学(tokidoki bosotto russia-go de dereru tonari no alya-san)"
   },
   {
     "sp": "character",
     "en": "lingyang",
     "zh": "凌阳",
-    "in": "所属作品：鸣潮(wuthering waves)\n今州瑞狮团成员，善良灵性的异族来客。"
+    "in": "所属作品：鸣潮(wuthering waves)"
   },
   {
     "sp": "character",
@@ -48651,7 +48807,7 @@
     "sp": "character",
     "en": "surcouf",
     "zh": "絮库夫",
-    "in": "絮库夫（速科夫，Surcouf，シュルクーフ，쉬르쿠프 ）是由蛮啾网络、勇仕网络联合研发的移动设备游戏《碧蓝航线》及其衍生作品的登场角色。\n\n其原型为自由法国海军的巡洋潜艇“絮库夫”号(French submarine Surcouf)。"
+    "in": "所属作品：碧蓝航线(azur lane)"
   },
   {
     "sp": "character",
@@ -48855,13 +49011,13 @@
     "sp": "character",
     "en": "kayo hinazuki",
     "zh": "雏月加代",
-    "in": ""
+    "in": "日语：雛月加代 / ひなつきかよ\n出自作品：只有我不存在的城市(boku dake ga inai machi)"
   },
   {
     "sp": "character",
     "en": "changli",
     "zh": "长离",
-    "in": "所属作品：鸣潮(wuthering waves)\n今州令尹参事，前明庭中政省长史。"
+    "in": "所属作品：鸣潮(wuthering waves)"
   },
   {
     "sp": "character",
@@ -49520,8 +49676,8 @@
   {
     "sp": "character",
     "en": "tia",
-    "zh": "蒂亚",
-    "in": "①所属作品：胜利女神：妮姬(goddess of victory nikke)\n\n————————\n②所属作品：异世界悠闲农家(isekai nonbiri nouka)"
+    "zh": "蒂亚 | 缇亚",
+    "in": "①蒂亚\n\n所属作品：胜利女神：妮姬(goddess of victory nikke)\n————————\n②缇亚\n\n所属作品：异世界悠闲农家(isekai nonbiri nouka)"
   },
   {
     "sp": "character",
@@ -49533,7 +49689,7 @@
     "sp": "character",
     "en": "noir",
     "zh": "诺亚尔",
-    "in": "所属作品：胜利女神：妮姬(goddess of victory nikke)\n隶属企业：泰特拉\n隶属于777部队的妮姬，同时也是金币之战的招牌明星。"
+    "in": "所属作品：胜利女神：妮姬(goddess of victory nikke)"
   },
   {
     "sp": "character",
@@ -49719,7 +49875,7 @@
     "sp": "character",
     "en": "pekoras mother",
     "zh": "佩克拉妈咪",
-    "in": "兔田佩克拉(usada pekora)的现实中的母亲，2024年4月1日作为愚人节企划正式出道。\n所属社团：Hololive(hololive)"
+    "in": "兔田佩克拉(usada pekora)的现实中的母亲。\n所属社团：Hololive(hololive)"
   },
   {
     "sp": "character",
@@ -50175,7 +50331,7 @@
     "sp": "character",
     "en": "hishi akebono",
     "zh": "菱曙",
-    "in": "所属作品：赛马娘(uma musume pretty derby)\n原型为于美国出生的纯血竞赛马匹ヒシアケボノ（Hishi Akebono）。"
+    "in": "所属作品：赛马娘(uma musume pretty derby)"
   },
   {
     "sp": "character",
@@ -51033,7 +51189,7 @@
     "sp": "character",
     "en": "taoqi",
     "zh": "桃祈",
-    "in": "所属作品：鸣潮(wuthering waves)\n天工边防事务的负责人，平时慵懒的她，却总能可靠地解决问题。 守护他人的点点愿望汇聚成坚固的屏障，屹立于今州城前。"
+    "in": "所属作品：鸣潮(wuthering waves)"
   },
   {
     "sp": "character",
@@ -51171,7 +51327,7 @@
     "sp": "character",
     "en": "the shorekeeper",
     "zh": "守岸人",
-    "in": "所属作品：鸣潮(wuthering waves)\n守岸人，黑海岸的守护者，这种程度的说明对她便已足够。\n至于渴望、羁绊、情感……除职责外她所拥有的一切，都丰满于与你相遇之后。"
+    "in": "所属作品：鸣潮(wuthering waves)"
   },
   {
     "sp": "character",
@@ -51225,7 +51381,7 @@
     "sp": "character",
     "en": "reze",
     "zh": "蕾塞",
-    "in": "蕾塞（日语：レゼ）是由藤本树所创作的漫画《电锯人(chainsaw man)》及其衍生作品的登场角色。"
+    "in": "日语：レゼ\n出自作品:电锯人(chainsaw man)"
   },
   {
     "sp": "character",
@@ -51591,25 +51747,25 @@
     "sp": "character",
     "en": "rance",
     "zh": "兰斯",
-    "in": "兰斯(rance)"
+    "in": "兰斯系列(rance)"
   },
   {
     "sp": "character",
     "en": "shizuka masou",
     "zh": "魔想志津香",
-    "in": "所属作品：兰斯(rance)"
+    "in": "所属作品：兰斯系列(rance)"
   },
   {
     "sp": "character",
     "en": "kouhime",
     "zh": "织田香",
-    "in": "兰斯(rance)"
+    "in": "出自作品:兰斯(rance)"
   },
   {
     "sp": "character",
     "en": "menad shisei",
     "zh": "美娜多·希瑟",
-    "in": "兰斯(rance)"
+    "in": "兰斯系列(rance)"
   },
   {
     "sp": "character",
@@ -51627,139 +51783,139 @@
     "sp": "character",
     "en": "nagi su ragarl",
     "zh": "娜姬·斯·拉卡鲁",
-    "in": "兰斯(rance)"
+    "in": "兰斯系列(rance)"
   },
   {
     "sp": "character",
     "en": "isoroku yamamoto",
     "zh": "山本五十六",
-    "in": "兰斯(rance)"
+    "in": "兰斯系列(rance)"
   },
   {
     "sp": "character",
     "en": "la hawzel",
     "zh": "拉·哈泽璐",
-    "in": "兰斯(rance)\n与兰斯10译名不同"
+    "in": "兰斯系列(rance)\n与兰斯10译名不同"
   },
   {
     "sp": "character",
     "en": "sheila helman",
     "zh": "希拉·赫尔曼",
-    "in": "兰斯(rance)"
+    "in": "兰斯系列(rance)"
   },
   {
     "sp": "character",
     "en": "kanami kentou",
     "zh": "见当加奈美",
-    "in": "兰斯(rance)"
+    "in": "兰斯系列(rance)"
   },
   {
     "sp": "character",
     "en": "maria custard",
     "zh": "玛利亚·卡斯塔多",
-    "in": "兰斯(rance)"
+    "in": "兰斯系列(rance)"
   },
   {
     "sp": "character",
     "en": "el mofus",
     "zh": "艾尔·莫福斯",
-    "in": "兰斯(rance)"
+    "in": "兰斯系列(rance)"
   },
   {
     "sp": "character",
     "en": "sill plain",
     "zh": "希露·普莱恩",
-    "in": "兰斯(rance)"
+    "in": "兰斯系列(rance)"
   },
   {
     "sp": "character",
     "en": "kenshin uesugi",
     "zh": "上杉谦信",
-    "in": "兰斯(rance)"
+    "in": "兰斯系列(rance)"
   },
   {
     "sp": "character",
     "en": "pastel kalar",
     "zh": "帕斯特尔·卡拉",
-    "in": "兰斯(rance)"
+    "in": "兰斯系列(rance)"
   },
   {
     "sp": "character",
     "en": "satella",
     "zh": "萨特拉",
-    "in": "兰斯(rance)"
+    "in": "兰斯系列(rance)"
   },
   {
     "sp": "character",
     "en": "sen tokugawa",
     "zh": "德川千",
-    "in": "①\n\n\n所属作品：百花缭乱 武士少女(hyakka ryouran samurai girls)\n②\n所属作品：兰斯(rance)"
+    "in": "①\n\n\n所属作品：百花缭乱 武士少女(hyakka ryouran samurai girls)\n②\n所属作品：兰斯系列(rance)"
   },
   {
     "sp": "character",
     "en": "magic the gandhi",
     "zh": "玛吉珂·甘地",
-    "in": "兰斯(rance)"
+    "in": "兰斯系列(rance)"
   },
   {
     "sp": "character",
     "en": "gele",
     "zh": "姬尔",
-    "in": "兰斯(rance)"
+    "in": "兰斯系列(rance)"
   },
   {
     "sp": "character",
     "en": "lia parapara leazas",
     "zh": "莉亚·帕拉帕拉·利萨斯",
-    "in": "兰斯(rance)"
+    "in": "兰斯系列(rance)"
   },
   {
     "sp": "character",
     "en": "wichita skate",
     "zh": "维吉塔·斯科特",
-    "in": "兰斯(rance)"
+    "in": "兰斯系列(rance)"
   },
   {
     "sp": "character",
     "en": "silky",
     "zh": "希尔基·特里蕾森",
-    "in": "兰斯(rance)"
+    "in": "兰斯系列(rance)"
   },
   {
     "sp": "character",
     "en": "warg",
     "zh": "瓦古·赤",
-    "in": "兰斯(rance)"
+    "in": "兰斯系列(rance)"
   },
   {
     "sp": "character",
     "en": "elena flower",
     "zh": "艾莲娜·弗拉维",
-    "in": "兰斯(rance)"
+    "in": "兰斯系列(rance)"
   },
   {
     "sp": "character",
     "en": "heidi pankrau",
     "zh": "海蒂·庞库拉乌",
-    "in": "兰斯(rance)"
+    "in": "兰斯系列(rance)"
   },
   {
     "sp": "character",
     "en": "nimitz leak",
     "zh": "尼米兹·丽科",
-    "in": "兰斯(rance)"
+    "in": "兰斯系列(rance)"
   },
   {
     "sp": "character",
     "en": "crook mofus",
     "zh": "库鲁库·莫福斯",
-    "in": "兰斯(rance)"
+    "in": "兰斯系列(rance)"
   },
   {
     "sp": "character",
     "en": "cafe artful",
     "zh": "卡菲·阿托弗露",
-    "in": "兰斯(rance)"
+    "in": "兰斯系列(rance)"
   },
   {
     "sp": "character",
@@ -51771,31 +51927,31 @@
     "sp": "character",
     "en": "ran nanjou",
     "zh": "南条兰",
-    "in": "兰斯(rance)"
+    "in": "兰斯系列(rance)"
   },
   {
     "sp": "character",
     "en": "suzume",
     "zh": "铃女",
-    "in": "兰斯(rance)"
+    "in": "兰斯系列(rance)"
   },
   {
     "sp": "character",
     "en": "omachi",
     "zh": "町",
-    "in": "兰斯(rance)"
+    "in": "兰斯系列(rance)"
   },
   {
     "sp": "character",
     "en": "urza pranaice",
     "zh": "乌鲁泽·普拉纳爱斯",
-    "in": "兰斯(rance)"
+    "in": "兰斯系列(rance)"
   },
   {
     "sp": "character",
     "en": "maris amaryllis",
     "zh": "玛丽斯·阿玛莉莉丝",
-    "in": "兰斯(rance)"
+    "in": "兰斯系列(rance)"
   },
   {
     "sp": "character",
@@ -52041,7 +52197,7 @@
     "sp": "character",
     "en": "gamma",
     "zh": "伽马",
-    "in": "所属作品: 想要成为影之实力者(kage no jitsuryokusha ni naritakute)\n暗影庭院七阴的第三席。"
+    "in": "所属作品: 想要成为影之实力者(kage no jitsuryokusha ni naritakute)"
   },
   {
     "sp": "character",
@@ -52059,7 +52215,7 @@
     "sp": "character",
     "en": "type-37 daika",
     "zh": "37式黛卡",
-    "in": "最后的起源(last origin)\n伞妹\n\n未和谐版\n\n\n和谐版"
+    "in": "出自作品:最后的起源(last origin)"
   },
   {
     "sp": "character",
@@ -52071,7 +52227,7 @@
     "sp": "character",
     "en": "asari neo",
     "zh": "根绪亚纱里",
-    "in": "所属作品：偶像大师(the idolmaster)\n初星学园制作人科的教师，坦率亲切又温柔的班主任。"
+    "in": "所属作品：偶像大师(the idolmaster)"
   },
   {
     "sp": "character",
@@ -52089,7 +52245,7 @@
     "sp": "character",
     "en": "shiori novella",
     "zh": "诗织·诺薇拉",
-    "in": "诗织·诺薇拉（英语：Shiori Novella，日语：シオリ・ノヴェラ）是一名于2023年7月26日开始活动的VTuber，所属日本业界团体hololive EN―『hololive English -降临-』的成员。"
+    "in": "日语：シオリ・ノヴェラ\n所属社团:Hololive(hololive)"
   },
   {
     "sp": "character",
@@ -52329,7 +52485,7 @@
     "sp": "character",
     "en": "sanhua",
     "zh": "散华",
-    "in": "所属作品：鸣潮(wuthering waves)\n散华是会带来灾难的修罗，也是寡言的守护者，散华所观察到的世界和正常认知存在较大差异，体温也低于常人，可以降低四周气温，召唤冰雪。"
+    "in": "所属作品：鸣潮(wuthering waves)"
   },
   {
     "sp": "character",
@@ -52479,7 +52635,7 @@
     "sp": "character",
     "en": "aurora",
     "zh": "极光 | 奥萝拉",
-    "in": "①极光，本名洛拉，所属作品明日方舟(arknights)。\n\n②奥萝拉，《想要成为影之实力者》中登场的角色。被称为灾厄的魔女。"
+    "in": "①奥萝拉\n\n所属作品: 想要成为影之实力者(kage no jitsuryokusha ni naritakute)\n————————\n②极光，本名洛拉\n\n所属作品明日方舟(arknights)"
   },
   {
     "sp": "character",
@@ -52743,7 +52899,7 @@
     "sp": "character",
     "en": "hae-in cha",
     "zh": "车慧仁",
-    "in": "所属作品：我独自升级(solo leveling)\n别译：向坂雫"
+    "in": "别译：向坂雫\n所属作品：我独自升级(solo leveling)"
   },
   {
     "sp": "character",
@@ -53067,7 +53223,7 @@
     "sp": "character",
     "en": "land",
     "zh": "兰托",
-    "in": "日语：ラント\n漫画《葬送的芙莉莲》及其衍生作品的登场角色。"
+    "in": "日语：ラント\n出自作品:葬送的芙莉莲(sousou no frieren)"
   },
   {
     "sp": "character",
@@ -53126,8 +53282,8 @@
   {
     "sp": "character",
     "en": "fortune",
-    "zh": "命运女神",
-    "in": "所属作品: 碧蓝航线(azur lane)\n\n原型为F级驱逐舰之一的财富号"
+    "zh": "命运女神 | 命运",
+    "in": "①命运女神\n\n出自作品: 碧蓝航线(azur lane)\n——————\n②命运\n\n出自作品:最后的起源(last origin)"
   },
   {
     "sp": "character",
@@ -53139,7 +53295,7 @@
     "sp": "character",
     "en": "cantarella",
     "zh": "坎特蕾拉",
-    "in": "所属作品：鸣潮(wuthering waves)\n翡萨烈现任家主，「毒药」坎特蕾拉。"
+    "in": "所属作品：鸣潮(wuthering waves)"
   },
   {
     "sp": "character",
@@ -53241,7 +53397,7 @@
     "sp": "character",
     "en": "rover",
     "zh": "漂泊者",
-    "in": "所属作品: 鸣潮(wuthering waves)\n身世不明的共鸣者，拥有吸收一切声音的力量。\n为了寻回记忆而踏上旅途。"
+    "in": "所属作品: 鸣潮(wuthering waves)"
   },
   {
     "sp": "character",
@@ -53277,43 +53433,43 @@
     "sp": "character",
     "en": "rena ryuuguu",
     "zh": "龙宫礼奈",
-    "in": "所属作品: 寒蝉鸣泣之时🔪(higurashi no naku koro ni)"
+    "in": "所属作品: 寒蝉鸣泣之时(higurashi no naku koro ni)"
   },
   {
     "sp": "character",
     "en": "miyo takano",
     "zh": "鹰野三四",
-    "in": "所属作品: 寒蝉鸣泣之时🔪(higurashi no naku koro ni)"
+    "in": "所属作品: 寒蝉鸣泣之时(higurashi no naku koro ni)"
   },
   {
     "sp": "character",
     "en": "mion sonozaki",
     "zh": "园崎魅音",
-    "in": "所属作品: 寒蝉鸣泣之时🔪(higurashi no naku koro ni)"
+    "in": "所属作品: 寒蝉鸣泣之时(higurashi no naku koro ni)"
   },
   {
     "sp": "character",
     "en": "hanyuu",
     "zh": "羽入",
-    "in": "所属作品: 寒蝉鸣泣之时🔪(higurashi no naku koro ni)"
+    "in": "所属作品: 寒蝉鸣泣之时(higurashi no naku koro ni)"
   },
   {
     "sp": "character",
     "en": "shion sonozaki",
     "zh": "园崎诗音",
-    "in": "所属作品: 寒蝉鸣泣之时🔪(higurashi no naku koro ni)"
+    "in": "所属作品: 寒蝉鸣泣之时(higurashi no naku koro ni)"
   },
   {
     "sp": "character",
     "en": "satoshi houjou",
     "zh": "北条悟史",
-    "in": "所属作品: 寒蝉鸣泣之时🔪(higurashi no naku koro ni)"
+    "in": "所属作品: 寒蝉鸣泣之时(higurashi no naku koro ni)"
   },
   {
     "sp": "character",
     "en": "keiichi maebara",
     "zh": "前原圭一",
-    "in": "所属作品: 寒蝉鸣泣之时🔪(higurashi no naku koro ni)"
+    "in": "所属作品: 寒蝉鸣泣之时(higurashi no naku koro ni)"
   },
   {
     "sp": "character",
@@ -53547,7 +53703,7 @@
     "sp": "character",
     "en": "zani",
     "zh": "赞妮",
-    "in": "所属作品：鸣潮(wuthering waves)\n来自黎那汐塔，埃费拉德银行的员工。"
+    "in": "所属作品：鸣潮(wuthering waves)"
   },
   {
     "sp": "character",
@@ -53559,7 +53715,7 @@
     "sp": "character",
     "en": "beta",
     "zh": "贝塔",
-    "in": "①所属作品: 想要成为影之实力者(kage no jitsuryokusha ni naritakute)\n\n暗影庭园「七影」的第二席。\n\n②出自作品：闪电十一人GO(inazuma eleven go)\n\n《闪电十一人GO》中的角色Beta（ベータ），是《闪电十イレブンGO2：时空之石》中的主要反派角色之一。"
+    "in": "①\n\n所属作品: 想要成为影之实力者(kage no jitsuryokusha ni naritakute)\n————————\n②\n\n出自作品：闪电十一人GO(inazuma eleven go)"
   },
   {
     "sp": "character",
@@ -53583,7 +53739,7 @@
     "sp": "character",
     "en": "almond eye",
     "zh": "杏目",
-    "in": "出自作品：赛马娘(uma musume pretty derby)\n\n杏目是以由Cygames制作的手机游戏为主导的跨媒体企划《赛马娘 Pretty Derby》及其衍生作品中的登场角色。原型为日本纯血竞赛马匹アーモンドアイ（Almond Eye）"
+    "in": "日语：アーモンドアイ\n出自作品：赛马娘(uma musume pretty derby)"
   },
   {
     "sp": "character",
@@ -53841,13 +53997,13 @@
     "sp": "character",
     "en": "cartethyia",
     "zh": "卡提希娅",
-    "in": "所属作品：鸣潮(wuthering waves)\n于黎那汐塔四处旅行的流浪骑士卡提希娅。她是曾经的圣女，是神之容器，是风潮之王。她曾被唤作芙露德莉斯，但现在，她只是一介自由自在的流浪骑士。"
+    "in": "所属作品：鸣潮(wuthering waves)"
   },
   {
     "sp": "character",
     "en": "honami ichinose",
     "zh": "一之濑帆波",
-    "in": "所属作品：欢迎来到实力至上主义的教室(youkoso jitsuryoku shijou shugi no kyoushitsu e)\n寄托了B班班主任星之宫知惠全部信赖的女生，有着在短时间内把支离破碎的B班团结起来的率直性格和很高的能力。有着出众外貌的同时，社交能力也很完美，作为一年B班的代表在全年级都拥有着极高的人气。"
+    "in": "所属作品：欢迎来到实力至上主义的教室(youkoso jitsuryoku shijou shugi no kyoushitsu e)"
   },
   {
     "sp": "character",
@@ -54009,7 +54165,7 @@
     "sp": "character",
     "en": "fleurdelys",
     "zh": "芙露德莉斯",
-    "in": "所属作品：鸣潮(wuthering waves)\n「英白拉多」与「利维亚坦」纠缠融合后，卡提希娅与其共鸣，成为了修会认证的岁主共鸣者，得名芙露德莉斯。"
+    "in": "所属作品：鸣潮(wuthering waves)"
   },
   {
     "sp": "character",
@@ -54177,7 +54333,7 @@
     "sp": "character",
     "en": "escoffier",
     "zh": "爱可菲",
-    "in": "所属作品：原神(genshin impact)\n闻名枫丹的前德波大饭店主厨，有着「甜点大校」荣誉的「技术料理」先驱，对烹饪的要求无比严格。"
+    "in": "所属作品：原神(genshin impact)"
   },
   {
     "sp": "character",
@@ -54267,7 +54423,7 @@
     "sp": "character",
     "en": "suisui",
     "zh": "穗穗 | 水水",
-    "in": "①出自作品:鸣潮(wuthering waves)\n\n——————————\n②出自作品:轰炸少女(bomber girl)"
+    "in": "①穗穗\n\n出自作品:鸣潮(wuthering waves)\n——————————\n②水水\n\n出自作品:轰炸少女(bomber girl)"
   },
   {
     "sp": "character",
@@ -54296,20 +54452,20 @@
   {
     "sp": "character",
     "en": "epsilon",
-    "zh": "伊普西龙",
-    "in": "所属作品: 想要成为影之实力者(kage no jitsuryokusha ni naritakute)\n\n暗影庭园「七影」的第五席。具有魔力操作天赋的精灵。另一方面，对自己的小孩体型感到自卑，使用史莱姆战斗装束来掩饰自己的身材。\n.."
+    "zh": "艾普西隆",
+    "in": "所属作品: 想要成为影之实力者(kage no jitsuryokusha ni naritakute)"
   },
   {
     "sp": "character",
     "en": "cid kagenou",
-    "zh": "暗影",
-    "in": "所属作品: 想要成为影之实力者(kage no jitsuryokusha ni naritakute)\n\n希德·卡盖诺/暗影（シド・カゲノー／シャドウ）\n憧憬「影之实力者」、追求力量的转生少年。表面上是乡下贵族卡盖诺男爵家的二男，在米德加尔魔剑士学园享受着“龙套”生活，但背地里却作为影之组织「暗影庭园」的盟主暗影，与「黑暗教团」对峙着（以这样的设定遨游）。"
+    "zh": "希德·卡盖诺（暗影）",
+    "in": "所属作品: 想要成为影之实力者(kage no jitsuryokusha ni naritakute)"
   },
   {
     "sp": "character",
     "en": "eta",
     "zh": "伊塔",
-    "in": "所属作品: 想要成为影之实力者(kage no jitsuryokusha ni naritakute)\n\n暗影庭园「七影」的第七席。负责研究的精灵。拥有出色的技术，作为建筑师也很优秀，但是为人我行我素，一旦睡着就很难起来，睡相也很差，睡着会滚来滚去。"
+    "in": "所属作品: 想要成为影之实力者(kage no jitsuryokusha ni naritakute)"
   },
   {
     "sp": "character",
@@ -54434,8 +54590,8 @@
   {
     "sp": "character",
     "en": "jin-ah sung",
-    "zh": "程肖雅丨水筱葵",
-    "in": "所属作品：我独自升级(solo leveling)"
+    "zh": "程肖雅",
+    "in": "别译：水筱葵\n所属作品：我独自升级(solo leveling)"
   },
   {
     "sp": "character",
@@ -54495,7 +54651,7 @@
     "sp": "character",
     "en": "froleytia capistrano",
     "zh": "芙萝蕾缇雅·卡彼斯特拉诺",
-    "in": "出自作品：重装武器(heavy object)\n\n“正统王国”第37机动修护大队所属少佐。"
+    "in": "出自作品：重装武器(heavy object)"
   },
   {
     "sp": "character",
@@ -54813,7 +54969,7 @@
     "sp": "character",
     "en": "yukime",
     "zh": "雪女",
-    "in": "雪女是日本轻小说《想要成为影之实力者！》及其衍生动画中登场的主要角色，作为妖狐族女性兽人展现九尾形态特征。她以\"纯白之塔\"统治者的身份执掌无法都市的欢乐街，性格随和但言语尖锐，具有超越常人的战斗天赋。该角色在动画第二季（2025年6月21日首播）中由日本知名声优伊藤静配音，与主角希德·卡盖诺率领的暗影庭园存在剧情关联。"
+    "in": "所属作品: 想要成为影之实力者(kage no jitsuryokusha ni naritakute)"
   },
   {
     "sp": "character",
@@ -54855,7 +55011,7 @@
     "sp": "character",
     "en": "yume irido",
     "zh": "伊理户结女",
-    "in": ""
+    "in": "出自作品:继母的拖油瓶是我的前女友(mamahaha no tsurego ga motokano datta)"
   },
   {
     "sp": "character",
@@ -54897,7 +55053,7 @@
     "sp": "character",
     "en": "banri shiunji",
     "zh": "紫云寺万里",
-    "in": "所属作品:紫云寺家的兄弟姐妹(shiunji-ke no kodomotachi)\n紫云寺家的长女，18 岁的大学一年级学生。\n她正在一所名牌大学学习护理学。 她在姐妹中特别以美丽著称，温柔温柔的性格深受年长和年轻人的欢迎。"
+    "in": "所属作品:紫云寺家的兄弟姐妹(shiunji-ke no kodomotachi)"
   },
   {
     "sp": "character",
@@ -55017,7 +55173,7 @@
     "sp": "character",
     "en": "phrolova",
     "zh": "弗洛洛",
-    "in": "所属作品：鸣潮(wuthering waves)\n游走于生死之间的残星会会监，神秘而危险的指挥家……\n她沉默地挥舞指挥棒，手中调律频率演奏出的“灵魂”旋律，既可塑造美好的世界，也可唤来千军万马。"
+    "in": "所属作品：鸣潮(wuthering waves)"
   },
   {
     "sp": "character",
@@ -55575,7 +55731,7 @@
     "sp": "character",
     "en": "yuuki wakura",
     "zh": "和仓优希",
-    "in": "所属作品：魔都精兵的奴隶(mato seihei no slave)\n因魔都灾害被转移至魔都，遭丑鬼袭击时被京香解救，通过“无穷之锁”契约成为其“奴隶”加入魔防队。"
+    "in": "所属作品：魔都精兵的奴隶(mato seihei no slave)"
   },
   {
     "sp": "character",
@@ -55611,7 +55767,7 @@
     "sp": "character",
     "en": "iuno",
     "zh": "尤诺",
-    "in": "所属作品：鸣潮(wuthering waves)\n她被命运以怎样的名义青睐，就被命运以怎样的方式裹挟。但她从未被打败，也不肯罢休。"
+    "in": "所属作品：鸣潮(wuthering waves)"
   },
   {
     "sp": "character",
@@ -55707,7 +55863,7 @@
     "sp": "character",
     "en": "danjin",
     "zh": "丹瑾",
-    "in": "所属作品：鸣潮(wuthering waves)\n游侠丹瑾，能将自身血液凝结成绯色的复仇之刃。\n执绯刃，明是非，灭贼寇，走天涯。"
+    "in": "所属作品：鸣潮(wuthering waves)"
   },
   {
     "sp": "character",
@@ -55785,7 +55941,7 @@
     "sp": "character",
     "en": "augusta",
     "zh": "奥古斯塔",
-    "in": "所属作品：鸣潮(wuthering waves)\n七丘的现任总督。长照不灭的烈阳，所向披靡的旗帜。\n她来，她见，她征服。"
+    "in": "所属作品：鸣潮(wuthering waves)"
   },
   {
     "sp": "character",
@@ -55832,26 +55988,26 @@
   {
     "sp": "character",
     "en": "joo-hee lee",
-    "zh": "李晓希 | 观月绘里",
-    "in": "所属作品：我独自升级(solo leveling)\nB级猎人，职业为治疗师，容易被恐惧支配，担心总是在任务中受伤的程肖宇 。"
+    "zh": "李晓希",
+    "in": "别译：观月绘里\n所属作品：我独自升级(solo leveling)"
   },
   {
     "sp": "character",
     "en": "song-yi han",
     "zh": "韩宋伊",
-    "in": "所属作品：我独自升级(solo leveling)\nE级猎人，程肖雅的同班同学。"
+    "in": "所属作品：我独自升级(solo leveling)"
   },
   {
     "sp": "character",
     "en": "gina",
     "zh": "吉娜",
-    "in": "所属作品：我独自升级(solo leveling)\nA级猎人，汉特斯公会成员，魔法攻击型职业。"
+    "in": "所属作品：我独自升级(solo leveling)"
   },
   {
     "sp": "character",
     "en": "jianxin",
     "zh": "鉴心",
-    "in": "所属作品：鸣潮(wuthering waves)\n一生只追求武术极致的道士，实力莫测、抱朴守一的风仪拳传人。拥有将周围环境气韵化为内在，形成涤净力场的能力。"
+    "in": "所属作品：鸣潮(wuthering waves)"
   },
   {
     "sp": "character",
@@ -55863,13 +56019,13 @@
     "sp": "character",
     "en": "ciaccona",
     "zh": "夏空",
-    "in": "所属作品：鸣潮(wuthering waves)\n黎那汐塔的吟游诗人——夏空。她为神明而歌，也为平凡的人类而歌。"
+    "in": "所属作品：鸣潮(wuthering waves)"
   },
   {
     "sp": "character",
     "en": "lupa",
     "zh": "露帕",
-    "in": "所属作品：鸣潮(wuthering waves)\n七丘的角斗士，万众瞩目的明星选手。"
+    "in": "所属作品：鸣潮(wuthering waves)"
   },
   {
     "sp": "character",
@@ -55971,7 +56127,7 @@
     "sp": "character",
     "en": "akari watanabe",
     "zh": "渡边星",
-    "in": "渡边星是由金丸祐基所创作的漫画《夫妇以上，恋人未满。》及其衍生作品的登场角色。"
+    "in": "出自作品:夫妇以上，恋人未满(fuufu ijou koibito miman.)"
   },
   {
     "sp": "character",
@@ -56109,7 +56265,7 @@
     "sp": "character",
     "en": "lauma",
     "zh": "菈乌玛",
-    "in": "所属作品：原神(genshin impact)\n被月光与森林祝福的圣女，一个诞生在「霜月之子」中的希望。"
+    "in": "所属作品：原神(genshin impact)"
   },
   {
     "sp": "character",
@@ -56157,13 +56313,13 @@
     "sp": "character",
     "en": "kei yonagi",
     "zh": "夜凪景",
-    "in": ""
+    "in": "日语：よなぎけい\n出自作品：演员夜凪景 Act-Age(act-age)"
   },
   {
     "sp": "character",
     "en": "chiyoko momoshiro",
     "zh": "百城千世子",
-    "in": ""
+    "in": "日语：ももしろちよこ\n出自作品：演员夜凪景 Act-Age(act-age)"
   },
   {
     "sp": "character",
@@ -56307,7 +56463,7 @@
     "sp": "character",
     "en": "sandrone",
     "zh": "桑多涅",
-    "in": "所属作品：原神(genshin impact)\n隶属至冬国外交使团愚人众，为愚人众十一执行官第七席，代号“木偶”。"
+    "in": "所属作品：原神(genshin impact)"
   },
   {
     "sp": "character",
@@ -56415,7 +56571,7 @@
     "sp": "character",
     "en": "mimori tougou",
     "zh": "东乡美森",
-    "in": "所属作品：结城友奈是勇者(yuuki yuuna wa yuusha de aru)\n因为事故失去了双腿的行动力，需要坐轮椅上学，受到了友奈的照顾。"
+    "in": "所属作品：结城友奈是勇者(yuuki yuuna wa yuusha de aru)"
   },
   {
     "sp": "character",
@@ -56499,7 +56655,7 @@
     "sp": "character",
     "en": "esil radiru",
     "zh": "艾希尔·拉迪鲁",
-    "in": "所属作品：我独自升级(solo leveling)\n恶魔贵族、拉迪鲁家族的长公主。"
+    "in": "所属作品：我独自升级(solo leveling)"
   },
   {
     "sp": "character",
@@ -56619,7 +56775,7 @@
     "sp": "character",
     "en": "shiraori",
     "zh": "白织（蜘蛛子）",
-    "in": "所属作品：转生成蜘蛛又怎样！(kumo desu ga nani ka)\n是翘班中的最上位神D为了瞒过下属的眼睛，将事情合理化而生出来，但意外地成为神的突然变异蜘蛛。"
+    "in": "所属作品：转生成蜘蛛又怎样！(kumo desu ga nani ka)"
   },
   {
     "sp": "character",
@@ -56637,7 +56793,7 @@
     "sp": "character",
     "en": "jin-woo sung",
     "zh": "程肖宇",
-    "in": "所属作品：我独自升级(solo leveling)\n\n曾被称作“人类最弱兵器”，家里有一个妹妹和陷入了嗜睡症的母亲，为了养家糊口，而努力工作。\n在“双重地下城事件”中，一度陷入濒死，也因此获得了“系统”的力量，从此开始了无限升级之路。"
+    "in": "所属作品：我独自升级(solo leveling)"
   },
   {
     "sp": "character",
@@ -56727,7 +56883,7 @@
     "sp": "character",
     "en": "bo-ra lee",
     "zh": "李宝拉",
-    "in": "所属作品：我独自升级(solo leveling)\n\nA级猎人，汉特斯公会成员，魔法辅助型职业。"
+    "in": "所属作品：我独自升级(solo leveling)"
   },
   {
     "sp": "character",
@@ -56943,7 +57099,7 @@
     "sp": "character",
     "en": "akane ryuuzouji",
     "zh": "龙造寺茜",
-    "in": "所属作品：少女骑士物语(walkure romanze)\n\n贵弘的同班同学。\n和美樱是亲密挚友，再加之国籍相同，经常和他们来往。一本正经又争强好胜，稍稍顽固不化。每天都毫不懈怠地鞭策自己，也因此马术相当了得。"
+    "in": "所属作品：少女骑士物语(walkure romanze)"
   },
   {
     "sp": "character",
@@ -57051,7 +57207,7 @@
     "sp": "character",
     "en": "sasha necron",
     "zh": "莎夏·涅库罗",
-    "in": "所属作品：魔王学院的不适任者(maou gakuin no futekigousha)"
+    "in": "日语：サーシャ・ネクロン\n所属作品：魔王学院的不适任者(maou gakuin no futekigousha)"
   },
   {
     "sp": "character",
@@ -57807,7 +57963,7 @@
     "sp": "character",
     "en": "glimmer",
     "zh": "火光",
-    "in": "所属作品：异度神剑3(xenoblade chronicles 3)\n操纵弦杖战斗的阿格努斯士兵。她性格坚定，有时候说话语气会很严厉。"
+    "in": "所属作品：异度神剑3(xenoblade chronicles 3)"
   },
   {
     "sp": "character",
@@ -57849,7 +58005,7 @@
     "sp": "character",
     "en": "vestia zeta",
     "zh": "维斯提亚·泽塔",
-    "in": "维斯提亚·泽塔（英语：Vestia Zeta；日语：ベスティア・ゼータ），是Hololive(hololive)印度尼西亚（hololive ID）三期生虚拟UP主中的一员，于2022年3月24日开始活动。"
+    "in": "日语：ベスティア・ゼータ\n所属社团:Hololive(hololive)"
   },
   {
     "sp": "character",
@@ -58035,7 +58191,7 @@
     "sp": "character",
     "en": "black lilith",
     "zh": "黑莉莉丝 | 黑之莉莉丝",
-    "in": "①黑之莉莉丝\n\n所属作品：战斗员派遣中!(sentouin hakenshimasu)\n秘密结社的大干部。\n————————\n\n②黑莉莉丝\n\n所属作品：最后的起源(last origin)"
+    "in": "①黑之莉莉丝\n\n所属作品：战斗员派遣中!(sentouin hakenshimasu)\n————————\n②黑莉莉丝\n\n所属作品：最后的起源(last origin)"
   },
   {
     "sp": "character",
@@ -58473,7 +58629,7 @@
     "sp": "character",
     "en": "annerose vajra",
     "zh": "安妮洛兹·金刚",
-    "in": "所属作品：钢铁魔女安妮罗杰(koutetsu no majo annerose)"
+    "in": "出自作品:钢铁魔女安妮罗杰(koutetsu no majo annerose)"
   },
   {
     "sp": "character",
@@ -59145,7 +59301,7 @@
     "sp": "character",
     "en": "ayunda risu",
     "zh": "阿芸达·栗丝",
-    "in": "所属社团：hololive"
+    "in": "日语：アユンダ・リス\n所属社团：hololive"
   },
   {
     "sp": "character",
@@ -59588,8 +59744,8 @@
   {
     "sp": "character",
     "en": "tiffania westwood",
-    "zh": "蒂法妮娅",
-    "in": "所属作品：零之使魔(zero no tsukaima)\n日语名：ティファニア"
+    "zh": "蒂法妮亚·韦斯特伍德",
+    "in": "日语名：ティファニア・ウエストウッド\n所属作品：零之使魔(zero no tsukaima)"
   },
   {
     "sp": "character",
@@ -59871,7 +60027,7 @@
     "sp": "character",
     "en": "fuutou shizune",
     "zh": "风东静音",
-    "in": "所属作品：oshioki sweetie(oshioki sweetie)\n风冬しずね"
+    "in": "所属作品：调教甜心(oshioki sweetie)\n风冬しずね"
   },
   {
     "sp": "character",
@@ -59913,7 +60069,7 @@
     "sp": "character",
     "en": "haruko amaya",
     "zh": "天谷春恋",
-    "in": "所属作品：魔剑姬！(maken-ki)\n天日学园2年级A班，统生会副会长，检警部部长兼宿舍长。"
+    "in": "所属作品：魔剑姬！(maken-ki)"
   },
   {
     "sp": "character",
@@ -60026,25 +60182,25 @@
   {
     "sp": "character",
     "en": "mh-4 thetis",
-    "zh": "MH-4忒提斯",
+    "zh": "MH-4 忒提斯",
     "in": "所属作品：最后的起源(last origin)"
   },
   {
     "sp": "character",
     "en": "kunoichi zero",
-    "zh": "女忍 零",
+    "zh": "女忍者零",
     "in": "所属作品：最后的起源(last origin)"
   },
   {
     "sp": "character",
     "en": "may of doom",
-    "zh": "毁灭者 梅",
+    "zh": "毁灭者梅",
     "in": "所属作品：最后的起源(last origin)"
   },
   {
     "sp": "character",
     "en": "scathy",
-    "zh": "斯卡蒂（LO）",
+    "zh": "斯卡蒂（最后的起源）",
     "in": "所属作品：最后的起源(last origin)"
   },
   {
@@ -60074,8 +60230,8 @@
   {
     "sp": "character",
     "en": "elven forest maker",
-    "zh": "霜蛇",
-    "in": ""
+    "zh": "精灵造林者",
+    "in": "出自作品:最后的起源(last origin)"
   },
   {
     "sp": "character",
@@ -60339,7 +60495,7 @@
     "sp": "character",
     "en": "galbrena",
     "zh": "嘉贝莉娜",
-    "in": "所属作品：鸣潮(wuthering waves)\n外表冷峻，杀伐果断，于索拉里斯四处游猎的“猎魔人”，亦是人们口中“永火的恶魔”。"
+    "in": "所属作品：鸣潮(wuthering waves)"
   },
   {
     "sp": "character",
@@ -60915,7 +61071,7 @@
     "sp": "character",
     "en": "sango",
     "zh": "珊瑚",
-    "in": ""
+    "in": "出自作品:犬夜叉(inuyasha)"
   },
   {
     "sp": "character",
@@ -61958,8 +62114,8 @@
   {
     "sp": "character",
     "en": "piper",
-    "zh": "派派·韦尔",
-    "in": "所属作品：绝区零(zenless zone zero)"
+    "zh": "佩佩",
+    "in": "出自作品:荒野乱斗(brawl stars)"
   },
   {
     "sp": "character",
@@ -62907,7 +63063,7 @@
     "sp": "character",
     "en": "lumi",
     "zh": "灯灯",
-    "in": "所属作品：鸣潮(wuthering waves)\n呜呜物流的领航员，运输队的小组长。"
+    "in": "所属作品：鸣潮(wuthering waves)"
   },
   {
     "sp": "character",
@@ -62919,7 +63075,7 @@
     "sp": "character",
     "en": "buling",
     "zh": "卜灵",
-    "in": "所属作品：鸣潮(wuthering waves)\n瑝珑梦州方士，黑海岸客卿，风水大师，论坛冲浪高手。"
+    "in": "所属作品：鸣潮(wuthering waves)"
   },
   {
     "sp": "character",
@@ -63003,25 +63159,25 @@
     "sp": "character",
     "en": "kureha clyret",
     "zh": "克蕾赫·葛莱列特",
-    "in": "所属作品：回复术士的重启人生(kaifuku jutsushi no yarinaoshi)\n出身于世代精通剑术的名门葛莱列特家。吉欧拉尔王国最强的剑士。"
+    "in": "所属作品：回复术士的重启人生(kaifuku jutsushi no yarinaoshi)"
   },
   {
     "sp": "character",
     "en": "norn clatalissa jioral",
     "zh": "诺伦·克菈塔莉莎·吉欧拉尔",
-    "in": "所属作品：回复术士的重启人生(kaifuku jutsushi no yarinaoshi)\n吉欧拉尔王国第二公主。"
+    "in": "所属作品：回复术士的重启人生(kaifuku jutsushi no yarinaoshi)"
   },
   {
     "sp": "character",
     "en": "setsuna",
     "zh": "刹那",
-    "in": "所属作品：回复术士的重启人生(kaifuku jutsushi no yarinaoshi)\n冰狼族的少女，因为和部落的其他伙伴遭到了人类的袭击，被当作奴隶贩卖并遭受了残酷的虐待，所以十分仇恨人类。"
+    "in": "所属作品：回复术士的重启人生(kaifuku jutsushi no yarinaoshi)"
   },
   {
     "sp": "character",
     "en": "keyaru",
     "zh": "凯亚尔",
-    "in": "所属作品：回复术士的重启人生(kaifuku jutsushi no yarinaoshi)\n【愈】之勇者。阶级是回复术士。外号“棍勇”。"
+    "in": "外号“棍勇”\n所属作品：回复术士的重启人生(kaifuku jutsushi no yarinaoshi)"
   },
   {
     "sp": "character",
@@ -63051,7 +63207,7 @@
     "sp": "character",
     "en": "ferris olston",
     "zh": "菲利斯·奥尔斯顿",
-    "in": "所属作品：小智是女孩啦！(tomo-chan wa onnanoko)\n卡洛儿的母亲。\n日文名 フェリス・オルストン"
+    "in": "所属作品：智酱是女生！(tomo-chan wa onnanoko)\n卡洛儿的母亲。\n日文名 フェリス・オルストン"
   },
   {
     "sp": "character",
@@ -63441,7 +63597,7 @@
     "sp": "character",
     "en": "nemu kurotsuchi",
     "zh": "涅音梦",
-    "in": "所属作品：死神(bleach)\n前护廷十三队十二番队副队长，前女性死神协会代理副会长。"
+    "in": "所属作品：死神(bleach)"
   },
   {
     "sp": "character",
@@ -63585,7 +63741,7 @@
     "sp": "character",
     "en": "misaki gundou",
     "zh": "群堂美咲",
-    "in": "所属作品：小智是女孩啦！(tomo-chan wa onnanoko)"
+    "in": "所属作品：智酱是女生！(tomo-chan wa onnanoko)"
   },
   {
     "sp": "character",
@@ -63825,7 +63981,7 @@
     "sp": "character",
     "en": "flamme",
     "zh": "伏拉梅",
-    "in": "所属作品：葬送的芙莉莲(sousou no frieren)\n生活在一千多年前，被称为人类魔法鼻祖的伟大魔法使。"
+    "in": "所属作品：葬送的芙莉莲(sousou no frieren)"
   },
   {
     "sp": "character",
@@ -63902,8 +64058,8 @@
   {
     "sp": "character",
     "en": "henrietta",
-    "zh": "海莉耶塔",
-    "in": "所属作品：欢迎来到流放者食堂(tsuihousha shokudou e youkoso)\n因“只是女人”这个不合理的理由，被逐出队伍的女剑士。"
+    "zh": "荷丽艾塔 | 海莉耶塔",
+    "in": "①荷丽艾塔\n\n日语：ヘンリエッタ\n出自作品:记录的地平线(log horizon)\n——————————\n②海莉耶塔\n\n所属作品：欢迎来到流放者食堂(tsuihousha shokudou e youkoso)"
   },
   {
     "sp": "character",
@@ -63921,7 +64077,7 @@
     "sp": "character",
     "en": "aki nijou",
     "zh": "二条秋",
-    "in": "所属作品：魔剑姬！(maken-ki)\n校医兼保健和美术老师，魔检队顾问，初代魔检队成员之一。\n身高：166cm，三围：103-58-97，罩杯K。"
+    "in": "所属作品：魔剑姬！(maken-ki)"
   },
   {
     "sp": "character",
@@ -63933,7 +64089,7 @@
     "sp": "character",
     "en": "kodama himegami",
     "zh": "姬神木灵",
-    "in": "所属作品：魔剑姬！(maken-ki)\n天日学园2年级A班，检警部成员。"
+    "in": "所属作品：魔剑姬！(maken-ki)"
   },
   {
     "sp": "character",
@@ -63950,8 +64106,8 @@
   {
     "sp": "character",
     "en": "pearl",
-    "zh": "珍珠号",
-    "in": "所属作品：碧蓝航线(azur lane)\n原型为HMS 珍珠号，是皇家海军的一艘42炮五级风帆战舰。"
+    "zh": "真珠 | 珍珠号",
+    "in": "①真珠\n\n出自作品:崩坏：星穹铁道(honkai star rail)\n————————\n②珍珠号\n\n所属作品：碧蓝航线(azur lane)"
   },
   {
     "sp": "character",
@@ -64281,7 +64437,7 @@
     "sp": "character",
     "en": "linie",
     "zh": "莉",
-    "in": "所属作品：葬送的芙莉莲(sousou no frieren)\n阿乌拉麾下的“斩首吏”魔族之一，使用的魔法为模仿魔法。"
+    "in": "所属作品：葬送的芙莉莲(sousou no frieren)"
   },
   {
     "sp": "character",
@@ -66021,7 +66177,7 @@
     "sp": "character",
     "en": "alicia blanche",
     "zh": "车慧怡",
-    "in": "出自作品：我独自升级(solo leveling)\n\n车慧怡是韩国漫画《我独自升级》及其衍生作品中的核心角色，以\"舞姬\"称号闻名于作品中。作为猎人协会高层成员，她在程肖宇觉醒前曾长期保持H国最强猎人的地位。该角色在漫画正篇及手游《我独自升级:起立》中均有重要戏份，与主角程肖宇存在深度羁绊关系。"
+    "in": "出自作品：我独自升级(solo leveling)"
   },
   {
     "sp": "character",
@@ -67935,7 +68091,7 @@
     "sp": "character",
     "en": "akemi aizawa",
     "zh": "相泽明美",
-    "in": "所属作品:小智是女孩啦！(tomo-chan wa onnanoko)\n是相泽智(tomo aizawa)的母亲"
+    "in": "所属作品:智酱是女生！(tomo-chan wa onnanoko)\n是相泽智(tomo aizawa)的母亲"
   },
   {
     "sp": "character",
@@ -68817,7 +68973,7 @@
     "sp": "character",
     "en": "ririko futamihara",
     "zh": "二见原莉莉子",
-    "in": "所属作品：沁光柠檬即兴曲(limelight lemonade jam)\n日语：二見原 莉々子"
+    "in": "日语：二見原 莉々子\n所属作品：沁光柠檬即兴曲(limelight lemonade jam)"
   },
   {
     "sp": "character",
@@ -68901,7 +69057,7 @@
     "sp": "character",
     "en": "estella",
     "zh": "埃特拉",
-    "in": "埃特拉，本名埃特拉·科尔，是游戏《明日方舟：终末地》及其衍生作品的登场角色\n终末地Z7行动组成员，负责情报收集和通信任务，体力很差。埃特拉总是被不幸所环绕，时不时会语出惊人。她因为自身感官的迟钝反而有一些刺激性的爱好。理想是安稳地度过一生。"
+    "in": "出自作品:明日方舟：终末地(arknights endfield)"
   },
   {
     "sp": "character",
@@ -69177,7 +69333,7 @@
     "sp": "character",
     "en": "eve reese",
     "zh": "夏娃·莉丝",
-    "in": "出自作品：回复术士的重启人生(kaifuku jutsushi no yarinaoshi)\n\n夏娃·莉丝，轻小说《回复术士的重启人生》及其衍生作品中的角色。黑翼族公主兼魔王候选人，拥有深红色眼瞳与黑色翅膀，发色与一周目魔王存在差异。"
+    "in": "出自作品：回复术士的重启人生(kaifuku jutsushi no yarinaoshi)"
   },
   {
     "sp": "character",
@@ -70677,7 +70833,7 @@
     "sp": "character",
     "en": "draco malfoy",
     "zh": "德拉科·马尔福",
-    "in": "小说《哈利·波特》系列中的角色"
+    "in": "出自作品:哈利·波特(harry potter)"
   },
   {
     "sp": "character",
@@ -70749,7 +70905,7 @@
     "sp": "character",
     "en": "cissia",
     "zh": "希希芙",
-    "in": "所属作品：绝区零(zenless zone zero)\nS级电属性强攻角色。"
+    "in": "所属作品：绝区零(zenless zone zero)"
   },
   {
     "sp": "character",
@@ -72951,7 +73107,7 @@
     "sp": "character",
     "en": "sanae ryuuzouji",
     "zh": "龙造寺早苗",
-    "in": "所属作品：少女骑士物语(walkure romanze)\n日语：龍造寺 早苗"
+    "in": "日语：龍造寺 早苗\n所属作品：少女骑士物语(walkure romanze)"
   },
   {
     "sp": "character",
@@ -73869,7 +74025,7 @@
     "sp": "character",
     "en": "flare corona",
     "zh": "芙蕾雅·珂罗娜",
-    "in": "所属作品：妖精的尾巴(fairy tail)\n日语：フレア・コロナ"
+    "in": "日语：フレア・コロナ\n所属作品：妖精的尾巴(fairy tail)"
   },
   {
     "sp": "character",
@@ -74541,7 +74697,7 @@
     "sp": "character",
     "en": "kobo kanaeru",
     "zh": "可波·卡娜埃露",
-    "in": "所属社团：Hololive(hololive)\n日语：こぼ・かなえる"
+    "in": "日语：こぼ・かなえる\n所属社团：Hololive(hololive)"
   },
   {
     "sp": "character",
@@ -74553,7 +74709,7 @@
     "sp": "character",
     "en": "pavolia reine",
     "zh": "帕沃莉亚·蕾内",
-    "in": "所属社团:Hololive(hololive)\n日语：パヴォリア・レイネ"
+    "in": "日语：パヴォリア・レイネ\n所属社团:Hololive(hololive)"
   },
   {
     "sp": "character",
@@ -74769,7 +74925,7 @@
     "sp": "character",
     "en": "anya melfissa",
     "zh": "阿妮娅·梅尔菲莎",
-    "in": "阿妮娅·梅尔菲莎（英语：Anya Melfissa，日语：アーニャ・メルフィッサ），是hololive所属的一位印尼语虚拟主播，于2020年12月5日出道。\n\n人物概述\n阿妮娅·梅尔菲莎是Hololive ID的成员。人物设定是一个名为“KERIS”的古代兵器，一种马来群岛各民族使用的一种独特的短剑。角色设定是被主人进行了神秘仪式而获得了人类的身体，碰到喜欢的话题则会像孩子一般的热情。\n\n阿妮娅·梅尔菲莎的角色设计者为上倉エク。直播内容以游戏、杂谈、歌唱为主。"
+    "in": "日语：アーニャ・メルフィッサ\n所属社团:Hololive(hololive)"
   },
   {
     "sp": "character",
@@ -75344,8 +75500,8 @@
   {
     "sp": "character",
     "en": "katarina",
-    "zh": "卡特琳娜（不祥之刃）",
-    "in": "出自作品:英雄联盟(league of legends)"
+    "zh": "Katarina",
+    "in": ""
   },
   {
     "sp": "character",
@@ -76880,8 +77036,8 @@
   {
     "sp": "character",
     "en": "tsaritsa",
-    "zh": "安娜丝塔夏·费奥多罗夫娜·雪奈茨娜娅",
-    "in": "出自作品:原神(genshin impact)"
+    "zh": "至冬女皇",
+    "in": "全名：安娜丝塔夏·费奥多罗夫娜·雪奈茨娜娅\n出自作品:原神(genshin impact)"
   },
   {
     "sp": "character",
@@ -77691,13 +77847,1231 @@
     "sp": "character",
     "en": "himeko kurusugawa",
     "zh": "来栖川姫子",
-    "in": ""
+    "in": "出自作品:神无月的巫女(kannazuki no miko)"
   },
   {
     "sp": "character",
     "en": "chikane himemiya",
-    "zh": "姫宮千歌音",
+    "zh": "姫宫千歌音",
+    "in": "出自作品:神无月的巫女(kannazuki no miko)"
+  },
+  {
+    "sp": "character",
+    "en": "altair",
+    "zh": "阿尔泰尔",
+    "in": "日语：アルタイル\n出自作品:Re:CREATORS(re creators)"
+  },
+  {
+    "sp": "character",
+    "en": "alicetaria february",
+    "zh": "爱丽丝特利亚·费布拉里",
+    "in": "日语：アリステリア・フェブラリィ\n出自作品:Re:CREATORS(re creators)"
+  },
+  {
+    "sp": "character",
+    "en": "meteora osterreich",
+    "zh": "梅特欧菈·艾斯塔莱希",
+    "in": "日语：メテオラ・エスターライヒ\n出自作品:Re:CREATORS(re creators)"
+  },
+  {
+    "sp": "character",
+    "en": "selesia upitiria",
+    "zh": "瑟蕾吉娅·尤匹提莉亚",
+    "in": "日语：セレジア・ユピティリア\n出自作品:Re:CREATORS(re creators)"
+  },
+  {
+    "sp": "character",
+    "en": "mamika kirameki",
+    "zh": "煌树茉美香",
+    "in": "日语：煌樹まみか\n出自作品:Re:CREATORS(re creators)"
+  },
+  {
+    "sp": "character",
+    "en": "aki kikuchihara",
+    "zh": "菊地原亚希",
+    "in": "出自作品:Re:CREATORS(re creators)"
+  },
+  {
+    "sp": "character",
+    "en": "shiori shinomiya",
+    "zh": "四之宫栞",
+    "in": "日语：四ノ宮しおり\n出自作品:樱花任务(sakura quest)"
+  },
+  {
+    "sp": "character",
+    "en": "yoshino koharu",
+    "zh": "木春由乃",
+    "in": "出自作品:樱花任务(sakura quest)"
+  },
+  {
+    "sp": "character",
+    "en": "magane chikujouin",
+    "zh": "筑城院真鉴",
+    "in": "出自作品:Re:CREATORS(re creators)"
+  },
+  {
+    "sp": "character",
+    "en": "hikayu hoshikawa",
+    "zh": "星河绯可由",
+    "in": "日语：星河ひかゆ\n出自作品:Re:CREATORS(re creators)"
+  },
+  {
+    "sp": "character",
+    "en": "piper wright",
+    "zh": "派普·莱特",
+    "in": "出自作品:辐射(fallout)4"
+  },
+  {
+    "sp": "character",
+    "en": "kaela kovalskia",
+    "zh": "卡埃拉·科瓦尔斯基娅",
+    "in": "日语：カエラ・コヴァルスキア\n所属团体:Hololive(hololive)"
+  },
+  {
+    "sp": "character",
+    "en": "airani iofifteen",
+    "zh": "艾拉妮・伊欧菲芙婷",
+    "in": "日语：アイラニ・イオフィフティーン\n所属社团:Hololive(hololive)"
+  },
+  {
+    "sp": "character",
+    "en": "kureiji ollie",
+    "zh": "克蕾西·奥莉",
+    "in": "日语：クレイジー・オリー\n所属社团:Hololive(hololive)"
+  },
+  {
+    "sp": "character",
+    "en": "kei amane",
+    "zh": "天音庆",
+    "in": "日语: 天音慶 / あまねけい\n出自作品：哪里有温柔对待阿宅的辣妹！?(otaku ni yasashii gal wa inai)"
+  },
+  {
+    "sp": "character",
+    "en": "princess aeolian",
+    "zh": "风玲公主",
+    "in": "出自作品:鬼刀(ghostblade)"
+  },
+  {
+    "sp": "character",
+    "en": "anti-mage",
+    "zh": "敌法师",
+    "in": "出自作品:刀塔(defense of the ancients)"
+  },
+  {
+    "sp": "character",
+    "en": "carrot",
+    "zh": "加洛特",
+    "in": "出自作品:海贼王(one piece)"
+  },
+  {
+    "sp": "character",
+    "en": "pekoms",
+    "zh": "波克慕斯",
+    "in": "出自作品:海贼王(one piece)"
+  },
+  {
+    "sp": "character",
+    "en": "kumizoko",
+    "zh": "Kumizoko",
     "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "elle algaf",
+    "zh": "艾尔·阿尔加芙",
+    "in": "出自作品:世界计划(project sekai)"
+  },
+  {
+    "sp": "character",
+    "en": "buro",
+    "zh": "布若",
+    "in": "出自作品:喵斯快跑(muse dash)"
+  },
+  {
+    "sp": "character",
+    "en": "eimi isami",
+    "zh": "勇艾米",
+    "in": "日语：勇エイミ\n所属社团：Phase-Connect"
+  },
+  {
+    "sp": "character",
+    "en": "marija",
+    "zh": "玛莉嘉",
+    "in": "出自作品:喵斯快跑(muse dash)"
+  },
+  {
+    "sp": "character",
+    "en": "vicksburg",
+    "zh": "维克斯堡",
+    "in": "出自作品:碧蓝航线(azur lane)"
+  },
+  {
+    "sp": "character",
+    "en": "bibi biscuit",
+    "zh": "比比·比斯凯特",
+    "in": "日语：ビビ・ビスキット\n所属团体：Phase-Connect"
+  },
+  {
+    "sp": "character",
+    "en": "otodama tamako",
+    "zh": "音灵魂子",
+    "in": "所属企划：青桐高校"
+  },
+  {
+    "sp": "character",
+    "en": "rana furuhata",
+    "zh": "古畑兰娜",
+    "in": "日语：古畑ラナ\n出自作品:蔚蓝档案(blue archive)"
+  },
+  {
+    "sp": "character",
+    "en": "nemu fujimi",
+    "zh": "富士见宁梦",
+    "in": "出自作品:别当欧尼酱了！(onii-chan wa oshimai)"
+  },
+  {
+    "sp": "character",
+    "en": "oshiro mashiro",
+    "zh": "大代真白",
+    "in": "所属企划：青桐高中"
+  },
+  {
+    "sp": "character",
+    "en": "kurumi fukuga",
+    "zh": "福贺久留美",
+    "in": "日语：福賀くるみ\n外号：韭留美"
+  },
+  {
+    "sp": "character",
+    "en": "charlotte lace",
+    "zh": "夏洛特·莱斯",
+    "in": "日语：シャーロット・レイス\n出自作品:转生贵族凭鉴定技能扭转人生(tensei kizoku kantei skill de nariagaru)"
+  },
+  {
+    "sp": "character",
+    "en": "leanan sidhe",
+    "zh": "莲南·希",
+    "in": "日语：リャナン・シー/レッドカラント\n出自作品:魔法使的新娘(mahoutsukai no yome)"
+  },
+  {
+    "sp": "character",
+    "en": "chise hatori",
+    "zh": "羽鸟智世",
+    "in": "日语：羽鳥チセ\n出自作品:魔法使的新娘(mahoutsukai no yome)"
+  },
+  {
+    "sp": "character",
+    "en": "nao",
+    "zh": "娜儿",
+    "in": "出自作品:洛奇(mabinogi)"
+  },
+  {
+    "sp": "character",
+    "en": "meteor hanaori",
+    "zh": "花织米蒂娅",
+    "in": "日语：花織ミーティア\n出自作品:花织即使是转生也想打架(hanaori-san wa tensei shite mo kenka ga shitai)"
+  },
+  {
+    "sp": "character",
+    "en": "misa ilioroagu",
+    "zh": "米莎·伊里欧洛古",
+    "in": "日语：ミサ・イリオローグ\n出自作品:魔王学院的不适任者(maou gakuin no futekigousha)"
+  },
+  {
+    "sp": "character",
+    "en": "emilia ludowell",
+    "zh": "艾米莉亚·路德威尔",
+    "in": "日语：エミリア・ルードウェル\n出自作品:魔王学院的不适任者(maou gakuin no futekigousha)"
+  },
+  {
+    "sp": "character",
+    "en": "treyni",
+    "zh": "托蕾妮",
+    "in": "日语：トレイニー\n出自作品:关于我转生变成史莱姆这档事(tensei shitara slime datta ken)"
+  },
+  {
+    "sp": "character",
+    "en": "rayneshia el-arte corwen",
+    "zh": "蕾妮希雅·耶鲁艾特·柯文",
+    "in": "日语：レイネシア＝エルアルテ＝コーウェン\n出自作品:记录的地平线(log horizon)"
+  },
+  {
+    "sp": "character",
+    "en": "krusty",
+    "zh": "克拉斯提（鸿池晴秋）",
+    "in": "日语：クラスティ\n出自作品:记录的地平线(log horizon)"
+  },
+  {
+    "sp": "character",
+    "en": "marielle",
+    "zh": "玛莉艾儿（坂本鞠绘）",
+    "in": "日语：マリエール\n出自作品:记录的地平线(log horizon)"
+  },
+  {
+    "sp": "character",
+    "en": "shiroe",
+    "zh": "城惠（城钟惠）",
+    "in": "日语：シロエ\n外号：腹黑眼镜\n出自作品:记录的地平线(log horizon)"
+  },
+  {
+    "sp": "character",
+    "en": "cardin winchester",
+    "zh": "卡登·温彻斯特‌",
+    "in": "出自作品:RWBY(rwby)"
+  },
+  {
+    "sp": "character",
+    "en": "arisu terui",
+    "zh": "照井有栖",
+    "in": "日语：照井ありす\n出自作品:脑洞学生会(seitokai ni mo ana wa aru)"
+  },
+  {
+    "sp": "character",
+    "en": "fukuma",
+    "zh": "伏摩",
+    "in": "出自作品:魔都精兵的奴隶(mato seihei no slave)"
+  },
+  {
+    "sp": "character",
+    "en": "senta yamada asaemon",
+    "zh": "山田浅卫门仙汰",
+    "in": "出自作品:地狱乐(jigokuraku)"
+  },
+  {
+    "sp": "character",
+    "en": "anju nabari",
+    "zh": "隐杏珠",
+    "in": "出自作品:沁光柠檬即兴曲(limelight lemonade jam)"
+  },
+  {
+    "sp": "character",
+    "en": "girlfriend",
+    "zh": "女朋友",
+    "in": "出自作品:周五夜放克(friday night funkin)"
+  },
+  {
+    "sp": "character",
+    "en": "minori rokujou",
+    "zh": "六条实",
+    "in": "日语：六条実\n出自作品:魔剑姬！(maken-ki)"
+  },
+  {
+    "sp": "character",
+    "en": "love espada",
+    "zh": "艾斯帕妲·拉芙",
+    "in": "日语：エスパダ・ラブ\n出自作品:魔剑姬！(maken-ki)"
+  },
+  {
+    "sp": "character",
+    "en": "mireille grangeon",
+    "zh": "米蕾耶·格兰吉恩",
+    "in": "日语：ミレーユ・グランジオン\n出自作品:转生贵族凭鉴定技能扭转人生(tensei kizoku kantei skill de nariagaru)"
+  },
+  {
+    "sp": "character",
+    "en": "kaede sakura",
+    "zh": "沙仓枫",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "ultima",
+    "zh": "乌尔缇玛",
+    "in": "出自作品:关于我转生变成史莱姆这档事(tensei shitara slime datta ken)"
+  },
+  {
+    "sp": "character",
+    "en": "rea himuro",
+    "zh": "冰室玲爱",
+    "in": "出自作品:神怒之日(dies irae)"
+  },
+  {
+    "sp": "character",
+    "en": "bailu youyun",
+    "zh": "白鹿游云",
+    "in": "出自作品:崩坏学园(honkai gakuen)"
+  },
+  {
+    "sp": "character",
+    "en": "george weasley",
+    "zh": "乔治·韦斯莱",
+    "in": "出自作品:哈利·波特(harry potter)"
+  },
+  {
+    "sp": "character",
+    "en": "fred weasley",
+    "zh": "弗雷德·韦斯莱",
+    "in": "出自作品:哈利·波特(harry potter)"
+  },
+  {
+    "sp": "character",
+    "en": "haruto zenfis",
+    "zh": "哈特·泽菲斯",
+    "in": "日语：ハルト・ゼンフィス\n出自作品:其实我是最强的？(jitsu wa ore saikyou deshita)"
+  },
+  {
+    "sp": "character",
+    "en": "haruki nikaido",
+    "zh": "二阶堂春希",
+    "in": "出自作品:转学后班上的清纯可爱美少女(tenkou-saki no seiso karen na bishoujo)"
+  },
+  {
+    "sp": "character",
+    "en": "mrs. miss",
+    "zh": "Mrs. Miss",
+    "in": "出自作品:胜利女神：妮姬(goddess of victory nikke)"
+  },
+  {
+    "sp": "character",
+    "en": "dolltaki",
+    "zh": "多鲁塔基",
+    "in": "日语：ドルタッキー\n出自作品:龙珠GT(dragon ball gt)"
+  },
+  {
+    "sp": "character",
+    "en": "nagisa natsunagi",
+    "zh": "夏凪渚",
+    "in": "出自作品:侦探已死(tantei wa mou shindeiru.)"
+  },
+  {
+    "sp": "character",
+    "en": "saki kindaichi",
+    "zh": "金田一咲希",
+    "in": "出自作品:雨夜明月(amayo no tsuki)"
+  },
+  {
+    "sp": "character",
+    "en": "kanon oikawa",
+    "zh": "及川奏音",
+    "in": "出自作品:雨夜明月(amayo no tsuki)"
+  },
+  {
+    "sp": "character",
+    "en": "byerley turk",
+    "zh": "拜耶尔土耳其",
+    "in": "出自作品:赛马娘(uma musume pretty derby)"
+  },
+  {
+    "sp": "character",
+    "en": "godolphin barb",
+    "zh": "高多芬阿拉伯",
+    "in": "出自作品:赛马娘(uma musume pretty derby)"
+  },
+  {
+    "sp": "character",
+    "en": "mei satake",
+    "zh": "佐岳芽衣",
+    "in": "日语：佐岳メイ\n出自作品:赛马娘(uma musume pretty derby)"
+  },
+  {
+    "sp": "character",
+    "en": "sonon elfie",
+    "zh": "索农艾尔菲",
+    "in": "出自作品:赛马娘(uma musume pretty derby)"
+  },
+  {
+    "sp": "character",
+    "en": "ragnarok sinmara",
+    "zh": "拉格纳洛克·辛莫拉",
+    "in": "日语：ラグナロク＝シンモラ\n出自作品:对魔忍RPG(taimanin rpg)"
+  },
+  {
+    "sp": "character",
+    "en": "anastasia severskaya",
+    "zh": "安娜塔西亚·谢韦尔斯卡娅",
+    "in": "出自作品:皇牌空战(ace combat)"
+  },
+  {
+    "sp": "character",
+    "en": "anzel",
+    "zh": "安杰尔",
+    "in": "出自作品:乱世千金倪亚‧利斯顿(kyouran reijou nia liston)"
+  },
+  {
+    "sp": "character",
+    "en": "guo jia",
+    "zh": "郭嘉",
+    "in": "三国时期历史人物。"
+  },
+  {
+    "sp": "character",
+    "en": "ziluan",
+    "zh": "紫岚",
+    "in": "出自作品:真·三国无双(dynasty warriors)"
+  },
+  {
+    "sp": "character",
+    "en": "sakurako busujima",
+    "zh": "毒岛樱子",
+    "in": "出自作品:碧蓝之海(grand blue)"
+  },
+  {
+    "sp": "character",
+    "en": "kaho hariya",
+    "zh": "针谷佳穗",
+    "in": "出自作品:吹响！上低音号(hibike euphonium)"
+  },
+  {
+    "sp": "character",
+    "en": "sari yoshii",
+    "zh": "义井沙里",
+    "in": "出自作品:吹响！上低音号(hibike euphonium)"
+  },
+  {
+    "sp": "character",
+    "en": "ali maud",
+    "zh": "莫德·亚里",
+    "in": "日语：モード・アリ\n出自作品:与你相恋到生命尽头(kimi ga shinu made koi wo shitai)"
+  },
+  {
+    "sp": "character",
+    "en": "seiran lizzy",
+    "zh": "黎吉·星兰",
+    "in": "日语：リジィ・セイラン\n出自作品:与你相恋到生命尽头(kimi ga shinu made koi wo shitai)"
+  },
+  {
+    "sp": "character",
+    "en": "sakuna memoir",
+    "zh": "朔奈·梅墨瓦鲁",
+    "in": "日语 :サクナ・メモワール\n出自作品:家里蹲吸血姬的苦闷(hikikomari kyuuketsuki no monmon)"
+  },
+  {
+    "sp": "character",
+    "en": "abbey bominable",
+    "zh": "艾比·波米诺卜",
+    "in": "出自作品:精灵高中(monster high)"
+  },
+  {
+    "sp": "character",
+    "en": "benedikta harman",
+    "zh": "‌贝妮迪妲·赫曼",
+    "in": "出自作品:最终幻想16(final fantasy xvi)"
+  },
+  {
+    "sp": "character",
+    "en": "kyomoto",
+    "zh": "京本奏",
+    "in": "出自作品:蓦然回首(look back)"
+  },
+  {
+    "sp": "character",
+    "en": "aria aquarius",
+    "zh": "亚莉亚·阿克艾利亚斯",
+    "in": "日语：アリア・アクエリアス\n出自作品:黑猫与魔女的教室(kuroneko to majo no kyoushitsu)"
+  },
+  {
+    "sp": "character",
+    "en": "jyushi aimono",
+    "zh": "四十物十四",
+    "in": "出自作品:催眠麦克风(hypnosis mic)"
+  },
+  {
+    "sp": "character",
+    "en": "kuko harai",
+    "zh": "波罗夷空却",
+    "in": "出自作品:催眠麦克风(hypnosis mic)"
+  },
+  {
+    "sp": "character",
+    "en": "nue",
+    "zh": "鵺",
+    "in": "出自作品:鵺之阴阳师(nue no onmyouji)"
+  },
+  {
+    "sp": "character",
+    "en": "kazusa suou",
+    "zh": "周防七咲",
+    "in": "出自作品:鵺之阴阳师(nue no onmyouji)"
+  },
+  {
+    "sp": "character",
+    "en": "makoto tsujita",
+    "zh": "辻田诚乙",
+    "in": "日语：辻田誠乙\n出自作品:鵺之阴阳师(nue no onmyouji)"
+  },
+  {
+    "sp": "character",
+    "en": "natsuki kuniruri",
+    "zh": "国瑠璃拿月",
+    "in": "出自作品:鵺之阴阳师(nue no onmyouji)"
+  },
+  {
+    "sp": "character",
+    "en": "ishu aramine",
+    "zh": "新峰维朱",
+    "in": "日语：新峰維朱\n出自作品:鵺之阴阳师(nue no onmyouji)"
+  },
+  {
+    "sp": "character",
+    "en": "reina machida",
+    "zh": "町田莉那",
+    "in": "出自作品:鵺之阴阳师(nue no onmyouji)"
+  },
+  {
+    "sp": "character",
+    "en": "shitotsu tomesode",
+    "zh": "留袖四衲",
+    "in": "出自作品:鵺之阴阳师(nue no onmyouji)"
+  },
+  {
+    "sp": "character",
+    "en": "shiroha fujino",
+    "zh": "藤乃代叶",
+    "in": "出自作品:鵺之阴阳师(nue no onmyouji)"
+  },
+  {
+    "sp": "character",
+    "en": "kathy",
+    "zh": "凯西",
+    "in": "日语：キャシー\n出自作品:鵺之阴阳师(nue no onmyouji)"
+  },
+  {
+    "sp": "character",
+    "en": "satomi hiratsuka",
+    "zh": "平冢敏深",
+    "in": "出自作品:脑洞学生会(seitokai ni mo ana wa aru)"
+  },
+  {
+    "sp": "character",
+    "en": "bartolomeo colleoni",
+    "zh": "巴托洛梅奥· 科莱奥尼",
+    "in": "出自作品:碧蓝航线(azur lane)"
+  },
+  {
+    "sp": "character",
+    "en": "gallant",
+    "zh": "勇气",
+    "in": "出自作品:碧蓝航线(azur lane)"
+  },
+  {
+    "sp": "character",
+    "en": "kazan",
+    "zh": "喀山",
+    "in": "出自作品:碧蓝航线(azur lane)"
+  },
+  {
+    "sp": "character",
+    "en": "duguay-trouin",
+    "zh": "迪盖·特鲁因",
+    "in": "出自作品:碧蓝航线(azur lane)"
+  },
+  {
+    "sp": "character",
+    "en": "nayoro",
+    "zh": "貀",
+    "in": "出自作品:碧蓝航线(azur lane)"
+  },
+  {
+    "sp": "character",
+    "en": "bayard",
+    "zh": "贝亚德",
+    "in": "出自作品:碧蓝航线(azur lane)"
+  },
+  {
+    "sp": "character",
+    "en": "kansas",
+    "zh": "堪萨斯",
+    "in": "出自作品:碧蓝航线(azur lane)"
+  },
+  {
+    "sp": "character",
+    "en": "cassin",
+    "zh": "卡辛",
+    "in": "出自作品:碧蓝航线(azur lane)"
+  },
+  {
+    "sp": "character",
+    "en": "hai chou",
+    "zh": "海筹",
+    "in": "出自作品:碧蓝航线(azur lane)"
+  },
+  {
+    "sp": "character",
+    "en": "gotz von berlichingen",
+    "zh": "戈达·冯·贝格海姆",
+    "in": "出自作品:碧蓝航线(azur lane)"
+  },
+  {
+    "sp": "character",
+    "en": "asmoday",
+    "zh": "阿斯莫代",
+    "in": "出自作品:原神(genshin impact)"
+  },
+  {
+    "sp": "character",
+    "en": "phoenix reffaella",
+    "zh": "菲欧妮·蕾法爱菈‌",
+    "in": "出自作品:绝区零(zenless zone zero)"
+  },
+  {
+    "sp": "character",
+    "en": "lane aim",
+    "zh": "雷恩·艾姆",
+    "in": "出自作品:机动战士高达 闪光的哈萨维(mobile suit gundam hathaways flash)"
+  },
+  {
+    "sp": "character",
+    "en": "hyakuto kyoko",
+    "zh": "百灯响子",
+    "in": "日语：百灯キョーコ\n所属社团:Hololive(hololive)"
+  },
+  {
+    "sp": "character",
+    "en": "biko pegasus",
+    "zh": "微光飞驹",
+    "in": "出自作品:赛马娘(uma musume pretty derby)"
+  },
+  {
+    "sp": "character",
+    "en": "kiseki",
+    "zh": "富士奇石",
+    "in": "出自作品:赛马娘(uma musume pretty derby)"
+  },
+  {
+    "sp": "character",
+    "en": "rusalka schwagelin",
+    "zh": "鲁萨尔卡·修薇格林",
+    "in": "日语：ルサルカ・シュヴェーゲリン\n出自作品:神怒之日(dies irae)"
+  },
+  {
+    "sp": "character",
+    "en": "beatrice waltrud von kircheisen",
+    "zh": "贝雅托莉丝·基尔希爱森",
+    "in": "日语：ベアトリス・ヴァルトルート・フォン・キルヒアイゼン\n出自作品:神怒之日(dies irae)"
+  },
+  {
+    "sp": "character",
+    "en": "komaro michinoku",
+    "zh": "陆奥小麻吕",
+    "in": "日语：陸奥こまろ\n出自作品:脑洞学生会(seitokai ni mo ana wa aru)"
+  },
+  {
+    "sp": "character",
+    "en": "phalaenopsis",
+    "zh": "蝴蝶兰",
+    "in": "出自作品:赛马娘(uma musume pretty derby)"
+  },
+  {
+    "sp": "character",
+    "en": "shisei houjou",
+    "zh": "北条糸青",
+    "in": "出自作品:‌我和班上最讨厌的女生结婚了(class no daikirai na joshi to kekkon suru koto ni natta.)"
+  },
+  {
+    "sp": "character",
+    "en": "lise hohenstein",
+    "zh": "丽兹·霍恩斯坦因",
+    "in": "日语：リィズ・ホーエンシュタイン\n出自作品:黑之宣告(schwarzesmarken)"
+  },
+  {
+    "sp": "character",
+    "en": "si",
+    "zh": "祀",
+    "in": "外号“”小葱\n出自作品:明日方舟：终末地(arknights endfield)"
+  },
+  {
+    "sp": "character",
+    "en": "akekuri",
+    "zh": "秋栗",
+    "in": "出自作品:明日方舟：终末地(arknights endfield)"
+  },
+  {
+    "sp": "character",
+    "en": "masako kaneko",
+    "zh": "金子正子",
+    "in": "出自作品:棋魂(hikaru no go)"
+  },
+  {
+    "sp": "character",
+    "en": "amona",
+    "zh": "阿莫娜",
+    "in": "日语：アモナ\n出自作品:黑暗召唤师在地下恋爱中(dark summoner to dekiteiru)"
+  },
+  {
+    "sp": "character",
+    "en": "elmesia el-ru sarion",
+    "zh": "艾尔梅西亚·艾尔琉·萨利昂",
+    "in": "日语：エルメシア・エル・リュ・サリオン\n出自作品:关于我转生变成史莱姆这档事(tensei shitara slime datta ken)"
+  },
+  {
+    "sp": "character",
+    "en": "tomoki iwahashi",
+    "zh": "岩桥智树",
+    "in": "出自作品:月光下的异世界之旅(tsuki ga michibiku isekai douchuu)"
+  },
+  {
+    "sp": "character",
+    "en": "pulao",
+    "zh": "蒲牢",
+    "in": "出自作品:战双帕弥什(punishing gray raven)"
+  },
+  {
+    "sp": "character",
+    "en": "edel",
+    "zh": "艾蒂露",
+    "in": "出自作品:葬送的芙莉莲(sousou no frieren)"
+  },
+  {
+    "sp": "character",
+    "en": "claire",
+    "zh": "克蕾雅",
+    "in": "日语：クレア\n出自作品:被驱逐出勇者队伍的白魔导师(yuusha party wo tsuihou sareta shiromadoushi s-rank boukensha ni hirowareru)"
+  },
+  {
+    "sp": "character",
+    "en": "fiona beckford",
+    "zh": "菲奥娜·贝克福德",
+    "in": "出自作品:少女骑士物语(walkure romanze)"
+  },
+  {
+    "sp": "character",
+    "en": "morino yuuko",
+    "zh": "森乃由子",
+    "in": "出自作品:触手和巫女(tentacle and witches)"
+  },
+  {
+    "sp": "character",
+    "en": "futaba lily ramses",
+    "zh": "双叶·莉莉·拉美西斯",
+    "in": "日语：双葉・リリー・ラムセス\n出自作品:触手和巫女(tentacle and witches)"
+  },
+  {
+    "sp": "character",
+    "en": "jabber wonger",
+    "zh": "贾帕·翁嘉",
+    "in": "日语：ジャバー・ウォンガー\n出自作品:废渊战鬼(gachiakuta)"
+  },
+  {
+    "sp": "character",
+    "en": "mismis klass",
+    "zh": "蜜思米丝·克拉斯",
+    "in": "日语：ミスミス・クラス\n出自作品:你与我最后的战场，亦或是世界起始的圣战(kimi to boku no saigo no senjou aruiwa sekai ga hajimaru seisen)"
+  },
+  {
+    "sp": "character",
+    "en": "eve sophi nebulis",
+    "zh": "伊芙·索菲·涅比利斯",
+    "in": "日语：エ ヴ ・ ソ フ ィ・ ネビュリス\n出自作品:你与我最后的战场，亦或是世界起始的圣战(kimi to boku no saigo no senjou aruiwa sekai ga hajimaru seisen)"
+  },
+  {
+    "sp": "character",
+    "en": "hange zoe",
+    "zh": "韩吉·佐耶",
+    "in": "出自作品:进击的巨人(shingeki no kyojin)"
+  },
+  {
+    "sp": "character",
+    "en": "azazel",
+    "zh": "阿撒兹勒",
+    "in": "出自作品:最后的起源(last origin)"
+  },
+  {
+    "sp": "character",
+    "en": "serapias alice",
+    "zh": "赛拉贝亚斯爱丽丝",
+    "in": "出自作品:最后的起源(last origin)"
+  },
+  {
+    "sp": "character",
+    "en": "draculina",
+    "zh": "德拉库丽娜",
+    "in": "出自作品:最后的起源(last origin)"
+  },
+  {
+    "sp": "character",
+    "en": "faucre",
+    "zh": "波克鲁大魔王",
+    "in": "韩语：뽀끄루 대마왕\n日语：ポックル大魔王\n出自作品:最后的起源(last origin)"
+  },
+  {
+    "sp": "character",
+    "en": "fafnir",
+    "zh": "法夫纳",
+    "in": "出自作品:最后的起源(last origin)"
+  },
+  {
+    "sp": "character",
+    "en": "hathor",
+    "zh": "哈托尔",
+    "in": "出自作品:最后的起源(last origin)"
+  },
+  {
+    "sp": "character",
+    "en": "handler",
+    "zh": "接待员",
+    "in": "出自作品:怪物猎人(monster hunter)"
+  },
+  {
+    "sp": "character",
+    "en": "maria of redemption",
+    "zh": "救赎者玛莉亚",
+    "in": "出自作品:最后的起源(last origin)"
+  },
+  {
+    "sp": "character",
+    "en": "kunoichi kaen",
+    "zh": "女忍者凯恩",
+    "in": "出自作品:最后的起源(last origin)"
+  },
+  {
+    "sp": "character",
+    "en": "frigga",
+    "zh": "弗丽嘉",
+    "in": "出自作品:最后的起源(last origin)"
+  },
+  {
+    "sp": "character",
+    "en": "royal arsenal",
+    "zh": "皇家军火库",
+    "in": "出自作品:最后的起源(last origin)"
+  },
+  {
+    "sp": "character",
+    "en": "tiequan",
+    "zh": "铁拳",
+    "in": "出自作品:最后的起源(last origin)"
+  },
+  {
+    "sp": "character",
+    "en": "ignis",
+    "zh": "伊格尼斯",
+    "in": "出自作品:最后的起源(last origin)"
+  },
+  {
+    "sp": "character",
+    "en": "lemonade alpha",
+    "zh": "柠檬α",
+    "in": "出自作品:最后的起源(last origin)"
+  },
+  {
+    "sp": "character",
+    "en": "lemonade omega",
+    "zh": "柠檬Ω",
+    "in": "出自作品:最后的起源(last origin)"
+  },
+  {
+    "sp": "character",
+    "en": "kunoichi enrai",
+    "zh": "女忍者炎雷",
+    "in": "出自作品:最后的起源(last origin)"
+  },
+  {
+    "sp": "character",
+    "en": "leona of blood and iron",
+    "zh": "铁血的蕾欧娜",
+    "in": "出自作品:最后的起源(last origin)"
+  },
+  {
+    "sp": "character",
+    "en": "melt",
+    "zh": "梅尔特",
+    "in": "出自作品:最后的起源(last origin)"
+  },
+  {
+    "sp": "character",
+    "en": "leanne",
+    "zh": "仁慈的莉安",
+    "in": "出自作品:最后的起源(last origin)"
+  },
+  {
+    "sp": "character",
+    "en": "invincible dragon",
+    "zh": "无敌龙",
+    "in": "出自作品:最后的起源(last origin)"
+  },
+  {
+    "sp": "character",
+    "en": "titania frost",
+    "zh": "冰结之泰坦妮亚",
+    "in": "出自作品:最后的起源(last origin)"
+  },
+  {
+    "sp": "character",
+    "en": "mnemosyne",
+    "zh": "摩涅莫辛涅",
+    "in": "出自作品:最后的起源(last origin)"
+  },
+  {
+    "sp": "character",
+    "en": "t-14 miho",
+    "zh": "T-14 美穗",
+    "in": "出自作品:最后的起源(last origin)"
+  },
+  {
+    "sp": "character",
+    "en": "b-11 night angel",
+    "zh": "B-11 夜天使",
+    "in": "出自作品:最后的起源(last origin)"
+  },
+  {
+    "sp": "character",
+    "en": "oberonia rhea",
+    "zh": "奥贝罗尼亚瑞亚",
+    "in": "出自作品:最后的起源(last origin)"
+  },
+  {
+    "sp": "character",
+    "en": "p-22 harpyia",
+    "zh": "P-22 哈耳庇厄",
+    "in": "出自作品:最后的起源(last origin)"
+  },
+  {
+    "sp": "character",
+    "en": "indomitable marie",
+    "zh": "不屈的玛丽",
+    "in": "出自作品:最后的起源(last origin)"
+  },
+  {
+    "sp": "character",
+    "en": "janghwa",
+    "zh": "蔷花",
+    "in": "出自作品:最后的起源(last origin)"
+  },
+  {
+    "sp": "character",
+    "en": "queen of mane",
+    "zh": "鬃毛女王",
+    "in": "出自作品:最后的起源(last origin)"
+  },
+  {
+    "sp": "character",
+    "en": "sadius",
+    "zh": "惩罚的赛迪乌斯",
+    "in": "出自作品:最后的起源(last origin)"
+  },
+  {
+    "sp": "character",
+    "en": "t-3 leprechaun",
+    "zh": "T-3 矮精灵",
+    "in": "出自作品:最后的起源(last origin)"
+  },
+  {
+    "sp": "character",
+    "en": "audrey",
+    "zh": "织梦者奥德蕾",
+    "in": "出自作品:最后的起源(last origin)"
+  },
+  {
+    "sp": "character",
+    "en": "amy the razor",
+    "zh": "剃刀艾米",
+    "in": "出自作品:最后的起源(last origin)"
+  },
+  {
+    "sp": "character",
+    "en": "saraqael",
+    "zh": "萨拉卡埃尔",
+    "in": "出自作品:最后的起源(last origin)"
+  },
+  {
+    "sp": "character",
+    "en": "t-8w valkyrie",
+    "zh": "T-8W 女武神",
+    "in": "出自作品:最后的起源(last origin)"
+  },
+  {
+    "sp": "character",
+    "en": "x-05 emily",
+    "zh": "X-05 艾米莉",
+    "in": "出自作品:最后的起源(last origin)"
+  },
+  {
+    "sp": "character",
+    "en": "magical baekto",
+    "zh": "魔法少女白兔",
+    "in": "出自作品:最后的起源(last origin)"
+  },
+  {
+    "sp": "character",
+    "en": "blind princess",
+    "zh": "盲眼公主",
+    "in": "出自作品:最后的起源(last origin)"
+  },
+  {
+    "sp": "character",
+    "en": "t-75 war wolf",
+    "zh": "T-75 战狼",
+    "in": "出自作品:最后的起源(last origin)"
+  },
+  {
+    "sp": "character",
+    "en": "al wraith",
+    "zh": "AL 幽灵",
+    "in": "出自作品:最后的起源(last origin)"
+  },
+  {
+    "sp": "character",
+    "en": "hertrauda sera fanoss",
+    "zh": "赫特劳妲·赛拉·凡欧斯",
+    "in": "日语：ヘルトラウダ・セラ・ファンオース\n出自作品:乙女游戏世界对路人角色很不友好(otome game sekai wa mob ni kibishii sekai desu)"
+  },
+  {
+    "sp": "character",
+    "en": "inglis eucus",
+    "zh": "英格莉丝·尤库斯",
+    "in": "日语：イングリス・ユークス\n出自作品:英雄王，为了穷尽武道而转生(eiyuu-ou bu o kiwameru tame tenseisu)"
+  },
+  {
+    "sp": "character",
+    "en": "elvira",
+    "zh": "埃尔维拉",
+    "in": "出自作品:销魂天师(elvira mistress of the dark)"
+  },
+  {
+    "sp": "character",
+    "en": "lola",
+    "zh": "萝拉",
+    "in": ""
+  },
+  {
+    "sp": "character",
+    "en": "purifier",
+    "zh": "净化者",
+    "in": "出自作品:碧蓝航线(azur lane)"
+  },
+  {
+    "sp": "character",
+    "en": "keiko hoshino",
+    "zh": "星野庆子",
+    "in": "出自作品:少女与战车(girls und panzer)"
+  },
+  {
+    "sp": "character",
+    "en": "cassandra vole",
+    "zh": "卡珊德拉·沃雷",
+    "in": "出自作品:哈利·波特(harry potter)"
+  },
+  {
+    "sp": "character",
+    "en": "rikuro tachibana",
+    "zh": "橘陆郎",
+    "in": "出自作品:钢铁魔女安妮罗杰(koutetsu no majo annerose)"
+  },
+  {
+    "sp": "character",
+    "en": "ji-woo seo",
+    "zh": "徐智宇",
+    "in": "出自作品:我独自升级(solo leveling)"
+  },
+  {
+    "sp": "character",
+    "en": "charlotte arisaka anderson",
+    "zh": "夏洛特·有坂·安德森",
+    "in": "出自作品:侦探已死(tantei wa mou shindeiru.)"
+  },
+  {
+    "sp": "character",
+    "en": "makoto takiya",
+    "zh": "泷谷真",
+    "in": "出自作品:小林家的龙女仆(kobayashi-san-chi no maid dragon)"
+  },
+  {
+    "sp": "character",
+    "en": "mamushi amakawa",
+    "zh": "天川真梦梓",
+    "in": "出自作品:吉星派对(astral party)"
+  },
+  {
+    "sp": "character",
+    "en": "tsurumaru tsuyoshi",
+    "zh": "鹤丸刚志",
+    "in": "出自作品:赛马娘(uma musume pretty derby)"
+  },
+  {
+    "sp": "character",
+    "en": "momoko takamachi",
+    "zh": "高町桃子",
+    "in": "出自作品:魔法少女奈叶(mahou shoujo lyrical nanoha)"
+  },
+  {
+    "sp": "character",
+    "en": "quint nakajima",
+    "zh": "桂特·中岛",
+    "in": "日语：クイント・ナカジマ\n出自作品:魔法少女奈叶(mahou shoujo lyrical nanoha)"
+  },
+  {
+    "sp": "character",
+    "en": "megane alpine",
+    "zh": "梅格奴·阿尔菲诺",
+    "in": "出自作品:魔法少女奈叶(mahou shoujo lyrical nanoha)"
+  },
+  {
+    "sp": "character",
+    "en": "keijun seiki",
+    "zh": "轻巡栖鬼",
+    "in": "出自作品:舰队Collection(kantai collection)"
+  },
+  {
+    "sp": "character",
+    "en": "alicia forestlight",
+    "zh": "亚莉希雅·福雷斯莱特",
+    "in": "日语:アリシア・フォレストライト\n出自作品:在地下城寻求邂逅是否搞错了什么(dungeon ni deai o motomeru no wa machigatteiru darou ka)"
+  },
+  {
+    "sp": "character",
+    "en": "otonari-san",
+    "zh": "邻居小姐",
+    "in": "出自作品:佐佐木与文鸟小哔(sasaki to p-chan)"
+  },
+  {
+    "sp": "character",
+    "en": "al azif",
+    "zh": "艾尔·阿吉芙",
+    "in": "日语：アル・アジフ\n出自作品:斩魔大圣DEMONBANE(demonbane)"
+  },
+  {
+    "sp": "character",
+    "en": "ginko tsukitsuba",
+    "zh": "月锷银子",
+    "in": "出自作品:异世界武士(isekai samurai)"
+  },
+  {
+    "sp": "character",
+    "en": "cayna",
+    "zh": "葵娜",
+    "in": "日语：ケーナ\n出自作品:里亚德录大地(leadale no daichi nite)"
+  },
+  {
+    "sp": "character",
+    "en": "masaki kurosaki",
+    "zh": "黑崎真咲",
+    "in": "出自作品:死神(bleach)"
+  },
+  {
+    "sp": "character",
+    "en": "arclight",
+    "zh": "弧光",
+    "in": "本名：伊库特\n出自作品:明日方舟：终末地(arknights endfield)"
+  },
+  {
+    "sp": "character",
+    "en": "shion nasturtium",
+    "zh": "紫苑·金莲花",
+    "in": "日语：シオン・ナスタチウム\n出自作品:泛而不精的我被逐出了勇者队伍(yuusha party wo oidasareta kiyoubinbou)"
+  },
+  {
+    "sp": "character",
+    "en": "caroline inglaud",
+    "zh": "卡罗琳·伊葛洛特",
+    "in": "日语：キャロライン・イングロッ\n出自作品:泛而不精的我被逐出了勇者队伍(yuusha party wo oidasareta kiyoubinbou)"
+  },
+  {
+    "sp": "character",
+    "en": "rain hagwell",
+    "zh": "莱恩·哈格韦尔",
+    "in": "日语：レイン・ハグウェル\n出自作品:泛而不精的我被逐出了勇者队伍(yuusha party wo oidasareta kiyoubinbou)"
+  },
+  {
+    "sp": "character",
+    "en": "prisoner veronica",
+    "zh": "囚犯维罗妮卡",
+    "in": "喜多川海梦COS的角色\n出自作品:更衣人偶坠入爱河(sono bisque doll wa koi o suru)"
+  },
+  {
+    "sp": "character",
+    "en": "xiaolan",
+    "zh": "小兰",
+    "in": "出自作品:药屋少女的呢喃(kusuriya no hitorigoto)"
   },
   {
     "sp": "group",
@@ -79089,7 +80463,7 @@
     "sp": "group",
     "en": "bitch bokujou",
     "zh": "Bitch牧场",
-    "in": ""
+    "in": "Bitch牧場 （びっちぼくじょう）"
   },
   {
     "sp": "group",
@@ -81465,7 +82839,7 @@
     "sp": "group",
     "en": "kinengusa",
     "zh": "禁烟草",
-    "in": ""
+    "in": "禁煙草 （きんえんぐさ）"
   },
   {
     "sp": "group",
@@ -84500,7 +85874,7 @@
   {
     "sp": "group",
     "en": "gasshuukoku netamekoru",
-    "zh": "合众国ネタメコル",
+    "zh": "合衆国ネタメコル",
     "in": ""
   },
   {
@@ -87176,7 +88550,7 @@
   {
     "sp": "group",
     "en": "kakuzato-ichi",
-    "zh": "核座头市",
+    "zh": "核座頭市",
     "in": ""
   },
   {
@@ -89006,8 +90380,8 @@
   {
     "sp": "group",
     "en": "toushitu catapult",
-    "zh": "糖质过多ぱると",
-    "in": "日语: 糖質過多ぱると"
+    "zh": "糖質過多ぱると",
+    "in": ""
   },
   {
     "sp": "group",
@@ -90284,7 +91658,7 @@
   {
     "sp": "group",
     "en": "uousaohkoku",
-    "zh": "鱼ウサ王国",
+    "zh": "魚ウサ王国",
     "in": ""
   },
   {
@@ -90296,8 +91670,8 @@
   {
     "sp": "group",
     "en": "kansai orange",
-    "zh": "关西オレンジ",
-    "in": "日语：関西オレンジ\n\n画师荒井启(arai kei)所属同人社团"
+    "zh": "関西オレンジ",
+    "in": "关西オレンジ\n\n画师荒井启(arai kei)所属同人社团"
   },
   {
     "sp": "group",
@@ -90974,7 +92348,7 @@
   {
     "sp": "group",
     "en": "kirintei",
-    "zh": "木铃亭",
+    "zh": "木鈴亭",
     "in": ""
   },
   {
@@ -93320,7 +94694,7 @@
   {
     "sp": "group",
     "en": "akatsuki katsuie no circle",
-    "zh": "暁勝家ノサークル",
+    "zh": "暁勝家のサークル",
     "in": ""
   },
   {
@@ -94358,7 +95732,7 @@
   {
     "sp": "group",
     "en": "anim",
-    "zh": "Anim",
+    "zh": "アニム",
     "in": ""
   },
   {
@@ -95636,7 +97010,7 @@
   {
     "sp": "group",
     "en": "ask",
-    "zh": "ASK",
+    "zh": "ASK，",
     "in": ""
   },
   {
@@ -98816,8 +100190,8 @@
   {
     "sp": "group",
     "en": "can do now",
-    "zh": "キャンドゥーなう!",
-    "in": ""
+    "zh": "ギャランがドゥー!",
+    "in": "ギャランがドゥー （ぎゃらんがどぅー）"
   },
   {
     "sp": "group",
@@ -101834,8 +103208,8 @@
   {
     "sp": "group",
     "en": "cyclone",
-    "zh": "サイクロン",
-    "in": ""
+    "zh": "サイクロン | さいくろん",
+    "in": "サイクロン和さいくろん重名\n区别在于一个是平假名一个是片假名"
   },
   {
     "sp": "group",
@@ -112346,7 +113720,7 @@
   {
     "sp": "group",
     "en": "hoshi ni kaeru",
-    "zh": "星に归る!",
+    "zh": "星に帰る!",
     "in": ""
   },
   {
@@ -113907,7 +115281,7 @@
     "sp": "group",
     "en": "iron sugar",
     "zh": "アイアンシュガー",
-    "in": ""
+    "in": "IronSugar‘アイアンシュガー’ （あいあんしゅがー）"
   },
   {
     "sp": "group",
@@ -115581,7 +116955,7 @@
     "sp": "group",
     "en": "kamaboko koujouchou.",
     "zh": "かまぼこ工場長。",
-    "in": ""
+    "in": "与【わくわく養豚所。】是同一人物，现主要以【わくわく養豚所。】的名义活动"
   },
   {
     "sp": "group",
@@ -124149,7 +125523,7 @@
     "sp": "group",
     "en": "milkshake work",
     "zh": "奶昔工坊",
-    "in": ""
+    "in": "日语：ミルクセーキ工房"
   },
   {
     "sp": "group",
@@ -125210,7 +126584,7 @@
   {
     "sp": "group",
     "en": "mofuya",
-    "zh": "モフ屋",
+    "zh": "モフ屋 | もふ屋",
     "in": ""
   },
   {
@@ -126446,8 +127820,8 @@
   {
     "sp": "group",
     "en": "mukibutsu heart",
-    "zh": "無機物はーと",
-    "in": ""
+    "zh": "無機物ハート",
+    "in": "与【無機物はーと】是统一人在不同时期使用的马甲。但账户是分开的"
   },
   {
     "sp": "group",
@@ -133622,8 +134996,8 @@
   {
     "sp": "group",
     "en": "pometeor",
-    "zh": "ぽメテオ",
-    "in": ""
+    "zh": "ポメテオ",
+    "in": "过去曾在CM等展会上用过【ぽメテオ】作为社团名称，现在网络平台主要使用ポメテオ"
   },
   {
     "sp": "group",
@@ -137204,7 +138578,7 @@
   {
     "sp": "group",
     "en": "sakeitiba",
-    "zh": "サケ市場",
+    "zh": "サケイチバ",
     "in": ""
   },
   {
@@ -144692,7 +146066,7 @@
   {
     "sp": "group",
     "en": "tekokids",
-    "zh": "てこきっず",
+    "zh": "テコキッズ",
     "in": ""
   },
   {
@@ -150219,7 +151593,7 @@
     "sp": "group",
     "en": "yariiya",
     "zh": "枪衣屋",
-    "in": ""
+    "in": "槍衣屋 （やりいや）"
   },
   {
     "sp": "group",
@@ -152600,7 +153974,7 @@
   {
     "sp": "group",
     "en": "riku no kotoutei",
-    "zh": "陆の孤岛亭",
+    "zh": "陸の孤島亭",
     "in": ""
   },
   {
@@ -153962,7 +155336,7 @@
   {
     "sp": "group",
     "en": "ginshio honpo",
-    "zh": "银しお本铺",
+    "zh": "銀しお本舗",
     "in": ""
   },
   {
@@ -154718,7 +156092,7 @@
   {
     "sp": "group",
     "en": "uni piano gakudan",
-    "zh": "雲丹ピアノ",
+    "zh": "雲丹ピアノ楽団",
     "in": ""
   },
   {
@@ -155535,7 +156909,7 @@
     "sp": "group",
     "en": "higashikoiwa hutomomo uchuu kenkyuujo",
     "zh": "东小岩太股宇宙研究所",
-    "in": ""
+    "in": "東小岩ふともも宇宙研究所 （ひがしこいわふとももうちゅうけんきゅうじょ）"
   },
   {
     "sp": "group",
@@ -155546,7 +156920,7 @@
   {
     "sp": "group",
     "en": "kure no genki na goaisatsu",
-    "zh": "暮れの元气なご挨拶",
+    "zh": "暮れの元気なご挨拶",
     "in": "画师暮林朝美(kurebayashi asami)所属社团"
   },
   {
@@ -155786,8 +157160,8 @@
   {
     "sp": "group",
     "en": "hachinosu",
-    "zh": "蜂巣",
-    "in": ""
+    "zh": "hachinosu",
+    "in": "请勿与蜂巢(fonchau) | Beeeee Nest 混淆，对应艺术家Apoidea(apoidea)\n词标签对应社团：DLsite"
   },
   {
     "sp": "group",
@@ -158858,7 +160232,7 @@
   {
     "sp": "group",
     "en": "3104tyome",
-    "zh": "3104町目",
+    "zh": "3104丁目",
     "in": ""
   },
   {
@@ -160359,7 +161733,7 @@
     "sp": "group",
     "en": "tahitasou",
     "zh": "たひた庄",
-    "in": ""
+    "in": "たひた荘 （たひたそう）"
   },
   {
     "sp": "group",
@@ -160970,7 +162344,7 @@
   {
     "sp": "group",
     "en": "ishikarian",
-    "zh": "円山晃",
+    "zh": "石狩庵",
     "in": ""
   },
   {
@@ -163209,7 +164583,7 @@
     "sp": "group",
     "en": "wakuwaku yotonjo.",
     "zh": "わくわく養豚所。",
-    "in": ""
+    "in": "与【かまぼこ工場長。】是同一人物，现主要以【わくわく養豚所。】的名义活动"
   },
   {
     "sp": "group",
@@ -163412,7 +164786,7 @@
   {
     "sp": "group",
     "en": "sutorobokonbu",
-    "zh": "とろぼこんぶ",
+    "zh": "すとろぼこんぶ",
     "in": ""
   },
   {
@@ -163629,6 +165003,234 @@
     "sp": "group",
     "en": "triangle bottom",
     "zh": "とらいあんぐる‐ぼとむ",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "ripveil",
+    "zh": "RIPVEIL",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "pyonchi koubou",
+    "zh": "ぴょんち工房",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "pink doragon",
+    "zh": "PINK☆DORAGON",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "asunaro-shiki bakudan",
+    "zh": "あすなろ式爆弾",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "sylbee no hako",
+    "zh": "しるびーの箱",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "nukokyuu mamire",
+    "zh": "ぬこきゅうまみれ",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "wakusei kaim",
+    "zh": "惑星kaim",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "gyuuhi ga umasugiru",
+    "zh": "求肥がうますぎる",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "sinokuma syoutengai",
+    "zh": "しのクマ商店街",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "unisonshift blossom",
+    "zh": "ユニゾンシフト：ブロッサム",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "bonbee",
+    "zh": "ボンビー",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "barakabadoh",
+    "zh": "ばらか馬堂",
+    "in": "ばらか馬堂 （ばらかばどう）"
+  },
+  {
+    "sp": "group",
+    "en": "mishirosabi",
+    "zh": "三代錆",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "funya milk",
+    "zh": "ふにゃみるく",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "ill be bear",
+    "zh": "I’ll be BEAR",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "tokushuyokujou tondenhei",
+    "zh": "特殊浴場屯田兵",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "bimi to no souguu",
+    "zh": "美味との遭遇",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "nobotchi seisakusho",
+    "zh": "ノボッチ製作所",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "touou",
+    "zh": "トウオウ",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "matenrou wine",
+    "zh": "摩天楼ワイン",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "ikeneko shokudou",
+    "zh": "イケね娘食堂",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "rennyu coffee honten",
+    "zh": "練乳珈琲本店",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "engyomin",
+    "zh": "猿魚民",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "otokonoko fantasy club",
+    "zh": "男の娘ファンタジー倶楽部",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "foamy",
+    "zh": "Foamy",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "ato wa maboroshi",
+    "zh": "あとはまぼろし",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "byakuya kisoukyoku",
+    "zh": "白夜綺想曲",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "himuganeya",
+    "zh": "ひむがね屋",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "inoharu",
+    "zh": "亥ノ春",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "nanashi novel",
+    "zh": "ナナシノベル",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "sashimi teishoku",
+    "zh": "さしみ定食",
+    "in": "さしみ定食 （さしみていしょく）"
+  },
+  {
+    "sp": "group",
+    "en": "neko no tawagoto",
+    "zh": "ネコノタワゴト",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "hotel shikinseki",
+    "zh": "ホテル試金石",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "tsukuneya",
+    "zh": "つくね屋",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "250ponoroji",
+    "zh": "250歩の路地",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "shoujo tetsugaku",
+    "zh": "少女哲学",
+    "in": "少女哲学 （しょうじょてつがく）"
+  },
+  {
+    "sp": "group",
+    "en": "double shampoo",
+    "zh": "だぶるしゃんぷ～",
+    "in": ""
+  },
+  {
+    "sp": "group",
+    "en": "okuchi no okuchi",
+    "zh": "お口の奥地",
     "in": ""
   },
   {
@@ -163874,7 +165476,7 @@
   {
     "sp": "artist",
     "en": "land sale",
-    "zh": "兰户せる",
+    "zh": "蘭戸せる",
     "in": ""
   },
   {
@@ -164180,7 +165782,7 @@
   {
     "sp": "artist",
     "en": "cle masahiro",
-    "zh": "吴マサヒロ",
+    "zh": "呉マサヒロ",
     "in": ""
   },
   {
@@ -164702,13 +166304,13 @@
   {
     "sp": "artist",
     "en": "kanna",
-    "zh": "かん奈",
-    "in": "日语：カンナ"
+    "zh": "カンナ | かん奈",
+    "in": "重名\n一位是以【水面月】活动的【カンナ】\n一位是以【PLUM】活动的【かん奈】"
   },
   {
     "sp": "artist",
     "en": "kazabuki poni",
-    "zh": "风吹ぽに",
+    "zh": "風吹ぽに",
     "in": ""
   },
   {
@@ -164823,7 +166425,7 @@
     "sp": "artist",
     "en": "shiroo",
     "zh": "しろー",
-    "in": ""
+    "in": "商业向通常使用【奇械田零士朗】这个名义"
   },
   {
     "sp": "artist",
@@ -165272,7 +166874,7 @@
   {
     "sp": "artist",
     "en": "maguro teikoku",
-    "zh": "まぐろ帝国",
+    "zh": "まぐろ帝國",
     "in": ""
   },
   {
@@ -165296,7 +166898,7 @@
   {
     "sp": "artist",
     "en": "kuroda kuro",
-    "zh": "黑田クロ",
+    "zh": "黒田クロ",
     "in": ""
   },
   {
@@ -165615,7 +167217,7 @@
     "sp": "artist",
     "en": "hicoromo kyouichi",
     "zh": "绯衣响一",
-    "in": ""
+    "in": "緋衣 響一"
   },
   {
     "sp": "artist",
@@ -165920,7 +167522,7 @@
   {
     "sp": "artist",
     "en": "kakuzatou",
-    "zh": "核座头",
+    "zh": "核座頭",
     "in": ""
   },
   {
@@ -166851,7 +168453,7 @@
     "sp": "artist",
     "en": "kemigawa mondo",
     "zh": "検見川もんど",
-    "in": ""
+    "in": "与ケミガワ是同一人物，不清楚何时改用【ケミガワ】的。但目前各平台主要使用后者。但鉴于eh的tag依然是kemigawa mondo。所以不做修改"
   },
   {
     "sp": "artist",
@@ -169322,7 +170924,7 @@
   {
     "sp": "artist",
     "en": "benimura karu",
-    "zh": "红村かる",
+    "zh": "紅村かる",
     "in": "作者推特头像"
   },
   {
@@ -170930,7 +172532,7 @@
   {
     "sp": "artist",
     "en": "kagura moromi",
-    "zh": "神乐もろみ",
+    "zh": "神楽もろみ",
     "in": ""
   },
   {
@@ -172712,7 +174314,7 @@
   {
     "sp": "artist",
     "en": "igumox",
-    "zh": "井云くす",
+    "zh": "井雲くす",
     "in": "作者推特头像"
   },
   {
@@ -173367,7 +174969,7 @@
     "sp": "artist",
     "en": "kotoyoshi yumisuke",
     "zh": "琴义弓介",
-    "in": ""
+    "in": "琴義弓介"
   },
   {
     "sp": "artist",
@@ -177746,7 +179348,7 @@
   {
     "sp": "artist",
     "en": "yuzuki n dash",
-    "zh": "柚木N’",
+    "zh": "柚木N'",
     "in": ""
   },
   {
@@ -178185,7 +179787,7 @@
     "sp": "artist",
     "en": "kirisaki byakko",
     "zh": "雾咲白狐",
-    "in": ""
+    "in": "霧咲白狐"
   },
   {
     "sp": "artist",
@@ -179840,7 +181442,7 @@
   {
     "sp": "artist",
     "en": "netarou",
-    "zh": "ねたろう",
+    "zh": "ねたろぅ",
     "in": ""
   },
   {
@@ -180566,7 +182168,7 @@
   {
     "sp": "artist",
     "en": "minase",
-    "zh": "御奈瀬",
+    "zh": "御奈瀬 | 三七瀬",
     "in": ""
   },
   {
@@ -180800,8 +182402,8 @@
   {
     "sp": "artist",
     "en": "oshima aki",
-    "zh": "大岛あき",
-    "in": "作者推特头像"
+    "zh": "大島あき",
+    "in": ""
   },
   {
     "sp": "artist",
@@ -182168,7 +183770,7 @@
   {
     "sp": "artist",
     "en": "nogiwa kaede",
-    "zh": "野际かえで",
+    "zh": "野際かえで",
     "in": ""
   },
   {
@@ -182672,7 +184274,7 @@
   {
     "sp": "artist",
     "en": "uousaoh",
-    "zh": "鱼ウサ王",
+    "zh": "魚ウサ王",
     "in": "作者推特头像"
   },
   {
@@ -182757,7 +184359,7 @@
     "sp": "artist",
     "en": "arai kei",
     "zh": "荒井启",
-    "in": "作者推特头像\n同人サークル関西オレンジの中の人です。同人誌やコアマガジンでの掲載作品などの情報が中心です。エッチな絵もあるので一応18禁です。\n\n同人社团 关西オレンジ(kansai orange) 画师"
+    "in": "作者推特头像\n同人サークル関西オレンジの中の人です。同人誌やコアマガジンでの掲載作品などの情報が中心です。エッチな絵もあるので一応18禁です。\n\n同人社团 関西オレンジ(kansai orange) 画师"
   },
   {
     "sp": "artist",
@@ -184263,7 +185865,7 @@
     "sp": "artist",
     "en": "kuga mayuri",
     "zh": "久我茧莉",
-    "in": ""
+    "in": "日语: 久我繭莉"
   },
   {
     "sp": "artist",
@@ -191181,7 +192783,7 @@
     "sp": "artist",
     "en": "chiba tetsutarou",
     "zh": "千葉哲太郎",
-    "in": ""
+    "in": "ミー助"
   },
   {
     "sp": "artist",
@@ -197378,8 +198980,8 @@
   {
     "sp": "artist",
     "en": "hayashi",
-    "zh": "はやし",
-    "in": ""
+    "zh": "ハヤシ | はやし",
+    "in": "重名\n以サービスヘブン活动的ハヤシ\n以はやしプラモ店活动的はやし"
   },
   {
     "sp": "artist",
@@ -199052,7 +200654,7 @@
   {
     "sp": "artist",
     "en": "hotaru",
-    "zh": "蛍",
+    "zh": "ほたる",
     "in": ""
   },
   {
@@ -204758,7 +206360,7 @@
   {
     "sp": "artist",
     "en": "kirin kakeru",
-    "zh": "木铃カケル",
+    "zh": "木鈴カケル",
     "in": ""
   },
   {
@@ -204944,8 +206546,8 @@
   {
     "sp": "artist",
     "en": "kisaragi",
-    "zh": "如月",
-    "in": ""
+    "zh": "キサラギツルギ | 如月",
+    "in": "重名\n一位是キサラギツルギ，没有特定的社团。通常为别的社团供稿。\n一位是主要以+チックハート活动的如月"
   },
   {
     "sp": "artist",
@@ -208275,7 +209877,7 @@
     "sp": "artist",
     "en": "lutein",
     "zh": "Lutein",
-    "in": ""
+    "in": "るていん"
   },
   {
     "sp": "artist",
@@ -208340,7 +209942,7 @@
   {
     "sp": "artist",
     "en": "mabuchoko m",
-    "zh": "マブチョコ M",
+    "zh": "マブチョコ_m",
     "in": ""
   },
   {
@@ -210681,7 +212283,7 @@
     "sp": "artist",
     "en": "milkshake",
     "zh": "奶昔",
-    "in": ""
+    "in": "日语：ミルクセーキ"
   },
   {
     "sp": "artist",
@@ -217532,7 +219134,7 @@
   {
     "sp": "artist",
     "en": "omizu chihiro",
-    "zh": "お水ちひろ",
+    "zh": "オミズチヒロ",
     "in": ""
   },
   {
@@ -220971,7 +222573,7 @@
     "sp": "artist",
     "en": "konoshige",
     "zh": "コノシゲ",
-    "in": "りゅーん"
+    "in": "2018和2019年曾以【りゅーん】的名义发布过两部作品，详见【コノシゲ】的pixiv。"
   },
   {
     "sp": "artist",
@@ -224714,7 +226316,7 @@
   {
     "sp": "artist",
     "en": "sian",
-    "zh": "しあん",
+    "zh": "Sian",
     "in": ""
   },
   {
@@ -224852,8 +226454,8 @@
   {
     "sp": "artist",
     "en": "sirokuma",
-    "zh": "しろくま",
-    "in": ""
+    "zh": "しろくま | 白球磨☆°",
+    "in": "重名\n一位是以【I'll be BEAR】活动的【白球磨☆°】，主要在同人志领域活动\n一位是以【しろくま】，主要给商业志供稿"
   },
   {
     "sp": "artist",
@@ -225776,7 +227378,7 @@
   {
     "sp": "artist",
     "en": "sumeragi seisuke",
-    "zh": "皇征介",
+    "zh": "皇 征介",
     "in": ""
   },
   {
@@ -228620,7 +230222,7 @@
   {
     "sp": "artist",
     "en": "tofu",
-    "zh": "とうふ",
+    "zh": "豆腐",
     "in": ""
   },
   {
@@ -229028,7 +230630,7 @@
   {
     "sp": "artist",
     "en": "tomihero",
-    "zh": "トミヒロ",
+    "zh": "トミヒロ、",
     "in": ""
   },
   {
@@ -230426,8 +232028,8 @@
   {
     "sp": "artist",
     "en": "uchi-uchi keyaki",
-    "zh": "内々欅",
-    "in": ""
+    "zh": "内々けやき",
+    "in": "各平台ID主要是【内々けやき】，少数出版社会把作者名写为【内々欅】"
   },
   {
     "sp": "artist",
@@ -236558,7 +238160,7 @@
   {
     "sp": "artist",
     "en": "inari bancha",
-    "zh": "稻荷ばん茶",
+    "zh": "稲荷ばん茶",
     "in": "作者推特头像"
   },
   {
@@ -239186,8 +240788,8 @@
   {
     "sp": "artist",
     "en": "raku",
-    "zh": "乐",
-    "in": ""
+    "zh": "乐 | らく",
+    "in": "楽"
   },
   {
     "sp": "artist",
@@ -239654,7 +241256,7 @@
   {
     "sp": "artist",
     "en": "to hegemonikon",
-    "zh": "ト！ヘーゲモニコン",
+    "zh": "ト!ヘーゲモニコン",
     "in": ""
   },
   {
@@ -239786,8 +241388,8 @@
   {
     "sp": "artist",
     "en": "hinahara hajime",
-    "zh": "雛原肇",
-    "in": ""
+    "zh": "雛原ハジメ",
+    "in": "FANZA、DLsite、fanbox均是雛原ハジメ，雛原肇不知道哪里来的，但姑且保留"
   },
   {
     "sp": "artist",
@@ -241215,7 +242817,7 @@
     "sp": "artist",
     "en": "ame no machi",
     "zh": "雨の町",
-    "in": ""
+    "in": "あめのまち"
   },
   {
     "sp": "artist",
@@ -243537,7 +245139,7 @@
     "sp": "artist",
     "en": "ayase mio",
     "zh": "绫濑水音",
-    "in": ""
+    "in": "綾瀬水音"
   },
   {
     "sp": "artist",
@@ -248625,7 +250227,7 @@
     "sp": "artist",
     "en": "mijiang",
     "zh": "米浆",
-    "in": ""
+    "in": "米漿"
   },
   {
     "sp": "artist",
@@ -249500,7 +251102,7 @@
   {
     "sp": "artist",
     "en": "teriyaki sasami",
-    "zh": "照焼ささみ",
+    "zh": "照焼ささみ丼",
     "in": ""
   },
   {
@@ -250202,7 +251804,7 @@
   {
     "sp": "artist",
     "en": "syunkarow",
-    "zh": "しゅんか企画",
+    "zh": "しゅんかー",
     "in": ""
   },
   {
@@ -255955,12 +257557,6 @@
   },
   {
     "sp": "artist",
-    "en": "chino",
-    "zh": "風神chino",
-    "in": ""
-  },
-  {
-    "sp": "artist",
     "en": "def atsu",
     "zh": "デフアツ",
     "in": ""
@@ -258096,6 +259692,492 @@
     "in": ""
   },
   {
+    "sp": "artist",
+    "en": "manno rikyuu",
+    "zh": "万利休",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "aura seiji",
+    "zh": "あうら聖児",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "pyonchi",
+    "zh": "ぴょんち",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "kamoruto",
+    "zh": "かもると",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "kinokoningen",
+    "zh": "キノコにんげん",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "morocco",
+    "zh": "モロッコ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "sarumaru",
+    "zh": "さるまる",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "teol",
+    "zh": "ておる",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "yongoki",
+    "zh": "四号機",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "mishima psycho",
+    "zh": "ミシマサイコ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "sabacane",
+    "zh": "佐波缶",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "yuu yuuki",
+    "zh": "友憂希",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "hinokimaru",
+    "zh": "ひのき丸",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "shibahu cake",
+    "zh": "芝生ケーキ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "rube",
+    "zh": "るべ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "yurimo",
+    "zh": "ゆりも",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "muteki",
+    "zh": "むてき",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "sinokuma suketarou",
+    "zh": "しのくまスケ太郎",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "barakaba",
+    "zh": "ばらか馬",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "yawaraka",
+    "zh": "やわらか",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "denki kurage",
+    "zh": "でんきくらげ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "kuwacchii",
+    "zh": "くわっちー",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "kawata hiyori",
+    "zh": "河田ひより",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "yamakusa yuu",
+    "zh": "山草遊",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "awami ao",
+    "zh": "泡未アオ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "mikazuki shine",
+    "zh": "三日月シャイン",
+    "in": "三日月シャイン （みかづきしゃいん）"
+  },
+  {
+    "sp": "artist",
+    "en": "dr. hiwai seiki maramara",
+    "zh": "Dr.卑猥性器まらまら",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "hamachi tomosaku",
+    "zh": "ハマチトモサク",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "kahlua",
+    "zh": "kahlua",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "tomioka sena",
+    "zh": "富丘セナ",
+    "in": "富丘セナ （とみおかせな）"
+  },
+  {
+    "sp": "artist",
+    "en": "nagumo ryuichi",
+    "zh": "南雲龍一",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "toriniku",
+    "zh": "鶏肉",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "hannya-san",
+    "zh": "Hannya San",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "love-saber",
+    "zh": "Love-Saber",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "shin-yu",
+    "zh": "心友",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "nanoji",
+    "zh": "なの字",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "chibigon",
+    "zh": "チビゴン",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "ikeneko",
+    "zh": "イケね娘",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "barbarian takamoto",
+    "zh": "バーバリアン高本",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "avis",
+    "zh": "あびす",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "sijie xiaoyang",
+    "zh": "四姐小羊",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "ls",
+    "zh": "L's",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "alicia",
+    "zh": "ありしあ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "kitahana",
+    "zh": "北花",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "del",
+    "zh": "del(でる)",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "rennyu coffee",
+    "zh": "練乳珈琲",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "dainaru",
+    "zh": "だいなる",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "sarukana",
+    "zh": "さるかな",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "fudisen",
+    "zh": "フヂセン",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "shinoda",
+    "zh": "詩乃田",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "ikeda pafue",
+    "zh": "いけだぱふぇ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "a r gaku. gurap",
+    "zh": "R学.ぐらぷ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "wakimiunten",
+    "zh": "ワキミウンテン",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "kaneyama shin",
+    "zh": "カネヤマシン",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "teruteru boudu",
+    "zh": "てるぼうず",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "sagawa",
+    "zh": "左側",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "kanamirubon",
+    "zh": "かなみルボン",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "xboy",
+    "zh": "XBOY",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "dreadmegalo",
+    "zh": "DreadMegalo",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "ngamaru",
+    "zh": "ンガ丸",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "kamizono delta",
+    "zh": "神園Δ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "retsu",
+    "zh": "劣",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "misoka",
+    "zh": "三十日",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "gohan pakupaku maru",
+    "zh": "ごはんパクパク丸",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "r1kyuu",
+    "zh": "R１級",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "darezuka",
+    "zh": "誰塚",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "kizakura non",
+    "zh": "黄桜NoN",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "fukamiki kei",
+    "zh": "深幹ケイ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "takizaki",
+    "zh": "Haz",
+    "in": "Haz (はず)"
+  },
+  {
+    "sp": "artist",
+    "en": "emuorogii",
+    "zh": "えむおろぎー",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "yuri kowashi",
+    "zh": "鉄兜ぬらぬら | 油梨こわし",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "dr.tan90 degrees",
+    "zh": "Dr.tan90º",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "neko no mantis",
+    "zh": "ネコノマンテス",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "protohotel",
+    "zh": "プロトホテル",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "npyu vimuzo",
+    "zh": "んぴゅ・ゔぃむぞ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "hondy",
+    "zh": "ほんでぃ",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "horochi",
+    "zh": "歩路地",
+    "in": "歩路地（ほろち）"
+  },
+  {
+    "sp": "artist",
+    "en": "ariatorai",
+    "zh": "ありあとらい",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "toushitu katamaru",
+    "zh": "糖質過多丸",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "nido arai",
+    "zh": "二度洗",
+    "in": ""
+  },
+  {
+    "sp": "artist",
+    "en": "watari kaoru",
+    "zh": "渡薫",
+    "in": ""
+  },
+  {
     "sp": "cosplayer",
     "en": "otohara an",
     "zh": "乙原あん",
@@ -259077,6 +261159,84 @@
     "sp": "cosplayer",
     "en": "upminaa",
     "zh": "Upminaa",
+    "in": ""
+  },
+  {
+    "sp": "cosplayer",
+    "en": "titi cosplay",
+    "zh": "钛合金TiTi",
+    "in": ""
+  },
+  {
+    "sp": "cosplayer",
+    "en": "reng",
+    "zh": "冷",
+    "in": "> 一到冬天就不得不说我取的这个名字的由来了，其实是我很怕冷，体质很差比身边大部分人都怕冷，所以就叫冷了，很草率的一个取名，，"
+  },
+  {
+    "sp": "cosplayer",
+    "en": "axun kaori",
+    "zh": "阿薰kaOri",
+    "in": ""
+  },
+  {
+    "sp": "cosplayer",
+    "en": "shuang mu fu su",
+    "zh": "双木扶苏",
+    "in": ""
+  },
+  {
+    "sp": "cosplayer",
+    "en": "bangni",
+    "zh": "Bangni邦尼",
+    "in": ""
+  },
+  {
+    "sp": "cosplayer",
+    "en": "kiriko celia",
+    "zh": "切切Celia",
+    "in": ""
+  },
+  {
+    "sp": "cosplayer",
+    "en": "pipinai",
+    "zh": "皮皮奶",
+    "in": ""
+  },
+  {
+    "sp": "cosplayer",
+    "en": "cien cosplay",
+    "zh": "Cien恩恩",
+    "in": ""
+  },
+  {
+    "sp": "cosplayer",
+    "en": "guoqi mixianxian miao",
+    "zh": "过期米线线喵",
+    "in": ""
+  },
+  {
+    "sp": "cosplayer",
+    "en": "mikojiangww",
+    "zh": "Miko酱ww",
+    "in": ""
+  },
+  {
+    "sp": "cosplayer",
+    "en": "nangong",
+    "zh": "南宫",
+    "in": ""
+  },
+  {
+    "sp": "cosplayer",
+    "en": "shika xiaolu lu",
+    "zh": "Shika小鹿鹿",
+    "in": ""
+  },
+  {
+    "sp": "cosplayer",
+    "en": "qiuhe keji",
+    "zh": "秋和柯基",
     "in": ""
   },
   {
